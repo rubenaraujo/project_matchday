@@ -4,6 +4,17 @@ body {
     font-family: sans-serif;
 }
 
+.logo-container {
+    text-align: center;
+  }
+
+.logo {
+    padding-top: 10px;
+    max-width: 120px;
+    animation: fadein 1.2s;
+    padding-top: 10px;
+}
+
 table {
     border-collapse: collapse;
     margin: 20px auto;

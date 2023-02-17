@@ -20,8 +20,7 @@ This project uses a modern, minimalist design with a black and white color schem
 
 ## Try it
 
-https://rubenaraujo.github.io/project_gelug/
-
+https://rubenaraujo.github.io/project_cuju
 ## Credits
 
 This project was created by Ruben Araujo. It uses the [rss2json](https://rss2json.com/) API to fetch the latest news from the RSS feed.

@@ -18,6 +18,10 @@ To filter the results, simply enter a search term in the search box at the top o
 
 This project uses a modern, minimalist design with a black and white color scheme. The table is fully responsive and will adapt to different screen sizes.
 
+## Try it
+
+https://rubenaraujo.github.io/project_gelug/
+
 ## Credits
 
 This project was created by Ruben Araujo. It uses the [rss2json](https://rss2json.com/) API to fetch the latest news from the RSS feed.

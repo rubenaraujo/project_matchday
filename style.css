@@ -1,0 +1,44 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    border: none;
+}
+
+td {
+    max-width: 500px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.provider {
+    text-align: left;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+tbody tr {
+    display: table-row;
+}
+
+tbody tr.hide {
+    display: none;
+}

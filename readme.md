@@ -1,4 +1,4 @@
-# Project Cuju
+# Project MatchDay
 
 Project Cuju is a simple web page that displays the next football matches and in which portuguese channels they can be watched.
 
@@ -20,7 +20,7 @@ This project uses a modern, minimalist design with a black and white color schem
 
 ## Try it
 
-https://rubenaraujo.github.io/project_cuju
+https://rubenaraujo.github.io/project_matchday
 ## Credits
 
 This project was created by Ruben Araujo. It uses the [rss2json](https://rss2json.com/) API to fetch the latest news from the RSS feed.

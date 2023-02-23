@@ -9,18 +9,28 @@ fetch(rssUrl)
         items.forEach(item => {
             const data = item.description;
             const columns = data.split(' - ');
-
+            console.log(columns)
             if (columns.some(column => {
-                return /Hóquei|Basket|Voleibol|Andebol|Feminino|Futsal/.test(column);
+                return /Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal/.test(column);
             })) {
                 return;
             }
 
-            html += `<tr>
-               <td class="date">${columns[1]}</td>
-               <td class="game">${columns[0]}</td>
-               <td class="provider">${columns[2].replace(/<[^>]+>/g, '')}</td>
-             </tr>`;
+            let teamNames = columns[0].split(' x ');
+
+            if (window.innerWidth <= 800) {
+                html += `<tr>
+                   <td class="date">${columns[1]}</td>
+                   <td class="team-names" data-teams="${columns[0]}"><span>${teamNames[0]}</span>${teamNames[1]}</td>
+                   <td class="provider">${columns[2].replace(/<[^>]+>/g, '')}</td>
+                 </tr>`;
+            } else {
+                html += `<tr>
+                   <td class="date">${columns[1]}</td>
+                   <td class="game">${columns[0]}</td>
+                   <td class="provider">${columns[2].replace(/<[^>]+>/g, '')}</td>
+                 </tr>`;
+            }
         });
 
         document.getElementById("table-body").innerHTML = html;

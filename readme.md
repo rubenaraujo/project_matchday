@@ -1,6 +1,6 @@
 # Project MatchDay
 
-Project Cuju is a simple web page that displays the next football matches and in which portuguese channels they can be watched.
+Project MacthDay is a simple web page that displays the next football matches and in which portuguese channels they can be watched.
 
 ## Technologies
 

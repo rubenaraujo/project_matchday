@@ -11,7 +11,7 @@ fetch(rssUrl)
             const columns = data.split(' - ');
             console.log(columns)
             if (columns.some(column => {
-                return /Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal/.test(column);
+                return /Jun.A|S19|S23|Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal/.test(column);
             })) {
                 return;
             }

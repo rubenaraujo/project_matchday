@@ -59,6 +59,15 @@ tbody tr.hide {
     text-align: center;
   }
 
+  .channel-icon {
+    display: inline-block;
+    max-height: 15px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    margin-right: 5px;
+  }
+
 @media only screen and (max-width: 800px) {
     .logo {
         width: 170px;
@@ -72,4 +81,10 @@ tbody tr.hide {
     th, td {
         font-size: 13.5px;
     }
+    .channel-icon {
+        max-height: 10px;
+        margin-right: 2px;
+      }
 }
+
+

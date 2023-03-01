@@ -19,6 +19,7 @@ table {
     margin: 20px auto;
     width: 100%;
     max-width: 800px;
+    margin-bottom: 0px;
 }
 
 th,

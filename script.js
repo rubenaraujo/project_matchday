@@ -10,14 +10,13 @@ fetch(rssUrl)
             const data = item.description;
             const columns = data.split(' - ');
             
-            // if columns[2] starts with 11Sports then remove spcaces
-            if (columns[2].startsWith('11Sports')) {
+            // if columns[2] starts with 11Sports or 11Xt then remove spcaces
+            if (columns[2].startsWith('11Sports') || columns[2].startsWith('11Xt')) {
                 columns[2] = columns[2].replace(/\s/g, '');
             }
 
             const channelNames = columns[2].split(' ');
             const key = columns[1].substring(0, 5); // get first 5 chars of first column
-            console.log(key);
 
             let channelIcons = '';
 

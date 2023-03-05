@@ -10,8 +10,8 @@ fetch(rssUrl)
             const data = item.description;
             const columns = data.split(' - ');
             
-            // if columns[2] starts with 11Sports or 11Xt then remove spcaces
-            if (columns[2].startsWith('11Sports') || columns[2].startsWith('11Xt')) {
+            // if columns[2] starts with 11Sports, 11Xt, ABola or contains SportTv MP then remove spcaces
+            if (columns[2].startsWith('11Sports') || columns[2].startsWith('11Xt') || columns[2].startsWith('ABola') || columns[2].includes('SportTv MP')) {
                 columns[2] = columns[2].replace(/\s/g, '');
             }
 

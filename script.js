@@ -40,7 +40,7 @@ fetch(rssUrl)
             });
 
             if (columns.some(column => {
-                return /Jun.A|S15|S19|S23|Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal/.test(column);
+                return /Jun.A|S15|S16|S17|S18|S19|S20|S21|S23|Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal/.test(column);
             })) {
                 return;
             }

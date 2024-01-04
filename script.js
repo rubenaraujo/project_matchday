@@ -1,5 +1,16 @@
 const colorMap = {}; // stores the background color for each unique substring
 
+function loader() {
+ var loader = document.getElementById('loader');
+ var table = document.getElementById('table');
+ setTimeout(function () {
+    loader.style.display = 'none';
+    table.style.display = 'block';
+ }, 2000);
+}
+
+loader();
+
 fetch(rssUrl)
     .then(response => response.json())
     .then(data => {

@@ -33,6 +33,7 @@ body {
     padding-top: 10px;
     animation: fadein 1.2s;
     padding: 15px;
+    width: 300px;
 }
 
 table {

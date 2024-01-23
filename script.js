@@ -64,22 +64,15 @@ fetch(rssUrl)
                 const g = Math.floor(Math.random() * 256);
                 const b = Math.floor(Math.random() * 256);
                 colorMap[key] = `rgba(${r}, ${g}, ${b}, 0.1)`;
-                // check if the color is similar to any color in the map if it is, generate a new one
-                Object.keys(colorMap).forEach(mapKey => {
-                    if (key !== mapKey) {
-                        const color = colorMap[mapKey];
-                        const rgb = color.substring(color.indexOf('(') + 1, color.lastIndexOf(')')).split(/,\s*/);
-                        const r1 = rgb[0];
-                        const g1 = rgb[1];
-                        const b1 = rgb[2];
-                        const distance = Math.sqrt(Math.pow(r - r1, 2) + Math.pow(g - g1, 2) + Math.pow(b - b1, 2));
-                        if (distance < 150) {
-                            delete colorMap[key];
-                        }
-                    }
+                if (Object.values(colorMap).some(color => {
+                    return color === `rgba(${r}, ${g}, ${b}, 0.1)` || color === `rgba(26, 26, 26, 0.1)`;
+                })) {
+                    colorMap[key] = `rgba(${r}, ${g}, ${b}, 0.1)`;
                 }
-                );
             }
+
+            //print colormap
+            console.log(colorMap);
 
             if (window.innerWidth <= 800) {
                 html += `<tr data-key="${key}">

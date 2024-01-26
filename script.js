@@ -1,18 +1,26 @@
 const colorMap = {}; // stores the background color for each unique substring
 
-function loader() {
- var loader = document.getElementById('loader');
- var table = document.getElementById('table');
- setTimeout(function () {
-    loader.style.display = 'none';
-    table.style.display = 'block';
- }, 2000);
+function loader(show) {
+    var loader = document.getElementById('loader');
+    var table = document.getElementById('table');
+    if (show) {
+        loader.style.display = 'block';
+        table.style.display = 'none';
+    } else {
+        loader.style.display = 'none';
+        table.style.display = 'block';
+    }
 }
 
-loader();
+loader(true);
 
 fetch(rssUrl)
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    })
     .then(data => {
         const items = data.items;
         let html = "";
@@ -71,9 +79,6 @@ fetch(rssUrl)
                 }
             }
 
-            //print colormap
-            console.log(colorMap);
-
             if (window.innerWidth <= 800) {
                 html += `<tr data-key="${key}">
                    <td class="date">${columns[1]}</td>
@@ -98,7 +103,7 @@ fetch(rssUrl)
                 element.style.backgroundColor = colorMap[key];
             });
         });
-
+        loader(false)
     })
     .catch(error => {
         console.error(error);

@@ -28,11 +28,9 @@ fetch(rssUrl)
         items.forEach(item => {
             const data = item.description;
             const columns = data.split(' - ');
-            
-            // if columns[2] starts with 11Sports, 11Xt, ABola or contains SportTv MP then remove spcaces
-            if (columns[2].startsWith('11Sports') || columns[2].startsWith('11Xt') || columns[2].startsWith('ABola') || columns[2].includes('SportTv MP')) {
-                columns[2] = columns[2].replace(/\s/g, '');
-            }
+
+            //remove spaces from channels
+            columns[2] = columns[2].replace(/ /g, "");
 
             const channelNames = columns[2].split(' ');
             const key = columns[1].substring(0, 5); // get first 5 chars of first column

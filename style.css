@@ -53,7 +53,7 @@ td {
 }
 
 td {
-    max-width: 500px;
+    max-width: 300px;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -84,7 +84,8 @@ tbody tr.hide {
 
   .channel-icon {
     display: inline-block;
-    max-height: 15px;
+    max-height: 25px;
+    max-width: 150px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -105,7 +106,8 @@ tbody tr.hide {
         font-size: 13.5px;
     }
     .channel-icon {
-        max-height: 10px;
+        max-height: 20px;
+        max-width: 85px;
         margin-right: 2px;
       }
 }

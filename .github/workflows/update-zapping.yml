@@ -16,12 +16,21 @@ jobs:
 
       - name: Download zapping.xml
         run: |
-          curl -L -o zapping.xml https://www.zerozero.pt/rss/zapping.php
+          curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" -o zapping.xml https://www.zerozero.pt/rss/zapping.php
+      
+      - name: Show zapping.xml head
+        run: head -20 zapping.xml
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install xml2js
+        run: npm install xml2js
 
       - name: Convert zapping.xml to zapping.json
-        run: |
-          npm install xmldom
-          node .github/workflows/rss2json.js
+        run: node .github/workflows/rss2json.js
 
       - name: Commit and push changes
         run: |

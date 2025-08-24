@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x AFS - 24/08 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x AFS - 24/08 20:30 - SportTV 2",
-      "pubDate": "Sun, 24 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Real Madrid - 24/08 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Real Madrid - 24/08 20:30 - DAZN 1",
-      "pubDate": "Sun, 24 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Banfield - 24/08 22:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Banfield - 24/08 22:15 - SportTV 1",
@@ -278,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leicester City x Birmingham City - 29/08 20:00 - SportTV 7",
       "pubDate": "Fri, 29 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Moreirense - 29/08 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Moreirense - 29/08 20:15 - SportTV 1",
+      "pubDate": "Fri, 29 Aug 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x GD Chaves - 30/08 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x GD Chaves - 30/08 11:00 - SportTV 1",
+      "pubDate": "Sat, 30 Aug 2025 11:00:00",
       "guid": ""
     }
   ]

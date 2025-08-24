@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Fulham x Manchester United - 24/08 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Manchester United - 24/08 16:30 - DAZN 1",
-      "pubDate": "Sun, 24 Aug 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia M�gladbach x Hamburger SV - 24/08 16:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia M�gladbach x Hamburger SV - 24/08 16:30 - DAZN 2",
-      "pubDate": "Sun, 24 Aug 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atl�tico CP x Caldas SC - 24/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atl�tico CP x Caldas SC - 24/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 24 Aug 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cagliari x Fiorentina - 24/08 17:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Fiorentina - 24/08 17:30 - SportTV 6",
@@ -257,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Bristol City - 27/08 19:45 - SportTV 2",
       "pubDate": "Wed, 27 Aug 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Fenerbah�e - 27/08 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Fenerbah�e - 27/08 20:00 - SportTV 5",
+      "pubDate": "Wed, 27 Aug 2025 20:00:00",
       "guid": ""
     }
   ]

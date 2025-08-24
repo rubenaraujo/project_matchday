@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Lille x Monaco - 24/08 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Monaco - 24/08 19:45 - SportTV 6",
-      "pubDate": "Sun, 24 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Parma - 24/08 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Parma - 24/08 19:45 - SportTV 3",
-      "pubDate": "Sun, 24 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Pisa - 24/08 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Pisa - 24/08 19:45 - SportTV 7",
-      "pubDate": "Sun, 24 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bahia x Santos - 24/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bahia x Santos - 24/08 20:00 - Canal11",
-      "pubDate": "Sun, 24 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga x AFS - 24/08 20:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x AFS - 24/08 20:30 - SportTV 2",
@@ -278,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Taawoun x Al-Nassr - 29/08 19:00 - SportTV 3",
       "pubDate": "Fri, 29 Aug 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Basket) x S�rvia (Basket) - 29/08 19:15 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Basket) x S�rvia (Basket) - 29/08 19:15 - RTP2",
+      "pubDate": "Fri, 29 Aug 2025 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Milan - 29/08 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Milan - 29/08 19:45 - SportTV 2",
+      "pubDate": "Fri, 29 Aug 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Brest - 29/08 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Brest - 29/08 19:45 - SportTV 5",
+      "pubDate": "Fri, 29 Aug 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Leicester City x Birmingham City - 29/08 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leicester City x Birmingham City - 29/08 20:00 - SportTV 7",
+      "pubDate": "Fri, 29 Aug 2025 20:00:00",
       "guid": ""
     }
   ]

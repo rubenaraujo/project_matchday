@@ -14,7 +14,7 @@ function loader(show) {
 
 loader(true);
 
-fetch('zapping.json')
+fetch(rssUrl)
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');

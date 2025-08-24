@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Villarreal x Girona - 24/08 18:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Girona - 24/08 18:30 - DAZN 2",
-      "pubDate": "Sun, 24 Aug 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Espanyol - 24/08 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Espanyol - 24/08 18:30 - DAZN 3",
-      "pubDate": "Sun, 24 Aug 2025 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lille x Monaco - 24/08 19:45 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Monaco - 24/08 19:45 - SportTV 6",
@@ -264,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Uni�n x River Plate - 29/08 01:15 - SportTV 1",
       "pubDate": "Fri, 29 Aug 2025 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Riyadh - 29/08 16:50 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Riyadh - 29/08 16:50 - SportTV 1",
+      "pubDate": "Fri, 29 Aug 2025 16:50:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Sassuolo - 29/08 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Sassuolo - 29/08 17:30 - SportTV 2",
+      "pubDate": "Fri, 29 Aug 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x Torreense - 29/08 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x Torreense - 29/08 18:00 - SportTV +",
+      "pubDate": "Fri, 29 Aug 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Taawoun x Al-Nassr - 29/08 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Taawoun x Al-Nassr - 29/08 19:00 - SportTV 3",
+      "pubDate": "Fri, 29 Aug 2025 19:00:00",
       "guid": ""
     }
   ]

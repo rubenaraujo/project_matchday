@@ -1,0 +1,32 @@
+name: Update Zapping RSS
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  update-zapping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download zapping.xml
+        run: |
+          curl -L -o zapping.xml https://www.zerozero.pt/rss/zapping.php
+
+      - name: Convert zapping.xml to zapping.json
+        run: |
+          npm install xmldom
+          node .github/workflows/rss2json.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add zapping.json
+          git diff --cached --quiet || git commit -m "Update zapping.json RSS feed"
+          git push

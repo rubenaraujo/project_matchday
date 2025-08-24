@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Cagliari x Fiorentina - 24/08 17:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Fiorentina - 24/08 17:30 - SportTV 6",
-      "pubDate": "Sun, 24 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Lazio - 24/08 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Lazio - 24/08 17:30 - SportTV 3",
-      "pubDate": "Sun, 24 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Mafra x Acad�mica OAF - 24/08 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Acad�mica OAF - 24/08 18:00 - Canal11",
-      "pubDate": "Sun, 24 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Casa Pia AC - 24/08 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Casa Pia AC - 24/08 18:00 - SportTV 1",
-      "pubDate": "Sun, 24 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Villarreal x Girona - 24/08 18:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Girona - 24/08 18:30 - DAZN 2",
@@ -243,6 +215,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Fenerbah�e - 27/08 20:00 - SportTV 5",
       "pubDate": "Wed, 27 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Grimsby Town x Manchester United - 27/08 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grimsby Town x Manchester United - 27/08 20:00 - SportTV 1",
+      "pubDate": "Wed, 27 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Club Brugge x Rangers - 27/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Club Brugge x Rangers - 27/08 20:00 - DAZN 1",
+      "pubDate": "Wed, 27 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Kobenhavn x FC Basel - 27/08 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Kobenhavn x FC Basel - 27/08 20:00 - DAZN 2",
+      "pubDate": "Wed, 27 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (S23) x Estoril Praia (S23) - 28/08 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (S23) x Estoril Praia (S23) - 28/08 16:00 - C11 Stream",
+      "pubDate": "Thu, 28 Aug 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Shamrock Rovers x Santa Clara - 28/08 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Shamrock Rovers x Santa Clara - 28/08 20:00 - SportTV 2",
+      "pubDate": "Thu, 28 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Lincoln Red Imps - 28/08 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Lincoln Red Imps - 28/08 20:00 - SportTV 1",
+      "pubDate": "Thu, 28 Aug 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Uni�n x River Plate - 29/08 01:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Uni�n x River Plate - 29/08 01:15 - SportTV 1",
+      "pubDate": "Fri, 29 Aug 2025 01:15:00",
       "guid": ""
     }
   ]

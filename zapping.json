@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Internazionale x Torino - 25/08 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Torino - 25/08 19:45 - SportTV 2",
-      "pubDate": "Mon, 25 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Liverpool - 25/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Liverpool - 25/08 20:00 - DAZN 1",
-      "pubDate": "Mon, 25 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Est. Amadora x FC Alverca - 25/08 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora x FC Alverca - 25/08 20:15 - SportTV 1",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting Gij�n x Cultural Leonesa - 29/08 20:30 - DAZN 3",
       "pubDate": "Fri, 29 Aug 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x GD Chaves - 30/08 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x GD Chaves - 30/08 11:00 - SportTV 1",
+      "pubDate": "Sat, 30 Aug 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x Varzim - 30/08 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x Varzim - 30/08 11:00 - Canal11",
+      "pubDate": "Sat, 30 Aug 2025 11:00:00",
       "guid": ""
     }
   ]

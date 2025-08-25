@@ -20,4 +20,4 @@ https://rubenaraujo.github.io/project_matchday
 
 ## Credits
 
-This project was created by Ruben Araujo. It uses the [rss2json](https://rss2json.com/) API to fetch the latest news from the RSS feed.
+This project was created by Ruben Araujo.

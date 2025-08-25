@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Est. Amadora x FC Alverca - 25/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x FC Alverca - 25/08 20:15 - SportTV 1",
-      "pubDate": "Mon, 25 Aug 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Getafe - 25/08 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Getafe - 25/08 20:30 - DAZN 2",
-      "pubDate": "Mon, 25 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lan�s x River Plate - 26/08 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lan�s x River Plate - 26/08 01:15 - SportTV 1",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x Varzim - 30/08 11:00 - Canal11",
       "pubDate": "Sat, 30 Aug 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Middlesbrough x Sheffield United - 30/08 12:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Middlesbrough x Sheffield United - 30/08 12:30 - SportTV 2",
+      "pubDate": "Sat, 30 Aug 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Fulham - 30/08 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Fulham - 30/08 12:30 - DAZN 1",
+      "pubDate": "Sat, 30 Aug 2025 12:30:00",
       "guid": ""
     }
   ]

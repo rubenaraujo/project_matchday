@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "S�o Paulo x Atl�tico Mineiro - 25/08 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S�o Paulo x Atl�tico Mineiro - 25/08 00:30 - Canal11",
-      "pubDate": "Mon, 25 Aug 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Udinese x Hellas Verona - 25/08 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Hellas Verona - 25/08 17:30 - SportTV 2",
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lorient x Lille - 30/08 16:00 - SportTV 3",
       "pubDate": "Sat, 30 Aug 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Atalanta - 30/08 17:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Atalanta - 30/08 17:30 - SportTV 6",
+      "pubDate": "Sat, 30 Aug 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x Portimonense - 30/08 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x Portimonense - 30/08 18:00 - BTv",
+      "pubDate": "Sat, 30 Aug 2025 18:00:00",
       "guid": ""
     }
   ]

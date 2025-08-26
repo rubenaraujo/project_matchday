@@ -1,45 +1,10 @@
 {
   "items": [
     {
-      "title": "Wolverhampton x West Ham - 26/08 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x West Ham - 26/08 19:30 - SportTV 1",
-      "pubDate": "Tue, 26 Aug 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Huddersfield Town - 26/08 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Huddersfield Town - 26/08 19:45 - SportTV 2",
-      "pubDate": "Tue, 26 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Preston North End x Wrexham - 26/08 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Preston North End x Wrexham - 26/08 19:45 - SportTV 3",
-      "pubDate": "Tue, 26 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Eintracht Braunschweig x Stuttgart - 26/08 19:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eintracht Braunschweig x Stuttgart - 26/08 19:45 - DAZN 2",
       "pubDate": "Tue, 26 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Pafos FC x Crvena Zvezda - 26/08 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pafos FC x Crvena Zvezda - 26/08 20:00 - SportTV 5",
-      "pubDate": "Tue, 26 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sturm Graz x Bodo/Glimt - 26/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sturm Graz x Bodo/Glimt - 26/08 20:00 - DAZN 1",
-      "pubDate": "Tue, 26 Aug 2025 20:00:00",
       "guid": ""
     },
     {
@@ -333,6 +298,13 @@
       "title": "Casa Pia AC x Nacional - 30/08 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Nacional - 30/08 15:30 - SportTV 1",
+      "pubDate": "Sat, 30 Aug 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Volendam x Ajax - 30/08 15:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Volendam x Ajax - 30/08 15:30 - DAZN 4",
       "pubDate": "Sat, 30 Aug 2025 15:30:00",
       "guid": ""
     }

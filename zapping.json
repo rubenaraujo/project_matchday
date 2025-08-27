@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "Valur (Feminino) x SC Braga (Feminino) - 27/08 19:30 - NXT",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valur (Feminino) x SC Braga (Feminino) - 27/08 19:30 - NXT",
-      "pubDate": "Wed, 27 Aug 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Bristol City - 27/08 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Bristol City - 27/08 19:45 - SportTV 2",
-      "pubDate": "Wed, 27 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Wehen Wiesbaden x Bayern M�nchen - 27/08 19:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wehen Wiesbaden x Bayern M�nchen - 27/08 19:45 - DAZN 4",
-      "pubDate": "Wed, 27 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Fenerbah�e - 27/08 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Fenerbah�e - 27/08 20:00 - SportTV 5",
-      "pubDate": "Wed, 27 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Grimsby Town x Manchester United - 27/08 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grimsby Town x Manchester United - 27/08 20:00 - SportTV 1",
-      "pubDate": "Wed, 27 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Club Brugge x Rangers - 27/08 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Club Brugge x Rangers - 27/08 20:00 - DAZN 2",
-      "pubDate": "Wed, 27 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Kobenhavn x FC Basel - 27/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Kobenhavn x FC Basel - 27/08 20:00 - DAZN 1",
-      "pubDate": "Wed, 27 Aug 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Real Betis - 27/08 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Real Betis - 27/08 20:00 - DAZN 3",
       "pubDate": "Wed, 27 Aug 2025 20:00:00",
       "guid": ""
     },
@@ -340,6 +291,13 @@
       "title": "AFS x FC Famalic�o - 30/08 18:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x FC Famalic�o - 30/08 18:00 - SportTV 4",
+      "pubDate": "Sat, 30 Aug 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vit�ria SC x FC Arouca - 30/08 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vit�ria SC x FC Arouca - 30/08 18:00 - SportTV 2",
       "pubDate": "Sat, 30 Aug 2025 18:00:00",
       "guid": ""
     }

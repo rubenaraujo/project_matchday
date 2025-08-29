@@ -23,8 +23,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install xml2js
-        run: npm install xml2js
+      - name: Install cheerio
+        run: npm install cheerio
 
       - name: Convert zapping.xml to zapping.json
         run: node .github/workflows/rss2json.js

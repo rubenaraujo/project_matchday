@@ -18,16 +18,13 @@ jobs:
         run: |
           curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" -o zapping.xml https://www.zerozero.pt/rss/zapping.php
       
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '20'
-
-      - name: Install cheerio
-        run: npm install cheerio
+          python-version: '3.10'
 
       - name: Convert zapping.xml to zapping.json
-        run: node .github/workflows/rss2json.js
+        run: python .github/workflows/rss2json.py
 
       - name: Commit and push changes
         run: |

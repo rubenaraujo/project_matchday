@@ -22,5 +22,5 @@ parser.parseString(xml, (err, result) => {
   } else {
     console.error('No items found in XML. Structure:', JSON.stringify(result, null, 2));
   }
-  fs.writeFileSync('zapping.json', JSON.stringify({ items }, null, 2));
+  fs.writeFileSync('zapping.json', JSON.stringify({ items }, null, 2), 'utf8');
 });

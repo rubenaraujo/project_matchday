@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cremonese x Sassuolo - 29/08 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cremonese x Sassuolo - 29/08 17:30 - SportTV 2",
-      "pubDate": "Fri, 29 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Nürnberg x SC Paderborn 07 - 29/08 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Nürnberg x SC Paderborn 07 - 29/08 17:30 - DAZN 2",
-      "pubDate": "Fri, 29 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria x Torreense - 29/08 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x Torreense - 29/08 18:00 - SportTV +",
-      "pubDate": "Fri, 29 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Elche x Levante - 29/08 18:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche x Levante - 29/08 18:30 - DAZN 1",
@@ -200,6 +179,13 @@
       "title": "Alavés x Atlético de Madrid - 30/08 16:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Atlético de Madrid - 30/08 16:00 - DAZN 3",
+      "pubDate": "Sat, 30 Aug 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brann (Feminino) x SC Braga (Feminino) - 30/08 16:00 - NXT",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brann (Feminino) x SC Braga (Feminino) - 30/08 16:00 - NXT",
       "pubDate": "Sat, 30 Aug 2025 16:00:00",
       "guid": ""
     },

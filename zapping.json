@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Gil Vicente x Moreirense - 29/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Moreirense - 29/08 20:15 - SportTV 1",
-      "pubDate": "Fri, 29 Aug 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia x Getafe - 29/08 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Getafe - 29/08 20:30 - DAZN 1",
-      "pubDate": "Fri, 29 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting Gijón x Cultural Leonesa - 29/08 20:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting Gijón x Cultural Leonesa - 29/08 20:30 - DAZN 3",
-      "pubDate": "Fri, 29 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Penafiel x GD Chaves - 30/08 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x GD Chaves - 30/08 11:00 - SportTV 1",
@@ -278,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Mallorca - 30/08 20:30 - DAZN 1",
       "pubDate": "Sat, 30 Aug 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Botafogo x Red Bull Bragantino - 30/08 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Botafogo x Red Bull Bragantino - 30/08 22:30 - Canal11",
+      "pubDate": "Sat, 30 Aug 2025 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sarmiento de Junín x Rosario Central - 30/08 23:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sarmiento de Junín x Rosario Central - 30/08 23:15 - SportTV 3",
+      "pubDate": "Sat, 30 Aug 2025 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Cruzeiro x São Paulo - 31/08 01:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cruzeiro x São Paulo - 31/08 01:00 - Canal11",
+      "pubDate": "Sun, 31 Aug 2025 01:00:00",
       "guid": ""
     }
   ]

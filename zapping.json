@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses x Amora FC - 30/08 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Amora FC - 30/08 19:00 - Canal11",
-      "pubDate": "Sat, 30 Aug 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Cagliari - 30/08 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Cagliari - 30/08 19:45 - SportTV 6",
-      "pubDate": "Sat, 30 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Roma - 30/08 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Roma - 30/08 19:45 - SportTV 5",
-      "pubDate": "Sat, 30 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Toulouse x PSG - 30/08 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Toulouse x PSG - 30/08 20:05 - SportTV 3",
-      "pubDate": "Sat, 30 Aug 2025 20:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x FC Porto - 30/08 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x FC Porto - 30/08 20:30 - SportTV 1",
-      "pubDate": "Sat, 30 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Mallorca - 30/08 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Mallorca - 30/08 20:30 - DAZN 1",
-      "pubDate": "Sat, 30 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Botafogo x Red Bull Bragantino - 30/08 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Botafogo x Red Bull Bragantino - 30/08 22:30 - Canal11",
@@ -257,6 +215,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aston Villa x Crystal Palace - 31/08 19:00 - DAZN 3",
       "pubDate": "Sun, 31 Aug 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alanyaspor x Besiktas - 31/08 19:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alanyaspor x Besiktas - 31/08 19:30 - SportTV 7",
+      "pubDate": "Sun, 31 Aug 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Udinese - 31/08 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Udinese - 31/08 19:45 - SportTV 6",
+      "pubDate": "Sun, 31 Aug 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Marseille - 31/08 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Marseille - 31/08 19:45 - SportTV 4",
+      "pubDate": "Sun, 31 Aug 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Est. Amadora - 31/08 20:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Est. Amadora - 31/08 20:30 - SportTV 3",
+      "pubDate": "Sun, 31 Aug 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x SC Braga - 31/08 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x SC Braga - 31/08 20:30 - SportTV 2",
+      "pubDate": "Sun, 31 Aug 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x FC Barcelona - 31/08 20:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x FC Barcelona - 31/08 20:30 - DAZN 1",
+      "pubDate": "Sun, 31 Aug 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Palmeiras - 31/08 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Palmeiras - 31/08 22:30 - Canal11",
+      "pubDate": "Sun, 31 Aug 2025 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x San Martin San Juan - 31/08 23:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x San Martin San Juan - 31/08 23:15 - SportTV 1",
+      "pubDate": "Sun, 31 Aug 2025 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Sport x Vasco - 01/09 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sport x Vasco - 01/09 00:30 - Canal11",
+      "pubDate": "Mon, 01 Sep 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - WSE TV",
+      "pubDate": "Mon, 01 Sep 2025 14:00:00",
       "guid": ""
     }
   ]

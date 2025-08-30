@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "Parma x Atalanta - 30/08 17:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Atalanta - 30/08 17:30 - SportTV 6",
-      "pubDate": "Sat, 30 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Augsburg x Bayern München - 30/08 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x Bayern München - 30/08 17:30 - DAZN 1",
-      "pubDate": "Sat, 30 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Newcastle - 30/08 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Newcastle - 30/08 17:30 - DAZN 2",
-      "pubDate": "Sat, 30 Aug 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (B) x Portimonense - 30/08 18:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (B) x Portimonense - 30/08 18:00 - BTv",
-      "pubDate": "Sat, 30 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x FC Famalicão - 30/08 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x FC Famalicão - 30/08 18:00 - SportTV 4",
-      "pubDate": "Sat, 30 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC x FC Arouca - 30/08 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x FC Arouca - 30/08 18:00 - SportTV 2",
-      "pubDate": "Sat, 30 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nantes x Auxerre - 30/08 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Auxerre - 30/08 18:00 - SportTV 3",
-      "pubDate": "Sat, 30 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Almeida Garrett (Andebol Feminino) x Juve Lis (Andebol Feminino) - 30/08 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Almeida Garrett (Andebol Feminino) x Juve Lis (Andebol Feminino) - 30/08 18:00 - AndebolTV",
       "pubDate": "Sat, 30 Aug 2025 18:00:00",
       "guid": ""
     },
@@ -264,6 +215,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Monaco x Strasbourg - 31/08 16:15 - SportTV 3",
       "pubDate": "Sun, 31 Aug 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Arsenal - 31/08 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Arsenal - 31/08 16:30 - DAZN 1",
+      "pubDate": "Sun, 31 Aug 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x 1. FC Union Berlin - 31/08 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x 1. FC Union Berlin - 31/08 16:30 - DAZN 3",
+      "pubDate": "Sun, 31 Aug 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Andebol) x Vencedor MF2 - 31/08 16:30 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Andebol) x Vencedor MF2 - 31/08 16:30 - ABola TV",
+      "pubDate": "Sun, 31 Aug 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gençlerbirligi x Fenerbahçe - 31/08 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gençlerbirligi x Fenerbahçe - 31/08 17:00 - SportTV 7",
+      "pubDate": "Sun, 31 Aug 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Marialvas - 31/08 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Marialvas - 31/08 17:00 - Canal11",
+      "pubDate": "Sun, 31 Aug 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Benfica - 31/08 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Benfica - 31/08 18:00 - SportTV 1",
+      "pubDate": "Sun, 31 Aug 2025 18:00:00",
       "guid": ""
     }
   ]

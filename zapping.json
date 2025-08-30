@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Paços de Ferreira (Jun.A S19) x SC Braga (Jun.A S19) - 30/08 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira (Jun.A S19) x SC Braga (Jun.A S19) - 30/08 16:30 - Canal11",
-      "pubDate": "Sat, 30 Aug 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Ademar León (Andebol) - 30/08 16:30 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Ademar León (Andebol) - 30/08 16:30 - ABola TV",
-      "pubDate": "Sat, 30 Aug 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x FC Famalicão (Jun.A S19) - 30/08 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x FC Famalicão (Jun.A S19) - 30/08 17:00 - PortoCanal",
-      "pubDate": "Sat, 30 Aug 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CALE (Andebol Feminino) x ABC (Andebol Feminino) - 30/08 17:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CALE (Andebol Feminino) x ABC (Andebol Feminino) - 30/08 17:00 - AndebolTV",
-      "pubDate": "Sat, 30 Aug 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Parma x Atalanta - 30/08 17:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Atalanta - 30/08 17:30 - SportTV 6",
@@ -264,6 +236,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (S23) x Farense (S23) - 31/08 15:00 - Canal11",
       "pubDate": "Sun, 31 Aug 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x UD Oliveirense - 31/08 15:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x UD Oliveirense - 31/08 15:30 - SportTV 4",
+      "pubDate": "Sun, 31 Aug 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Estoril Praia - 31/08 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Estoril Praia - 31/08 15:30 - SportTV 2",
+      "pubDate": "Sun, 31 Aug 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Villarreal - 31/08 16:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Villarreal - 31/08 16:00 - DAZN 2",
+      "pubDate": "Sun, 31 Aug 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Strasbourg - 31/08 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Strasbourg - 31/08 16:15 - SportTV 3",
+      "pubDate": "Sun, 31 Aug 2025 16:15:00",
       "guid": ""
     }
   ]

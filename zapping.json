@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Middlesbrough x Sheffield United - 30/08 12:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Middlesbrough x Sheffield United - 30/08 12:30 - SportTV 2",
-      "pubDate": "Sat, 30 Aug 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Fulham - 30/08 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Fulham - 30/08 12:30 - DAZN 1",
-      "pubDate": "Sat, 30 Aug 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Barcelona (Andebol) x FC Porto (Andebol) - 30/08 13:30 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Barcelona (Andebol) x FC Porto (Andebol) - 30/08 13:30 - ABola TV",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Derrotado MF1 x Derrotado MF2 - 31/08 13:30 - ABola TV",
       "pubDate": "Sun, 31 Aug 2025 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x FC Porto - 31/08 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x FC Porto - 31/08 14:00 - SportTV +",
+      "pubDate": "Sun, 31 Aug 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x Rennes - 31/08 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x Rennes - 31/08 14:00 - SportTV 1",
+      "pubDate": "Sun, 31 Aug 2025 14:00:00",
       "guid": ""
     }
   ]

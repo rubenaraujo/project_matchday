@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Millwall x Wrexham - 30/08 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Millwall x Wrexham - 30/08 15:00 - SportTV 5",
-      "pubDate": "Sat, 30 Aug 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Leixões - 30/08 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Leixões - 30/08 15:30 - SportTV 2",
-      "pubDate": "Sat, 30 Aug 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Nacional - 30/08 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Nacional - 30/08 15:30 - SportTV 1",
-      "pubDate": "Sat, 30 Aug 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Volendam x Ajax - 30/08 15:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Volendam x Ajax - 30/08 15:30 - DAZN 4",
-      "pubDate": "Sat, 30 Aug 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lorient x Lille - 30/08 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lorient x Lille - 30/08 16:00 - SportTV 3",
-      "pubDate": "Sat, 30 Aug 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alavés x Atlético de Madrid - 30/08 16:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Atlético de Madrid - 30/08 16:00 - DAZN 3",
-      "pubDate": "Sat, 30 Aug 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brann (Feminino) x SC Braga (Feminino) - 30/08 16:00 - NXT",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brann (Feminino) x SC Braga (Feminino) - 30/08 16:00 - NXT",
-      "pubDate": "Sat, 30 Aug 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Paços de Ferreira (Jun.A S19) x SC Braga (Jun.A S19) - 30/08 16:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira (Jun.A S19) x SC Braga (Jun.A S19) - 30/08 16:30 - Canal11",
@@ -267,9 +218,9 @@
       "guid": ""
     },
     {
-      "title": "Derrotado MF1 x Derrotado MF2 - 31/08 13:30 - ABola TV",
+      "title": "FC Porto (Andebol) x Derrotado MF2 - 31/08 13:30 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado MF1 x Derrotado MF2 - 31/08 13:30 - ABola TV",
+      "description": "FC Porto (Andebol) x Derrotado MF2 - 31/08 13:30 - ABola TV",
       "pubDate": "Sun, 31 Aug 2025 13:30:00",
       "guid": ""
     },
@@ -299,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nottingham Forest x West Ham - 31/08 14:00 - DAZN 2",
       "pubDate": "Sun, 31 Aug 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolfsburg x Mainz - 31/08 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolfsburg x Mainz - 31/08 14:30 - DAZN 3",
+      "pubDate": "Sun, 31 Aug 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (S23) x Farense (S23) - 31/08 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Farense (S23) - 31/08 15:00 - Canal11",
+      "pubDate": "Sun, 31 Aug 2025 15:00:00",
       "guid": ""
     }
   ]

@@ -1,38 +1,10 @@
 {
   "items": [
     {
-      "title": "Benfica (B) x Portimonense - 30/08 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x Portimonense - 30/08 18:00 - BTv",
-      "pubDate": "Sat, 30 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Sevilla - 30/08 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Sevilla - 30/08 18:30 - DAZN 3",
-      "pubDate": "Sat, 30 Aug 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x Telstar - 30/08 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Telstar - 30/08 19:00 - DAZN 4",
-      "pubDate": "Sat, 30 Aug 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses x Amora FC - 30/08 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x Amora FC - 30/08 19:00 - Canal11",
       "pubDate": "Sat, 30 Aug 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Turquia (Basket) x Portugal (Basket) - 30/08 19:15 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia (Basket) x Portugal (Basket) - 30/08 19:15 - RTP2",
-      "pubDate": "Sat, 30 Aug 2025 19:15:00",
       "guid": ""
     },
     {
@@ -257,6 +229,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Alverca x Benfica - 31/08 18:00 - SportTV 1",
       "pubDate": "Sun, 31 Aug 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Athletic Bilbao - 31/08 18:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Athletic Bilbao - 31/08 18:00 - DAZN 2",
+      "pubDate": "Sun, 31 Aug 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Osasuna - 31/08 18:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Osasuna - 31/08 18:30 - DAZN 1",
+      "pubDate": "Sun, 31 Aug 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Köln x SC Freiburg - 31/08 18:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Köln x SC Freiburg - 31/08 18:30 - DAZN 4",
+      "pubDate": "Sun, 31 Aug 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Crystal Palace - 31/08 19:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Crystal Palace - 31/08 19:00 - DAZN 3",
+      "pubDate": "Sun, 31 Aug 2025 19:00:00",
       "guid": ""
     }
   ]

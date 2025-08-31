@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Sarmiento de Junín x Rosario Central - 30/08 23:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sarmiento de Junín x Rosario Central - 30/08 23:15 - SportTV 3",
-      "pubDate": "Sat, 30 Aug 2025 23:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Cruzeiro x São Paulo - 31/08 01:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cruzeiro x São Paulo - 31/08 01:00 - Canal11",
-      "pubDate": "Sun, 31 Aug 2025 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Farense x Marítimo - 31/08 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x Marítimo - 31/08 11:00 - SportTV 1",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Hóquei) x França (Hóquei) - 02/09 21:45 - RTP1",
       "pubDate": "Tue, 02 Sep 2025 21:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Estónia (Basket) x Portugal (Basket) - 03/09 12:45 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estónia (Basket) x Portugal (Basket) - 03/09 12:45 - RTP2",
+      "pubDate": "Wed, 03 Sep 2025 12:45:00",
       "guid": ""
     }
   ]

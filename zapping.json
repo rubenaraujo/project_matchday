@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Wolfsburg x Mainz - 31/08 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x Mainz - 31/08 14:30 - DAZN 3",
-      "pubDate": "Sun, 31 Aug 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (S23) x Farense (S23) - 31/08 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x Farense (S23) - 31/08 15:00 - Canal11",
-      "pubDate": "Sun, 31 Aug 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Vizela x UD Oliveirense - 31/08 15:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela x UD Oliveirense - 31/08 15:30 - SportTV 4",
@@ -292,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (Hóquei) x Itália (Hóquei) - 03/09 19:00 - DAZN 1",
       "pubDate": "Wed, 03 Sep 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x Sporting (Futsal) - 03/09 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Sporting (Futsal) - 03/09 21:00 - Canal11",
+      "pubDate": "Wed, 03 Sep 2025 21:00:00",
       "guid": ""
     }
   ]

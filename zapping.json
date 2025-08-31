@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Kaiserslautern x Darmstadt 98 - 31/08 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kaiserslautern x Darmstadt 98 - 31/08 12:30 - DAZN 3",
-      "pubDate": "Sun, 31 Aug 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Sparta Rotterdam x Feyenoord - 31/08 13:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sparta Rotterdam x Feyenoord - 31/08 13:30 - DAZN 4",
@@ -225,9 +218,9 @@
       "guid": ""
     },
     {
-      "title": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - WSE TV",
+      "title": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - WSE TV",
+      "description": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - DAZN 1",
       "pubDate": "Mon, 01 Sep 2025 14:00:00",
       "guid": ""
     },
@@ -239,16 +232,23 @@
       "guid": ""
     },
     {
-      "title": "Suíça (Hóquei) x Áustria (Hóquei) - 01/09 16:30 - WSE TV",
+      "title": "Suíça (Hóquei) x Áustria (Hóquei) - 01/09 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça (Hóquei) x Áustria (Hóquei) - 01/09 16:30 - WSE TV",
+      "description": "Suíça (Hóquei) x Áustria (Hóquei) - 01/09 16:30 - DAZN 1",
       "pubDate": "Mon, 01 Sep 2025 16:30:00",
       "guid": ""
     },
     {
-      "title": "Espanha (Hóquei) x França (Hóquei) - 01/09 19:00 - WSE TV",
+      "title": "Huesca x Eibar - 01/09 18:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Hóquei) x França (Hóquei) - 01/09 19:00 - WSE TV",
+      "description": "Huesca x Eibar - 01/09 18:30 - DAZN 2",
+      "pubDate": "Mon, 01 Sep 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Hóquei) x França (Hóquei) - 01/09 19:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Hóquei) x França (Hóquei) - 01/09 19:00 - DAZN 1",
       "pubDate": "Mon, 01 Sep 2025 19:00:00",
       "guid": ""
     },
@@ -267,23 +267,23 @@
       "guid": ""
     },
     {
-      "title": "Alemanha (Hóquei) x Áustria (Hóquei) - 02/09 14:00 - WSE TV",
+      "title": "Alemanha (Hóquei) x Áustria (Hóquei) - 02/09 14:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Hóquei) x Áustria (Hóquei) - 02/09 14:00 - WSE TV",
+      "description": "Alemanha (Hóquei) x Áustria (Hóquei) - 02/09 14:00 - DAZN 1",
       "pubDate": "Tue, 02 Sep 2025 14:00:00",
       "guid": ""
     },
     {
-      "title": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - WSE TV",
+      "title": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - WSE TV",
+      "description": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - DAZN 1",
       "pubDate": "Tue, 02 Sep 2025 16:30:00",
       "guid": ""
     },
     {
-      "title": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - WSE TV",
+      "title": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - WSE TV",
+      "description": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - DAZN 1",
       "pubDate": "Tue, 02 Sep 2025 19:00:00",
       "guid": ""
     },
@@ -299,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estónia (Basket) x Portugal (Basket) - 03/09 12:45 - RTP2",
       "pubDate": "Wed, 03 Sep 2025 12:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria (Hóquei) x Andorra (Hóquei) - 03/09 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria (Hóquei) x Andorra (Hóquei) - 03/09 14:00 - DAZN 1",
+      "pubDate": "Wed, 03 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (S18) x Portugal (S18) - 03/09 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (S18) x Portugal (S18) - 03/09 14:00 - Canal11",
+      "pubDate": "Wed, 03 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Suíça (Hóquei) x Alemanha (Hóquei) - 03/09 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suíça (Hóquei) x Alemanha (Hóquei) - 03/09 16:30 - DAZN 1",
+      "pubDate": "Wed, 03 Sep 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 03/09 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 03/09 18:00 - Canal11",
+      "pubDate": "Wed, 03 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

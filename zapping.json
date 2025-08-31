@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Vizela x UD Oliveirense - 31/08 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x UD Oliveirense - 31/08 15:30 - SportTV 4",
-      "pubDate": "Sun, 31 Aug 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Estoril Praia - 31/08 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Estoril Praia - 31/08 15:30 - SportTV 2",
-      "pubDate": "Sun, 31 Aug 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Villarreal - 31/08 16:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Villarreal - 31/08 16:00 - DAZN 2",
-      "pubDate": "Sun, 31 Aug 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Monaco x Strasbourg - 31/08 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Monaco x Strasbourg - 31/08 16:15 - SportTV 3",
@@ -285,6 +264,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal) x Sporting (Futsal) - 03/09 21:00 - Canal11",
       "pubDate": "Wed, 03 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Hóquei) x Portugal (Hóquei) - 03/09 21:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Hóquei) x Portugal (Hóquei) - 03/09 21:45 - RTP1",
+      "pubDate": "Wed, 03 Sep 2025 21:45:00",
+      "guid": ""
+    },
+    {
+      "title": "4A x 1B - 04/09 11:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "4A x 1B - 04/09 11:00 - DAZN 1",
+      "pubDate": "Thu, 04 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cazaquistão x País de Gales - 04/09 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cazaquistão x País de Gales - 04/09 15:00 - SportTV 2",
+      "pubDate": "Thu, 04 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "3A x 2B - 04/09 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "3A x 2B - 04/09 15:00 - DAZN 1",
+      "pubDate": "Thu, 04 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Geórgia x Turquia - 04/09 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Geórgia x Turquia - 04/09 17:00 - SportTV 1",
+      "pubDate": "Thu, 04 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega x Finlândia - 04/09 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega x Finlândia - 04/09 17:00 - SportTV 3",
+      "pubDate": "Thu, 04 Sep 2025 17:00:00",
       "guid": ""
     }
   ]

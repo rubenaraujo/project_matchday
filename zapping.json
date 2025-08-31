@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Clara x Est. Amadora - 31/08 20:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Est. Amadora - 31/08 20:30 - SportTV 3",
-      "pubDate": "Sun, 31 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave x SC Braga - 31/08 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x SC Braga - 31/08 20:30 - SportTV 2",
-      "pubDate": "Sun, 31 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x FC Barcelona - 31/08 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x FC Barcelona - 31/08 20:30 - DAZN 1",
-      "pubDate": "Sun, 31 Aug 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Corinthians x Palmeiras - 31/08 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Corinthians x Palmeiras - 31/08 22:30 - Canal11",
@@ -299,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil x Chile - 05/09 01:30 - SportTV 1",
       "pubDate": "Fri, 05 Sep 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Derrotado 2A/3B x Derrotado 3A/2B - 05/09 11:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derrotado 2A/3B x Derrotado 3A/2B - 05/09 11:00 - DAZN 1",
+      "pubDate": "Fri, 05 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Derrotado 1A/4B x Derrotado 4A/1B - 05/09 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derrotado 1A/4B x Derrotado 4A/1B - 05/09 15:00 - DAZN 1",
+      "pubDate": "Fri, 05 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Uganda x Moçambique - 05/09 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Uganda x Moçambique - 05/09 17:00 - SportTV 1",
+      "pubDate": "Fri, 05 Sep 2025 17:00:00",
       "guid": ""
     }
   ]

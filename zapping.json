@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Sparta Rotterdam x Feyenoord - 31/08 13:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sparta Rotterdam x Feyenoord - 31/08 13:30 - DAZN 4",
-      "pubDate": "Sun, 31 Aug 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x Ademar León (Andebol) - 31/08 13:30 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Ademar León (Andebol) - 31/08 13:30 - ABola TV",
-      "pubDate": "Sun, 31 Aug 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico x FC Porto - 31/08 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico x FC Porto - 31/08 14:00 - SportTV +",
-      "pubDate": "Sun, 31 Aug 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Angers x Rennes - 31/08 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angers x Rennes - 31/08 14:00 - SportTV 1",
-      "pubDate": "Sun, 31 Aug 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Manchester City - 31/08 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Manchester City - 31/08 14:00 - DAZN 1",
-      "pubDate": "Sun, 31 Aug 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x West Ham - 31/08 14:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x West Ham - 31/08 14:00 - DAZN 2",
-      "pubDate": "Sun, 31 Aug 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wolfsburg x Mainz - 31/08 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolfsburg x Mainz - 31/08 14:30 - DAZN 3",
@@ -327,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 03/09 18:00 - Canal11",
       "pubDate": "Wed, 03 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Hóquei) x Itália (Hóquei) - 03/09 19:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Hóquei) x Itália (Hóquei) - 03/09 19:00 - DAZN 1",
+      "pubDate": "Wed, 03 Sep 2025 19:00:00",
       "guid": ""
     }
   ]

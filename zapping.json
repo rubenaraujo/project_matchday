@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanyol x Osasuna - 31/08 18:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Osasuna - 31/08 18:30 - DAZN 1",
-      "pubDate": "Sun, 31 Aug 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Köln x SC Freiburg - 31/08 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x SC Freiburg - 31/08 18:30 - DAZN 4",
-      "pubDate": "Sun, 31 Aug 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Crystal Palace - 31/08 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Crystal Palace - 31/08 19:00 - DAZN 3",
-      "pubDate": "Sun, 31 Aug 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Alanyaspor x Besiktas - 31/08 19:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alanyaspor x Besiktas - 31/08 19:30 - SportTV 7",
@@ -285,6 +264,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "2A x 3B - 04/09 18:00 - DAZN 1",
       "pubDate": "Thu, 04 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liechtenstein x Bélgica - 04/09 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liechtenstein x Bélgica - 04/09 19:45 - SportTV 4",
+      "pubDate": "Thu, 04 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos x Polónia - 04/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos x Polónia - 04/09 19:45 - SportTV 2",
+      "pubDate": "Thu, 04 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslováquia x Alemanha - 04/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslováquia x Alemanha - 04/09 19:45 - SportTV 3",
+      "pubDate": "Thu, 04 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bulgária x Espanha - 04/09 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bulgária x Espanha - 04/09 19:45 - SportTV 1",
+      "pubDate": "Thu, 04 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Luxemburgo x Irl. Norte - 04/09 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Luxemburgo x Irl. Norte - 04/09 19:45 - SportTV 6",
+      "pubDate": "Thu, 04 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "1A x 4B - 04/09 21:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1A x 4B - 04/09 21:45 - DAZN 1",
+      "pubDate": "Thu, 04 Sep 2025 21:45:00",
       "guid": ""
     }
   ]

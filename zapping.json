@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Académica OAF x Marialvas - 31/08 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Marialvas - 31/08 17:00 - Canal11",
-      "pubDate": "Sun, 31 Aug 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x Benfica - 31/08 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Benfica - 31/08 18:00 - SportTV 1",
-      "pubDate": "Sun, 31 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Athletic Bilbao - 31/08 18:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Athletic Bilbao - 31/08 18:00 - DAZN 2",
-      "pubDate": "Sun, 31 Aug 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanyol x Osasuna - 31/08 18:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanyol x Osasuna - 31/08 18:30 - DAZN 1",
@@ -278,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Maurícias x Cabo Verde - 04/09 17:00 - SportTV 4",
       "pubDate": "Thu, 04 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "São Tomé e Príncipe x Guiné Equatorial - 04/09 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "São Tomé e Príncipe x Guiné Equatorial - 04/09 17:00 - SportTV 5",
+      "pubDate": "Thu, 04 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angola x Líbia - 04/09 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angola x Líbia - 04/09 17:00 - SportTV 6",
+      "pubDate": "Thu, 04 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Guiné-Bissau x Serra Leoa - 04/09 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Guiné-Bissau x Serra Leoa - 04/09 17:00 - SportTV 2",
+      "pubDate": "Thu, 04 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "2A x 3B - 04/09 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "2A x 3B - 04/09 18:00 - DAZN 1",
+      "pubDate": "Thu, 04 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

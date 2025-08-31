@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Alanyaspor x Besiktas - 31/08 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alanyaspor x Besiktas - 31/08 19:30 - SportTV 7",
-      "pubDate": "Sun, 31 Aug 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Udinese - 31/08 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Udinese - 31/08 19:45 - SportTV 6",
-      "pubDate": "Sun, 31 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Marseille - 31/08 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Marseille - 31/08 19:45 - SportTV 4",
-      "pubDate": "Sun, 31 Aug 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Clara x Est. Amadora - 31/08 20:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Est. Amadora - 31/08 20:30 - SportTV 3",
@@ -306,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1A x 4B - 04/09 21:45 - DAZN 1",
       "pubDate": "Thu, 04 Sep 2025 21:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentina x Venezuela - 05/09 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentina x Venezuela - 05/09 00:30 - SportTV 2",
+      "pubDate": "Fri, 05 Sep 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil x Chile - 05/09 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil x Chile - 05/09 01:30 - SportTV 1",
+      "pubDate": "Fri, 05 Sep 2025 01:30:00",
       "guid": ""
     }
   ]

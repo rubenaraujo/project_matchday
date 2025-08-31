@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Botafogo x Red Bull Bragantino - 30/08 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Botafogo x Red Bull Bragantino - 30/08 22:30 - Canal11",
-      "pubDate": "Sat, 30 Aug 2025 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Sarmiento de Junín x Rosario Central - 30/08 23:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sarmiento de Junín x Rosario Central - 30/08 23:15 - SportTV 3",
@@ -71,9 +64,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Andebol) x Derrotado MF2 - 31/08 13:30 - ABola TV",
+      "title": "FC Porto (Andebol) x Ademar León (Andebol) - 31/08 13:30 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Derrotado MF2 - 31/08 13:30 - ABola TV",
+      "description": "FC Porto (Andebol) x Ademar León (Andebol) - 31/08 13:30 - ABola TV",
       "pubDate": "Sun, 31 Aug 2025 13:30:00",
       "guid": ""
     },
@@ -162,9 +155,9 @@
       "guid": ""
     },
     {
-      "title": "FC Barcelona (Andebol) x Vencedor MF2 - 31/08 16:30 - ABola TV",
+      "title": "FC Barcelona (Andebol) x Sporting (Andebol) - 31/08 16:30 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Andebol) x Vencedor MF2 - 31/08 16:30 - ABola TV",
+      "description": "FC Barcelona (Andebol) x Sporting (Andebol) - 31/08 16:30 - ABola TV",
       "pubDate": "Sun, 31 Aug 2025 16:30:00",
       "guid": ""
     },
@@ -313,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Hóquei) x Itália (Hóquei) - 01/09 21:45 - RTP1",
       "pubDate": "Mon, 01 Sep 2025 21:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (S23) x Gil Vicente (S23) - 02/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (S23) x Gil Vicente (S23) - 02/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 02 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Hóquei) x Áustria (Hóquei) - 02/09 14:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Hóquei) x Áustria (Hóquei) - 02/09 14:00 - WSE TV",
+      "pubDate": "Tue, 02 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - WSE TV",
+      "pubDate": "Tue, 02 Sep 2025 16:30:00",
       "guid": ""
     }
   ]

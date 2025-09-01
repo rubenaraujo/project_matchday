@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - DAZN 1",
-      "pubDate": "Mon, 01 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Basket) x Letónia (Basket) - 01/09 16:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Basket) x Letónia (Basket) - 01/09 16:00 - RTP2",
-      "pubDate": "Mon, 01 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Suíça (Hóquei) x Áustria (Hóquei) - 01/09 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça (Hóquei) x Áustria (Hóquei) - 01/09 16:30 - DAZN 1",
@@ -348,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marrocos x Níger - 05/09 20:00 - SportTV 6",
       "pubDate": "Fri, 05 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1A/4B x 4A/1B - 05/09 21:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1A/4B x 4A/1B - 05/09 21:45 - DAZN 1",
+      "pubDate": "Fri, 05 Sep 2025 21:45:00",
       "guid": ""
     }
   ]

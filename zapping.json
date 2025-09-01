@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sport x Vasco - 01/09 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sport x Vasco - 01/09 00:30 - Canal11",
-      "pubDate": "Mon, 01 Sep 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Hóquei) x Andorra (Hóquei) - 01/09 14:00 - DAZN 1",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália x Estónia - 05/09 19:45 - SportTV 2",
       "pubDate": "Fri, 05 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto x Etiópia - 05/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto x Etiópia - 05/09 20:00 - SportTV 5",
+      "pubDate": "Fri, 05 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

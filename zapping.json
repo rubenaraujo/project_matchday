@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - DAZN 1",
-      "pubDate": "Tue, 02 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Hóquei) x França (Hóquei) - 02/09 21:45 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Hóquei) x França (Hóquei) - 02/09 21:45 - RTP1",
@@ -309,10 +302,10 @@
       "guid": ""
     },
     {
-      "title": "Tigre x Independiente Rivadavia - 06/09 01:15 - SportTV 1",
+      "title": "Tigre x Independiente Rivadavia - 06/09 01:10 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Tigre x Independiente Rivadavia - 06/09 01:15 - SportTV 1",
-      "pubDate": "Sat, 06 Sep 2025 01:15:00",
+      "description": "Tigre x Independiente Rivadavia - 06/09 01:10 - SportTV 1",
+      "pubDate": "Sat, 06 Sep 2025 01:10:00",
       "guid": ""
     },
     {
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Letónia x Sérvia - 06/09 14:00 - SportTV 2",
       "pubDate": "Sat, 06 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vencedor RQ7/8 1 x Vencedor RQ7/8 2 - 06/09 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vencedor RQ7/8 1 x Vencedor RQ7/8 2 - 06/09 15:00 - DAZN 1",
+      "pubDate": "Sat, 06 Sep 2025 15:00:00",
       "guid": ""
     }
   ]

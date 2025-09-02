@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Andorra (Hóquei) x Suíça (Hóquei) - 02/09 16:30 - DAZN 1",
-      "pubDate": "Tue, 02 Sep 2025 16:30:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Hóquei) x Espanha (Hóquei) - 02/09 19:00 - DAZN 1",
@@ -333,6 +326,13 @@
       "title": "Aparecida x Nogueirense FC - 06/09 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aparecida x Nogueirense FC - 06/09 14:00 - Canal11",
+      "pubDate": "Sat, 06 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Letónia x Sérvia - 06/09 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Letónia x Sérvia - 06/09 14:00 - SportTV 2",
       "pubDate": "Sat, 06 Sep 2025 14:00:00",
       "guid": ""
     }

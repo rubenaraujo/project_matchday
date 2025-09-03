@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 03/09 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 03/09 18:00 - Canal11",
-      "pubDate": "Wed, 03 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Andebol) x Sporting (Andebol) - 03/09 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x Sporting (Andebol) - 03/09 18:30 - SportingTv",
-      "pubDate": "Wed, 03 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Hóquei) x Itália (Hóquei) - 03/09 19:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Hóquei) x Itália (Hóquei) - 03/09 19:00 - DAZN 1",
-      "pubDate": "Wed, 03 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal) x Sporting (Futsal) - 03/09 21:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal) x Sporting (Futsal) - 03/09 21:00 - Canal11",
@@ -326,6 +305,20 @@
       "title": "GD Árvore (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 06/09 16:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Árvore (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 06/09 16:00 - C11 Stream",
+      "pubDate": "Sat, 06 Sep 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Novasemente (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 06/09 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Novasemente (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 06/09 16:00 - C11 Stream",
+      "pubDate": "Sat, 06 Sep 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Andebol) x Póvoa AC (Andebol) - 06/09 16:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x Póvoa AC (Andebol) - 06/09 16:00 - AndebolTV",
       "pubDate": "Sat, 06 Sep 2025 16:00:00",
       "guid": ""
     }

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Geórgia x Turquia - 04/09 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Geórgia x Turquia - 04/09 17:00 - SportTV 1",
-      "pubDate": "Thu, 04 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega x Finlândia - 04/09 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x Finlândia - 04/09 17:00 - SportTV 3",
-      "pubDate": "Thu, 04 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Maurícias x Cabo Verde - 04/09 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Maurícias x Cabo Verde - 04/09 17:00 - SportTV 4",
-      "pubDate": "Thu, 04 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "São Tomé e Príncipe x Guiné Equatorial - 04/09 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "São Tomé e Príncipe x Guiné Equatorial - 04/09 17:00 - SportTV 5",
-      "pubDate": "Thu, 04 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Angola x Líbia - 04/09 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angola x Líbia - 04/09 17:00 - SportTV 6",
-      "pubDate": "Thu, 04 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Guiné-Bissau x Serra Leoa - 04/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Guiné-Bissau x Serra Leoa - 04/09 17:00 - SportTV 2",
-      "pubDate": "Thu, 04 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Hóquei) x Áustria (Hóquei) - 04/09 18:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Hóquei) x Áustria (Hóquei) - 04/09 18:00 - DAZN 1",
@@ -327,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Derrotado MF1 x Derrotado MF2 - 06/09 17:00 - ABola TV",
       "pubDate": "Sat, 06 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Zaragoza x Valladolid - 06/09 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Zaragoza x Valladolid - 06/09 17:30 - DAZN 2",
+      "pubDate": "Sat, 06 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Derrotado MF1 x Derrotado MF2 - 06/09 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derrotado MF1 x Derrotado MF2 - 06/09 18:00 - DAZN 1",
+      "pubDate": "Sat, 06 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

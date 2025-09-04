@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Hóquei) x Andorra (Hóquei) - 04/09 21:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Hóquei) x Andorra (Hóquei) - 04/09 21:45 - RTP1",
-      "pubDate": "Thu, 04 Sep 2025 21:45:00",
-      "guid": ""
-    },
-    {
       "title": "Uruguai x Peru - 05/09 00:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Uruguai x Peru - 05/09 00:30 - SportTV 6",
@@ -134,9 +127,9 @@
       "guid": ""
     },
     {
-      "title": "Espanha (Hóquei) x 4A/1B - 05/09 21:45 - DAZN 1",
+      "title": "Espanha (Hóquei) x Portugal (Hóquei) - 05/09 21:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Hóquei) x 4A/1B - 05/09 21:45 - DAZN 1",
+      "description": "Espanha (Hóquei) x Portugal (Hóquei) - 05/09 21:45 - DAZN 1",
       "pubDate": "Fri, 05 Sep 2025 21:45:00",
       "guid": ""
     },
@@ -306,6 +299,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "São Marino x Bósnia - 06/09 19:45 - SportTV 5",
       "pubDate": "Sat, 06 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Futsal) x Ferreira do Zêzere (Futsal) - 06/09 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Futsal) x Ferreira do Zêzere (Futsal) - 06/09 20:00 - C11 Stream",
+      "pubDate": "Sat, 06 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Santa Clara - 06/09 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Santa Clara - 06/09 20:30 - SportTV 1",
+      "pubDate": "Sat, 06 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 06/09 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 06/09 21:00 - Canal11",
+      "pubDate": "Sat, 06 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vencedor MF1 x Vencedor MF2 - 06/09 21:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vencedor MF1 x Vencedor MF2 - 06/09 21:15 - DAZN 1",
+      "pubDate": "Sat, 06 Sep 2025 21:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Arábia Saudita (S18) - 07/09 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Arábia Saudita (S18) - 07/09 13:00 - Canal11",
+      "pubDate": "Sun, 07 Sep 2025 13:00:00",
       "guid": ""
     }
   ]

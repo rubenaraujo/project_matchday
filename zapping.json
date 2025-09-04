@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S20) x Chéquia (S20) - 04/09 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S20) x Chéquia (S20) - 04/09 18:30 - Canal11",
-      "pubDate": "Thu, 04 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Liechtenstein x Bélgica - 04/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liechtenstein x Bélgica - 04/09 19:45 - SportTV 4",
-      "pubDate": "Thu, 04 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos x Polónia - 04/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos x Polónia - 04/09 19:45 - SportTV 2",
-      "pubDate": "Thu, 04 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslováquia x Alemanha - 04/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslováquia x Alemanha - 04/09 19:45 - SportTV 3",
-      "pubDate": "Thu, 04 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bulgária x Espanha - 04/09 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bulgária x Espanha - 04/09 19:45 - SportTV 1",
-      "pubDate": "Thu, 04 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Luxemburgo x Irl. Norte - 04/09 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Luxemburgo x Irl. Norte - 04/09 19:45 - SportTV 6",
-      "pubDate": "Thu, 04 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Hóquei) x Andorra (Hóquei) - 04/09 21:45 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Hóquei) x Andorra (Hóquei) - 04/09 21:45 - RTP1",
@@ -82,6 +40,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Hóquei) x Suíça (Hóquei) - 05/09 11:00 - DAZN 1",
       "pubDate": "Fri, 05 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Derrotado 1A/3B x Derrotado 4A/1B - 05/09 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derrotado 1A/3B x Derrotado 4A/1B - 05/09 15:00 - DAZN 1",
+      "pubDate": "Fri, 05 Sep 2025 15:00:00",
       "guid": ""
     },
     {

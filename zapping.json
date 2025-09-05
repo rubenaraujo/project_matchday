@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Uruguai x Peru - 05/09 00:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Uruguai x Peru - 05/09 00:30 - SportTV 6",
-      "pubDate": "Fri, 05 Sep 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Argentina x Venezuela - 05/09 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Venezuela - 05/09 00:30 - SportTV 2",
-      "pubDate": "Fri, 05 Sep 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Colômbia x Bolivia - 05/09 00:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia x Bolivia - 05/09 00:30 - SportTV 3",
-      "pubDate": "Fri, 05 Sep 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Brasil x Chile - 05/09 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil x Chile - 05/09 01:30 - SportTV 1",
@@ -333,6 +312,13 @@
       "title": "Portugal (S18) x Arábia Saudita (S18) - 07/09 13:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S18) x Arábia Saudita (S18) - 07/09 13:00 - Canal11",
+      "pubDate": "Sun, 07 Sep 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund (Andebol Feminino) x Gyori ETO (Andebol Feminino) - 07/09 13:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund (Andebol Feminino) x Gyori ETO (Andebol Feminino) - 07/09 13:00 - SportTV 2",
       "pubDate": "Sun, 07 Sep 2025 13:00:00",
       "guid": ""
     }

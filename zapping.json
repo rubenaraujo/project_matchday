@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Uganda x Moçambique - 05/09 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Uganda x Moçambique - 05/09 17:00 - SportTV 1",
-      "pubDate": "Fri, 05 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bera Bera (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 05/09 17:15 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bera Bera (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 05/09 17:15 - ABola TV",
-      "pubDate": "Fri, 05 Sep 2025 17:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Vila Flor SC (Praia) x ACD O Sótão (Praia) - 05/09 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vila Flor SC (Praia) x ACD O Sótão (Praia) - 05/09 17:30 - Canal11",
-      "pubDate": "Fri, 05 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "França (Hóquei) x Itália (Hóquei) - 05/09 18:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (Hóquei) x Itália (Hóquei) - 05/09 18:00 - DAZN 1",
@@ -232,9 +211,9 @@
       "guid": ""
     },
     {
-      "title": "Bera Bera/Madeira SAD x Beti-Onak/Benfica - 06/09 19:00 - ABola TV",
+      "title": "Bera Bera (Andebol Feminino) x Beti-Onak/Benfica - 06/09 19:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Bera Bera/Madeira SAD x Beti-Onak/Benfica - 06/09 19:00 - ABola TV",
+      "description": "Bera Bera (Andebol Feminino) x Beti-Onak/Benfica - 06/09 19:00 - ABola TV",
       "pubDate": "Sat, 06 Sep 2025 19:00:00",
       "guid": ""
     },
@@ -320,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sacavenense x Rabo de Peixe - 07/09 16:30 - Canal11",
       "pubDate": "Sun, 07 Sep 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Macedónia do Norte x Liechtenstein - 07/09 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Macedónia do Norte x Liechtenstein - 07/09 17:00 - SportTV 2",
+      "pubDate": "Sun, 07 Sep 2025 17:00:00",
       "guid": ""
     }
   ]

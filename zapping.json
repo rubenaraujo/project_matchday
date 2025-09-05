@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "França (Hóquei) x Itália (Hóquei) - 05/09 18:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Hóquei) x Itália (Hóquei) - 05/09 18:00 - DAZN 1",
-      "pubDate": "Fri, 05 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Albacete x Mirandés - 05/09 18:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Albacete x Mirandés - 05/09 18:30 - DAZN 2",
@@ -92,9 +85,9 @@
       "guid": ""
     },
     {
-      "title": "AD Buarcos 2017 (Praia) x Finalista 2 - 06/09 13:00 - Canal11",
+      "title": "AD Buarcos 2017 (Praia) x ACD O Sótão (Praia) - 06/09 13:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Buarcos 2017 (Praia) x Finalista 2 - 06/09 13:00 - Canal11",
+      "description": "AD Buarcos 2017 (Praia) x ACD O Sótão (Praia) - 06/09 13:00 - Canal11",
       "pubDate": "Sat, 06 Sep 2025 13:00:00",
       "guid": ""
     },
@@ -305,6 +298,13 @@
       "title": "Macedónia do Norte x Liechtenstein - 07/09 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Macedónia do Norte x Liechtenstein - 07/09 17:00 - SportTV 2",
+      "pubDate": "Sun, 07 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lituânia x Países Baixos - 07/09 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lituânia x Países Baixos - 07/09 17:00 - SportTV 1",
       "pubDate": "Sun, 07 Sep 2025 17:00:00",
       "guid": ""
     }

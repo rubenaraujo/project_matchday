@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Zaragoza x Valladolid - 06/09 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Zaragoza x Valladolid - 06/09 17:30 - DAZN 2",
-      "pubDate": "Sat, 06 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Águias Santa Marta (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 06/09 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águias Santa Marta (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 06/09 19:00 - C11 Stream",
@@ -130,6 +123,13 @@
       "title": "Lituânia x Países Baixos - 07/09 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lituânia x Países Baixos - 07/09 17:00 - SportTV 1",
+      "pubDate": "Sun, 07 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gondomar SC x Sousense - 07/09 17:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gondomar SC x Sousense - 07/09 17:00 - Online",
       "pubDate": "Sun, 07 Sep 2025 17:00:00",
       "guid": ""
     },
@@ -285,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bielorrússia (Praia) x Portugal (Praia) - 09/09 13:00 - SportTV +",
       "pubDate": "Tue, 09 Sep 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Namíbia x São Tomé e Príncipe - 09/09 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Namíbia x São Tomé e Príncipe - 09/09 14:00 - SportTV 1",
+      "pubDate": "Tue, 09 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (S23) x FC Vizela (S23) - 09/09 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (S23) x FC Vizela (S23) - 09/09 16:00 - C11 Stream",
+      "pubDate": "Tue, 09 Sep 2025 16:00:00",
       "guid": ""
     }
   ]

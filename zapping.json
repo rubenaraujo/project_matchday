@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "GD Árvore (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 06/09 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Árvore (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 06/09 16:00 - C11 Stream",
-      "pubDate": "Sat, 06 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Novasemente (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 06/09 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Novasemente (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 06/09 16:00 - C11 Stream",
-      "pubDate": "Sat, 06 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Póvoa AC (Andebol) - 06/09 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Póvoa AC (Andebol) - 06/09 16:00 - AndebolTV",
-      "pubDate": "Sat, 06 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Arménia x Portugal - 06/09 17:00 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arménia x Portugal - 06/09 17:00 - RTP1",
@@ -306,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Futsal) x Sporting (Futsal) - 08/09 20:30 - Canal11",
       "pubDate": "Mon, 08 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentinos Juniors x Lanús - 09/09 01:10 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentinos Juniors x Lanús - 09/09 01:10 - SportTV 1",
+      "pubDate": "Tue, 09 Sep 2025 01:10:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Praia Feminino) x Suíça (Praia Feminino) - 09/09 11:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Praia Feminino) x Suíça (Praia Feminino) - 09/09 11:45 - SportTV +",
+      "pubDate": "Tue, 09 Sep 2025 11:45:00",
       "guid": ""
     }
   ]

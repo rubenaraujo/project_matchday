@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Arménia x Portugal - 06/09 17:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arménia x Portugal - 06/09 17:00 - RTP1",
-      "pubDate": "Sat, 06 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Inglaterra x Andorra - 06/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Inglaterra x Andorra - 06/09 17:00 - SportTV 2",
-      "pubDate": "Sat, 06 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nigéria x Ruanda - 06/09 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nigéria x Ruanda - 06/09 17:00 - SportTV 3",
-      "pubDate": "Sat, 06 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x Belenenses (Andebol) - 06/09 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x Belenenses (Andebol) - 06/09 17:00 - BTv",
-      "pubDate": "Sat, 06 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Zaragoza x Valladolid - 06/09 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Zaragoza x Valladolid - 06/09 17:30 - DAZN 2",
@@ -299,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Praia Feminino) x Suíça (Praia Feminino) - 09/09 11:45 - SportTV +",
       "pubDate": "Tue, 09 Sep 2025 11:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara (S23) x Torreense (S23) - 09/09 12:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x Torreense (S23) - 09/09 12:00 - C11 Stream",
+      "pubDate": "Tue, 09 Sep 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bielorrússia (Praia) x Portugal (Praia) - 09/09 13:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bielorrússia (Praia) x Portugal (Praia) - 09/09 13:00 - SportTV +",
+      "pubDate": "Tue, 09 Sep 2025 13:00:00",
       "guid": ""
     }
   ]

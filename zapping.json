@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia x Santa Clara - 06/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Santa Clara - 06/09 20:30 - SportTV 1",
-      "pubDate": "Sat, 06 Sep 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 06/09 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 06/09 21:00 - Canal11",
-      "pubDate": "Sat, 06 Sep 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Hóquei) x França (Hóquei) - 06/09 21:45 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Hóquei) x França (Hóquei) - 06/09 21:45 - RTP1",
@@ -285,6 +271,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Noruega x Moldávia - 09/09 19:45 - SportTV 4",
       "pubDate": "Tue, 09 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sérvia x Inglaterra - 09/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sérvia x Inglaterra - 09/09 19:45 - SportTV 2",
+      "pubDate": "Tue, 09 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bósnia x Áustria - 09/09 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bósnia x Áustria - 09/09 19:45 - SportTV 6",
+      "pubDate": "Tue, 09 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "França x Islândia - 09/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França x Islândia - 09/09 19:45 - SportTV 3",
+      "pubDate": "Tue, 09 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Angola x Maurícias - 09/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angola x Maurícias - 09/09 20:00 - SportTV 5",
+      "pubDate": "Tue, 09 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

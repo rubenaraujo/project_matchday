@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Turquia x Espanha - 07/09 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia x Espanha - 07/09 19:45 - SportTV 1",
-      "pubDate": "Sun, 07 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Alemanha x Irl. Norte - 07/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha x Irl. Norte - 07/09 19:45 - SportTV 2",
-      "pubDate": "Sun, 07 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia x Finlândia - 07/09 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia x Finlândia - 07/09 19:45 - SportTV 6",
-      "pubDate": "Sun, 07 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Luxemburgo x Eslováquia - 07/09 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Luxemburgo x Eslováquia - 07/09 19:45 - SportTV 5",
-      "pubDate": "Sun, 07 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bélgica x Cazaquistão - 07/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Cazaquistão - 07/09 19:45 - SportTV 3",
-      "pubDate": "Sun, 07 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Quinta dos Lombos (Futsal) x Eléctrico (Futsal) - 07/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Futsal) x Eléctrico (Futsal) - 07/09 20:00 - Canal11",
-      "pubDate": "Sun, 07 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Moçambique x Botswana - 08/09 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moçambique x Botswana - 08/09 14:00 - SportTV 1",
@@ -326,6 +284,27 @@
       "title": "Vencedor OF7 x Vencedor OF8 - 12/09 00:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vencedor OF7 x Vencedor OF8 - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1A x 2H - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1A x 2H - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1H x 2A - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1H x 2A - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1D x 2E - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1D x 2E - 12/09 00:00 - RTP Play",
       "pubDate": "Fri, 12 Sep 2025 00:00:00",
       "guid": ""
     }

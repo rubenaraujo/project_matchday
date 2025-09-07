@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia Dortmund (Andebol Feminino) x Gyori ETO (Andebol Feminino) - 07/09 13:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund (Andebol Feminino) x Gyori ETO (Andebol Feminino) - 07/09 13:00 - SportTV 2",
-      "pubDate": "Sun, 07 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sacavenense x Rabo de Peixe - 07/09 16:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sacavenense x Rabo de Peixe - 07/09 16:30 - Canal11",
@@ -333,6 +326,20 @@
       "title": "Semifinalista 1 x Semifinalista 2 - 12/09 00:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Semifinalista 1 x Semifinalista 2 - 12/09 00:00 - RTP2",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Semifinalista 3 x Semifinalista 4 - 12/09 00:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Semifinalista 3 x Semifinalista 4 - 12/09 00:00 - RTP2",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finalista 1 x Finalista 2 - 12/09 00:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finalista 1 x Finalista 2 - 12/09 00:00 - RTP2",
       "pubDate": "Fri, 12 Sep 2025 00:00:00",
       "guid": ""
     }

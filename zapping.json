@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Namíbia x São Tomé e Príncipe - 09/09 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Namíbia x São Tomé e Príncipe - 09/09 14:00 - SportTV 1",
-      "pubDate": "Tue, 09 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alemanha (Hóquei Feminino) x Inglaterra (Hóquei Feminino) - 09/09 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Hóquei Feminino) x Inglaterra (Hóquei Feminino) - 09/09 14:00 - DAZN 1",
-      "pubDate": "Tue, 09 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave (S23) x FC Vizela (S23) - 09/09 16:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (S23) x FC Vizela (S23) - 09/09 16:00 - C11 Stream",
@@ -319,6 +305,20 @@
       "title": "1D x 2E - 12/09 00:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "1D x 2E - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1E x 2D - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1E x 2D - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1B x 2G - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1B x 2G - 12/09 00:00 - RTP Play",
       "pubDate": "Fri, 12 Sep 2025 00:00:00",
       "guid": ""
     }

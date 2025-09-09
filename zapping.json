@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Polónia (S20) x Portugal (S20) - 09/09 12:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia (S20) x Portugal (S20) - 09/09 12:30 - Canal11",
-      "pubDate": "Tue, 09 Sep 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bielorrússia (Praia) x Portugal (Praia) - 09/09 13:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bielorrússia (Praia) x Portugal (Praia) - 09/09 13:00 - SportTV +",
-      "pubDate": "Tue, 09 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Namíbia x São Tomé e Príncipe - 09/09 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Namíbia x São Tomé e Príncipe - 09/09 14:00 - SportTV 1",
@@ -148,9 +134,9 @@
       "guid": ""
     },
     {
-      "title": "Chile x Uruguai - 10/09 00:30 - SportTV 2",
+      "title": "Bolivia x Brasil - 10/09 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Chile x Uruguai - 10/09 00:30 - SportTV 2",
+      "description": "Bolivia x Brasil - 10/09 00:30 - SportTV 2",
       "pubDate": "Wed, 10 Sep 2025 00:30:00",
       "guid": ""
     },
@@ -319,6 +305,20 @@
       "title": "1A x 2H - 12/09 00:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "1A x 2H - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1H x 2A - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1H x 2A - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1D x 2E - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1D x 2E - 12/09 00:00 - RTP Play",
       "pubDate": "Fri, 12 Sep 2025 00:00:00",
       "guid": ""
     }

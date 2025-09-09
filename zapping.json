@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rio Ave (S23) x FC Vizela (S23) - 09/09 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x FC Vizela (S23) - 09/09 16:00 - C11 Stream",
-      "pubDate": "Tue, 09 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "África do Sul x Nigéria - 09/09 17:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "África do Sul x Nigéria - 09/09 17:00 - SportTV 4",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1C x 2F - 12/09 00:00 - RTP Play",
       "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1F x 2C - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1F x 2C - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Derrotado 2A/3B x Derrotado 3A/2B - 12/09 11:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derrotado 2A/3B x Derrotado 3A/2B - 12/09 11:00 - DAZN 1",
+      "pubDate": "Fri, 12 Sep 2025 11:00:00",
       "guid": ""
     }
   ]

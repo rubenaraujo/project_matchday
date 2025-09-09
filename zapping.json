@@ -321,6 +321,20 @@
       "description": "1B x 2G - 12/09 00:00 - RTP Play",
       "pubDate": "Fri, 12 Sep 2025 00:00:00",
       "guid": ""
+    },
+    {
+      "title": "1G x 2B - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1G x 2B - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1C x 2F - 12/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1C x 2F - 12/09 00:00 - RTP Play",
+      "pubDate": "Fri, 12 Sep 2025 00:00:00",
+      "guid": ""
     }
   ]
 }

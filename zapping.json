@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha (Hóquei Feminino) x Portugal (Hóquei Feminino) - 10/09 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Hóquei Feminino) x Portugal (Hóquei Feminino) - 10/09 19:30 - DAZN 1",
-      "pubDate": "Wed, 10 Sep 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Magdeburg (Andebol) x PSG (Andebol) - 10/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Magdeburg (Andebol) x PSG (Andebol) - 10/09 19:45 - SportTV 3",
-      "pubDate": "Wed, 10 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Águas Santas (Andebol) x FC Gaia (Andebol) - 10/09 21:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águas Santas (Andebol) x FC Gaia (Andebol) - 10/09 21:00 - AndebolTV",
@@ -340,6 +326,13 @@
       "title": "FC Felgueiras x Benfica - 13/09 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Felgueiras x Benfica - 13/09 11:00 - SportTV 1",
+      "pubDate": "Sat, 13 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos (Voleibol) x Catar (Voleibol) - 13/09 11:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos (Voleibol) x Catar (Voleibol) - 13/09 11:00 - RTP Play",
       "pubDate": "Sat, 13 Sep 2025 11:00:00",
       "guid": ""
     }

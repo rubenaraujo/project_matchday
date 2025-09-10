@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Itália (Praia) x Portugal (Praia) - 10/09 17:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Praia) x Portugal (Praia) - 10/09 17:00 - SportTV +",
-      "pubDate": "Wed, 10 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia (Futsal Feminino) x Portugal (Futsal Feminino) - 10/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia (Futsal Feminino) x Portugal (Futsal Feminino) - 10/09 17:00 - Canal11",
-      "pubDate": "Wed, 10 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Hóquei Feminino) x Itália (Hóquei Feminino) - 10/09 17:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Hóquei Feminino) x Itália (Hóquei Feminino) - 10/09 17:00 - DAZN 1",
-      "pubDate": "Wed, 10 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "CS Dinamo Bucuresti (Andebol) x Sporting (Andebol) - 10/09 17:45 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CS Dinamo Bucuresti (Andebol) x Sporting (Andebol) - 10/09 17:45 - SportingTv",
@@ -50,16 +29,16 @@
       "guid": ""
     },
     {
-      "title": "4A x Alemanha (Hóquei Feminino) - 11/09 11:00 - DAZN 1",
+      "title": "França (Hóquei Feminino) x Alemanha (Hóquei Feminino) - 11/09 11:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "4A x Alemanha (Hóquei Feminino) - 11/09 11:00 - DAZN 1",
+      "description": "França (Hóquei Feminino) x Alemanha (Hóquei Feminino) - 11/09 11:00 - DAZN 1",
       "pubDate": "Thu, 11 Sep 2025 11:00:00",
       "guid": ""
     },
     {
-      "title": "3A x Suíça (Hóquei Feminino) - 11/09 14:00 - DAZN 1",
+      "title": "Itália (Hóquei Feminino) x Suíça (Hóquei Feminino) - 11/09 14:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "3A x Suíça (Hóquei Feminino) - 11/09 14:00 - DAZN 1",
+      "description": "Itália (Hóquei Feminino) x Suíça (Hóquei Feminino) - 11/09 14:00 - DAZN 1",
       "pubDate": "Thu, 11 Sep 2025 14:00:00",
       "guid": ""
     },
@@ -341,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Canadá (Voleibol) x Líbia (Voleibol) - 13/09 03:30 - RTP Play",
       "pubDate": "Sat, 13 Sep 2025 03:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cuba (Voleibol) x Portugal (Voleibol) - 13/09 06:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cuba (Voleibol) x Portugal (Voleibol) - 13/09 06:30 - RTP2",
+      "pubDate": "Sat, 13 Sep 2025 06:30:00",
       "guid": ""
     }
   ]

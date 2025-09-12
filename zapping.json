@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Filipinas (Voleibol) x Tunísia (Voleibol) - 12/09 12:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Filipinas (Voleibol) x Tunísia (Voleibol) - 12/09 12:00 - RTP Play",
-      "pubDate": "Fri, 12 Sep 2025 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos (Hóquei Feminino) x Alemanha (Hóquei Feminino) - 12/09 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos (Hóquei Feminino) x Alemanha (Hóquei Feminino) - 12/09 14:00 - DAZN 1",
-      "pubDate": "Fri, 12 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Hóquei Feminino) x França (Hóquei Feminino) - 12/09 17:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Hóquei Feminino) x França (Hóquei Feminino) - 12/09 17:00 - DAZN 3",
@@ -327,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Internazionale - 13/09 17:00 - SportTV 6",
       "pubDate": "Sat, 13 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusit. Évora x Atlético CP - 13/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusit. Évora x Atlético CP - 13/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 13 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juve Lis (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 13/09 17:15 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juve Lis (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 13/09 17:15 - AndebolTV",
+      "pubDate": "Sat, 13 Sep 2025 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Tottenham - 13/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Tottenham - 13/09 17:30 - DAZN 1",
+      "pubDate": "Sat, 13 Sep 2025 17:30:00",
       "guid": ""
     }
   ]

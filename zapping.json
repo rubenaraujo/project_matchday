@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Santa Clara - 12/09 20:15 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Santa Clara - 12/09 20:15 - BTv",
-      "pubDate": "Fri, 12 Sep 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x CD Tondela - 12/09 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x CD Tondela - 12/09 20:15 - SportTV 1",
-      "pubDate": "Fri, 12 Sep 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal da Devesa (Andebol) x FC Porto (Andebol) - 12/09 21:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal da Devesa (Andebol) x FC Porto (Andebol) - 12/09 21:00 - PortoCanal",
-      "pubDate": "Fri, 12 Sep 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Racing Club x San Lorenzo - 12/09 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Club x San Lorenzo - 12/09 23:00 - SportTV 1",
@@ -298,6 +277,13 @@
       "title": "Ferreira do Zêzere (Futsal) x Quinta dos Lombos (Futsal) - 13/09 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x Quinta dos Lombos (Futsal) - 13/09 18:00 - C11 Stream",
+      "pubDate": "Sat, 13 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ADCR Caxinas Poça Barca (Futsal) x Leões Porto Salvo (Futsal) - 13/09 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ADCR Caxinas Poça Barca (Futsal) x Leões Porto Salvo (Futsal) - 13/09 18:00 - C11 Stream",
       "pubDate": "Sat, 13 Sep 2025 18:00:00",
       "guid": ""
     }

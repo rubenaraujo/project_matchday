@@ -1,23 +1,9 @@
 {
   "items": [
     {
-      "title": "Al-Ittihad Jeddah x Al-Fateh - 12/09 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Fateh - 12/09 19:00 - SportTV 2",
-      "pubDate": "Fri, 12 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bayer Leverkusen x Eintracht Frankfurt - 12/09 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayer Leverkusen x Eintracht Frankfurt - 12/09 19:30 - DAZN 1",
-      "pubDate": "Fri, 12 Sep 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Hóquei Feminino) x Itália (Hóquei Feminino) - 12/09 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Hóquei Feminino) x Itália (Hóquei Feminino) - 12/09 19:30 - DAZN 3",
       "pubDate": "Fri, 12 Sep 2025 19:30:00",
       "guid": ""
     },
@@ -334,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Athletic Bilbao x Alavés - 13/09 17:30 - DAZN 4",
       "pubDate": "Sat, 13 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "NEC x PSV - 13/09 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "NEC x PSV - 13/09 17:45 - DAZN 3",
+      "pubDate": "Sat, 13 Sep 2025 17:45:00",
       "guid": ""
     }
   ]

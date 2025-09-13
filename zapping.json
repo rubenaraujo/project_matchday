@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Canadá (Voleibol) x Líbia (Voleibol) - 13/09 03:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Canadá (Voleibol) x Líbia (Voleibol) - 13/09 03:30 - RTP Play",
-      "pubDate": "Sat, 13 Sep 2025 03:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cuba (Voleibol) x Portugal (Voleibol) - 13/09 06:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cuba (Voleibol) x Portugal (Voleibol) - 13/09 06:30 - RTP2",
@@ -347,6 +340,13 @@
       "title": "Brentford x Chelsea - 13/09 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brentford x Chelsea - 13/09 20:00 - DAZN 1",
+      "pubDate": "Sat, 13 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Villarreal - 13/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Villarreal - 13/09 20:00 - DAZN 2",
       "pubDate": "Sat, 13 Sep 2025 20:00:00",
       "guid": ""
     }

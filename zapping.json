@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Polónia (Voleibol) x Roménia (Voleibol) - 13/09 14:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia (Voleibol) x Roménia (Voleibol) - 13/09 14:30 - RTP Play",
-      "pubDate": "Sat, 13 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Heidenheim 1846 x Borussia Dortmund - 13/09 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Heidenheim 1846 x Borussia Dortmund - 13/09 14:30 - DAZN 4",
-      "pubDate": "Sat, 13 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Wolverhampton - 13/09 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Wolverhampton - 13/09 15:00 - DAZN 2",
-      "pubDate": "Sat, 13 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Leeds United - 13/09 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Leeds United - 13/09 15:00 - DAZN 3",
-      "pubDate": "Sat, 13 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses (Andebol) x ABC (Andebol) - 13/09 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x ABC (Andebol) - 13/09 15:00 - AndebolTV",
-      "pubDate": "Sat, 13 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Gaia (Andebol) x Marítimo (Andebol) - 13/09 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Gaia (Andebol) x Marítimo (Andebol) - 13/09 15:00 - ABola TV",
-      "pubDate": "Sat, 13 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Sociedad x Real Madrid - 13/09 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Sociedad x Real Madrid - 13/09 15:15 - DAZN 1",
@@ -299,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estudiantes x River Plate - 13/09 23:00 - SportTV 3",
       "pubDate": "Sat, 13 Sep 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fluminense x Corinthians - 14/09 01:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fluminense x Corinthians - 14/09 01:00 - Canal11",
+      "pubDate": "Sun, 14 Sep 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentina (Voleibol) x Finlândia (Voleibol) - 14/09 03:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentina (Voleibol) x Finlândia (Voleibol) - 14/09 03:30 - RTP Play",
+      "pubDate": "Sun, 14 Sep 2025 03:30:00",
       "guid": ""
     }
   ]

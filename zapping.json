@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Feyenoord x Heerenveen - 13/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Heerenveen - 13/09 20:00 - DAZN 3",
-      "pubDate": "Sat, 13 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x Sporting - 13/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Sporting - 13/09 20:30 - SportTV 1",
-      "pubDate": "Sat, 13 Sep 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "ABC (Andebol Feminino) x AA S. Pedro do Sul (Andebol Feminino) - 13/09 21:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ABC (Andebol Feminino) x AA S. Pedro do Sul (Andebol Feminino) - 13/09 21:00 - AndebolTV",
-      "pubDate": "Sat, 13 Sep 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Palmeiras x Internacional - 13/09 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Internacional - 13/09 22:30 - Canal11",
@@ -277,6 +256,13 @@
       "title": "Atlético CP (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/09 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/09 17:00 - C11 Stream",
+      "pubDate": "Sun, 14 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Damaiense (Feminino) - 14/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Damaiense (Feminino) - 14/09 17:00 - C11 Stream",
       "pubDate": "Sun, 14 Sep 2025 17:00:00",
       "guid": ""
     }

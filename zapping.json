@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Andebol) x Benfica (Andebol) - 13/09 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Benfica (Andebol) - 13/09 18:30 - SportingTv",
-      "pubDate": "Sat, 13 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Hóquei Feminino) x Portugal (Hóquei Feminino) - 13/09 19:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Hóquei Feminino) x Portugal (Hóquei Feminino) - 13/09 19:30 - DAZN 4",
-      "pubDate": "Sat, 13 Sep 2025 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Fiorentina x Napoli - 13/09 19:45 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Napoli - 13/09 19:45 - SportTV 7",
@@ -221,6 +207,20 @@
       "title": "Leões Porto Salvo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 14/09 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 14/09 15:00 - C11 Stream",
+      "pubDate": "Sun, 14 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x Rio Ave (Futsal) - 14/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Rio Ave (Futsal) - 14/09 15:00 - C11 Stream",
+      "pubDate": "Sun, 14 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x SC Braga (Futsal) - 14/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x SC Braga (Futsal) - 14/09 15:00 - Canal11",
       "pubDate": "Sun, 14 Sep 2025 15:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estados Unidos (Voleibol) x Colômbia (Voleibol) - 13/09 03:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estados Unidos (Voleibol) x Colômbia (Voleibol) - 13/09 03:00 - RTP Play",
-      "pubDate": "Sat, 13 Sep 2025 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Canadá (Voleibol) x Líbia (Voleibol) - 13/09 03:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Canadá (Voleibol) x Líbia (Voleibol) - 13/09 03:30 - RTP Play",
@@ -347,6 +340,13 @@
       "title": "Futsal Feijó (Futsal Feminino) x Benfica (Futsal Feminino) - 13/09 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Futsal Feijó (Futsal Feminino) x Benfica (Futsal Feminino) - 13/09 20:00 - Canal11",
+      "pubDate": "Sat, 13 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Chelsea - 13/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Chelsea - 13/09 20:00 - DAZN 1",
       "pubDate": "Sat, 13 Sep 2025 20:00:00",
       "guid": ""
     }

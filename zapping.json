@@ -8,20 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Juventus x Internazionale - 13/09 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Internazionale - 13/09 17:00 - SportTV 6",
-      "pubDate": "Sat, 13 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusit. Évora x Atlético CP - 13/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusit. Évora x Atlético CP - 13/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 13 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Juve Lis (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 13/09 17:15 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juve Lis (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 13/09 17:15 - AndebolTV",
@@ -229,6 +215,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sérvia (Voleibol) x Chéquia (Voleibol) - 14/09 10:30 - RTP Play",
       "pubDate": "Sun, 14 Sep 2025 10:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Sporting - 14/09 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Sporting - 14/09 11:00 - SportTV 1",
+      "pubDate": "Sun, 14 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Feminino) x Racing Power FC (Feminino) - 14/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x Racing Power FC (Feminino) - 14/09 11:00 - Canal11",
+      "pubDate": "Sun, 14 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Voleibol) x Coreia do Sul (Voleibol) - 14/09 11:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Voleibol) x Coreia do Sul (Voleibol) - 14/09 11:00 - RTP Play",
+      "pubDate": "Sun, 14 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Torino - 14/09 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Torino - 14/09 11:30 - SportTV 2",
+      "pubDate": "Sun, 14 Sep 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Portsmouth - 14/09 12:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Portsmouth - 14/09 12:00 - SportTV 3",
+      "pubDate": "Sun, 14 Sep 2025 12:00:00",
       "guid": ""
     }
   ]

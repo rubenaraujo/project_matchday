@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "Atlético CP (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/09 17:00 - C11 Stream",
-      "pubDate": "Sun, 14 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Praia) x Itália (Praia) - 14/09 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Praia) x Itália (Praia) - 14/09 17:00 - SportTV 6",
-      "pubDate": "Sun, 14 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Valadares Gaia (Feminino) - 14/09 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Valadares Gaia (Feminino) - 14/09 17:30 - Canal11",
-      "pubDate": "Sun, 14 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Osasuna x Rayo Vallecano - 14/09 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Rayo Vallecano - 14/09 17:30 - DAZN 2",
-      "pubDate": "Sun, 14 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Luzia (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 14/09 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 14/09 18:00 - C11 Stream",
-      "pubDate": "Sun, 14 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Arouca x Casa Pia AC - 14/09 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Casa Pia AC - 14/09 18:00 - SportTV 1",
-      "pubDate": "Sun, 14 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x Feirense - 14/09 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x Feirense - 14/09 18:00 - SportTV +",
       "pubDate": "Sun, 14 Sep 2025 18:00:00",
       "guid": ""
     },
@@ -190,6 +148,13 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Basket) x Básquet Coruña (Basket) - 15/09 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x Básquet Coruña (Basket) - 15/09 19:45 - PortoCanal",
+      "pubDate": "Mon, 15 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Espanyol x Mallorca - 15/09 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanyol x Mallorca - 15/09 20:00 - DAZN 1",
@@ -229,6 +194,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ucrânia (Voleibol) x Argentina (Voleibol) - 16/09 07:00 - RTP Play",
       "pubDate": "Tue, 16 Sep 2025 07:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Filipinas (Voleibol) x Egipto (Voleibol) - 16/09 10:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Filipinas (Voleibol) x Egipto (Voleibol) - 16/09 10:30 - RTP Play",
+      "pubDate": "Tue, 16 Sep 2025 10:30:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Voleibol) x Finlândia (Voleibol) - 16/09 11:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Voleibol) x Finlândia (Voleibol) - 16/09 11:00 - RTP Play",
+      "pubDate": "Tue, 16 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.A S19) x Qarabag (Jun.A S19) - 16/09 11:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.A S19) x Qarabag (Jun.A S19) - 16/09 11:00 - DAZN 1",
+      "pubDate": "Tue, 16 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x Marítimo (S23) - 16/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Marítimo (S23) - 16/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 16 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara (S23) x UD Leiria (S23) - 16/09 12:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x UD Leiria (S23) - 16/09 12:00 - Canal11",
+      "pubDate": "Tue, 16 Sep 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus (Jun.A S19) x Borussia Dortmund (Jun.A S19) - 16/09 13:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus (Jun.A S19) x Borussia Dortmund (Jun.A S19) - 16/09 13:00 - DAZN 1",
+      "pubDate": "Tue, 16 Sep 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sérvia (Voleibol) x China (Voleibol) - 16/09 14:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sérvia (Voleibol) x China (Voleibol) - 16/09 14:00 - RTP Play",
+      "pubDate": "Tue, 16 Sep 2025 14:00:00",
       "guid": ""
     }
   ]

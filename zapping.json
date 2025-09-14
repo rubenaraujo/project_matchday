@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentina (Voleibol) x Finlândia (Voleibol) - 14/09 03:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina (Voleibol) x Finlândia (Voleibol) - 14/09 03:30 - RTP Play",
-      "pubDate": "Sun, 14 Sep 2025 03:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Irão (Voleibol) x Egipto (Voleibol) - 14/09 06:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Irão (Voleibol) x Egipto (Voleibol) - 14/09 06:30 - RTP Play",
-      "pubDate": "Sun, 14 Sep 2025 06:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Ucrânia (Voleibol) x Bélgica (Voleibol) - 14/09 07:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia (Voleibol) x Bélgica (Voleibol) - 14/09 07:00 - RTP Play",
-      "pubDate": "Sun, 14 Sep 2025 07:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sérvia (Voleibol) x Chéquia (Voleibol) - 14/09 10:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sérvia (Voleibol) x Chéquia (Voleibol) - 14/09 10:30 - RTP Play",
@@ -183,9 +162,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 14/09 15:30 - SportTV 6",
+      "title": "Espanha (Praia Feminino) x Portugal (Praia Feminino) - 14/09 15:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 14/09 15:30 - SportTV 6",
+      "description": "Espanha (Praia Feminino) x Portugal (Praia Feminino) - 14/09 15:30 - SportTV 6",
       "pubDate": "Sun, 14 Sep 2025 15:30:00",
       "guid": ""
     },
@@ -246,9 +225,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 14/09 17:00 - SportTV 6",
+      "title": "Espanha (Praia) x Itália (Praia) - 14/09 17:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 14/09 17:00 - SportTV 6",
+      "description": "Espanha (Praia) x Itália (Praia) - 14/09 17:00 - SportTV 6",
       "pubDate": "Sun, 14 Sep 2025 17:00:00",
       "guid": ""
     },
@@ -320,6 +299,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Al-Kholood - 14/09 19:00 - SportTV 4",
       "pubDate": "Sun, 14 Sep 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Lyon - 14/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Lyon - 14/09 19:45 - SportTV 3",
+      "pubDate": "Sun, 14 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Bologna - 14/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Bologna - 14/09 19:45 - SportTV 2",
+      "pubDate": "Sun, 14 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Valencia - 14/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Valencia - 14/09 20:00 - DAZN 1",
+      "pubDate": "Sun, 14 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Granada x Leganés - 14/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Granada x Leganés - 14/09 20:00 - DAZN 2",
+      "pubDate": "Sun, 14 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude x Flamengo - 14/09 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude x Flamengo - 14/09 20:00 - Canal11",
+      "pubDate": "Sun, 14 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

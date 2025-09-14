@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Preussen Munster x Fortuna Düsseldorf - 14/09 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Preussen Munster x Fortuna Düsseldorf - 14/09 12:30 - DAZN 3",
-      "pubDate": "Sun, 14 Sep 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Girona - 14/09 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Girona - 14/09 13:00 - DAZN 2",
-      "pubDate": "Sun, 14 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo x FC Vizela - 14/09 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo x FC Vizela - 14/09 14:00 - SportTV +",
@@ -109,13 +95,6 @@
       "title": "Torreense x Paços de Ferreira - 14/09 15:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Paços de Ferreira - 14/09 15:30 - SportTV 2",
-      "pubDate": "Sun, 14 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (B) x UD Leiria - 14/09 15:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (B) x UD Leiria - 14/09 15:30 - PortoCanal",
       "pubDate": "Sun, 14 Sep 2025 15:30:00",
       "guid": ""
     },
@@ -292,6 +271,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventude x Flamengo - 14/09 20:00 - Canal11",
       "pubDate": "Sun, 14 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Gil Vicente - 14/09 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Gil Vicente - 14/09 20:30 - SportTV 1",
+      "pubDate": "Sun, 14 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Boca Juniors - 14/09 21:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Boca Juniors - 14/09 21:30 - SportTV +",
+      "pubDate": "Sun, 14 Sep 2025 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cuba (Voleibol) x Colômbia (Voleibol) - 15/09 03:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cuba (Voleibol) x Colômbia (Voleibol) - 15/09 03:00 - RTP Play",
+      "pubDate": "Mon, 15 Sep 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turquia (Voleibol) x Líbia (Voleibol) - 15/09 03:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turquia (Voleibol) x Líbia (Voleibol) - 15/09 03:30 - RTP Play",
+      "pubDate": "Mon, 15 Sep 2025 03:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Voleibol) x Chile (Voleibol) - 15/09 06:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Voleibol) x Chile (Voleibol) - 15/09 06:30 - RTP Play",
+      "pubDate": "Mon, 15 Sep 2025 06:30:00",
       "guid": ""
     }
   ]

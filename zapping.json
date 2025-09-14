@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo x FC Vizela - 14/09 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x FC Vizela - 14/09 14:00 - SportTV +",
-      "pubDate": "Sun, 14 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Liverpool - 14/09 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Liverpool - 14/09 14:00 - DAZN 1",
-      "pubDate": "Sun, 14 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Lecce - 14/09 14:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Lecce - 14/09 14:00 - SportTV 5",
-      "pubDate": "Sun, 14 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Toulouse - 14/09 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Toulouse - 14/09 14:00 - SportTV 3",
-      "pubDate": "Sun, 14 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Brasil (Voleibol) x China (Voleibol) - 14/09 14:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Voleibol) x China (Voleibol) - 14/09 14:00 - RTP Play",
@@ -306,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Voleibol) x Chile (Voleibol) - 15/09 06:30 - RTP Play",
       "pubDate": "Mon, 15 Sep 2025 06:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (Voleibol) x Canadá (Voleibol) - 15/09 07:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (Voleibol) x Canadá (Voleibol) - 15/09 07:00 - RTP Play",
+      "pubDate": "Mon, 15 Sep 2025 07:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia (Voleibol) x Bulgária (Voleibol) - 15/09 10:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Voleibol) x Bulgária (Voleibol) - 15/09 10:30 - RTP Play",
+      "pubDate": "Mon, 15 Sep 2025 10:30:00",
       "guid": ""
     }
   ]

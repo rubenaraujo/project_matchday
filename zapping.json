@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rosario Central x Boca Juniors - 14/09 21:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Boca Juniors - 14/09 21:30 - SportTV +",
-      "pubDate": "Sun, 14 Sep 2025 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cuba (Voleibol) x Colômbia (Voleibol) - 15/09 03:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cuba (Voleibol) x Colômbia (Voleibol) - 15/09 03:00 - RTP Play",
@@ -306,6 +299,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Canadá (Voleibol) x Turquia (Voleibol) - 17/09 07:00 - RTP Play",
       "pubDate": "Wed, 17 Sep 2025 07:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estados Unidos (Voleibol) x Cuba (Voleibol) - 17/09 10:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estados Unidos (Voleibol) x Cuba (Voleibol) - 17/09 10:30 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 10:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Polónia (Voleibol) x Países Baixos (Voleibol) - 17/09 11:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Polónia (Voleibol) x Países Baixos (Voleibol) - 17/09 11:00 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Jun.A S19) x Pafos FC (Jun.A S19) - 17/09 11:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Jun.A S19) x Pafos FC (Jun.A S19) - 17/09 11:30 - Canal11",
+      "pubDate": "Wed, 17 Sep 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia (Voleibol) x Alemanha (Voleibol) - 17/09 14:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Voleibol) x Alemanha (Voleibol) - 17/09 14:00 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (Voleibol) x Líbia (Voleibol) - 17/09 14:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (Voleibol) x Líbia (Voleibol) - 17/09 14:30 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 14:30:00",
       "guid": ""
     }
   ]

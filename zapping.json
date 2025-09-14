@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Al-Nassr x Al-Kholood - 14/09 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Kholood - 14/09 19:00 - SportTV 4",
-      "pubDate": "Sun, 14 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rennes x Lyon - 14/09 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rennes x Lyon - 14/09 19:45 - SportTV 3",
@@ -243,6 +236,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sérvia (Voleibol) x China (Voleibol) - 16/09 14:00 - RTP Play",
       "pubDate": "Tue, 16 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (Voleibol) x Bélgica (Voleibol) - 16/09 14:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (Voleibol) x Bélgica (Voleibol) - 16/09 14:30 - RTP Play",
+      "pubDate": "Tue, 16 Sep 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Jun.A S19) x Marseille (Jun.A S19) - 16/09 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Jun.A S19) x Marseille (Jun.A S19) - 16/09 15:00 - DAZN 1",
+      "pubDate": "Tue, 16 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (S23) x Académico (S23) - 16/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (S23) x Académico (S23) - 16/09 15:00 - C11 Stream",
+      "pubDate": "Tue, 16 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela (S23) x FC Famalicão (S23) - 16/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela (S23) x FC Famalicão (S23) - 16/09 17:00 - Canal11",
+      "pubDate": "Tue, 16 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Arsenal - 16/09 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Arsenal - 16/09 17:45 - DAZN 1",
+      "pubDate": "Tue, 16 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x Union St. Gilloise - 16/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x Union St. Gilloise - 16/09 17:45 - DAZN 2",
+      "pubDate": "Tue, 16 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Qarabag - 16/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Qarabag - 16/09 20:00 - SportTV 5",
+      "pubDate": "Tue, 16 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Aston Villa - 16/09 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Aston Villa - 16/09 20:00 - SportTV 1",
+      "pubDate": "Tue, 16 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Marseille - 16/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Marseille - 16/09 20:00 - DAZN 1",
+      "pubDate": "Tue, 16 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Brasil (Voleibol) x China (Voleibol) - 14/09 14:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil (Voleibol) x China (Voleibol) - 14/09 14:00 - RTP Play",
-      "pubDate": "Sun, 14 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (Voleibol) x Argentina (Voleibol) - 14/09 14:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Voleibol) x Argentina (Voleibol) - 14/09 14:30 - RTP Play",
@@ -15,37 +8,9 @@
       "guid": ""
     },
     {
-      "title": "FC St. Pauli x FC Augsburg - 14/09 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x FC Augsburg - 14/09 14:30 - DAZN 3",
-      "pubDate": "Sun, 14 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Leões Porto Salvo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 14/09 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 14/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 14 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal) x Rio Ave (Futsal) - 14/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Rio Ave (Futsal) - 14/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 14 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x SC Braga (Futsal) - 14/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x SC Braga (Futsal) - 14/09 15:00 - Canal11",
-      "pubDate": "Sun, 14 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kilmarnock x Celtic - 14/09 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kilmarnock x Celtic - 14/09 15:00 - SportTV 4",
       "pubDate": "Sun, 14 Sep 2025 15:00:00",
       "guid": ""
     },
@@ -67,13 +32,6 @@
       "title": "Torreense x Paços de Ferreira - 14/09 15:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Paços de Ferreira - 14/09 15:30 - SportTV 2",
-      "pubDate": "Sun, 14 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Praia Feminino) x Portugal (Praia Feminino) - 14/09 15:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Praia Feminino) x Portugal (Praia Feminino) - 14/09 15:30 - SportTV 6",
       "pubDate": "Sun, 14 Sep 2025 15:30:00",
       "guid": ""
     },
@@ -292,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eslovénia (Voleibol) x Bulgária (Voleibol) - 15/09 10:30 - RTP Play",
       "pubDate": "Mon, 15 Sep 2025 10:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos (Voleibol) x Roménia (Voleibol) - 15/09 11:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos (Voleibol) x Roménia (Voleibol) - 15/09 11:00 - RTP Play",
+      "pubDate": "Mon, 15 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x Torreense (S23) - 15/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x Torreense (S23) - 15/09 11:00 - Canal11",
+      "pubDate": "Mon, 15 Sep 2025 11:00:00",
       "guid": ""
     }
   ]

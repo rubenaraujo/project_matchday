@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Luzia (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 14/09 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 14/09 18:00 - C11 Stream",
-      "pubDate": "Sun, 14 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x Lyon - 14/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Lyon - 14/09 19:45 - SportTV 3",
-      "pubDate": "Sun, 14 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Bologna - 14/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Bologna - 14/09 19:45 - SportTV 2",
-      "pubDate": "Sun, 14 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Valencia - 14/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Valencia - 14/09 20:00 - DAZN 1",
-      "pubDate": "Sun, 14 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Granada x Leganés - 14/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Granada x Leganés - 14/09 20:00 - DAZN 2",
-      "pubDate": "Sun, 14 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude x Flamengo - 14/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude x Flamengo - 14/09 20:00 - Canal11",
-      "pubDate": "Sun, 14 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga x Gil Vicente - 14/09 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Gil Vicente - 14/09 20:30 - SportTV 1",
@@ -299,6 +257,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Marseille - 16/09 20:00 - DAZN 1",
       "pubDate": "Tue, 16 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Borussia Dortmund - 16/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Borussia Dortmund - 16/09 20:00 - DAZN 2",
+      "pubDate": "Tue, 16 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Villarreal - 16/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Villarreal - 16/09 20:00 - DAZN 3",
+      "pubDate": "Tue, 16 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vélez Sarsfield x Racing Club - 16/09 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vélez Sarsfield x Racing Club - 16/09 23:00 - SportTV 1",
+      "pubDate": "Tue, 16 Sep 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lanús x Fluminense - 17/09 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lanús x Fluminense - 17/09 01:30 - SportTV 1",
+      "pubDate": "Wed, 17 Sep 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Voleibol) x Colômbia (Voleibol) - 17/09 03:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Voleibol) x Colômbia (Voleibol) - 17/09 03:00 - RTP2",
+      "pubDate": "Wed, 17 Sep 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Catar (Voleibol) x Roménia (Voleibol) - 17/09 03:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Catar (Voleibol) x Roménia (Voleibol) - 17/09 03:30 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 03:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bulgária (Voleibol) x Chile (Voleibol) - 17/09 06:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bulgária (Voleibol) x Chile (Voleibol) - 17/09 06:30 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 06:30:00",
       "guid": ""
     }
   ]

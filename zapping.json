@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x Gil Vicente - 14/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Gil Vicente - 14/09 20:30 - SportTV 1",
-      "pubDate": "Sun, 14 Sep 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Boca Juniors - 14/09 21:30 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Boca Juniors - 14/09 21:30 - SportTV +",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bulgária (Voleibol) x Chile (Voleibol) - 17/09 06:30 - RTP Play",
       "pubDate": "Wed, 17 Sep 2025 06:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Canadá (Voleibol) x Turquia (Voleibol) - 17/09 07:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Canadá (Voleibol) x Turquia (Voleibol) - 17/09 07:00 - RTP Play",
+      "pubDate": "Wed, 17 Sep 2025 07:00:00",
       "guid": ""
     }
   ]

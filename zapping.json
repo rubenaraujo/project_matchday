@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Alemanha (Voleibol) x Chile (Voleibol) - 15/09 06:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Voleibol) x Chile (Voleibol) - 15/09 06:30 - RTP Play",
-      "pubDate": "Mon, 15 Sep 2025 06:30:00",
-      "guid": ""
-    },
-    {
       "title": "Japão (Voleibol) x Canadá (Voleibol) - 15/09 07:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Japão (Voleibol) x Canadá (Voleibol) - 15/09 07:00 - RTP Play",
@@ -333,6 +326,13 @@
       "title": "Olympiacos x Pafos FC - 17/09 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Olympiacos x Pafos FC - 17/09 17:45 - DAZN 1",
+      "pubDate": "Wed, 17 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Slavia Praha x Bodo/Glimt - 17/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Slavia Praha x Bodo/Glimt - 17/09 17:45 - DAZN 2",
       "pubDate": "Wed, 17 Sep 2025 17:45:00",
       "guid": ""
     }

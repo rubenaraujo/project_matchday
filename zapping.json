@@ -1,31 +1,10 @@
 {
   "items": [
     {
-      "title": "Real Zaragoza x Albacete - 15/09 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Zaragoza x Albacete - 15/09 19:30 - DAZN 2",
-      "pubDate": "Mon, 15 Sep 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Genoa - 15/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Genoa - 15/09 19:45 - SportTV 2",
-      "pubDate": "Mon, 15 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Basket) x Básquet Coruña (Basket) - 15/09 19:45 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Basket) x Básquet Coruña (Basket) - 15/09 19:45 - PortoCanal",
       "pubDate": "Mon, 15 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Mallorca - 15/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Mallorca - 15/09 20:00 - DAZN 1",
-      "pubDate": "Mon, 15 Sep 2025 20:00:00",
       "guid": ""
     },
     {
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "ABC (Andebol) x FC Porto (Andebol) - 17/09 21:00 - PortoCanal",
       "pubDate": "Wed, 17 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newell´s Old Boys x Belgrano - 17/09 22:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newell´s Old Boys x Belgrano - 17/09 22:00 - SportTV 2",
+      "pubDate": "Wed, 17 Sep 2025 22:00:00",
       "guid": ""
     }
   ]

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Qarabag - 16/09 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Qarabag - 16/09 20:00 - SportTV 5",
-      "pubDate": "Tue, 16 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brentford x Aston Villa - 16/09 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brentford x Aston Villa - 16/09 20:00 - SportTV 1",
-      "pubDate": "Tue, 16 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Marseille - 16/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Marseille - 16/09 20:00 - DAZN 1",
-      "pubDate": "Tue, 16 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Borussia Dortmund - 16/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Borussia Dortmund - 16/09 20:00 - DAZN 2",
-      "pubDate": "Tue, 16 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Villarreal - 16/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Villarreal - 16/09 20:00 - DAZN 3",
-      "pubDate": "Tue, 16 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vélez Sarsfield x Racing Club - 16/09 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vélez Sarsfield x Racing Club - 16/09 23:00 - SportTV 1",
@@ -327,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Barcelona - 18/09 20:00 - DAZN 2",
       "pubDate": "Thu, 18 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x Galatasaray - 18/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x Galatasaray - 18/09 20:00 - DAZN 3",
+      "pubDate": "Thu, 18 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LDU Quito x São Paulo - 18/09 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LDU Quito x São Paulo - 18/09 23:00 - SportTV 1",
+      "pubDate": "Thu, 18 Sep 2025 23:00:00",
       "guid": ""
     }
   ]

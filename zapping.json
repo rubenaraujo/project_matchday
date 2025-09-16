@@ -22,13 +22,6 @@
       "guid": ""
     },
     {
-      "title": "Ucrânia (Voleibol) x Argentina (Voleibol) - 16/09 07:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia (Voleibol) x Argentina (Voleibol) - 16/09 07:00 - RTP Play",
-      "pubDate": "Tue, 16 Sep 2025 07:00:00",
-      "guid": ""
-    },
-    {
       "title": "Filipinas (Voleibol) x Egipto (Voleibol) - 16/09 10:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Filipinas (Voleibol) x Egipto (Voleibol) - 16/09 10:30 - RTP Play",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Voleibol) x Sérvia (Voleibol) - 18/09 03:00 - RTP Play",
       "pubDate": "Thu, 18 Sep 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia (Voleibol) x Coreia do Sul (Voleibol) - 18/09 03:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia (Voleibol) x Coreia do Sul (Voleibol) - 18/09 03:30 - RTP Play",
+      "pubDate": "Thu, 18 Sep 2025 03:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto (Voleibol) x Tunísia (Voleibol) - 18/09 06:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto (Voleibol) x Tunísia (Voleibol) - 18/09 06:30 - RTP Play",
+      "pubDate": "Thu, 18 Sep 2025 06:30:00",
       "guid": ""
     }
   ]

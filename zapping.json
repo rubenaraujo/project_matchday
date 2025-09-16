@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sérvia (Voleibol) x China (Voleibol) - 16/09 14:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sérvia (Voleibol) x China (Voleibol) - 16/09 14:00 - RTP Play",
-      "pubDate": "Tue, 16 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (Voleibol) x Bélgica (Voleibol) - 16/09 14:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Voleibol) x Bélgica (Voleibol) - 16/09 14:30 - RTP Play",
@@ -326,6 +319,13 @@
       "title": "FC Kobenhavn x Bayer Leverkusen - 18/09 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Kobenhavn x Bayer Leverkusen - 18/09 17:45 - DAZN 1",
+      "pubDate": "Thu, 18 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Club Brugge x Monaco - 18/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Club Brugge x Monaco - 18/09 17:45 - DAZN 2",
       "pubDate": "Thu, 18 Sep 2025 17:45:00",
       "guid": ""
     }

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Voleibol) x Colômbia (Voleibol) - 17/09 03:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Voleibol) x Colômbia (Voleibol) - 17/09 03:00 - RTP2",
-      "pubDate": "Wed, 17 Sep 2025 03:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Catar (Voleibol) x Roménia (Voleibol) - 17/09 03:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Catar (Voleibol) x Roménia (Voleibol) - 17/09 03:30 - RTP Play",
-      "pubDate": "Wed, 17 Sep 2025 03:30:00",
-      "guid": ""
-    },
-    {
       "title": "Bulgária (Voleibol) x Chile (Voleibol) - 17/09 06:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bulgária (Voleibol) x Chile (Voleibol) - 17/09 06:30 - RTP Play",
@@ -334,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Marco 09 x O Elvas - 19/09 19:00 - Canal11",
       "pubDate": "Fri, 19 Sep 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x FC St. Pauli - 19/09 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x FC St. Pauli - 19/09 19:30 - DAZN 1",
+      "pubDate": "Fri, 19 Sep 2025 19:30:00",
       "guid": ""
     }
   ]

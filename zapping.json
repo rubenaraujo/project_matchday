@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Nassr x Istiklol - 17/09 19:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Istiklol - 17/09 19:15 - Canal11",
-      "pubDate": "Wed, 17 Sep 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Swansea City x Nottingham Forest - 17/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Swansea City x Nottingham Forest - 17/09 20:00 - SportTV 2",
-      "pubDate": "Wed, 17 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Chelsea - 17/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Chelsea - 17/09 20:00 - DAZN 1",
-      "pubDate": "Wed, 17 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Atalanta - 17/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Atalanta - 17/09 20:00 - DAZN 2",
-      "pubDate": "Wed, 17 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Atlético de Madrid - 17/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Atlético de Madrid - 17/09 20:00 - DAZN 3",
-      "pubDate": "Wed, 17 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x Internazionale - 17/09 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Internazionale - 17/09 20:00 - DAZN 4",
-      "pubDate": "Wed, 17 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "ABC (Andebol) x FC Porto (Andebol) - 17/09 21:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "ABC (Andebol) x FC Porto (Andebol) - 17/09 21:00 - PortoCanal",
@@ -327,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hertha BSC x SC Paderborn 07 - 20/09 12:00 - DAZN 4",
       "pubDate": "Sat, 20 Sep 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Falco Szombathely (Basket) x FC Porto (Basket) - 20/09 12:15 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Falco Szombathely (Basket) x FC Porto (Basket) - 20/09 12:15 - PortoCanal",
+      "pubDate": "Sat, 20 Sep 2025 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Leicester City x Coventry City - 20/09 12:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leicester City x Coventry City - 20/09 12:30 - SportTV 2",
+      "pubDate": "Sat, 20 Sep 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Everton - 20/09 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Everton - 20/09 12:30 - DAZN 1",
+      "pubDate": "Sat, 20 Sep 2025 12:30:00",
       "guid": ""
     }
   ]

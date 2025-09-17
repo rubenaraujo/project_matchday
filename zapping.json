@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Lanús x Fluminense - 17/09 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lanús x Fluminense - 17/09 01:30 - SportTV 1",
-      "pubDate": "Wed, 17 Sep 2025 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Voleibol) x Colômbia (Voleibol) - 17/09 03:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Voleibol) x Colômbia (Voleibol) - 17/09 03:00 - RTP2",
@@ -333,6 +326,13 @@
       "title": "Al-Ahli Jeddah x Al-Hilal - 19/09 19:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ahli Jeddah x Al-Hilal - 19/09 19:00 - SportTV 4",
+      "pubDate": "Fri, 19 Sep 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Marco 09 x O Elvas - 19/09 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Marco 09 x O Elvas - 19/09 19:00 - Canal11",
       "pubDate": "Fri, 19 Sep 2025 19:00:00",
       "guid": ""
     }

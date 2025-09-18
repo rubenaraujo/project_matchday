@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Barcelona (Andebol) x SC Magdeburg (Andebol) - 18/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona (Andebol) x SC Magdeburg (Andebol) - 18/09 19:45 - SportTV 3",
-      "pubDate": "Thu, 18 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Kairat - 18/09 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Kairat - 18/09 20:00 - SportTV 5",
-      "pubDate": "Thu, 18 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Napoli - 18/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Napoli - 18/09 20:00 - DAZN 1",
-      "pubDate": "Thu, 18 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Barcelona - 18/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Barcelona - 18/09 20:00 - DAZN 2",
-      "pubDate": "Thu, 18 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Galatasaray - 18/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Galatasaray - 18/09 20:00 - DAZN 3",
-      "pubDate": "Thu, 18 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "LDU Quito x São Paulo - 18/09 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LDU Quito x São Paulo - 18/09 23:00 - SportTV 1",
@@ -305,6 +270,27 @@
       "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/09 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/09 18:00 - C11 Stream",
+      "pubDate": "Sat, 20 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Árvore (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/09 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Árvore (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/09 18:00 - C11 Stream",
+      "pubDate": "Sat, 20 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Benfica - 20/09 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Benfica - 20/09 18:00 - SportTV 1",
+      "pubDate": "Sat, 20 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Nice - 20/09 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Nice - 20/09 18:00 - SportTV 3",
       "pubDate": "Sat, 20 Sep 2025 18:00:00",
       "guid": ""
     }

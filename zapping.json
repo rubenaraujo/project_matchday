@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Neom SC x Al-Akhdoud - 18/09 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Neom SC x Al-Akhdoud - 18/09 19:00 - SportTV 2",
-      "pubDate": "Thu, 18 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona (Andebol) x SC Magdeburg (Andebol) - 18/09 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona (Andebol) x SC Magdeburg (Andebol) - 18/09 19:45 - SportTV 3",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rangers x Hibernian - 20/09 17:45 - SportTV 2",
       "pubDate": "Sat, 20 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/09 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/09 18:00 - C11 Stream",
+      "pubDate": "Sat, 20 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

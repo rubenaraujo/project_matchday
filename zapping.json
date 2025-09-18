@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Bolívar x Atlético Mineiro - 17/09 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolívar x Atlético Mineiro - 17/09 23:00 - SportTV 1",
-      "pubDate": "Wed, 17 Sep 2025 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente del Valle x Once Caldas - 18/09 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente del Valle x Once Caldas - 18/09 01:30 - SportTV 2",
@@ -333,6 +326,13 @@
       "title": "Wolverhampton x Leeds United - 20/09 15:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolverhampton x Leeds United - 20/09 15:00 - DAZN 4",
+      "pubDate": "Sat, 20 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x FC Vizela (Jun.A S19) - 20/09 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x FC Vizela (Jun.A S19) - 20/09 15:00 - PortoCanal",
       "pubDate": "Sat, 20 Sep 2025 15:00:00",
       "guid": ""
     }

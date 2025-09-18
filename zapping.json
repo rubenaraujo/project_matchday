@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Jun.A S19) x Kairat (Jun.A S19) - 18/09 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.A S19) x Kairat (Jun.A S19) - 18/09 13:00 - Canal11",
-      "pubDate": "Thu, 18 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Chéquia (Voleibol) x China (Voleibol) - 18/09 14:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chéquia (Voleibol) x China (Voleibol) - 18/09 14:00 - RTP Play",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Juventus - 20/09 17:00 - SportTV 6",
       "pubDate": "Sat, 20 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x FC Gaia (Andebol) - 20/09 17:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x FC Gaia (Andebol) - 20/09 17:00 - BTv",
+      "pubDate": "Sat, 20 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x Chelsea - 20/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x Chelsea - 20/09 17:30 - DAZN 1",
+      "pubDate": "Sat, 20 Sep 2025 17:30:00",
       "guid": ""
     }
   ]

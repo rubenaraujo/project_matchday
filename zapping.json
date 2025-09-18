@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester City (Jun.A S19) x Napoli (Jun.A S19) - 18/09 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City (Jun.A S19) x Napoli (Jun.A S19) - 18/09 15:00 - DAZN 1",
-      "pubDate": "Thu, 18 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Feminino) x Roma (Feminino) - 18/09 16:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Feminino) x Roma (Feminino) - 18/09 16:30 - Canal11",
@@ -312,6 +305,13 @@
       "title": "Manchester United x Chelsea - 20/09 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Chelsea - 20/09 17:30 - DAZN 1",
+      "pubDate": "Sat, 20 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x FC Köln - 20/09 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x FC Köln - 20/09 17:30 - DAZN 2",
       "pubDate": "Sat, 20 Sep 2025 17:30:00",
       "guid": ""
     }

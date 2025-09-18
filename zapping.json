@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Independiente del Valle x Once Caldas - 18/09 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente del Valle x Once Caldas - 18/09 01:30 - SportTV 2",
-      "pubDate": "Thu, 18 Sep 2025 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Palmeiras - 18/09 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Palmeiras - 18/09 01:30 - SportTV 1",
-      "pubDate": "Thu, 18 Sep 2025 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Brasil (Voleibol) x Sérvia (Voleibol) - 18/09 03:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Voleibol) x Sérvia (Voleibol) - 18/09 03:00 - RTP Play",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Espanyol - 20/09 15:15 - DAZN 2",
       "pubDate": "Sat, 20 Sep 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x FC Alverca - 20/09 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x FC Alverca - 20/09 15:30 - SportTV 2",
+      "pubDate": "Sat, 20 Sep 2025 15:30:00",
       "guid": ""
     }
   ]

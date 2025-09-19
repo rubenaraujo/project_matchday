@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rio Ave x FC Porto - 19/09 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x FC Porto - 19/09 20:15 - SportTV 1",
-      "pubDate": "Fri, 19 Sep 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses x Marítimo - 20/09 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x Marítimo - 20/09 11:00 - Canal11",
@@ -285,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Brentford - 20/09 20:00 - DAZN 1",
       "pubDate": "Sat, 20 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Lille - 20/09 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Lille - 20/09 20:05 - SportTV 3",
+      "pubDate": "Sat, 20 Sep 2025 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x SC Braga - 20/09 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x SC Braga - 20/09 20:30 - SportTV 2",
+      "pubDate": "Sat, 20 Sep 2025 20:30:00",
       "guid": ""
     }
   ]

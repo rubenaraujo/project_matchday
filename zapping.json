@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Caldas SC x CD Fátima - 20/09 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x CD Fátima - 20/09 16:30 - Canal11",
-      "pubDate": "Sat, 20 Sep 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Juventus - 20/09 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Juventus - 20/09 17:00 - SportTV 6",
-      "pubDate": "Sat, 20 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x FC Gaia (Andebol) - 20/09 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x FC Gaia (Andebol) - 20/09 17:00 - BTv",
-      "pubDate": "Sat, 20 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Manchester United x Chelsea - 20/09 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Chelsea - 20/09 17:30 - DAZN 1",
@@ -271,6 +250,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x Torreense (Feminino) - 21/09 15:00 - C11 Stream",
       "pubDate": "Sun, 21 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Atlético de Madrid - 21/09 15:15 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Atlético de Madrid - 21/09 15:15 - DAZN 4",
+      "pubDate": "Sun, 21 Sep 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Est. Amadora - 21/09 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Est. Amadora - 21/09 15:30 - SportTV 1",
+      "pubDate": "Sun, 21 Sep 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Partick Thistle x Celtic - 21/09 15:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Partick Thistle x Celtic - 21/09 15:30 - SportTV 7",
+      "pubDate": "Sun, 21 Sep 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AZ Alkmaar x Feyenoord - 21/09 15:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AZ Alkmaar x Feyenoord - 21/09 15:45 - DAZN 2",
+      "pubDate": "Sun, 21 Sep 2025 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Power FC (Feminino) x Rio Ave (Feminino) - 21/09 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Power FC (Feminino) x Rio Ave (Feminino) - 21/09 16:00 - C11 Stream",
+      "pubDate": "Sun, 21 Sep 2025 16:00:00",
       "guid": ""
     }
   ]

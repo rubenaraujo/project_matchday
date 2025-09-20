@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/09 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/09 18:00 - C11 Stream",
-      "pubDate": "Sat, 20 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Árvore (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/09 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Árvore (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/09 18:00 - C11 Stream",
-      "pubDate": "Sat, 20 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Riyadh - 20/09 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Riyadh - 20/09 19:00 - SportTV 4",
-      "pubDate": "Sat, 20 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/09 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/09 19:00 - C11 Stream",
@@ -33,41 +12,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águias Santa Marta (Futsal Feminino) x Novasemente (Futsal Feminino) - 20/09 19:00 - C11 Stream",
       "pubDate": "Sat, 20 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Udinese x Milan - 20/09 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Milan - 20/09 19:45 - SportTV 6",
-      "pubDate": "Sat, 20 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Croácia (Futsal) - 20/09 19:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Croácia (Futsal) - 20/09 19:45 - Canal11",
-      "pubDate": "Sat, 20 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia x Athletic Bilbao - 20/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Athletic Bilbao - 20/09 20:00 - DAZN 2",
-      "pubDate": "Sat, 20 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Brentford - 20/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Brentford - 20/09 20:00 - DAZN 1",
-      "pubDate": "Sat, 20 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Lille - 20/09 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Lille - 20/09 20:05 - SportTV 3",
-      "pubDate": "Sat, 20 Sep 2025 20:05:00",
       "guid": ""
     },
     {
@@ -278,6 +222,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche x Real Oviedo - 21/09 17:30 - DAZN 4",
       "pubDate": "Sun, 21 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Estoril Praia - 21/09 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Estoril Praia - 21/09 18:00 - SportTV 1",
+      "pubDate": "Sun, 21 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kasimpasa x Fenerbahçe - 21/09 18:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kasimpasa x Fenerbahçe - 21/09 18:00 - SportTV 7",
+      "pubDate": "Sun, 21 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ABC (Andebol) x Sporting (Andebol) - 21/09 18:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ABC (Andebol) x Sporting (Andebol) - 21/09 18:00 - ABola TV",
+      "pubDate": "Sun, 21 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
+      "pubDate": "Sun, 21 Sep 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x PSG - 21/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x PSG - 21/09 19:45 - SportTV 3",
+      "pubDate": "Sun, 21 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Sassuolo - 21/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Sassuolo - 21/09 19:45 - SportTV 2",
+      "pubDate": "Sun, 21 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Getafe - 21/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Getafe - 21/09 20:00 - DAZN 1",
+      "pubDate": "Sun, 21 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x FC Famalicão - 21/09 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x FC Famalicão - 21/09 20:30 - SportTV 1",
+      "pubDate": "Sun, 21 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Talleres - 21/09 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Talleres - 21/09 23:00 - SportTV 1",
+      "pubDate": "Sun, 21 Sep 2025 23:00:00",
       "guid": ""
     }
   ]

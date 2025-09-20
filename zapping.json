@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Sintrense x FC Vizela - 20/09 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sintrense x FC Vizela - 20/09 14:00 - Canal11",
-      "pubDate": "Sat, 20 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "TSG Hoffenheim x Bayern München - 20/09 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "TSG Hoffenheim x Bayern München - 20/09 14:30 - DAZN 3",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x Ajax - 21/09 13:30 - DAZN 2",
       "pubDate": "Sun, 21 Sep 2025 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Atalanta - 21/09 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Atalanta - 21/09 14:00 - SportTV 2",
+      "pubDate": "Sun, 21 Sep 2025 14:00:00",
       "guid": ""
     }
   ]

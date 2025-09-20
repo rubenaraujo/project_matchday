@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Bologna x Genoa - 20/09 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Genoa - 20/09 14:00 - SportTV 1",
-      "pubDate": "Sat, 20 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "TSG Hoffenheim x Bayern München - 20/09 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "TSG Hoffenheim x Bayern München - 20/09 14:30 - DAZN 3",
-      "pubDate": "Sat, 20 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Tottenham - 20/09 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Tottenham - 20/09 15:00 - DAZN 1",
-      "pubDate": "Sat, 20 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Leeds United - 20/09 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Leeds United - 20/09 15:00 - DAZN 4",
-      "pubDate": "Sat, 20 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x FC Vizela (Jun.A S19) - 20/09 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x FC Vizela (Jun.A S19) - 20/09 15:00 - PortoCanal",
-      "pubDate": "Sat, 20 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Nottingham Forest - 20/09 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Nottingham Forest - 20/09 15:00 - DAZN",
-      "pubDate": "Sat, 20 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Crystal Palace - 20/09 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Crystal Palace - 20/09 15:00 - DAZN",
-      "pubDate": "Sat, 20 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Madrid x Espanyol - 20/09 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Espanyol - 20/09 15:15 - DAZN 2",
@@ -312,6 +263,34 @@
       "title": "Torino x Atalanta - 21/09 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Atalanta - 21/09 14:00 - SportTV 2",
+      "pubDate": "Sun, 21 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Strasbourg - 21/09 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Strasbourg - 21/09 14:00 - SportTV 3",
+      "pubDate": "Sun, 21 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bournemouth x Newcastle - 21/09 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bournemouth x Newcastle - 21/09 14:00 - DAZN 1",
+      "pubDate": "Sun, 21 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Naval 1893 x Leixões - 21/09 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Naval 1893 x Leixões - 21/09 14:00 - Canal11",
+      "pubDate": "Sun, 21 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Aston Villa - 21/09 14:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Aston Villa - 21/09 14:00 - DAZN",
       "pubDate": "Sun, 21 Sep 2025 14:00:00",
       "guid": ""
     }

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Madrid x Espanyol - 20/09 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Espanyol - 20/09 15:15 - DAZN 2",
-      "pubDate": "Sat, 20 Sep 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x FC Alverca - 20/09 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x FC Alverca - 20/09 15:30 - SportTV 2",
-      "pubDate": "Sat, 20 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x FC Arouca - 20/09 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x FC Arouca - 20/09 15:30 - SportTV 4",
-      "pubDate": "Sat, 20 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nantes x Rennes - 20/09 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Rennes - 20/09 16:00 - SportTV 3",
-      "pubDate": "Sat, 20 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Arsenal da Devesa (Andebol) - 20/09 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Arsenal da Devesa (Andebol) - 20/09 16:00 - AndebolTV",
-      "pubDate": "Sat, 20 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Caldas SC x CD Fátima - 20/09 16:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Caldas SC x CD Fátima - 20/09 16:30 - Canal11",
@@ -292,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sunderland x Aston Villa - 21/09 14:00 - DAZN",
       "pubDate": "Sun, 21 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x 1. FC Union Berlin - 21/09 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x 1. FC Union Berlin - 21/09 14:30 - DAZN 3",
+      "pubDate": "Sun, 21 Sep 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Torreense (Feminino) - 21/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Torreense (Feminino) - 21/09 15:00 - C11 Stream",
+      "pubDate": "Sun, 21 Sep 2025 15:00:00",
       "guid": ""
     }
   ]

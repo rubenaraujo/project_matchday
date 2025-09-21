@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Valadares Gaia (Feminino) x SC Braga (Feminino) - 21/09 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valadares Gaia (Feminino) x SC Braga (Feminino) - 21/09 11:00 - Canal11",
-      "pubDate": "Sun, 21 Sep 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lazio x Roma - 21/09 11:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Roma - 21/09 11:30 - SportTV 2",
@@ -305,6 +298,13 @@
       "title": "Marítimo (S23) x Rio Ave (S23) - 23/09 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (S23) x Rio Ave (S23) - 23/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 23 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora (S23) x Santa Clara (S23) - 23/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora (S23) x Santa Clara (S23) - 23/09 11:00 - C11 Stream",
       "pubDate": "Tue, 23 Sep 2025 11:00:00",
       "guid": ""
     }

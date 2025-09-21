@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "PSV x Ajax - 21/09 13:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Ajax - 21/09 13:30 - DAZN 2",
-      "pubDate": "Sun, 21 Sep 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Atalanta - 21/09 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Atalanta - 21/09 14:00 - SportTV 2",
-      "pubDate": "Sun, 21 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Strasbourg - 21/09 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Strasbourg - 21/09 14:00 - SportTV 3",
-      "pubDate": "Sun, 21 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Newcastle - 21/09 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Newcastle - 21/09 14:00 - DAZN 1",
-      "pubDate": "Sun, 21 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Naval 1893 x Leixões - 21/09 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Naval 1893 x Leixões - 21/09 14:00 - Canal11",
-      "pubDate": "Sun, 21 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Aston Villa - 21/09 14:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Aston Villa - 21/09 14:00 - DAZN",
-      "pubDate": "Sun, 21 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Eintracht Frankfurt x 1. FC Union Berlin - 21/09 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eintracht Frankfurt x 1. FC Union Berlin - 21/09 14:30 - DAZN 3",
@@ -278,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora (S23) x Santa Clara (S23) - 23/09 11:00 - C11 Stream",
       "pubDate": "Tue, 23 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sérvia (Voleibol) x Irão (Voleibol) - 23/09 13:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sérvia (Voleibol) x Irão (Voleibol) - 23/09 13:00 - RTP Play",
+      "pubDate": "Tue, 23 Sep 2025 13:00:00",
       "guid": ""
     }
   ]

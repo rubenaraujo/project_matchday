@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "Monaco x Metz - 21/09 16:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Metz - 21/09 16:15 - SportTV 3",
-      "pubDate": "Sun, 21 Sep 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Manchester City - 21/09 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Manchester City - 21/09 16:30 - DAZN 1",
-      "pubDate": "Sun, 21 Sep 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x Borussia M´gladbach - 21/09 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Borussia M´gladbach - 21/09 16:30 - DAZN 3",
-      "pubDate": "Sun, 21 Sep 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Andebol) x Póvoa AC (Andebol) - 21/09 16:45 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x Póvoa AC (Andebol) - 21/09 16:45 - AndebolTV",
-      "pubDate": "Sun, 21 Sep 2025 16:45:00",
-      "guid": ""
-    },
-    {
       "title": "Fiorentina x Como 1907 - 21/09 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Como 1907 - 21/09 17:00 - SportTV 2",
-      "pubDate": "Sun, 21 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Feminino) x Benfica (Feminino) - 21/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x Benfica (Feminino) - 21/09 17:00 - Canal11",
-      "pubDate": "Sun, 21 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Coimbrões x FC Vilarinho - 21/09 17:00 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Coimbrões x FC Vilarinho - 21/09 17:00 - Youtube",
       "pubDate": "Sun, 21 Sep 2025 17:00:00",
       "guid": ""
     },
@@ -82,13 +40,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
       "pubDate": "Sun, 21 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x PSG - 21/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x PSG - 21/09 19:45 - SportTV 3",
-      "pubDate": "Sun, 21 Sep 2025 19:45:00",
       "guid": ""
     },
     {
@@ -257,6 +208,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lincoln City x Chelsea - 23/09 19:45 - SportTV 3",
       "pubDate": "Tue, 23 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Cambridge United - 23/09 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Cambridge United - 23/09 19:45 - SportTV 4",
+      "pubDate": "Tue, 23 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Lecce - 23/09 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Lecce - 23/09 20:00 - SportTV 6",
+      "pubDate": "Tue, 23 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

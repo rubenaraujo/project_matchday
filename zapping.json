@@ -1,45 +1,17 @@
 {
   "items": [
     {
-      "title": "Fiorentina x Como 1907 - 21/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Como 1907 - 21/09 17:00 - SportTV 2",
-      "pubDate": "Sun, 21 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Real Oviedo - 21/09 17:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Real Oviedo - 21/09 17:30 - DAZN 4",
-      "pubDate": "Sun, 21 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Estoril Praia - 21/09 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Estoril Praia - 21/09 18:00 - SportTV 1",
-      "pubDate": "Sun, 21 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kasimpasa x Fenerbahçe - 21/09 18:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kasimpasa x Fenerbahçe - 21/09 18:00 - SportTV 7",
-      "pubDate": "Sun, 21 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "ABC (Andebol) x Sporting (Andebol) - 21/09 18:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ABC (Andebol) x Sporting (Andebol) - 21/09 18:00 - ABola TV",
-      "pubDate": "Sun, 21 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
       "pubDate": "Sun, 21 Sep 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x PSG - 21/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x PSG - 21/09 19:45 - SportTV 3",
+      "pubDate": "Sun, 21 Sep 2025 19:45:00",
       "guid": ""
     },
     {
@@ -222,6 +194,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Lecce - 23/09 20:00 - SportTV 6",
       "pubDate": "Tue, 23 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Southampton - 23/09 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Southampton - 23/09 20:00 - SportTV 1",
+      "pubDate": "Tue, 23 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Rio Ave - 23/09 20:15 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Rio Ave - 23/09 20:15 - BTv",
+      "pubDate": "Tue, 23 Sep 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Real Madrid - 23/09 20:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Real Madrid - 23/09 20:30 - DAZN 1",
+      "pubDate": "Tue, 23 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Villarreal - 23/09 20:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Villarreal - 23/09 20:30 - DAZN 2",
+      "pubDate": "Tue, 23 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Club x Vélez Sarsfield - 23/09 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Club x Vélez Sarsfield - 23/09 23:00 - SportTV 1",
+      "pubDate": "Tue, 23 Sep 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vencedor OF5 x Vencedor OF6 - 24/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vencedor OF5 x Vencedor OF6 - 24/09 00:00 - RTP Play",
+      "pubDate": "Wed, 24 Sep 2025 00:00:00",
       "guid": ""
     }
   ]

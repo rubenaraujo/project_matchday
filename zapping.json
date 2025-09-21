@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Eintracht Frankfurt x 1. FC Union Berlin - 21/09 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x 1. FC Union Berlin - 21/09 14:30 - DAZN 3",
-      "pubDate": "Sun, 21 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Feminino) x Torreense (Feminino) - 21/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Feminino) x Torreense (Feminino) - 21/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 21 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Mallorca x Atlético de Madrid - 21/09 15:15 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mallorca x Atlético de Madrid - 21/09 15:15 - DAZN 4",
@@ -243,6 +229,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sérvia (Voleibol) x Irão (Voleibol) - 23/09 13:00 - RTP Play",
       "pubDate": "Tue, 23 Sep 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (S23) x FC Famalicão (S23) - 23/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (S23) x FC Famalicão (S23) - 23/09 15:00 - Canal11",
+      "pubDate": "Tue, 23 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x FC Vizela (S23) - 23/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x FC Vizela (S23) - 23/09 15:00 - C11 Stream",
+      "pubDate": "Tue, 23 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente (S23) x Leixões (S23) - 23/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente (S23) x Leixões (S23) - 23/09 15:00 - C11 Stream",
+      "pubDate": "Tue, 23 Sep 2025 15:00:00",
       "guid": ""
     }
   ]

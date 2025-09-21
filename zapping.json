@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Wolfsburg - 21/09 18:30 - DAZN 2",
-      "pubDate": "Sun, 21 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x PSG - 21/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x PSG - 21/09 19:45 - SportTV 3",
-      "pubDate": "Sun, 21 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Internazionale x Sassuolo - 21/09 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Sassuolo - 21/09 19:45 - SportTV 2",
@@ -236,6 +222,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vencedor OF5 x Vencedor OF6 - 24/09 00:00 - RTP Play",
       "pubDate": "Wed, 24 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vencedor OF7 x Vencedor OF8 - 24/09 00:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vencedor OF7 x Vencedor OF8 - 24/09 00:00 - RTP Play",
+      "pubDate": "Wed, 24 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fluminense x Lanús - 24/09 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fluminense x Lanús - 24/09 01:30 - SportTV 1",
+      "pubDate": "Wed, 24 Sep 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.B S17) x FC Famalicão (Jun.B S17) - 24/09 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x FC Famalicão (Jun.B S17) - 24/09 11:00 - PortoCanal",
+      "pubDate": "Wed, 24 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "S. João Ver x AD Marco 09 - 24/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "S. João Ver x AD Marco 09 - 24/09 15:00 - C11 Stream",
+      "pubDate": "Wed, 24 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Spezia - 24/09 16:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Spezia - 24/09 16:00 - SportTV 1",
+      "pubDate": "Wed, 24 Sep 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (B) x AD Sanjoanense - 24/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (B) x AD Sanjoanense - 24/09 17:00 - Canal11",
+      "pubDate": "Wed, 24 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CS Dinamo Bucuresti (Andebol) x Veszprém (Andebol) - 24/09 17:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CS Dinamo Bucuresti (Andebol) x Veszprém (Andebol) - 24/09 17:45 - SportTV 2",
+      "pubDate": "Wed, 24 Sep 2025 17:45:00",
       "guid": ""
     }
   ]

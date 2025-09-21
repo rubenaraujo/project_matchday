@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Internazionale x Sassuolo - 21/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Sassuolo - 21/09 19:45 - SportTV 2",
-      "pubDate": "Sun, 21 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Getafe - 21/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Getafe - 21/09 20:00 - DAZN 1",
-      "pubDate": "Sun, 21 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x FC Famalicão - 21/09 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x FC Famalicão - 21/09 20:30 - SportTV 1",
@@ -271,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CS Dinamo Bucuresti (Andebol) x Veszprém (Andebol) - 24/09 17:45 - SportTV 2",
       "pubDate": "Wed, 24 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Aalborg (Andebol) x Sporting (Andebol) - 24/09 17:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aalborg (Andebol) x Sporting (Andebol) - 24/09 17:45 - SportingTv",
+      "pubDate": "Wed, 24 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PAOK x Maccabi Tel Aviv - 24/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PAOK x Maccabi Tel Aviv - 24/09 17:45 - DAZN 2",
+      "pubDate": "Wed, 24 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Midtjylland x Sturm Graz - 24/09 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Midtjylland x Sturm Graz - 24/09 17:45 - DAZN 3",
+      "pubDate": "Wed, 24 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Kayserispor x Besiktas - 24/09 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kayserispor x Besiktas - 24/09 18:00 - SportTV 6",
+      "pubDate": "Wed, 24 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

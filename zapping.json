@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Mallorca x Atlético de Madrid - 21/09 15:15 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Atlético de Madrid - 21/09 15:15 - DAZN 4",
-      "pubDate": "Sun, 21 Sep 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Est. Amadora - 21/09 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Est. Amadora - 21/09 15:30 - SportTV 1",
-      "pubDate": "Sun, 21 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Partick Thistle x Celtic - 21/09 15:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Partick Thistle x Celtic - 21/09 15:30 - SportTV 7",
-      "pubDate": "Sun, 21 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AZ Alkmaar x Feyenoord - 21/09 15:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x Feyenoord - 21/09 15:45 - DAZN 2",
-      "pubDate": "Sun, 21 Sep 2025 15:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Power FC (Feminino) x Rio Ave (Feminino) - 21/09 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Power FC (Feminino) x Rio Ave (Feminino) - 21/09 16:00 - C11 Stream",
-      "pubDate": "Sun, 21 Sep 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Monaco x Metz - 21/09 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Monaco x Metz - 21/09 16:15 - SportTV 3",
@@ -250,6 +215,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente (S23) x Leixões (S23) - 23/09 15:00 - C11 Stream",
       "pubDate": "Tue, 23 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria (S23) x Estoril Praia (S23) - 23/09 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x Estoril Praia (S23) - 23/09 16:00 - C11 Stream",
+      "pubDate": "Tue, 23 Sep 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Palermo - 23/09 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Palermo - 23/09 17:30 - SportTV 1",
+      "pubDate": "Tue, 23 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Girona - 23/09 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Girona - 23/09 18:00 - DAZN 1",
+      "pubDate": "Tue, 23 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Valencia - 23/09 18:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Valencia - 23/09 18:00 - DAZN 2",
+      "pubDate": "Tue, 23 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolverhampton x Everton - 23/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolverhampton x Everton - 23/09 19:45 - SportTV 2",
+      "pubDate": "Tue, 23 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lincoln City x Chelsea - 23/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lincoln City x Chelsea - 23/09 19:45 - SportTV 3",
+      "pubDate": "Tue, 23 Sep 2025 19:45:00",
       "guid": ""
     }
   ]

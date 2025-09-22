@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Burgos CF x Granada - 22/09 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burgos CF x Granada - 22/09 19:30 - DAZN 1",
-      "pubDate": "Mon, 22 Sep 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Pisa - 22/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Pisa - 22/09 19:45 - SportTV 2",
-      "pubDate": "Mon, 22 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Croácia (Futsal) - 22/09 19:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Croácia (Futsal) - 22/09 19:45 - Canal11",
-      "pubDate": "Mon, 22 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Millwall x Watford - 22/09 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Millwall x Watford - 22/09 20:00 - SportTV 6",
-      "pubDate": "Mon, 22 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting x Moreirense - 22/09 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Moreirense - 22/09 20:15 - SportTV 1",
@@ -326,6 +298,13 @@
       "title": "Port Vale x Arsenal - 24/09 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Port Vale x Arsenal - 24/09 20:00 - SportTV 2",
+      "pubDate": "Wed, 24 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Feyenoord - 24/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Feyenoord - 24/09 20:00 - DAZN 1",
       "pubDate": "Wed, 24 Sep 2025 20:00:00",
       "guid": ""
     }

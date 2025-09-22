@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rosario Central x Talleres - 21/09 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Talleres - 21/09 23:00 - SportTV 1",
-      "pubDate": "Sun, 21 Sep 2025 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Central Córdoba S.Estero - 22/09 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Central Córdoba S.Estero - 22/09 01:15 - SportTV 1",
@@ -305,6 +298,13 @@
       "title": "Newcastle x Bradford City - 24/09 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Bradford City - 24/09 19:45 - SportTV 4",
+      "pubDate": "Wed, 24 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Huddersfield Town x Manchester City - 24/09 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Huddersfield Town x Manchester City - 24/09 19:45 - SportTV 1",
       "pubDate": "Wed, 24 Sep 2025 19:45:00",
       "guid": ""
     }

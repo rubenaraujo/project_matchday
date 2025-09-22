@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Central Córdoba S.Estero - 22/09 01:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Central Córdoba S.Estero - 22/09 01:15 - SportTV 1",
-      "pubDate": "Mon, 22 Sep 2025 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Galatasaray x Konyaspor - 22/09 18:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Konyaspor - 22/09 18:00 - SportTV 3",
@@ -312,6 +305,13 @@
       "title": "U. Santarém x Caldas SC - 24/09 20:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x Caldas SC - 24/09 20:00 - C11 Stream",
+      "pubDate": "Wed, 24 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Sassuolo - 24/09 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Sassuolo - 24/09 20:00 - SportTV 6",
       "pubDate": "Wed, 24 Sep 2025 20:00:00",
       "guid": ""
     }

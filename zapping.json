@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x Moreirense - 22/09 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Moreirense - 22/09 20:15 - SportTV 1",
-      "pubDate": "Mon, 22 Sep 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Tunísia (Voleibol) x Chéquia (Voleibol) - 23/09 08:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tunísia (Voleibol) x Chéquia (Voleibol) - 23/09 08:30 - RTP Play",
@@ -305,6 +298,13 @@
       "title": "SC Braga x Feyenoord - 24/09 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Feyenoord - 24/09 20:00 - DAZN 1",
+      "pubDate": "Wed, 24 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Nottingham Forest - 24/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Nottingham Forest - 24/09 20:00 - DAZN 2",
       "pubDate": "Wed, 24 Sep 2025 20:00:00",
       "guid": ""
     }

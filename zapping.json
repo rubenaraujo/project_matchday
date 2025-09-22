@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Damaiense (Feminino) x Sporting (Feminino) - 22/09 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damaiense (Feminino) x Sporting (Feminino) - 22/09 16:00 - Canal11",
+      "pubDate": "Mon, 22 Sep 2025 16:00:00",
+      "guid": ""
+    },
+    {
       "title": "Galatasaray x Konyaspor - 22/09 18:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Konyaspor - 22/09 18:00 - SportTV 3",
@@ -218,9 +225,23 @@
       "guid": ""
     },
     {
-      "title": "S. João Ver x AD Marco 09 - 24/09 15:00 - C11 Stream",
+      "title": "Portimonense (S23) x Benfica (S23) - 24/09 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x AD Marco 09 - 24/09 15:00 - C11 Stream",
+      "description": "Portimonense (S23) x Benfica (S23) - 24/09 11:00 - C11 Stream",
+      "pubDate": "Wed, 24 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S17) x País de Gales (Feminino S17) - 24/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S17) x País de Gales (Feminino S17) - 24/09 11:00 - Canal11",
+      "pubDate": "Wed, 24 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "S. João Ver x AD Marco 09 - 24/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "S. João Ver x AD Marco 09 - 24/09 15:00 - Canal11",
       "pubDate": "Wed, 24 Sep 2025 15:00:00",
       "guid": ""
     },
@@ -319,20 +340,6 @@
       "title": "Como 1907 x Sassuolo - 24/09 20:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Sassuolo - 24/09 20:00 - SportTV 6",
-      "pubDate": "Wed, 24 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Port Vale x Arsenal - 24/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Port Vale x Arsenal - 24/09 20:00 - SportTV 2",
-      "pubDate": "Wed, 24 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Feyenoord - 24/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Feyenoord - 24/09 20:00 - DAZN 1",
       "pubDate": "Wed, 24 Sep 2025 20:00:00",
       "guid": ""
     }

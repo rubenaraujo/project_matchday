@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray x Konyaspor - 22/09 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Konyaspor - 22/09 18:00 - SportTV 3",
-      "pubDate": "Mon, 22 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Marseille x PSG - 22/09 19:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marseille x PSG - 22/09 19:00 - SportTV 4",
@@ -333,6 +326,13 @@
       "title": "Como 1907 x Sassuolo - 24/09 20:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Sassuolo - 24/09 20:00 - SportTV 6",
+      "pubDate": "Wed, 24 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Port Vale x Arsenal - 24/09 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Port Vale x Arsenal - 24/09 20:00 - SportTV 2",
       "pubDate": "Wed, 24 Sep 2025 20:00:00",
       "guid": ""
     }

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Wolverhampton x Everton - 23/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Everton - 23/09 19:45 - SportTV 2",
-      "pubDate": "Tue, 23 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lincoln City x Chelsea - 23/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lincoln City x Chelsea - 23/09 19:45 - SportTV 3",
-      "pubDate": "Tue, 23 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Cambridge United - 23/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Cambridge United - 23/09 19:45 - SportTV 4",
-      "pubDate": "Tue, 23 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Lecce - 23/09 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Lecce - 23/09 20:00 - SportTV 6",
-      "pubDate": "Tue, 23 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Southampton - 23/09 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Southampton - 23/09 20:00 - SportTV 1",
-      "pubDate": "Tue, 23 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x Rio Ave - 23/09 20:15 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Rio Ave - 23/09 20:15 - BTv",
@@ -313,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aston Villa x Bologna - 25/09 20:00 - DAZN 1",
       "pubDate": "Thu, 25 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Celta de Vigo - 25/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Celta de Vigo - 25/09 20:00 - DAZN 2",
+      "pubDate": "Thu, 25 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Utrecht x Lyon - 25/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Utrecht x Lyon - 25/09 20:00 - DAZN 3",
+      "pubDate": "Thu, 25 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Oviedo x Barcelona - 25/09 20:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Oviedo x Barcelona - 25/09 20:30 - DAZN 4",
+      "pubDate": "Thu, 25 Sep 2025 20:30:00",
       "guid": ""
     }
   ]

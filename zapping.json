@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Udinese x Palermo - 23/09 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Palermo - 23/09 17:30 - SportTV 1",
-      "pubDate": "Tue, 23 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Girona - 23/09 18:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Girona - 23/09 18:00 - DAZN 1",
-      "pubDate": "Tue, 23 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Valencia - 23/09 18:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Valencia - 23/09 18:00 - DAZN 2",
-      "pubDate": "Tue, 23 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wolverhampton x Everton - 23/09 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolverhampton x Everton - 23/09 19:45 - SportTV 2",
@@ -326,6 +305,13 @@
       "title": "Red Bull Salzburg x FC Porto - 25/09 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Red Bull Salzburg x FC Porto - 25/09 20:00 - SportTV 5",
+      "pubDate": "Thu, 25 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Bologna - 25/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Bologna - 25/09 20:00 - DAZN 1",
       "pubDate": "Thu, 25 Sep 2025 20:00:00",
       "guid": ""
     }

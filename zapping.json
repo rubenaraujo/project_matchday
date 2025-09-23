@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo (S23) x Rio Ave (S23) - 23/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (S23) x Rio Ave (S23) - 23/09 11:00 - C11 Stream",
-      "pubDate": "Tue, 23 Sep 2025 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora (S23) x Santa Clara (S23) - 23/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora (S23) x Santa Clara (S23) - 23/09 11:00 - C11 Stream",
-      "pubDate": "Tue, 23 Sep 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sérvia (Voleibol) x Irão (Voleibol) - 23/09 13:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sérvia (Voleibol) x Irão (Voleibol) - 23/09 13:00 - RTP Play",
@@ -320,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vencedor OF3 x Bulgária (Voleibol) - 25/09 00:00 - RTP Play",
       "pubDate": "Thu, 25 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Once Caldas x Independiente del Valle - 25/09 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Once Caldas x Independiente del Valle - 25/09 01:30 - SportTV 3",
+      "pubDate": "Thu, 25 Sep 2025 01:30:00",
       "guid": ""
     }
   ]

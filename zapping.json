@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "S. João Ver x AD Marco 09 - 24/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x AD Marco 09 - 24/09 15:00 - Canal11",
-      "pubDate": "Wed, 24 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Parma x Spezia - 24/09 16:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Spezia - 24/09 16:00 - SportTV 1",
@@ -148,20 +141,6 @@
       "guid": ""
     },
     {
-      "title": "Vencedor OF1 x Vencedor OF2 - 25/09 00:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vencedor OF1 x Vencedor OF2 - 25/09 00:00 - RTP Play",
-      "pubDate": "Thu, 25 Sep 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vencedor OF3 x Bulgária (Voleibol) - 25/09 00:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vencedor OF3 x Bulgária (Voleibol) - 25/09 00:00 - RTP Play",
-      "pubDate": "Thu, 25 Sep 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Once Caldas x Independiente del Valle - 25/09 01:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Once Caldas x Independiente del Valle - 25/09 01:30 - SportTV 3",
@@ -173,6 +152,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x River Plate - 25/09 01:30 - SportTV 1",
       "pubDate": "Thu, 25 Sep 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia (Voleibol) x Irão (Voleibol) - 25/09 08:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia (Voleibol) x Irão (Voleibol) - 25/09 08:30 - RTP Play",
+      "pubDate": "Thu, 25 Sep 2025 08:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estados Unidos (Voleibol) x Bulgária (Voleibol) - 25/09 13:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estados Unidos (Voleibol) x Bulgária (Voleibol) - 25/09 13:00 - RTP Play",
+      "pubDate": "Thu, 25 Sep 2025 13:00:00",
       "guid": ""
     },
     {

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Fluminense x Lanús - 24/09 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fluminense x Lanús - 24/09 01:30 - SportTV 1",
-      "pubDate": "Wed, 24 Sep 2025 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Jun.B S17) x FC Famalicão (Jun.B S17) - 24/09 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.B S17) x FC Famalicão (Jun.B S17) - 24/09 11:00 - PortoCanal",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x SpVgg Greuther Fürth - 26/09 17:30 - DAZN 2",
       "pubDate": "Fri, 26 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Ericeirense (Praia) x CCD Porto Mendo (Praia) - 26/09 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ericeirense (Praia) x CCD Porto Mendo (Praia) - 26/09 17:30 - Canal11",
+      "pubDate": "Fri, 26 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Leixões - 26/09 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Leixões - 26/09 18:00 - SportTV +",
+      "pubDate": "Fri, 26 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

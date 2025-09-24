@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga (B) x AD Sanjoanense - 24/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x AD Sanjoanense - 24/09 17:00 - Canal11",
-      "pubDate": "Wed, 24 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "CS Dinamo Bucuresti (Andebol) x Veszprém (Andebol) - 24/09 17:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CS Dinamo Bucuresti (Andebol) x Veszprém (Andebol) - 24/09 17:45 - SportTV 2",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Werder Bremen - 26/09 19:30 - DAZN 1",
       "pubDate": "Fri, 26 Sep 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Marseille - 26/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Marseille - 26/09 19:45 - SportTV 2",
+      "pubDate": "Fri, 26 Sep 2025 19:45:00",
       "guid": ""
     }
   ]

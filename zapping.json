@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético Mineiro x Bolívar - 24/09 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Mineiro x Bolívar - 24/09 23:00 - SportTV 1",
-      "pubDate": "Wed, 24 Sep 2025 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Once Caldas x Independiente del Valle - 25/09 01:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Once Caldas x Independiente del Valle - 25/09 01:30 - SportTV 3",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Cremonese - 27/09 14:00 - SportTV 2",
       "pubDate": "Sat, 27 Sep 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mainz x Borussia Dortmund - 27/09 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mainz x Borussia Dortmund - 27/09 14:30 - DAZN 4",
+      "pubDate": "Sat, 27 Sep 2025 14:30:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Red Bull Salzburg x FC Porto - 25/09 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Red Bull Salzburg x FC Porto - 25/09 20:00 - SportTV 5",
-      "pubDate": "Thu, 25 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Bologna - 25/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Bologna - 25/09 20:00 - DAZN 1",
-      "pubDate": "Thu, 25 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x Celta de Vigo - 25/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Celta de Vigo - 25/09 20:00 - DAZN 2",
-      "pubDate": "Thu, 25 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Utrecht x Lyon - 25/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Utrecht x Lyon - 25/09 20:00 - DAZN 3",
-      "pubDate": "Thu, 25 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Oviedo x Barcelona - 25/09 20:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Barcelona - 25/09 20:30 - DAZN 4",
@@ -306,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Real Madrid - 27/09 15:15 - DAZN 1",
       "pubDate": "Sat, 27 Sep 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x Casa Pia AC - 27/09 15:30 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x Casa Pia AC - 27/09 15:30 - TVI",
+      "pubDate": "Sat, 27 Sep 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x CD Tondela - 27/09 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x CD Tondela - 27/09 15:30 - SportTV 1",
+      "pubDate": "Sat, 27 Sep 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Novasemente (Futsal Feminino) x GD Árvore (Futsal Feminino) - 27/09 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Novasemente (Futsal Feminino) x GD Árvore (Futsal Feminino) - 27/09 16:00 - C11 Stream",
+      "pubDate": "Sat, 27 Sep 2025 16:00:00",
       "guid": ""
     }
   ]

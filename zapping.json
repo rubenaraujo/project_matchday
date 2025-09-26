@@ -1,37 +1,9 @@
 {
   "items": [
     {
-      "title": "Schalke 04 x SpVgg Greuther Fürth - 26/09 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Schalke 04 x SpVgg Greuther Fürth - 26/09 17:30 - DAZN 2",
-      "pubDate": "Fri, 26 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vizela x Leixões - 26/09 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x Leixões - 26/09 18:00 - SportTV +",
-      "pubDate": "Fri, 26 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alanyaspor x Galatasaray - 26/09 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alanyaspor x Galatasaray - 26/09 18:00 - SportTV 4",
-      "pubDate": "Fri, 26 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Ittihad Jeddah x Al-Nassr - 26/09 19:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ittihad Jeddah x Al-Nassr - 26/09 19:00 - SportTV 1",
-      "pubDate": "Fri, 26 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x SC Tomar (Hóquei) - 26/09 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x SC Tomar (Hóquei) - 26/09 19:00 - DAZN 3",
       "pubDate": "Fri, 26 Sep 2025 19:00:00",
       "guid": ""
     },
@@ -298,6 +270,13 @@
       "title": "Borussia M´gladbach x Eintracht Frankfurt - 27/09 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x Eintracht Frankfurt - 27/09 17:30 - DAZN 2",
+      "pubDate": "Sat, 27 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Alavés - 27/09 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Alavés - 27/09 17:30 - DAZN 3",
       "pubDate": "Sat, 27 Sep 2025 17:30:00",
       "guid": ""
     }

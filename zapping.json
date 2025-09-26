@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Ittihad Jeddah x Al-Nassr - 26/09 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Nassr - 26/09 19:00 - SportTV 1",
-      "pubDate": "Fri, 26 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bayern München x Werder Bremen - 26/09 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Werder Bremen - 26/09 19:30 - DAZN 1",
@@ -278,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mallorca x Alavés - 27/09 17:30 - DAZN 3",
       "pubDate": "Sat, 27 Sep 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 27/09 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 27/09 18:00 - C11 Stream",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
       "guid": ""
     }
   ]

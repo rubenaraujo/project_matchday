@@ -1,45 +1,10 @@
 {
   "items": [
     {
-      "title": "Bayern München x Werder Bremen - 26/09 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Werder Bremen - 26/09 19:30 - DAZN 1",
-      "pubDate": "Fri, 26 Sep 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Marseille - 26/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Marseille - 26/09 19:45 - SportTV 2",
-      "pubDate": "Fri, 26 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "West Bromwich x Leicester City - 26/09 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Bromwich x Leicester City - 26/09 20:00 - SportTV 6",
-      "pubDate": "Fri, 26 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Espanyol - 26/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Espanyol - 26/09 20:00 - DAZN 2",
-      "pubDate": "Fri, 26 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x Gil Vicente - 26/09 20:15 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Gil Vicente - 26/09 20:15 - BTv",
       "pubDate": "Fri, 26 Sep 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x Eléctrico (Futsal) - 26/09 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x Eléctrico (Futsal) - 26/09 20:30 - Canal11",
-      "pubDate": "Fri, 26 Sep 2025 20:30:00",
       "guid": ""
     },
     {
@@ -277,6 +242,34 @@
       "title": "Futsal Feijó (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 27/09 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Futsal Feijó (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 27/09 18:00 - C11 Stream",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x Torreense (Feminino) - 27/09 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x Torreense (Feminino) - 27/09 18:00 - Canal11",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora x AFS - 27/09 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora x AFS - 27/09 18:00 - SportTV 1",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal da Devesa (Andebol) x Belenenses (Andebol) - 27/09 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x Belenenses (Andebol) - 27/09 18:00 - AndebolTV",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Gaia (Andebol) x ABC (Andebol) - 27/09 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Gaia (Andebol) x ABC (Andebol) - 27/09 18:00 - AndebolTV",
       "pubDate": "Sat, 27 Sep 2025 18:00:00",
       "guid": ""
     }

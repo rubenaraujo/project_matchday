@@ -1,24 +1,10 @@
 {
   "items": [
     {
-      "title": "Benfica x Gil Vicente - 26/09 20:15 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Gil Vicente - 26/09 20:15 - BTv",
-      "pubDate": "Fri, 26 Sep 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 26/09 20:30 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 26/09 20:30 - PortoCanal",
       "pubDate": "Fri, 26 Sep 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x AD Sanjoanense (Hóquei) - 26/09 21:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x AD Sanjoanense (Hóquei) - 26/09 21:30 - DAZN 3",
-      "pubDate": "Fri, 26 Sep 2025 21:30:00",
       "guid": ""
     },
     {
@@ -211,9 +197,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x Sporting/AD Sanjoanense - 27/09 17:00 - DAZN 4",
+      "title": "FC Porto (Hóquei) x Sporting (Hóquei) - 27/09 17:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Sporting/AD Sanjoanense - 27/09 17:00 - DAZN 4",
+      "description": "FC Porto (Hóquei) x Sporting (Hóquei) - 27/09 17:00 - DAZN 4",
       "pubDate": "Sat, 27 Sep 2025 17:00:00",
       "guid": ""
     },
@@ -270,6 +256,20 @@
       "title": "FC Gaia (Andebol) x ABC (Andebol) - 27/09 18:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Gaia (Andebol) x ABC (Andebol) - 27/09 18:00 - AndebolTV",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x FC Porto (Andebol) - 27/09 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x FC Porto (Andebol) - 27/09 18:00 - SportingTv",
+      "pubDate": "Sat, 27 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Póvoa AC (Andebol) x Benfica (Andebol) - 27/09 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Póvoa AC (Andebol) x Benfica (Andebol) - 27/09 18:00 - BTv",
       "pubDate": "Sat, 27 Sep 2025 18:00:00",
       "guid": ""
     }

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Brentford x Manchester United - 27/09 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brentford x Manchester United - 27/09 12:30 - DAZN 1",
-      "pubDate": "Sat, 27 Sep 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Levante - 27/09 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Levante - 27/09 13:00 - DAZN 2",
-      "pubDate": "Sat, 27 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sesimbra (Praia) x Vila Flor SC (Praia) - 27/09 13:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sesimbra (Praia) x Vila Flor SC (Praia) - 27/09 13:00 - Canal11",
@@ -299,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Athletic Bilbao - 27/09 20:00 - DAZN 2",
       "pubDate": "Sat, 27 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Auxerre - 27/09 20:05 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Auxerre - 27/09 20:05 - SportTV 4",
+      "pubDate": "Sat, 27 Sep 2025 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Sporting - 27/09 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Sporting - 27/09 20:30 - SportTV 1",
+      "pubDate": "Sat, 27 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Hóquei) x Benfica (Hóquei) - 27/09 21:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Hóquei) x Benfica (Hóquei) - 27/09 21:00 - DAZN 3",
+      "pubDate": "Sat, 27 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (S20) x Egipto (S20) - 27/09 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (S20) x Egipto (S20) - 27/09 21:00 - FIFA +",
+      "pubDate": "Sat, 27 Sep 2025 21:00:00",
       "guid": ""
     }
   ]

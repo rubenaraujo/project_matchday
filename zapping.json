@@ -1,45 +1,10 @@
 {
   "items": [
     {
-      "title": "Cagliari x Internazionale - 27/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Internazionale - 27/09 19:45 - SportTV 2",
-      "pubDate": "Sat, 27 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 27/09 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 27/09 20:00 - Canal11",
       "pubDate": "Sat, 27 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Quinta dos Lombos (Futsal) x FC Famalicão (Futsal) - 27/09 20:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Futsal) x FC Famalicão (Futsal) - 27/09 20:00 - C11 Stream",
-      "pubDate": "Sat, 27 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Wolverhampton - 27/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Wolverhampton - 27/09 20:00 - DAZN 1",
-      "pubDate": "Sat, 27 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Athletic Bilbao - 27/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Athletic Bilbao - 27/09 20:00 - DAZN 2",
-      "pubDate": "Sat, 27 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Auxerre - 27/09 20:05 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Auxerre - 27/09 20:05 - SportTV 4",
-      "pubDate": "Sat, 27 Sep 2025 20:05:00",
       "guid": ""
     },
     {
@@ -243,6 +208,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gloria Bistrita (Andebol Feminino) x Metz Handball (Andebol Feminino) - 28/09 15:00 - SportTV 5",
       "pubDate": "Sun, 28 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Livingston x Rangers - 28/09 15:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Livingston x Rangers - 28/09 15:00 - SportTV 6",
+      "pubDate": "Sun, 28 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Celta de Vigo - 28/09 15:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Celta de Vigo - 28/09 15:15 - DAZN 1",
+      "pubDate": "Sun, 28 Sep 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Vitória SC - 28/09 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Vitória SC - 28/09 15:30 - SportTV 1",
+      "pubDate": "Sun, 28 Sep 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Lyon - 28/09 16:15 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Lyon - 28/09 16:15 - SportTV 4",
+      "pubDate": "Sun, 28 Sep 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Arsenal - 28/09 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Arsenal - 28/09 16:30 - DAZN 2",
+      "pubDate": "Sun, 28 Sep 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Köln x Stuttgart - 28/09 16:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Köln x Stuttgart - 28/09 16:30 - DAZN 4",
+      "pubDate": "Sun, 28 Sep 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Povo Freixo (Futsal Feminino) x Benfica (Futsal Feminino) - 28/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Povo Freixo (Futsal Feminino) x Benfica (Futsal Feminino) - 28/09 17:00 - Canal11",
+      "pubDate": "Sun, 28 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Caldas SC x CD Mafra - 28/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caldas SC x CD Mafra - 28/09 17:00 - C11 Stream",
+      "pubDate": "Sun, 28 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Atlético CP - 28/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Atlético CP - 28/09 17:00 - C11 Stream",
+      "pubDate": "Sun, 28 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Bologna - 28/09 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Bologna - 28/09 17:00 - SportTV 2",
+      "pubDate": "Sun, 28 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nogueirense FC x Boavista SAD - 28/09 17:00 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nogueirense FC x Boavista SAD - 28/09 17:00 - Youtube",
+      "pubDate": "Sun, 28 Sep 2025 17:00:00",
       "guid": ""
     }
   ]

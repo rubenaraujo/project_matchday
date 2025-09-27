@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Sesimbra (Praia) x Vila Flor SC (Praia) - 27/09 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sesimbra (Praia) x Vila Flor SC (Praia) - 27/09 13:00 - Canal11",
-      "pubDate": "Sat, 27 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Mainz x Borussia Dortmund - 27/09 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x Borussia Dortmund - 27/09 14:30 - DAZN 4",
-      "pubDate": "Sat, 27 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Ericeirense (Praia) x ACD O Sótão (Praia) - 27/09 14:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ericeirense (Praia) x ACD O Sótão (Praia) - 27/09 14:30 - Canal11",
-      "pubDate": "Sat, 27 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Águas Santas (Andebol) - 27/09 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Águas Santas (Andebol) - 27/09 15:00 - AndebolTV",
-      "pubDate": "Sat, 27 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Liverpool - 27/09 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Liverpool - 27/09 15:00 - DAZN 2",
-      "pubDate": "Sat, 27 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Burnley - 27/09 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Burnley - 27/09 15:00 - DAZN 3",
-      "pubDate": "Sat, 27 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético de Madrid x Real Madrid - 27/09 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Real Madrid - 27/09 15:15 - DAZN 1",
@@ -306,6 +264,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Coreia do Sul (S20) x Ucrânia (S20) - 27/09 21:00 - FIFA +",
       "pubDate": "Sat, 27 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vasco x Cruzeiro - 27/09 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vasco x Cruzeiro - 27/09 22:30 - Canal11",
+      "pubDate": "Sat, 27 Sep 2025 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Defensa y Justicia x Boca Juniors - 27/09 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Defensa y Justicia x Boca Juniors - 27/09 23:00 - SportTV 2",
+      "pubDate": "Sat, 27 Sep 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finalista 1 x Finalista 2 - 28/09 00:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finalista 1 x Finalista 2 - 28/09 00:00 - RTP2",
+      "pubDate": "Sun, 28 Sep 2025 00:00:00",
       "guid": ""
     }
   ]

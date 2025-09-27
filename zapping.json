@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 27/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 27/09 20:00 - Canal11",
-      "pubDate": "Sat, 27 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vasco x Cruzeiro - 27/09 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco x Cruzeiro - 27/09 22:30 - Canal11",
@@ -285,6 +278,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Varzim x Fafe - 28/09 18:00 - C11 Stream",
       "pubDate": "Sun, 28 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Antalyaspor - 28/09 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Antalyaspor - 28/09 18:00 - SportTV 5",
+      "pubDate": "Sun, 28 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Union Berlin x Hamburger SV - 28/09 18:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Union Berlin x Hamburger SV - 28/09 18:30 - DAZN 4",
+      "pubDate": "Sun, 28 Sep 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal  S19) x Itália (Futsal  S19) - 28/09 18:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal  S19) x Itália (Futsal  S19) - 28/09 18:30 - Canal11",
+      "pubDate": "Sun, 28 Sep 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vencedor MF1 x Vencedor MF2 - 28/09 19:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vencedor MF1 x Vencedor MF2 - 28/09 19:00 - DAZN 2",
+      "pubDate": "Sun, 28 Sep 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Napoli - 28/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Napoli - 28/09 19:45 - SportTV 2",
+      "pubDate": "Sun, 28 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Lens - 28/09 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Lens - 28/09 19:45 - SportTV 7",
+      "pubDate": "Sun, 28 Sep 2025 19:45:00",
       "guid": ""
     }
   ]

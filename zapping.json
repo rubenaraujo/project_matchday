@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Milan x Napoli - 28/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Napoli - 28/09 19:45 - SportTV 2",
-      "pubDate": "Sun, 28 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x Lens - 28/09 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Lens - 28/09 19:45 - SportTV 7",
-      "pubDate": "Sun, 28 Sep 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Osasuna - 28/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Osasuna - 28/09 20:00 - DAZN 1",
-      "pubDate": "Sun, 28 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bahia x Palmeiras - 28/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bahia x Palmeiras - 28/09 20:00 - Canal11",
-      "pubDate": "Sun, 28 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão x Rio Ave - 28/09 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão x Rio Ave - 28/09 20:30 - SportTV 1",
@@ -285,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Eintracht Frankfurt - 30/09 20:00 - DAZN 2",
       "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Slavia Praha - 30/09 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Slavia Praha - 30/09 20:00 - DAZN",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Ajax - 30/09 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Ajax - 30/09 20:00 - DAZN",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bodo/Glimt x Tottenham - 30/09 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bodo/Glimt x Tottenham - 30/09 20:00 - DAZN 4",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto (S20) x Nova Zelândia (S20) - 30/09 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto (S20) x Nova Zelândia (S20) - 30/09 21:00 - FIFA +",
+      "pubDate": "Tue, 30 Sep 2025 21:00:00",
       "guid": ""
     }
   ]

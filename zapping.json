@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "1. FC Union Berlin x Hamburger SV - 28/09 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x Hamburger SV - 28/09 18:30 - DAZN 4",
-      "pubDate": "Sun, 28 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal  S19) x Itália (Futsal  S19) - 28/09 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal  S19) x Itália (Futsal  S19) - 28/09 18:30 - Canal11",
-      "pubDate": "Sun, 28 Sep 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 28/09 19:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 28/09 19:00 - DAZN 2",
-      "pubDate": "Sun, 28 Sep 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Milan x Napoli - 28/09 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Napoli - 28/09 19:45 - SportTV 2",
@@ -250,6 +229,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea (Jun.A S19) x Benfica (Jun.A S19) - 30/09 15:00 - DAZN 1",
       "pubDate": "Tue, 30 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x UD Leiria (S23) - 30/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x UD Leiria (S23) - 30/09 17:00 - Canal11",
+      "pubDate": "Tue, 30 Sep 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kairat x Real Madrid - 30/09 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kairat x Real Madrid - 30/09 17:45 - DAZN 1",
+      "pubDate": "Tue, 30 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Club Brugge - 30/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Club Brugge - 30/09 17:45 - DAZN 2",
+      "pubDate": "Tue, 30 Sep 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Benfica - 30/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Benfica - 30/09 20:00 - SportTV 5",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Derby County x Charlton Athletic - 30/09 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derby County x Charlton Athletic - 30/09 20:00 - SportTV 1",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Liverpool - 30/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Liverpool - 30/09 20:00 - DAZN 1",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pafos FC x Bayern München - 30/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pafos FC x Bayern München - 30/09 20:00 - DAZN 3",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Eintracht Frankfurt - 30/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Eintracht Frankfurt - 30/09 20:00 - DAZN 2",
+      "pubDate": "Tue, 30 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

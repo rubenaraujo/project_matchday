@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Elche x Celta de Vigo - 28/09 15:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Celta de Vigo - 28/09 15:15 - DAZN 1",
-      "pubDate": "Sun, 28 Sep 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x Vitória SC - 28/09 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Vitória SC - 28/09 15:30 - SportTV 1",
-      "pubDate": "Sun, 28 Sep 2025 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lille x Lyon - 28/09 16:15 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Lyon - 28/09 16:15 - SportTV 4",
@@ -264,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Arouca x FC Porto - 29/09 20:00 - SportTV 1",
       "pubDate": "Mon, 29 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Real Oviedo - 29/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Real Oviedo - 29/09 20:00 - DAZN 2",
+      "pubDate": "Mon, 29 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x West Ham - 29/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x West Ham - 29/09 20:00 - DAZN 1",
+      "pubDate": "Mon, 29 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega (S20) x Nigéria (S20) - 29/09 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega (S20) x Nigéria (S20) - 29/09 21:00 - FIFA +",
+      "pubDate": "Mon, 29 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "França (S20) x África do Sul (S20) - 29/09 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (S20) x África do Sul (S20) - 29/09 21:00 - FIFA +",
+      "pubDate": "Mon, 29 Sep 2025 21:00:00",
       "guid": ""
     }
   ]

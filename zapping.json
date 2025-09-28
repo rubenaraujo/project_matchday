@@ -1,66 +1,10 @@
 {
   "items": [
     {
-      "title": "Lille x Lyon - 28/09 16:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Lyon - 28/09 16:15 - SportTV 4",
-      "pubDate": "Sun, 28 Sep 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Arsenal - 28/09 16:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Arsenal - 28/09 16:30 - DAZN 2",
-      "pubDate": "Sun, 28 Sep 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Köln x Stuttgart - 28/09 16:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x Stuttgart - 28/09 16:30 - DAZN 4",
-      "pubDate": "Sun, 28 Sep 2025 16:30:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Povo Freixo (Futsal Feminino) x Benfica (Futsal Feminino) - 28/09 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Povo Freixo (Futsal Feminino) x Benfica (Futsal Feminino) - 28/09 17:00 - Canal11",
       "pubDate": "Sun, 28 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x CD Mafra - 28/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x CD Mafra - 28/09 17:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Atlético CP - 28/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Atlético CP - 28/09 17:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lecce x Bologna - 28/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Bologna - 28/09 17:00 - SportTV 2",
-      "pubDate": "Sun, 28 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nogueirense FC x Boavista SAD - 28/09 17:00 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nogueirense FC x Boavista SAD - 28/09 17:00 - Youtube",
-      "pubDate": "Sun, 28 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Futsal) x Sporting (Futsal) - 28/09 17:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Futsal) x Sporting (Futsal) - 28/09 17:30 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 17:30:00",
       "guid": ""
     },
     {
@@ -278,6 +222,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (S20) x África do Sul (S20) - 29/09 21:00 - FIFA +",
       "pubDate": "Mon, 29 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Colômbia (S20) x Arábia Saudita (S20) - 30/09 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colômbia (S20) x Arábia Saudita (S20) - 30/09 00:00 - FIFA +",
+      "pubDate": "Tue, 30 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estados Unidos (S20) x Nova Caledónia (S20) - 30/09 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estados Unidos (S20) x Nova Caledónia (S20) - 30/09 00:00 - FIFA +",
+      "pubDate": "Tue, 30 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela (S23) x Marítimo (S23) - 30/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela (S23) x Marítimo (S23) - 30/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 30 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia (S23) x Est. Amadora (S23) - 30/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Est. Amadora (S23) - 30/09 11:00 - Canal11",
+      "pubDate": "Tue, 30 Sep 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara (S23) x Portimonense (S23) - 30/09 12:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x Portimonense (S23) - 30/09 12:00 - C11 Stream",
+      "pubDate": "Tue, 30 Sep 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray (Jun.A S19) x Liverpool (Jun.A S19) - 30/09 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray (Jun.A S19) x Liverpool (Jun.A S19) - 30/09 13:00 - Canal11",
+      "pubDate": "Tue, 30 Sep 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
+      "pubDate": "Tue, 30 Sep 2025 15:00:00",
       "guid": ""
     }
   ]

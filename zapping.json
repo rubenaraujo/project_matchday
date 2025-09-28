@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Vila Flor SC (Praia) x ACD O Sótão (Praia) - 28/09 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vila Flor SC (Praia) x ACD O Sótão (Praia) - 28/09 13:00 - Canal11",
-      "pubDate": "Sun, 28 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense x GD Chaves - 28/09 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense x GD Chaves - 28/09 14:00 - SportTV +",
-      "pubDate": "Sun, 28 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Hellas Verona - 28/09 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Hellas Verona - 28/09 14:00 - SportTV 2",
-      "pubDate": "Sun, 28 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x Paris FC - 28/09 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x Paris FC - 28/09 14:00 - SportTV 3",
-      "pubDate": "Sun, 28 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Fulham - 28/09 14:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Fulham - 28/09 14:00 - DAZN 2",
-      "pubDate": "Sun, 28 Sep 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Freiburg x TSG Hoffenheim - 28/09 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x TSG Hoffenheim - 28/09 14:30 - DAZN 4",
@@ -327,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Besiktas x Kocaelispor - 29/09 18:00 - SportTV 3",
       "pubDate": "Mon, 29 Sep 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ucrânia (Futsal  S19) x Portugal (Futsal  S19) - 29/09 18:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ucrânia (Futsal  S19) x Portugal (Futsal  S19) - 29/09 18:30 - Canal11",
+      "pubDate": "Mon, 29 Sep 2025 18:30:00",
       "guid": ""
     }
   ]

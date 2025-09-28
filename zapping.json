@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Famalicão x Rio Ave - 28/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Rio Ave - 28/09 20:30 - SportTV 1",
-      "pubDate": "Sun, 28 Sep 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália (S20) x Austrália (S20) - 28/09 21:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (S20) x Austrália (S20) - 28/09 21:00 - FIFA +",
-      "pubDate": "Sun, 28 Sep 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marrocos (S20) x Espanha (S20) - 28/09 21:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marrocos (S20) x Espanha (S20) - 28/09 21:00 - FIFA +",
-      "pubDate": "Sun, 28 Sep 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Deportivo Riestra - 28/09 22:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Deportivo Riestra - 28/09 22:00 - SportTV 2",
@@ -285,6 +264,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Egipto (S20) x Nova Zelândia (S20) - 30/09 21:00 - FIFA +",
       "pubDate": "Tue, 30 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Panamá (S20) x Ucrânia (S20) - 30/09 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Panamá (S20) x Ucrânia (S20) - 30/09 21:00 - FIFA +",
+      "pubDate": "Tue, 30 Sep 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coreia do Sul (S20) x Paraguai (S20) - 01/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coreia do Sul (S20) x Paraguai (S20) - 01/10 00:00 - FIFA +",
+      "pubDate": "Wed, 01 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chile (S20) x Japão (S20) - 01/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chile (S20) x Japão (S20) - 01/10 00:00 - FIFA +",
+      "pubDate": "Wed, 01 Oct 2025 00:00:00",
       "guid": ""
     }
   ]

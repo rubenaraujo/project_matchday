@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Vasco x Cruzeiro - 27/09 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Cruzeiro - 27/09 22:30 - Canal11",
-      "pubDate": "Sat, 27 Sep 2025 22:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Defensa y Justicia x Boca Juniors - 27/09 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Defensa y Justicia x Boca Juniors - 27/09 23:00 - SportTV 2",
-      "pubDate": "Sat, 27 Sep 2025 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Finalista 1 x Finalista 2 - 28/09 00:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Finalista 1 x Finalista 2 - 28/09 00:00 - RTP2",
@@ -320,6 +306,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rennes x Lens - 28/09 19:45 - SportTV 7",
       "pubDate": "Sun, 28 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Osasuna - 28/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Osasuna - 28/09 20:00 - DAZN 1",
+      "pubDate": "Sun, 28 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bahia x Palmeiras - 28/09 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bahia x Palmeiras - 28/09 20:00 - Canal11",
+      "pubDate": "Sun, 28 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão x Rio Ave - 28/09 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão x Rio Ave - 28/09 20:30 - SportTV 1",
+      "pubDate": "Sun, 28 Sep 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (S20) x Austrália (S20) - 28/09 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (S20) x Austrália (S20) - 28/09 21:00 - FIFA +",
+      "pubDate": "Sun, 28 Sep 2025 21:00:00",
       "guid": ""
     }
   ]

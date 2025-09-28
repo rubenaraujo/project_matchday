@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Casa Povo Freixo (Futsal Feminino) x Benfica (Futsal Feminino) - 28/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Povo Freixo (Futsal Feminino) x Benfica (Futsal Feminino) - 28/09 17:00 - Canal11",
-      "pubDate": "Sun, 28 Sep 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Real Sociedad - 28/09 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Real Sociedad - 28/09 17:30 - DAZN 1",
-      "pubDate": "Sun, 28 Sep 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Nacional - 28/09 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Nacional - 28/09 18:00 - SportTV 1",
-      "pubDate": "Sun, 28 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Varzim x Fafe - 28/09 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x Fafe - 28/09 18:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fenerbahçe x Antalyaspor - 28/09 18:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Antalyaspor - 28/09 18:00 - SportTV 5",
-      "pubDate": "Sun, 28 Sep 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "1. FC Union Berlin x Hamburger SV - 28/09 18:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "1. FC Union Berlin x Hamburger SV - 28/09 18:30 - DAZN 4",
@@ -270,6 +235,20 @@
       "title": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
+      "pubDate": "Tue, 30 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (S23) x Leixões (S23) - 30/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (S23) x Leixões (S23) - 30/09 15:00 - C11 Stream",
+      "pubDate": "Tue, 30 Sep 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea (Jun.A S19) x Benfica (Jun.A S19) - 30/09 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea (Jun.A S19) x Benfica (Jun.A S19) - 30/09 15:00 - DAZN 1",
       "pubDate": "Tue, 30 Sep 2025 15:00:00",
       "guid": ""
     }

@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Freiburg x TSG Hoffenheim - 28/09 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x TSG Hoffenheim - 28/09 14:30 - DAZN 4",
-      "pubDate": "Sun, 28 Sep 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x S. João Ver - 28/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x S. João Ver - 28/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x USC Paredes - 28/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x USC Paredes - 28/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x Trofense - 28/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x Trofense - 28/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Lusit. Évora - 28/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Lusit. Évora - 28/09 15:00 - Canal11",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x U. Santarém - 28/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x U. Santarém - 28/09 15:00 - C11 Stream",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gloria Bistrita (Andebol Feminino) x Metz Handball (Andebol Feminino) - 28/09 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gloria Bistrita (Andebol Feminino) x Metz Handball (Andebol Feminino) - 28/09 15:00 - SportTV 5",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Livingston x Rangers - 28/09 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Livingston x Rangers - 28/09 15:00 - SportTV 6",
-      "pubDate": "Sun, 28 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Elche x Celta de Vigo - 28/09 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche x Celta de Vigo - 28/09 15:15 - DAZN 1",
@@ -299,6 +243,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ucrânia (Futsal  S19) x Portugal (Futsal  S19) - 29/09 18:30 - Canal11",
       "pubDate": "Mon, 29 Sep 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Lazio - 29/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Lazio - 29/09 19:45 - SportTV 2",
+      "pubDate": "Mon, 29 Sep 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x Benfica (Futsal) - 29/09 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x Benfica (Futsal) - 29/09 20:00 - Canal11",
+      "pubDate": "Mon, 29 Sep 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x FC Porto - 29/09 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x FC Porto - 29/09 20:00 - SportTV 1",
+      "pubDate": "Mon, 29 Sep 2025 20:00:00",
       "guid": ""
     }
   ]

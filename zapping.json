@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Finalista 1 x Finalista 2 - 28/09 00:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 28/09 00:00 - RTP2",
-      "pubDate": "Sun, 28 Sep 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Derrotado MF1 x Derrotado MF2 - 28/09 00:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado MF1 x Derrotado MF2 - 28/09 00:00 - RTP Play",
-      "pubDate": "Sun, 28 Sep 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Feirense x Lusitânia de Lourosa - 28/09 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x Lusitânia de Lourosa - 28/09 11:00 - SportTV 1",
@@ -334,6 +320,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Deportivo Riestra - 28/09 22:00 - SportTV 2",
       "pubDate": "Sun, 28 Sep 2025 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Red Bull Bragantino x Santos - 28/09 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Red Bull Bragantino x Santos - 28/09 22:30 - Canal11",
+      "pubDate": "Sun, 28 Sep 2025 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cuba (S20) x Argentina (S20) - 29/09 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cuba (S20) x Argentina (S20) - 29/09 00:00 - FIFA +",
+      "pubDate": "Mon, 29 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil (S20) x México (S20) - 29/09 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil (S20) x México (S20) - 29/09 00:00 - FIFA +",
+      "pubDate": "Mon, 29 Sep 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Flamengo - 29/09 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Flamengo - 29/09 00:30 - Canal11",
+      "pubDate": "Mon, 29 Sep 2025 00:30:00",
       "guid": ""
     }
   ]

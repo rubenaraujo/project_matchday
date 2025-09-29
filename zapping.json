@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Red Bull Bragantino x Santos - 28/09 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Red Bull Bragantino x Santos - 28/09 22:30 - Canal11",
-      "pubDate": "Sun, 28 Sep 2025 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cuba (S20) x Argentina (S20) - 29/09 00:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cuba (S20) x Argentina (S20) - 29/09 00:00 - FIFA +",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Union St. Gilloise x Newcastle - 01/10 17:45 - DAZN 1",
       "pubDate": "Wed, 01 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Qarabag x FC Kobenhavn - 01/10 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Qarabag x FC Kobenhavn - 01/10 17:45 - DAZN 2",
+      "pubDate": "Wed, 01 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Zawra´a x Al-Nassr - 01/10 19:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Zawra´a x Al-Nassr - 01/10 19:15 - Canal11",
+      "pubDate": "Wed, 01 Oct 2025 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Sporting - 01/10 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Sporting - 01/10 20:00 - SportTV 5",
+      "pubDate": "Wed, 01 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

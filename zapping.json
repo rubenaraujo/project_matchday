@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cuba (S20) x Argentina (S20) - 29/09 00:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cuba (S20) x Argentina (S20) - 29/09 00:00 - FIFA +",
-      "pubDate": "Mon, 29 Sep 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brasil (S20) x México (S20) - 29/09 00:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil (S20) x México (S20) - 29/09 00:00 - FIFA +",
-      "pubDate": "Mon, 29 Sep 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Flamengo - 29/09 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Flamengo - 29/09 00:30 - Canal11",
-      "pubDate": "Mon, 29 Sep 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S17) x Islândia (Feminino S17) - 29/09 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S17) x Islândia (Feminino S17) - 29/09 16:00 - Canal11",
@@ -319,6 +298,20 @@
       "title": "Napoli x Sporting - 01/10 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Sporting - 01/10 20:00 - SportTV 5",
+      "pubDate": "Wed, 01 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "QPR x Oxford United - 01/10 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "QPR x Oxford United - 01/10 20:00 - SportTV 1",
+      "pubDate": "Wed, 01 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x PSG - 01/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x PSG - 01/10 20:00 - DAZN 1",
       "pubDate": "Wed, 01 Oct 2025 20:00:00",
       "guid": ""
     }

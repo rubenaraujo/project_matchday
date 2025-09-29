@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Valencia x Real Oviedo - 29/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Real Oviedo - 29/09 20:00 - DAZN 2",
-      "pubDate": "Mon, 29 Sep 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Colômbia (S20) x Arábia Saudita (S20) - 30/09 00:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia (S20) x Arábia Saudita (S20) - 30/09 00:00 - FIFA +",
@@ -285,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (S20) x Cuba (S20) - 01/10 21:00 - FIFA +",
       "pubDate": "Wed, 01 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (S20) x México (S20) - 01/10 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (S20) x México (S20) - 01/10 21:00 - FIFA +",
+      "pubDate": "Wed, 01 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentina (S20) x Austrália (S20) - 02/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentina (S20) x Austrália (S20) - 02/10 00:00 - FIFA +",
+      "pubDate": "Thu, 02 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil (S20) x Marrocos (S20) - 02/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil (S20) x Marrocos (S20) - 02/10 00:00 - FIFA +",
+      "pubDate": "Thu, 02 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Macarthur FC x Beijing Guoan - 02/10 08:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Macarthur FC x Beijing Guoan - 02/10 08:45 - Canal11",
+      "pubDate": "Thu, 02 Oct 2025 08:45:00",
       "guid": ""
     }
   ]

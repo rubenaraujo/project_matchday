@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
-      "pubDate": "Tue, 30 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (S23) x Leixões (S23) - 30/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (S23) x Leixões (S23) - 30/09 15:00 - C11 Stream",
-      "pubDate": "Tue, 30 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea (Jun.A S19) x Benfica (Jun.A S19) - 30/09 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea (Jun.A S19) x Benfica (Jun.A S19) - 30/09 15:00 - DAZN 1",
-      "pubDate": "Tue, 30 Sep 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Farense (S23) x UD Leiria (S23) - 30/09 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense (S23) x UD Leiria (S23) - 30/09 17:00 - Canal11",
@@ -319,6 +298,13 @@
       "title": "Roma x Lille - 02/10 17:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Roma x Lille - 02/10 17:45 - DAZN 2",
+      "pubDate": "Thu, 02 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x SC Freiburg - 02/10 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x SC Freiburg - 02/10 17:45 - DAZN 3",
       "pubDate": "Thu, 02 Oct 2025 17:45:00",
       "guid": ""
     }

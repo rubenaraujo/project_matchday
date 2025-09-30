@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray (Jun.A S19) x Liverpool (Jun.A S19) - 30/09 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray (Jun.A S19) x Liverpool (Jun.A S19) - 30/09 13:00 - Canal11",
-      "pubDate": "Tue, 30 Sep 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (S23) x Académico (S23) - 30/09 15:00 - Canal11",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Macarthur FC x Beijing Guoan - 02/10 08:45 - Canal11",
       "pubDate": "Thu, 02 Oct 2025 08:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x SC Braga - 02/10 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x SC Braga - 02/10 17:45 - DAZN 1",
+      "pubDate": "Thu, 02 Oct 2025 17:45:00",
       "guid": ""
     }
   ]

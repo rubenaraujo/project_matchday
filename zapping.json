@@ -8,97 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Al-Zawra´a x Al-Nassr - 01/10 19:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Zawra´a x Al-Nassr - 01/10 19:15 - Canal11",
-      "pubDate": "Wed, 01 Oct 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Sporting - 01/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Sporting - 01/10 20:00 - SportTV 5",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "QPR x Oxford United - 01/10 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "QPR x Oxford United - 01/10 20:00 - SportTV 1",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x PSG - 01/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x PSG - 01/10 20:00 - DAZN 1",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Manchester City - 01/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Manchester City - 01/10 20:00 - DAZN 3",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund x Athletic Bilbao - 01/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Athletic Bilbao - 01/10 20:00 - DAZN 4",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x PSV - 01/10 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x PSV - 01/10 20:00 - DAZN",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Olympiacos - 01/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Olympiacos - 01/10 20:00 - DAZN 2",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Juventus - 01/10 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Juventus - 01/10 20:00 - DAZN",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses (Andebol) x Sporting (Andebol) - 01/10 20:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x Sporting (Andebol) - 01/10 20:00 - AndebolTV",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x FC Gaia (Andebol) - 01/10 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x FC Gaia (Andebol) - 01/10 20:00 - PortoCanal",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "ABC (Andebol) x Póvoa AC (Andebol) - 01/10 20:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ABC (Andebol) x Póvoa AC (Andebol) - 01/10 20:00 - ABola TV",
-      "pubDate": "Wed, 01 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x Artística de Avanca (Andebol) - 01/10 20:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x Artística de Avanca (Andebol) - 01/10 20:30 - BTv",
-      "pubDate": "Wed, 01 Oct 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (S20) x Cuba (S20) - 01/10 21:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (S20) x Cuba (S20) - 01/10 21:00 - FIFA +",
@@ -320,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "ADCR Caxinas Poça Barca (Futsal) x SC Braga (Futsal) - 03/10 20:30 - Canal11",
       "pubDate": "Fri, 03 Oct 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Panamá (S20) x Coreia do Sul (S20) - 03/10 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Panamá (S20) x Coreia do Sul (S20) - 03/10 21:00 - FIFA +",
+      "pubDate": "Fri, 03 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ucrânia (S20) x Paraguai (S20) - 03/10 21:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ucrânia (S20) x Paraguai (S20) - 03/10 21:00 - FIFA +",
+      "pubDate": "Fri, 03 Oct 2025 21:00:00",
       "guid": ""
     }
   ]

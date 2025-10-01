@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Union St. Gilloise x Newcastle - 01/10 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Union St. Gilloise x Newcastle - 01/10 17:45 - DAZN 1",
-      "pubDate": "Wed, 01 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Qarabag x FC Kobenhavn - 01/10 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Qarabag x FC Kobenhavn - 01/10 17:45 - DAZN 2",
-      "pubDate": "Wed, 01 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo (Andebol) x Vitória SC (Andebol) - 01/10 18:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Andebol) x Vitória SC (Andebol) - 01/10 18:30 - AndebolTV",
@@ -327,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Estoril Praia - 03/10 20:15 - SportTV 1",
       "pubDate": "Fri, 03 Oct 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "ADCR Caxinas Poça Barca (Futsal) x SC Braga (Futsal) - 03/10 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ADCR Caxinas Poça Barca (Futsal) x SC Braga (Futsal) - 03/10 20:30 - Canal11",
+      "pubDate": "Fri, 03 Oct 2025 20:30:00",
       "guid": ""
     }
   ]

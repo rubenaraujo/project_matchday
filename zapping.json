@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Napoli (Jun.A S19) x Sporting (Jun.A S19) - 01/10 13:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli (Jun.A S19) x Sporting (Jun.A S19) - 01/10 13:00 - SportingTv",
-      "pubDate": "Wed, 01 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona (Jun.A S19) x PSG (Jun.A S19) - 01/10 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona (Jun.A S19) x PSG (Jun.A S19) - 01/10 15:00 - DAZN 1",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Sassuolo - 03/10 19:45 - SportTV 2",
       "pubDate": "Fri, 03 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bournemouth x Fulham - 03/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bournemouth x Fulham - 03/10 20:00 - DAZN 1",
+      "pubDate": "Fri, 03 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Getafe - 03/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Getafe - 03/10 20:00 - DAZN 2",
+      "pubDate": "Fri, 03 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

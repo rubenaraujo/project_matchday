@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Barcelona (Jun.A S19) x PSG (Jun.A S19) - 01/10 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona (Jun.A S19) x PSG (Jun.A S19) - 01/10 15:00 - DAZN 1",
-      "pubDate": "Wed, 01 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Moldávia (Futsal  S19) x Portugal (Futsal  S19) - 01/10 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moldávia (Futsal  S19) x Portugal (Futsal  S19) - 01/10 16:00 - Canal11",
@@ -326,6 +319,13 @@
       "title": "Osasuna x Getafe - 03/10 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Getafe - 03/10 20:00 - DAZN 2",
+      "pubDate": "Fri, 03 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Birmingham City - 03/10 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Birmingham City - 03/10 20:00 - SportTV 7",
       "pubDate": "Fri, 03 Oct 2025 20:00:00",
       "guid": ""
     }

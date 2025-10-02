@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x Crvena Zvezda - 02/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Crvena Zvezda - 02/10 20:00 - SportTV 5",
-      "pubDate": "Thu, 02 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feyenoord x Aston Villa - 02/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Aston Villa - 02/10 20:00 - DAZN 1",
-      "pubDate": "Thu, 02 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Midtjylland - 02/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Midtjylland - 02/10 20:00 - DAZN 2",
-      "pubDate": "Thu, 02 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Red Bull Salzburg - 02/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Red Bull Salzburg - 02/10 20:00 - DAZN 4",
-      "pubDate": "Thu, 02 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Colômbia (S20) x Noruega (S20) - 02/10 21:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia (S20) x Noruega (S20) - 02/10 21:00 - FIFA +",
@@ -313,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x AD Sanjoanense - 04/10 15:30 - C11 Stream",
       "pubDate": "Sat, 04 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x U. Santarém - 04/10 15:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x U. Santarém - 04/10 15:30 - C11 Stream",
+      "pubDate": "Sat, 04 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusit. Évora x Amora FC - 04/10 15:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusit. Évora x Amora FC - 04/10 15:30 - C11 Stream",
+      "pubDate": "Sat, 04 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/10 16:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/10 16:00 - RTP2",
+      "pubDate": "Sat, 04 Oct 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz x Marseille - 04/10 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz x Marseille - 04/10 16:00 - SportTV 3",
+      "pubDate": "Sat, 04 Oct 2025 16:00:00",
       "guid": ""
     }
   ]

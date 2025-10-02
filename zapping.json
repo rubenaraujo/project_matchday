@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Knicks (Basket) x Philadelphia 76ers (Basket) - 02/10 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Knicks (Basket) x Philadelphia 76ers (Basket) - 02/10 17:00 - SportTV 1",
-      "pubDate": "Thu, 02 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Crvena Zvezda - 02/10 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Crvena Zvezda - 02/10 20:00 - SportTV 5",
@@ -312,6 +305,13 @@
       "title": "Portimonense x UD Leiria - 04/10 15:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense x UD Leiria - 04/10 15:30 - SportTV 4",
+      "pubDate": "Sat, 04 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x AD Sanjoanense - 04/10 15:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x AD Sanjoanense - 04/10 15:30 - C11 Stream",
       "pubDate": "Sat, 04 Oct 2025 15:30:00",
       "guid": ""
     }

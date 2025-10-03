@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Racing Club x River Plate - 02/10 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x River Plate - 02/10 22:00 - SportTV 1",
-      "pubDate": "Thu, 02 Oct 2025 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nigéria (S20) x Arábia Saudita (S20) - 03/10 00:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nigéria (S20) x Arábia Saudita (S20) - 03/10 00:00 - FIFA +",
@@ -144,13 +137,6 @@
       "title": "Lusitânia de Lourosa x Farense - 04/10 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x Farense - 04/10 11:00 - SportTV 1",
-      "pubDate": "Sat, 04 Oct 2025 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.B S17) x CD Tondela (Jun.B S17) - 04/10 11:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x CD Tondela (Jun.B S17) - 04/10 11:00 - PortoCanal",
       "pubDate": "Sat, 04 Oct 2025 11:00:00",
       "guid": ""
     },
@@ -326,6 +312,20 @@
       "title": "Atlético CP (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 04/10 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 04/10 17:00 - C11 Stream",
+      "pubDate": "Sat, 04 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x Caldas SC - 04/10 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x Caldas SC - 04/10 17:00 - C11 Stream",
+      "pubDate": "Sat, 04 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Cremonese - 04/10 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Cremonese - 04/10 17:00 - SportTV 6",
       "pubDate": "Sat, 04 Oct 2025 17:00:00",
       "guid": ""
     }

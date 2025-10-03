@@ -1,66 +1,10 @@
 {
   "items": [
     {
-      "title": "Panathinaikos (Basket) x FC Barcelona (Basket) - 03/10 19:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Panathinaikos (Basket) x FC Barcelona (Basket) - 03/10 19:15 - SportTV 4",
-      "pubDate": "Fri, 03 Oct 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "TSG Hoffenheim x FC Köln - 03/10 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "TSG Hoffenheim x FC Köln - 03/10 19:30 - DAZN 3",
-      "pubDate": "Fri, 03 Oct 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Lorient - 03/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Lorient - 03/10 19:45 - SportTV 3",
-      "pubDate": "Fri, 03 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Sassuolo - 03/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Sassuolo - 03/10 19:45 - SportTV 2",
-      "pubDate": "Fri, 03 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Fulham - 03/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Fulham - 03/10 20:00 - DAZN 1",
-      "pubDate": "Fri, 03 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Osasuna x Getafe - 03/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Getafe - 03/10 20:00 - DAZN 2",
-      "pubDate": "Fri, 03 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Birmingham City - 03/10 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Birmingham City - 03/10 20:00 - SportTV 7",
-      "pubDate": "Fri, 03 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x Estoril Praia - 03/10 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Estoril Praia - 03/10 20:15 - SportTV 1",
       "pubDate": "Fri, 03 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "ADCR Caxinas Poça Barca (Futsal) x SC Braga (Futsal) - 03/10 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ADCR Caxinas Poça Barca (Futsal) x SC Braga (Futsal) - 03/10 20:30 - Canal11",
-      "pubDate": "Fri, 03 Oct 2025 20:30:00",
       "guid": ""
     },
     {
@@ -326,6 +270,20 @@
       "title": "Chelsea x Liverpool - 04/10 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x Liverpool - 04/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 04 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x Bayern München - 04/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x Bayern München - 04/10 17:30 - DAZN 2",
+      "pubDate": "Sat, 04 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Gaia (Andebol) x Belenenses (Andebol) - 04/10 17:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Gaia (Andebol) x Belenenses (Andebol) - 04/10 17:30 - AndebolTV",
       "pubDate": "Sat, 04 Oct 2025 17:30:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Hóquei) x HC Braga (Hóquei) - 03/10 20:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x HC Braga (Hóquei) - 03/10 20:30 - PortoCanal",
-      "pubDate": "Fri, 03 Oct 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Nova Zelândia (S20) x Japão (S20) - 04/10 00:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nova Zelândia (S20) x Japão (S20) - 04/10 00:00 - FIFA +",
@@ -32,13 +25,6 @@
       "title": "Lusitânia de Lourosa x Farense - 04/10 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x Farense - 04/10 11:00 - SportTV 1",
-      "pubDate": "Sat, 04 Oct 2025 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.B S17) x CD Tondela (Jun.B S17) - 04/10 11:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x CD Tondela (Jun.B S17) - 04/10 11:00 - PortoCanal",
       "pubDate": "Sat, 04 Oct 2025 11:00:00",
       "guid": ""
     },
@@ -264,6 +250,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Gaia (Andebol) x Belenenses (Andebol) - 04/10 17:30 - AndebolTV",
       "pubDate": "Sat, 04 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 04/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 04/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x FC Alverca - 04/10 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x FC Alverca - 04/10 18:00 - SportTV 1",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Nantes - 04/10 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Nantes - 04/10 18:00 - SportTV 3",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Besiktas - 04/10 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Besiktas - 04/10 18:00 - SportTV 4",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal da Devesa (Andebol) x Sporting (Andebol) - 04/10 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x Sporting (Andebol) - 04/10 18:00 - AndebolTV",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x ABC (Andebol) - 04/10 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x ABC (Andebol) - 04/10 18:00 - AndebolTV",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 04/10 18:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 04/10 18:00 - DAZN 4",
+      "pubDate": "Sat, 04 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

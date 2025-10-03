@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Nigéria (S20) x Arábia Saudita (S20) - 03/10 00:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nigéria (S20) x Arábia Saudita (S20) - 03/10 00:00 - FIFA +",
-      "pubDate": "Fri, 03 Oct 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "África do Sul (S20) x Nova Caledónia (S20) - 03/10 00:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "África do Sul (S20) x Nova Caledónia (S20) - 03/10 00:00 - FIFA +",
-      "pubDate": "Fri, 03 Oct 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Jun.A S19) x Gil Vicente (Jun.A S19) - 03/10 15:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x Gil Vicente (Jun.A S19) - 03/10 15:00 - PortoCanal",
@@ -326,6 +312,13 @@
       "title": "Internazionale x Cremonese - 04/10 17:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Cremonese - 04/10 17:00 - SportTV 6",
+      "pubDate": "Sat, 04 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Basket) x Vasco da Gama (Basket) - 04/10 17:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x Vasco da Gama (Basket) - 04/10 17:00 - PortoCanal",
       "pubDate": "Sat, 04 Oct 2025 17:00:00",
       "guid": ""
     }

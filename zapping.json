@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Vitória SC x Santa Clara - 04/10 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x Santa Clara - 04/10 20:30 - SportTV 1",
-      "pubDate": "Sat, 04 Oct 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Basket Feminino) x CP Esgueira (Basket Feminino) - 04/10 20:30 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Basket Feminino) x CP Esgueira (Basket Feminino) - 04/10 20:30 - ABola TV",
-      "pubDate": "Sat, 04 Oct 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Novasemente (Futsal Feminino) - 04/10 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Novasemente (Futsal Feminino) - 04/10 21:00 - Canal11",
-      "pubDate": "Sat, 04 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "México (S20) x Marrocos (S20) - 04/10 21:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "México (S20) x Marrocos (S20) - 04/10 21:00 - FIFA +",
-      "pubDate": "Sat, 04 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (S20) x Brasil (S20) - 04/10 21:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (S20) x Brasil (S20) - 04/10 21:00 - FIFA +",
-      "pubDate": "Sat, 04 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nigéria (S20) x Colômbia (S20) - 05/10 00:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nigéria (S20) x Colômbia (S20) - 05/10 00:00 - FIFA +",
@@ -278,6 +243,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
       "pubDate": "Sun, 05 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Real Betis - 05/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Real Betis - 05/10 17:30 - DAZN 1",
+      "pubDate": "Sun, 05 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x FC Penafiel - 05/10 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x FC Penafiel - 05/10 18:00 - BTv",
+      "pubDate": "Sun, 05 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Samsunspor x Fenerbahçe - 05/10 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Samsunspor x Fenerbahçe - 05/10 18:00 - SportTV 5",
+      "pubDate": "Sun, 05 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

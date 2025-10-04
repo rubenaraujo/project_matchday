@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Dynamo Dresden x Karlsruher SC - 04/10 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dynamo Dresden x Karlsruher SC - 04/10 19:30 - DAZN 2",
-      "pubDate": "Sat, 04 Oct 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "União Sportiva (Basket Feminino) x BC Barcelos (Basket Feminino) - 04/10 19:30 - FPBTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "União Sportiva (Basket Feminino) x BC Barcelos (Basket Feminino) - 04/10 19:30 - FPBTV",
-      "pubDate": "Sat, 04 Oct 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Como 1907 - 04/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Como 1907 - 04/10 19:45 - SportTV 2",
-      "pubDate": "Sat, 04 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Villarreal - 04/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Villarreal - 04/10 20:00 - DAZN 1",
-      "pubDate": "Sat, 04 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Lens - 04/10 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Lens - 04/10 20:05 - SportTV 3",
-      "pubDate": "Sat, 04 Oct 2025 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x Santa Clara - 04/10 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Santa Clara - 04/10 20:30 - SportTV 1",
@@ -243,6 +208,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x Sporting - 05/10 15:30 - SportTV 2",
       "pubDate": "Sun, 05 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x 1º Dezembro - 05/10 15:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x 1º Dezembro - 05/10 15:30 - C11 Stream",
+      "pubDate": "Sun, 05 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x S. João Ver - 05/10 16:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x S. João Ver - 05/10 16:15 - Canal11",
+      "pubDate": "Sun, 05 Oct 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Nice - 05/10 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Nice - 05/10 16:15 - SportTV 3",
+      "pubDate": "Sun, 05 Oct 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Manchester City - 05/10 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Manchester City - 05/10 16:30 - DAZN 2",
+      "pubDate": "Sun, 05 Oct 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hamburger SV x Mainz - 05/10 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hamburger SV x Mainz - 05/10 16:30 - DAZN 3",
+      "pubDate": "Sun, 05 Oct 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Coimbrões (Basket Feminino) x Benfica (Basket Feminino) - 05/10 16:30 - FPBTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Coimbrões (Basket Feminino) x Benfica (Basket Feminino) - 05/10 16:30 - FPBTV",
+      "pubDate": "Sun, 05 Oct 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Fundão (Futsal) x Rio Ave (Futsal) - 05/10 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Fundão (Futsal) x Rio Ave (Futsal) - 05/10 17:00 - C11 Stream",
+      "pubDate": "Sun, 05 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x SC Covilhã - 05/10 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x SC Covilhã - 05/10 17:00 - C11 Stream",
+      "pubDate": "Sun, 05 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Genoa - 05/10 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Genoa - 05/10 17:00 - SportTV 6",
+      "pubDate": "Sun, 05 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
+      "pubDate": "Sun, 05 Oct 2025 17:30:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Luzia (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 04/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 04/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nun´Álvares (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 04/10 18:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 04/10 18:45 - Canal11",
-      "pubDate": "Sat, 04 Oct 2025 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Águias Santa Marta (Futsal Feminino) x GD Árvore (Futsal Feminino) - 04/10 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águias Santa Marta (Futsal Feminino) x GD Árvore (Futsal Feminino) - 04/10 19:00 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Póvoa AC (Andebol) x FC Porto (Andebol) - 04/10 19:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Póvoa AC (Andebol) x FC Porto (Andebol) - 04/10 19:00 - PortoCanal",
-      "pubDate": "Sat, 04 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Dynamo Dresden x Karlsruher SC - 04/10 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dynamo Dresden x Karlsruher SC - 04/10 19:30 - DAZN 2",
@@ -229,6 +201,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x 1. FC Heidenheim 1846 - 05/10 14:30 - DAZN 3",
       "pubDate": "Sun, 05 Oct 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x AD Sanjoanense/Escola Livre - 05/10 15:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x AD Sanjoanense/Escola Livre - 05/10 15:00 - DAZN 4",
+      "pubDate": "Sun, 05 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x CCR São Martinho (Feminino) - 05/10 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x CCR São Martinho (Feminino) - 05/10 15:00 - PortoCanal",
+      "pubDate": "Sun, 05 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Barcelona - 05/10 15:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Barcelona - 05/10 15:15 - DAZN 1",
+      "pubDate": "Sun, 05 Oct 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Ermesinde 1936 x Lixa - 05/10 15:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ermesinde 1936 x Lixa - 05/10 15:30 - Online",
+      "pubDate": "Sun, 05 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x FC Famalicão - 05/10 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x FC Famalicão - 05/10 15:30 - SportTV 1",
+      "pubDate": "Sun, 05 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Sporting - 05/10 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Sporting - 05/10 15:30 - SportTV 2",
+      "pubDate": "Sun, 05 Oct 2025 15:30:00",
       "guid": ""
     }
   ]

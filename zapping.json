@@ -8,44 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Andebol Feminino) x IK Savehof (Andebol Feminino) - 04/10 16:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x IK Savehof (Andebol Feminino) - 04/10 16:30 - BTv",
-      "pubDate": "Sat, 04 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Varzim x Vitória SC - 04/10 16:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x Vitória SC - 04/10 16:45 - Canal11",
-      "pubDate": "Sat, 04 Oct 2025 16:45:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético CP (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 04/10 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 04/10 17:00 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x Caldas SC - 04/10 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Caldas SC - 04/10 17:00 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Cremonese - 04/10 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Cremonese - 04/10 17:00 - SportTV 7",
-      "pubDate": "Sat, 04 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Basket) x Vasco da Gama (Basket) - 04/10 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x Vasco da Gama (Basket) - 04/10 17:00 - PortoCanal",
       "pubDate": "Sat, 04 Oct 2025 17:00:00",
       "guid": ""
     },
@@ -60,13 +25,6 @@
       "title": "Eintracht Frankfurt x Bayern München - 04/10 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eintracht Frankfurt x Bayern München - 04/10 17:30 - DAZN 2",
-      "pubDate": "Sat, 04 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Gaia (Andebol) x Belenenses (Andebol) - 04/10 17:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Gaia (Andebol) x Belenenses (Andebol) - 04/10 17:30 - AndebolTV",
       "pubDate": "Sat, 04 Oct 2025 17:30:00",
       "guid": ""
     },
@@ -222,6 +180,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentina (S20) x Itália (S20) - 05/10 00:00 - FIFA +",
       "pubDate": "Sun, 05 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Austrália (S20) x Cuba (S20) - 05/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Austrália (S20) x Cuba (S20) - 05/10 00:00 - FIFA +",
+      "pubDate": "Sun, 05 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lanús x San Lorenzo - 05/10 01:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lanús x San Lorenzo - 05/10 01:15 - SportTV 3",
+      "pubDate": "Sun, 05 Oct 2025 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x Paços de Ferreira - 05/10 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x Paços de Ferreira - 05/10 11:00 - SportTV 1",
+      "pubDate": "Sun, 05 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (B) x Torreense - 05/10 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x Torreense - 05/10 11:00 - PortoCanal",
+      "pubDate": "Sun, 05 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (B) x Amarante FC - 05/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (B) x Amarante FC - 05/10 11:00 - Canal11",
+      "pubDate": "Sun, 05 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x Benfica (S23) - 05/10 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Benfica (S23) - 05/10 11:00 - SportingTv",
+      "pubDate": "Sun, 05 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.B S17B) x Louletano (Jun.B S17) - 05/10 11:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.B S17B) x Louletano (Jun.B S17) - 05/10 11:00 - BTv",
+      "pubDate": "Sun, 05 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CAB Madeira (Basket Feminino) x Imortal (Basket Feminino) - 05/10 11:00 - FPBTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CAB Madeira (Basket Feminino) x Imortal (Basket Feminino) - 05/10 11:00 - FPBTV",
+      "pubDate": "Sun, 05 Oct 2025 11:00:00",
       "guid": ""
     }
   ]

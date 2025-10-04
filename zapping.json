@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Basket) x UD Oliveirense (Basket) - 04/10 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket) x UD Oliveirense (Basket) - 04/10 15:00 - DAZN 3",
-      "pubDate": "Sat, 04 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Valencia - 04/10 15:15 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Valencia - 04/10 15:15 - DAZN 3",
-      "pubDate": "Sat, 04 Oct 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Est. Amadora - 04/10 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Est. Amadora - 04/10 15:30 - SportTV 1",
-      "pubDate": "Sat, 04 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Moreirense - 04/10 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Moreirense - 04/10 15:30 - SportTV 2",
-      "pubDate": "Sat, 04 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portimonense x UD Leiria - 04/10 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense x UD Leiria - 04/10 15:30 - SportTV 4",
-      "pubDate": "Sat, 04 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x AD Sanjoanense - 04/10 15:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x AD Sanjoanense - 04/10 15:30 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x U. Santarém - 04/10 15:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x U. Santarém - 04/10 15:30 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusit. Évora x Amora FC - 04/10 15:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusit. Évora x Amora FC - 04/10 15:30 - C11 Stream",
-      "pubDate": "Sat, 04 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/10 16:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/10 16:00 - RTP2",
-      "pubDate": "Sat, 04 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Metz x Marseille - 04/10 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Metz x Marseille - 04/10 16:00 - SportTV 3",
-      "pubDate": "Sat, 04 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia 76ers (Basket) x New York Knicks (Basket) - 04/10 16:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia 76ers (Basket) x New York Knicks (Basket) - 04/10 16:00 - SportTV 6",
@@ -278,6 +208,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (S20) x Brasil (S20) - 04/10 21:00 - FIFA +",
       "pubDate": "Sat, 04 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nigéria (S20) x Colômbia (S20) - 05/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nigéria (S20) x Colômbia (S20) - 05/10 00:00 - FIFA +",
+      "pubDate": "Sun, 05 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentina (S20) x Itália (S20) - 05/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentina (S20) x Itália (S20) - 05/10 00:00 - FIFA +",
+      "pubDate": "Sun, 05 Oct 2025 00:00:00",
       "guid": ""
     }
   ]

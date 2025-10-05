@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Fafe x S. João Ver - 05/10 16:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x S. João Ver - 05/10 16:15 - Canal11",
-      "pubDate": "Sun, 05 Oct 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Nice - 05/10 16:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Nice - 05/10 16:15 - SportTV 3",
-      "pubDate": "Sun, 05 Oct 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Brentford x Manchester City - 05/10 16:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brentford x Manchester City - 05/10 16:30 - DAZN 2",
-      "pubDate": "Sun, 05 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hamburger SV x Mainz - 05/10 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hamburger SV x Mainz - 05/10 16:30 - DAZN 3",
-      "pubDate": "Sun, 05 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Coimbrões (Basket Feminino) x Benfica (Basket Feminino) - 05/10 16:30 - FPBTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Coimbrões (Basket Feminino) x Benfica (Basket Feminino) - 05/10 16:30 - FPBTV",
-      "pubDate": "Sun, 05 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x Rio Ave (Futsal) - 05/10 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x Rio Ave (Futsal) - 05/10 17:00 - C11 Stream",
-      "pubDate": "Sun, 05 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x SC Covilhã - 05/10 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x SC Covilhã - 05/10 17:00 - C11 Stream",
-      "pubDate": "Sun, 05 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Genoa - 05/10 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Genoa - 05/10 17:00 - SportTV 6",
-      "pubDate": "Sun, 05 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
@@ -271,6 +215,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Malta x Países Baixos - 09/10 19:45 - SportTV 1",
       "pubDate": "Thu, 09 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x Croácia - 09/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x Croácia - 09/10 19:45 - SportTV 3",
+      "pubDate": "Thu, 09 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria x São Marino - 09/10 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria x São Marino - 09/10 19:45 - SportTV 6",
+      "pubDate": "Thu, 09 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Inglaterra x País de Gales - 09/10 19:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inglaterra x País de Gales - 09/10 19:45 - SportTV +",
+      "pubDate": "Thu, 09 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 10/10 00:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 10/10 00:30 - SportTV 3",
+      "pubDate": "Fri, 10 Oct 2025 00:30:00",
       "guid": ""
     }
   ]

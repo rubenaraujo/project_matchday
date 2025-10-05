@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x SC Braga - 05/10 19:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x SC Braga - 05/10 19:15 - SportTV 2",
-      "pubDate": "Sun, 05 Oct 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Milan - 05/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Milan - 05/10 19:45 - SportTV 4",
-      "pubDate": "Sun, 05 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x PSG - 05/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x PSG - 05/10 19:45 - SportTV 3",
-      "pubDate": "Sun, 05 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Atlético de Madrid - 05/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Atlético de Madrid - 05/10 20:00 - DAZN 1",
-      "pubDate": "Sun, 05 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nova Caledónia (S20) x França (S20) - 05/10 21:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nova Caledónia (S20) x França (S20) - 05/10 21:00 - FIFA +",
@@ -299,6 +271,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x Sporting (Hóquei) - 11/10 12:00 - RTP2",
       "pubDate": "Sat, 11 Oct 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Letónia x Andorra - 11/10 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Letónia x Andorra - 11/10 14:00 - SportTV 6",
+      "pubDate": "Sat, 11 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 11/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 11/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x Benfica (Basket) - 11/10 15:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x Benfica (Basket) - 11/10 15:00 - RTP2",
+      "pubDate": "Sat, 11 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x UD Oliveirense - 11/10 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x UD Oliveirense - 11/10 15:30 - SportTV 2",
+      "pubDate": "Sat, 11 Oct 2025 15:30:00",
       "guid": ""
     }
   ]

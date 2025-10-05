@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Nova Caledónia (S20) x França (S20) - 05/10 21:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nova Caledónia (S20) x França (S20) - 05/10 21:00 - FIFA +",
-      "pubDate": "Sun, 05 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "África do Sul (S20) x Estados Unidos (S20) - 05/10 21:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "África do Sul (S20) x Estados Unidos (S20) - 05/10 21:00 - FIFA +",
-      "pubDate": "Sun, 05 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Benfica - 05/10 21:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Benfica - 05/10 21:15 - SportTV 1",
@@ -299,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x UD Oliveirense - 11/10 15:30 - SportTV 2",
       "pubDate": "Sat, 11 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x Amora FC - 11/10 15:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x Amora FC - 11/10 15:30 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Futsal) x Eléctrico (Futsal) - 11/10 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Futsal) x Eléctrico (Futsal) - 11/10 16:00 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 16:00:00",
       "guid": ""
     }
   ]

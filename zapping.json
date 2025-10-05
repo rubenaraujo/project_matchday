@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x CD Tondela - 05/10 17:30 - SportTV 4",
-      "pubDate": "Sun, 05 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Real Betis - 05/10 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Real Betis - 05/10 17:30 - DAZN 1",
-      "pubDate": "Sun, 05 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x FC Penafiel - 05/10 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x FC Penafiel - 05/10 18:00 - BTv",
-      "pubDate": "Sun, 05 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Samsunspor x Fenerbahçe - 05/10 18:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Samsunspor x Fenerbahçe - 05/10 18:00 - SportTV 5",
-      "pubDate": "Sun, 05 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GDESSA (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 05/10 18:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GDESSA (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 05/10 18:00 - DAZN 4",
-      "pubDate": "Sun, 05 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia M´gladbach x SC Freiburg - 05/10 18:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x SC Freiburg - 05/10 18:30 - DAZN 3",
@@ -243,6 +208,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 10/10 00:30 - SportTV 3",
       "pubDate": "Fri, 10 Oct 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cazaquistão x Liechtenstein - 10/10 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cazaquistão x Liechtenstein - 10/10 15:00 - SportTV 1",
+      "pubDate": "Fri, 10 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "São Tomé e Príncipe x Tunísia - 10/10 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "São Tomé e Príncipe x Tunísia - 10/10 17:00 - SportTV 2",
+      "pubDate": "Fri, 10 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Dubai Basketball (Basket) - 10/10 19:15 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Dubai Basketball (Basket) - 10/10 19:15 - SportTV 6",
+      "pubDate": "Fri, 10 Oct 2025 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Islândia x Ucrânia - 10/10 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Islândia x Ucrânia - 10/10 19:45 - SportTV 5",
+      "pubDate": "Fri, 10 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha x Luxemburgo - 10/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha x Luxemburgo - 10/10 19:45 - SportTV 2",
+      "pubDate": "Fri, 10 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

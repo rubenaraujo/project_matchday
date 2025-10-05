@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Nigéria (S20) x Colômbia (S20) - 05/10 00:00 - FIFA +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nigéria (S20) x Colômbia (S20) - 05/10 00:00 - FIFA +",
-      "pubDate": "Sun, 05 Oct 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Oliveirense x Paços de Ferreira - 05/10 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x Paços de Ferreira - 05/10 11:00 - SportTV 1",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Benfica - 05/10 21:15 - SportTV 1",
       "pubDate": "Sun, 05 Oct 2025 21:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Newell´s Old Boys - 05/10 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Newell´s Old Boys - 05/10 23:00 - SportTV 2",
+      "pubDate": "Sun, 05 Oct 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arábia Saudita (S20) x Noruega (S20) - 06/10 00:00 - FIFA +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arábia Saudita (S20) x Noruega (S20) - 06/10 00:00 - FIFA +",
+      "pubDate": "Mon, 06 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x River Plate - 06/10 01:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x River Plate - 06/10 01:15 - SportTV 2",
+      "pubDate": "Mon, 06 Oct 2025 01:15:00",
       "guid": ""
     }
   ]

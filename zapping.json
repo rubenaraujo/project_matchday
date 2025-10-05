@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Alavés x Elche - 05/10 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Elche - 05/10 13:00 - DAZN 1",
-      "pubDate": "Sun, 05 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Felgueiras x Feirense - 05/10 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Felgueiras x Feirense - 05/10 14:00 - SportTV +",
@@ -278,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eléctrico (Futsal) x Torreense (Futsal) - 06/10 19:00 - Canal11",
       "pubDate": "Mon, 06 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus (Feminino) x Benfica (Feminino) - 07/10 17:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus (Feminino) x Benfica (Feminino) - 07/10 17:45 - RTP1",
+      "pubDate": "Tue, 07 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Basket Feminino) x Sporting (Basket Feminino) - 07/10 20:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Basket Feminino) x Sporting (Basket Feminino) - 07/10 20:30 - DAZN",
+      "pubDate": "Tue, 07 Oct 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 07/10 22:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 07/10 22:00 - SportTV 3",
+      "pubDate": "Tue, 07 Oct 2025 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Etiópia x Guiné-Bissau - 08/10 14:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Etiópia x Guiné-Bissau - 08/10 14:00 - SportTV 4",
+      "pubDate": "Wed, 08 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Líbia x Cabo Verde - 08/10 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Líbia x Cabo Verde - 08/10 14:00 - SportTV 1",
+      "pubDate": "Wed, 08 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Essuatíni x Angola - 08/10 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Essuatíni x Angola - 08/10 14:00 - SportTV 3",
+      "pubDate": "Wed, 08 Oct 2025 14:00:00",
       "guid": ""
     }
   ]

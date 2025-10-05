@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "USC Paredes x AD Marco 09 - 05/10 14:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x AD Marco 09 - 05/10 14:15 - Canal11",
-      "pubDate": "Sun, 05 Oct 2025 14:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x 1. FC Heidenheim 1846 - 05/10 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x 1. FC Heidenheim 1846 - 05/10 14:30 - DAZN 3",
-      "pubDate": "Sun, 05 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 05/10 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 05/10 15:00 - DAZN 4",
-      "pubDate": "Sun, 05 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x CCR São Martinho (Feminino) - 05/10 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x CCR São Martinho (Feminino) - 05/10 15:00 - PortoCanal",
-      "pubDate": "Sun, 05 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sevilla x Barcelona - 05/10 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Barcelona - 05/10 15:15 - DAZN 1",
@@ -285,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense (S23) x Portimonense (S23) - 08/10 15:00 - C11 Stream",
       "pubDate": "Wed, 08 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GOG (Andebol) x SC Magdeburg (Andebol) - 08/10 17:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GOG (Andebol) x SC Magdeburg (Andebol) - 08/10 17:45 - SportTV 3",
+      "pubDate": "Wed, 08 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x HBC Nantes (Andebol) - 08/10 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x HBC Nantes (Andebol) - 08/10 19:45 - SportingTv",
+      "pubDate": "Wed, 08 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

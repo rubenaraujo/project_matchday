@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Newell´s Old Boys - 05/10 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Newell´s Old Boys - 05/10 23:00 - SportTV 2",
-      "pubDate": "Sun, 05 Oct 2025 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Arábia Saudita (S20) x Noruega (S20) - 06/10 00:00 - FIFA +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arábia Saudita (S20) x Noruega (S20) - 06/10 00:00 - FIFA +",
@@ -313,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 11/10 17:30 - C11 Stream",
       "pubDate": "Sat, 11 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal) x FC Famalicão (Futsal) - 11/10 17:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal) x FC Famalicão (Futsal) - 11/10 17:30 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x AD Fundão (Futsal) - 11/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x AD Fundão (Futsal) - 11/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

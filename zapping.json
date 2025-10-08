@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 07/10 22:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 07/10 22:00 - SportTV 3",
-      "pubDate": "Tue, 07 Oct 2025 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Etiópia x Guiné-Bissau - 08/10 14:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Etiópia x Guiné-Bissau - 08/10 14:00 - SportTV 4",
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Futsal) x FC Famalicão (Futsal) - 11/10 17:30 - C11 Stream",
       "pubDate": "Sat, 11 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
+      "pubDate": "Sat, 11 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

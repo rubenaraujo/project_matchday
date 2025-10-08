@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Andebol) x HBC Nantes (Andebol) - 08/10 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x HBC Nantes (Andebol) - 08/10 19:45 - SportingTv",
-      "pubDate": "Wed, 08 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Moçambique x Guiné-Conakri - 09/10 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moçambique x Guiné-Conakri - 09/10 17:00 - SportTV 2",
@@ -278,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 11/10 17:30 - C11 Stream",
       "pubDate": "Sat, 11 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
+      "pubDate": "Sat, 11 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 11 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

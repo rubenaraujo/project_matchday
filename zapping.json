@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 11/10 18:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 11/10 18:30 - SportTV 5",
-      "pubDate": "Sat, 11 Oct 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha x Geórgia - 11/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Geórgia - 11/10 19:45 - SportTV 2",
-      "pubDate": "Sat, 11 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal x Rep. Irlanda - 11/10 19:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal x Rep. Irlanda - 11/10 19:45 - RTP1",
-      "pubDate": "Sat, 11 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bulgária x Turquia - 11/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bulgária x Turquia - 11/10 19:45 - SportTV 6",
-      "pubDate": "Sat, 11 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Estónia x Itália - 11/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estónia x Itália - 11/10 19:45 - SportTV 3",
-      "pubDate": "Sat, 11 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Clube dos Galitos (Basket Feminino) x BC Barcelos (Basket Feminino) - 11/10 21:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Clube dos Galitos (Basket Feminino) x BC Barcelos (Basket Feminino) - 11/10 21:00 - DAZN 1",
@@ -215,6 +173,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Camarões x Angola - 13/10 17:00 - SportTV 2",
       "pubDate": "Mon, 13 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Irl. Norte x Alemanha - 13/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Irl. Norte x Alemanha - 13/10 19:45 - SportTV 2",
+      "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Ucrânia x Azerbaijão - 13/10 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ucrânia x Azerbaijão - 13/10 19:45 - SportTV 4",
+      "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "País de Gales x Bélgica - 13/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "País de Gales x Bélgica - 13/10 19:45 - SportTV 3",
+      "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Suécia x Kosovo - 13/10 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suécia x Kosovo - 13/10 19:45 - SportTV 6",
+      "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Islândia x França - 13/10 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Islândia x França - 13/10 19:45 - SportTV 1",
+      "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia x Suíça - 13/10 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia x Suíça - 13/10 19:45 - SportTV 7",
+      "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Estónia x Moldávia - 14/10 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estónia x Moldávia - 14/10 17:00 - SportTV 2",
+      "pubDate": "Tue, 14 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Somália x Moçambique - 14/10 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Somália x Moçambique - 14/10 17:00 - SportTV 1",
+      "pubDate": "Tue, 14 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "MT Melsungen (Andebol) x Benfica (Andebol) - 14/10 17:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "MT Melsungen (Andebol) x Benfica (Andebol) - 14/10 17:45 - BTv",
+      "pubDate": "Tue, 14 Oct 2025 17:45:00",
       "guid": ""
     }
   ]

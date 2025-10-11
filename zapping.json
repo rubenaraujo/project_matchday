@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Letónia x Andorra - 11/10 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia x Andorra - 11/10 14:00 - SportTV 6",
-      "pubDate": "Sat, 11 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leões Porto Salvo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 11/10 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 11/10 15:00 - C11 Stream",
@@ -267,24 +260,31 @@
       "guid": ""
     },
     {
-      "title": "Roménia x Áustria - 12/10 19:45 - SportTV 4",
+      "title": "Juventude Pacense (Hóquei) x HC Braga (Hóquei) - 12/10 17:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Roménia x Áustria - 12/10 19:45 - SportTV 4",
-      "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "description": "Juventude Pacense (Hóquei) x HC Braga (Hóquei) - 12/10 17:00 - FPP TV",
+      "pubDate": "Sun, 12 Oct 2025 17:00:00",
       "guid": ""
     },
     {
-      "title": "Lituânia x Polónia - 12/10 19:45 - SportTV 3",
+      "title": "UD Oliveirense (Hóquei) x AD Valongo (Hóquei) - 12/10 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Lituânia x Polónia - 12/10 19:45 - SportTV 3",
-      "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "description": "UD Oliveirense (Hóquei) x AD Valongo (Hóquei) - 12/10 18:00 - FPP TV",
+      "pubDate": "Sun, 12 Oct 2025 18:00:00",
       "guid": ""
     },
     {
-      "title": "Croácia x Gibraltar - 12/10 19:45 - SportTV 2",
+      "title": "SC Tomar (Hóquei) x CD Póvoa (Hóquei) - 12/10 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Croácia x Gibraltar - 12/10 19:45 - SportTV 2",
-      "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "description": "SC Tomar (Hóquei) x CD Póvoa (Hóquei) - 12/10 18:00 - FPP TV",
+      "pubDate": "Sun, 12 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Riba D´Ave (Hóquei) x CH Carvalhos (Hóquei) - 12/10 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba D´Ave (Hóquei) x CH Carvalhos (Hóquei) - 12/10 18:30 - FPP TV",
+      "pubDate": "Sun, 12 Oct 2025 18:30:00",
       "guid": ""
     }
   ]

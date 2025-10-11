@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Clube dos Galitos (Basket Feminino) x BC Barcelos (Basket Feminino) - 11/10 21:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Clube dos Galitos (Basket Feminino) x BC Barcelos (Basket Feminino) - 11/10 21:00 - DAZN 1",
-      "pubDate": "Sat, 11 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vélez Sarsfield x Rosario Central - 12/10 02:15 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vélez Sarsfield x Rosario Central - 12/10 02:15 - SportTV 2",
@@ -236,6 +229,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "MT Melsungen (Andebol) x Benfica (Andebol) - 14/10 17:45 - BTv",
       "pubDate": "Tue, 14 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Gibraltar (S21) x Portugal (S21) - 14/10 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gibraltar (S21) x Portugal (S21) - 14/10 18:00 - Canal11",
+      "pubDate": "Tue, 14 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Anadolu Efes (Basket) - 14/10 19:15 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Anadolu Efes (Basket) - 14/10 19:15 - SportTV 7",
+      "pubDate": "Tue, 14 Oct 2025 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal x Hungria - 14/10 19:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal x Hungria - 14/10 19:45 - RTP1",
+      "pubDate": "Tue, 14 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália x Israel - 14/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália x Israel - 14/10 19:45 - SportTV 3",
+      "pubDate": "Tue, 14 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha x Bulgária - 14/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha x Bulgária - 14/10 19:45 - SportTV 2",
+      "pubDate": "Tue, 14 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

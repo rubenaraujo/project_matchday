@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Leões Porto Salvo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 11/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 11/10 15:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria x UD Oliveirense - 11/10 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x UD Oliveirense - 11/10 15:30 - SportTV 2",
-      "pubDate": "Sat, 11 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Mafra x Amora FC - 11/10 15:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Amora FC - 11/10 15:30 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Eléctrico (Futsal) - 11/10 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Eléctrico (Futsal) - 11/10 16:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal) x Sporting (Futsal) - 11/10 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Sporting (Futsal) - 11/10 16:00 - Canal11",
-      "pubDate": "Sat, 11 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x Varzim - 11/10 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Varzim - 11/10 16:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Noruega x Israel - 11/10 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Noruega x Israel - 11/10 17:00 - SportTV 3",
@@ -278,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Riba D´Ave (Hóquei) x CH Carvalhos (Hóquei) - 12/10 18:30 - FPP TV",
       "pubDate": "Sun, 12 Oct 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x HC Turquel (Hóquei) - 12/10 19:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x HC Turquel (Hóquei) - 12/10 19:00 - FPP TV",
+      "pubDate": "Sun, 12 Oct 2025 19:00:00",
       "guid": ""
     }
   ]

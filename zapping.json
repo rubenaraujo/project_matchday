@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Noruega x Israel - 11/10 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x Israel - 11/10 17:00 - SportTV 3",
-      "pubDate": "Sat, 11 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "ABC (Andebol) x Vitória SC (Andebol) - 11/10 17:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ABC (Andebol) x Vitória SC (Andebol) - 11/10 17:00 - AndebolTV",
-      "pubDate": "Sat, 11 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 11/10 17:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 11/10 17:30 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
@@ -243,6 +222,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x HC Turquel (Hóquei) - 12/10 19:00 - FPP TV",
       "pubDate": "Sun, 12 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roménia x Áustria - 12/10 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roménia x Áustria - 12/10 19:45 - SportTV 4",
+      "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lituânia x Polónia - 12/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lituânia x Polónia - 12/10 19:45 - SportTV 3",
+      "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Croácia x Gibraltar - 12/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Croácia x Gibraltar - 12/10 19:45 - SportTV 2",
+      "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x Grécia - 12/10 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x Grécia - 12/10 19:45 - SportTV 1",
+      "pubDate": "Sun, 12 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

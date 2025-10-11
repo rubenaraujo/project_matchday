@@ -1,44 +1,9 @@
 {
   "items": [
     {
-      "title": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Almería x Real Zaragoza - 11/10 17:30 - DAZN 3",
-      "pubDate": "Sat, 11 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Futsal Feijó (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 11/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x FC Famalicão (Futsal) - 11/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x FC Famalicão (Futsal) - 11/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferreira do Zêzere (Futsal) x AD Fundão (Futsal) - 11/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferreira do Zêzere (Futsal) x AD Fundão (Futsal) - 11/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x SC Covilhã - 11/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x SC Covilhã - 11/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 11 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 11/10 18:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 11/10 18:00 - RTP2",
       "pubDate": "Sat, 11 Oct 2025 18:00:00",
       "guid": ""
     },
@@ -53,13 +18,6 @@
       "title": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 11/10 18:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 11/10 18:30 - SportTV 5",
-      "pubDate": "Sat, 11 Oct 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x FC Gaia (Andebol) - 11/10 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x FC Gaia (Andebol) - 11/10 18:30 - SportingTv",
       "pubDate": "Sat, 11 Oct 2025 18:30:00",
       "guid": ""
     },
@@ -250,6 +208,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dinamarca x Grécia - 12/10 19:45 - SportTV 1",
       "pubDate": "Sun, 12 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto x Guiné-Bissau - 12/10 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto x Guiné-Bissau - 12/10 20:00 - SportTV 6",
+      "pubDate": "Sun, 12 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Sarmiento de Junín - 12/10 23:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Sarmiento de Junín - 12/10 23:15 - SportTV 1",
+      "pubDate": "Sun, 12 Oct 2025 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "São Tomé e Príncipe x Malawi - 13/10 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "São Tomé e Príncipe x Malawi - 13/10 14:00 - SportTV 1",
+      "pubDate": "Mon, 13 Oct 2025 14:00:00",
       "guid": ""
     }
   ]

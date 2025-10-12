@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Escócia x Bielorrússia - 12/10 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Escócia x Bielorrússia - 12/10 17:00 - SportTV 2",
-      "pubDate": "Sun, 12 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos x Finlândia - 12/10 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos x Finlândia - 12/10 17:00 - SportTV 1",
-      "pubDate": "Sun, 12 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ilhas Faroé x Chéquia - 12/10 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ilhas Faroé x Chéquia - 12/10 17:00 - SportTV 3",
-      "pubDate": "Sun, 12 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude Pacense (Hóquei) x HC Braga (Hóquei) - 12/10 17:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude Pacense (Hóquei) x HC Braga (Hóquei) - 12/10 17:00 - FPP TV",
-      "pubDate": "Sun, 12 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Oliveirense (Hóquei) x AD Valongo (Hóquei) - 12/10 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense (Hóquei) x AD Valongo (Hóquei) - 12/10 18:00 - FPP TV",
@@ -292,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fuchse Berlin (Andebol) x Kolstad IL (Andebol) - 16/10 19:45 - SportTV 2",
       "pubDate": "Thu, 16 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Stars (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 17/10 01:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Stars (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 17/10 01:00 - SportTV 3",
+      "pubDate": "Fri, 17 Oct 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crvena Zvezda (Basket) x Real Madrid (Basket) - 17/10 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crvena Zvezda (Basket) x Real Madrid (Basket) - 17/10 18:00 - SportTV 6",
+      "pubDate": "Fri, 17 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

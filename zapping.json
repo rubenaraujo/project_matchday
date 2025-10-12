@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting Gijón x Racing Santander - 12/10 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting Gijón x Racing Santander - 12/10 15:15 - DAZN 2",
-      "pubDate": "Sun, 12 Oct 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x 1º Dezembro - 12/10 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x 1º Dezembro - 12/10 16:00 - C11 Stream",
-      "pubDate": "Sun, 12 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Andebol) x Arsenal da Devesa (Andebol) - 12/10 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x Arsenal da Devesa (Andebol) - 12/10 16:00 - AndebolTV",
-      "pubDate": "Sun, 12 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Escócia x Bielorrússia - 12/10 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Escócia x Bielorrússia - 12/10 17:00 - SportTV 2",
@@ -306,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x Spartak Subotica (Basket) - 15/10 20:30 - SportTV 2",
       "pubDate": "Wed, 15 Oct 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fuchse Berlin (Andebol) x Kolstad IL (Andebol) - 16/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fuchse Berlin (Andebol) x Kolstad IL (Andebol) - 16/10 19:45 - SportTV 2",
+      "pubDate": "Thu, 16 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

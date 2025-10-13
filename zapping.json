@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S20) x Alemanha (S20) - 13/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S20) x Alemanha (S20) - 13/10 15:00 - Canal11",
-      "pubDate": "Mon, 13 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cabo Verde x Essuatíni - 13/10 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cabo Verde x Essuatíni - 13/10 17:00 - SportTV 1",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Mallorca - 18/10 13:00 - DAZN 2",
       "pubDate": "Sat, 18 Oct 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
+      "pubDate": "Sat, 18 Oct 2025 14:00:00",
       "guid": ""
     }
   ]

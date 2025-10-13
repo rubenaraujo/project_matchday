@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "River Plate x Sarmiento de Junín - 12/10 23:15 - SportTV 1",
+      "title": "Farense (S23) x Benfica (S23) - 13/10 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Sarmiento de Junín - 12/10 23:15 - SportTV 1",
-      "pubDate": "Sun, 12 Oct 2025 23:15:00",
+      "description": "Farense (S23) x Benfica (S23) - 13/10 11:00 - Canal11",
+      "pubDate": "Mon, 13 Oct 2025 11:00:00",
       "guid": ""
     },
     {
@@ -12,6 +12,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "São Tomé e Príncipe x Malawi - 13/10 14:00 - SportTV 1",
       "pubDate": "Mon, 13 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S20) x Alemanha (S20) - 13/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S20) x Alemanha (S20) - 13/10 15:00 - Canal11",
+      "pubDate": "Mon, 13 Oct 2025 15:00:00",
       "guid": ""
     },
     {
@@ -68,6 +75,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eslovénia x Suíça - 13/10 19:45 - SportTV 7",
       "pubDate": "Mon, 13 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Estados Unidos (S17) - 14/10 10:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Estados Unidos (S17) - 14/10 10:00 - Canal11",
+      "pubDate": "Tue, 14 Oct 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S19) x Dinamarca (S19) - 14/10 13:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S19) x Dinamarca (S19) - 14/10 13:45 - Canal11",
+      "pubDate": "Tue, 14 Oct 2025 13:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal  S17) x França (Futsal  S17) - 14/10 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal  S17) x França (Futsal  S17) - 14/10 16:00 - Canal11",
+      "pubDate": "Tue, 14 Oct 2025 16:00:00",
       "guid": ""
     },
     {
@@ -155,6 +183,13 @@
       "guid": ""
     },
     {
+      "title": "Arábia Saudita x Iraque - 14/10 19:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arábia Saudita x Iraque - 14/10 19:45 - Canal11",
+      "pubDate": "Tue, 14 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Sporting (Hóquei) x AD Sanjoanense (Hóquei) - 14/10 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x AD Sanjoanense (Hóquei) - 14/10 21:00 - FPP TV",
@@ -166,6 +201,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Rangers (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 15/10 00:00 - SportTV 4",
       "pubDate": "Wed, 15 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal  S17) x França (Futsal  S17) - 15/10 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal  S17) x França (Futsal  S17) - 15/10 16:00 - Canal11",
+      "pubDate": "Wed, 15 Oct 2025 16:00:00",
       "guid": ""
     },
     {
@@ -190,10 +232,24 @@
       "guid": ""
     },
     {
+      "title": "SC Braga (Feminino) x Anderlecht (Feminino) - 15/10 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Anderlecht (Feminino) - 15/10 20:00 - Canal11",
+      "pubDate": "Wed, 15 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Basket) x Spartak Subotica (Basket) - 15/10 20:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x Spartak Subotica (Basket) - 15/10 20:30 - SportTV 2",
       "pubDate": "Wed, 15 Oct 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense (S23) x Sporting (S23) - 16/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense (S23) x Sporting (S23) - 16/10 15:00 - Canal11",
+      "pubDate": "Thu, 16 Oct 2025 15:00:00",
       "guid": ""
     },
     {
@@ -211,6 +267,13 @@
       "guid": ""
     },
     {
+      "title": "Hannover 96 x Schalke 04 - 17/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hannover 96 x Schalke 04 - 17/10 17:30 - DAZN 2",
+      "pubDate": "Fri, 17 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
       "title": "Crvena Zvezda (Basket) x Real Madrid (Basket) - 17/10 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crvena Zvezda (Basket) x Real Madrid (Basket) - 17/10 18:00 - SportTV 6",
@@ -221,6 +284,13 @@
       "title": "GD Chaves x Benfica - 17/10 19:30 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x Benfica - 17/10 19:30 - RTP1",
+      "pubDate": "Fri, 17 Oct 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Union Berlin x Borussia M´gladbach - 17/10 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Union Berlin x Borussia M´gladbach - 17/10 19:30 - DAZN 1",
       "pubDate": "Fri, 17 Oct 2025 19:30:00",
       "guid": ""
     },
@@ -239,101 +309,17 @@
       "guid": ""
     },
     {
-      "title": "Benfica (S23) x Santa Clara (S23) - 18/10 13:00 - Canal11",
+      "title": "Real Oviedo x Espanyol - 17/10 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x Santa Clara (S23) - 18/10 13:00 - Canal11",
-      "pubDate": "Sat, 18 Oct 2025 13:00:00",
+      "description": "Real Oviedo x Espanyol - 17/10 20:00 - DAZN 2",
+      "pubDate": "Fri, 17 Oct 2025 20:00:00",
       "guid": ""
     },
     {
-      "title": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
+      "title": "FC Famalicão (Jun.A S19) x Gil Vicente (Jun.A S19) - 18/10 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
-      "pubDate": "Sat, 18 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria x FC Alverca - 18/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x FC Alverca - 18/10 15:00 - Canal11",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Gençlerbirligi - 18/10 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Gençlerbirligi - 18/10 15:00 - SportTV 4",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bragança x SC Braga - 18/10 15:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bragança x SC Braga - 18/10 15:15 - SportTV 1",
-      "pubDate": "Sat, 18 Oct 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ettifaq x Al-Hilal - 18/10 15:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ettifaq x Al-Hilal - 18/10 15:45 - SportTV 6",
-      "pubDate": "Sat, 18 Oct 2025 15:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x Lyon - 18/10 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x Lyon - 18/10 16:00 - SportTV 3",
-      "pubDate": "Sat, 18 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 18/10 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 18/10 17:00 - C11 Stream",
-      "pubDate": "Sat, 18 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Napoli - 18/10 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Napoli - 18/10 17:00 - SportTV 2",
-      "pubDate": "Sat, 18 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 18/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 18/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 18 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Luzia (Futsal Feminino) x Novasemente (Futsal Feminino) - 18/10 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Novasemente (Futsal Feminino) - 18/10 18:00 - C11 Stream",
-      "pubDate": "Sat, 18 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Celoricense x FC Porto - 18/10 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Celoricense x FC Porto - 18/10 18:00 - SportTV 1",
-      "pubDate": "Sat, 18 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico x Gil Vicente - 18/10 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico x Gil Vicente - 18/10 18:00 - Canal11",
-      "pubDate": "Sat, 18 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Angers x Monaco - 18/10 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angers x Monaco - 18/10 18:00 - SportTV 3",
-      "pubDate": "Sat, 18 Oct 2025 18:00:00",
+      "description": "FC Famalicão (Jun.A S19) x Gil Vicente (Jun.A S19) - 18/10 11:00 - Canal11",
+      "pubDate": "Sat, 18 Oct 2025 11:00:00",
       "guid": ""
     }
   ]

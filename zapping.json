@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Olympiacos (Basket) x Anadolu Efes (Basket) - 14/10 19:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x Anadolu Efes (Basket) - 14/10 19:15 - SportTV 7",
-      "pubDate": "Tue, 14 Oct 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal x Hungria - 14/10 19:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal x Hungria - 14/10 19:45 - RTP1",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália x Israel - 14/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália x Israel - 14/10 19:45 - SportTV 3",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha x Bulgária - 14/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Bulgária - 14/10 19:45 - SportTV 2",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Turquia x Geórgia - 14/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia x Geórgia - 14/10 19:45 - SportTV 6",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Letónia x Inglaterra - 14/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia x Inglaterra - 14/10 19:45 - SportTV 4",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rep. Irlanda x Arménia - 14/10 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rep. Irlanda x Arménia - 14/10 19:45 - SportTV 5",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fram Reykjavik (Andebol) x FC Porto (Andebol) - 14/10 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fram Reykjavik (Andebol) x FC Porto (Andebol) - 14/10 19:45 - PortoCanal",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Arábia Saudita x Iraque - 14/10 19:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arábia Saudita x Iraque - 14/10 19:45 - Canal11",
-      "pubDate": "Tue, 14 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Hóquei) x AD Sanjoanense (Hóquei) - 14/10 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x AD Sanjoanense (Hóquei) - 14/10 21:00 - FPP TV",
@@ -327,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Borussia Dortmund - 18/10 17:30 - DAZN 2",
       "pubDate": "Sat, 18 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 18/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 18/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 18 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x Novasemente (Futsal Feminino) - 18/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x Novasemente (Futsal Feminino) - 18/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 18 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

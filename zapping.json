@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x OC Barcelos (Hóquei) - 15/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x OC Barcelos (Hóquei) - 15/10 20:00 - DAZN 1",
-      "pubDate": "Wed, 15 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga (Feminino) x Anderlecht (Feminino) - 15/10 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Feminino) x Anderlecht (Feminino) - 15/10 20:00 - Canal11",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Al-Fateh - 18/10 19:00 - SportTV 4",
       "pubDate": "Sat, 18 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Internazionale - 18/10 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Internazionale - 18/10 19:45 - SportTV 7",
+      "pubDate": "Sat, 18 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

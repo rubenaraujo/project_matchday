@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Rosengard (Feminino) x Sporting (Feminino) - 15/10 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Rosengard (Feminino) x Sporting (Feminino) - 15/10 18:00 - Canal11",
-      "pubDate": "Wed, 15 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bàsquet Manresa (Basket) x Hapoel Jerusalém (Basket) - 15/10 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bàsquet Manresa (Basket) x Hapoel Jerusalém (Basket) - 15/10 19:45 - SportTV 3",
@@ -333,6 +326,13 @@
       "title": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 18/10 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 18/10 19:00 - C11 Stream",
+      "pubDate": "Sat, 18 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Águias Santa Marta (Futsal Feminino) x Benfica (Futsal Feminino) - 18/10 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águias Santa Marta (Futsal Feminino) x Benfica (Futsal Feminino) - 18/10 19:00 - C11 Stream",
       "pubDate": "Sat, 18 Oct 2025 19:00:00",
       "guid": ""
     }

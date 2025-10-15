@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal  S17) x França (Futsal  S17) - 15/10 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal  S17) x França (Futsal  S17) - 15/10 16:00 - Canal11",
-      "pubDate": "Wed, 15 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Montenegro (Andebol Feminino) x Portugal (Andebol Feminino) - 15/10 17:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Montenegro (Andebol Feminino) x Portugal (Andebol Feminino) - 15/10 17:00 - RTP2",
@@ -88,6 +81,13 @@
       "title": "Crvena Zvezda (Basket) x Real Madrid (Basket) - 17/10 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crvena Zvezda (Basket) x Real Madrid (Basket) - 17/10 18:00 - SportTV 6",
+      "pubDate": "Fri, 17 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Andebol) x Benfica (Andebol) - 17/10 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Andebol) x Benfica (Andebol) - 17/10 18:00 - AndebolTV",
       "pubDate": "Fri, 17 Oct 2025 18:00:00",
       "guid": ""
     },
@@ -204,6 +204,13 @@
       "guid": ""
     },
     {
+      "title": "Águas Santas (Andebol) x ABC (Andebol) - 18/10 15:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águas Santas (Andebol) x ABC (Andebol) - 18/10 15:00 - AndebolTV",
+      "pubDate": "Sat, 18 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Bragança x SC Braga - 18/10 15:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bragança x SC Braga - 18/10 15:15 - SportTV 1",
@@ -260,6 +267,13 @@
       "guid": ""
     },
     {
+      "title": "Vitória SC (Andebol) x FC Porto (Andebol) - 18/10 17:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x FC Porto (Andebol) - 18/10 17:30 - PortoCanal",
+      "pubDate": "Sat, 18 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
       "title": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 18/10 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 18/10 18:00 - C11 Stream",
@@ -309,45 +323,24 @@
       "guid": ""
     },
     {
+      "title": "Arsenal da Devesa (Andebol) x FC Gaia (Andebol) - 18/10 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x FC Gaia (Andebol) - 18/10 18:00 - AndebolTV",
+      "pubDate": "Sat, 18 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x Belenenses (Andebol) - 18/10 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x Belenenses (Andebol) - 18/10 18:00 - AndebolTV",
+      "pubDate": "Sat, 18 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 18/10 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 18/10 19:00 - C11 Stream",
       "pubDate": "Sat, 18 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Águias Santa Marta (Futsal Feminino) x Benfica (Futsal Feminino) - 18/10 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águias Santa Marta (Futsal Feminino) x Benfica (Futsal Feminino) - 18/10 19:00 - C11 Stream",
-      "pubDate": "Sat, 18 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Fateh - 18/10 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Fateh - 18/10 19:00 - SportTV 4",
-      "pubDate": "Sat, 18 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Internazionale - 18/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Internazionale - 18/10 19:45 - SportTV 7",
-      "pubDate": "Sat, 18 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Osasuna - 18/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Osasuna - 18/10 20:00 - DAZN 1",
-      "pubDate": "Sat, 18 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x AZ Alkmaar - 18/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x AZ Alkmaar - 18/10 20:00 - DAZN 2",
-      "pubDate": "Sat, 18 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

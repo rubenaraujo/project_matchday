@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo (Andebol) x Benfica (Andebol) - 17/10 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x Benfica (Andebol) - 17/10 18:00 - AndebolTV",
-      "pubDate": "Fri, 17 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x Benfica - 17/10 19:30 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x Benfica - 17/10 19:30 - RTP1",
-      "pubDate": "Fri, 17 Oct 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Union Berlin x Borussia M´gladbach - 17/10 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x Borussia M´gladbach - 17/10 19:30 - DAZN 1",
-      "pubDate": "Fri, 17 Oct 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Strasbourg - 17/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Strasbourg - 17/10 19:45 - SportTV 3",
-      "pubDate": "Fri, 17 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Middlesbrough x Ipswich Town - 17/10 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Middlesbrough x Ipswich Town - 17/10 20:00 - SportTV 4",
-      "pubDate": "Fri, 17 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Espanyol - 17/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Espanyol - 17/10 20:00 - DAZN 2",
-      "pubDate": "Fri, 17 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão (Jun.A S19) x Gil Vicente (Jun.A S19) - 18/10 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Jun.A S19) x Gil Vicente (Jun.A S19) - 18/10 11:00 - Canal11",
@@ -334,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Póvoa (Hóquei) x Sporting (Hóquei) - 18/10 18:30 - FPP TV",
       "pubDate": "Sat, 18 Oct 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 18/10 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 18/10 19:00 - C11 Stream",
+      "pubDate": "Sat, 18 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Águias Santa Marta (Futsal Feminino) x Benfica (Futsal Feminino) - 18/10 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águias Santa Marta (Futsal Feminino) x Benfica (Futsal Feminino) - 18/10 19:00 - C11 Stream",
+      "pubDate": "Sat, 18 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Fateh - 18/10 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Fateh - 18/10 19:00 - SportTV 4",
+      "pubDate": "Sat, 18 Oct 2025 19:00:00",
       "guid": ""
     }
   ]

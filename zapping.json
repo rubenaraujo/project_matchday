@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
-      "pubDate": "Sat, 18 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Mainz x Bayer Leverkusen - 18/10 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mainz x Bayer Leverkusen - 18/10 14:30 - DAZN 3",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Turquel (Hóquei) x FC Porto (Hóquei) - 18/10 21:00 - FPP TV",
       "pubDate": "Sat, 18 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
+      "pubDate": "Sat, 18 Oct 2025 21:30:00",
       "guid": ""
     }
   ]

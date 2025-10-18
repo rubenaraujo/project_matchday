@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Paços de Ferreira x Sporting - 18/10 20:15 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Sporting - 18/10 20:15 - RTP1",
-      "pubDate": "Sat, 18 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Turquel (Hóquei) x FC Porto (Hóquei) - 18/10 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x FC Porto (Hóquei) - 18/10 21:00 - FPP TV",
-      "pubDate": "Sat, 18 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
@@ -285,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (S23) x FC Famalicão (S23) - 21/10 11:00 - C11 Stream",
       "pubDate": "Tue, 21 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x SC Braga (S23) - 21/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x SC Braga (S23) - 21/10 15:00 - C11 Stream",
+      "pubDate": "Tue, 21 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x Rio Ave (S23) - 21/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Rio Ave (S23) - 21/10 15:00 - C11 Stream",
+      "pubDate": "Tue, 21 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora (S23) x Farense (S23) - 21/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora (S23) x Farense (S23) - 21/10 15:00 - C11 Stream",
+      "pubDate": "Tue, 21 Oct 2025 15:00:00",
       "guid": ""
     }
   ]

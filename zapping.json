@@ -1,79 +1,9 @@
 {
   "items": [
     {
-      "title": "Mainz x Bayer Leverkusen - 18/10 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x Bayer Leverkusen - 18/10 14:30 - DAZN 3",
-      "pubDate": "Sat, 18 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "RB Leipzig x Hamburger SV - 18/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RB Leipzig x Hamburger SV - 18/10 14:30 - DAZN",
-      "pubDate": "Sat, 18 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolfsburg x Stuttgart - 18/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x Stuttgart - 18/10 14:30 - DAZN",
-      "pubDate": "Sat, 18 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria x FC Alverca - 18/10 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x FC Alverca - 18/10 15:00 - Canal11",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Gençlerbirligi - 18/10 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Gençlerbirligi - 18/10 15:00 - SportTV 4",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Everton - 18/10 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Everton - 18/10 15:00 - DAZN 1",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Wolverhampton - 18/10 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Wolverhampton - 18/10 15:00 - DAZN 4",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Águas Santas (Andebol) x ABC (Andebol) - 18/10 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águas Santas (Andebol) x ABC (Andebol) - 18/10 15:00 - AndebolTV",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Newcastle - 18/10 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Newcastle - 18/10 15:00 - DAZN",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Leeds United - 18/10 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Leeds United - 18/10 15:00 - DAZN",
-      "pubDate": "Sat, 18 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Bournemouth - 18/10 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Bournemouth - 18/10 15:00 - DAZN",
       "pubDate": "Sat, 18 Oct 2025 15:00:00",
       "guid": ""
     },
@@ -320,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
       "pubDate": "Sat, 18 Oct 2025 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Atlético Mineiro - 18/10 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Atlético Mineiro - 18/10 22:30 - Canal11",
+      "pubDate": "Sat, 18 Oct 2025 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cruzeiro x Fortaleza - 19/10 01:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cruzeiro x Fortaleza - 19/10 01:00 - Canal11",
+      "pubDate": "Sun, 19 Oct 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (B) x Marítimo - 19/10 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x Marítimo - 19/10 11:00 - PortoCanal",
+      "pubDate": "Sun, 19 Oct 2025 11:00:00",
       "guid": ""
     }
   ]

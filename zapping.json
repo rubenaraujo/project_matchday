@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Riba D´Ave (Hóquei) - 18/10 21:30 - FPP TV",
-      "pubDate": "Sat, 18 Oct 2025 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Corinthians x Atlético Mineiro - 18/10 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Corinthians x Atlético Mineiro - 18/10 22:30 - Canal11",
       "pubDate": "Sat, 18 Oct 2025 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Talleres x River Plate - 19/10 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Talleres x River Plate - 19/10 00:30 - SportTV 1",
+      "pubDate": "Sun, 19 Oct 2025 00:30:00",
       "guid": ""
     },
     {
@@ -292,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora (S23) x Farense (S23) - 21/10 15:00 - C11 Stream",
       "pubDate": "Tue, 21 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Olympiacos - 21/10 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Olympiacos - 21/10 17:45 - DAZN 1",
+      "pubDate": "Tue, 21 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Kairat x Pafos FC - 21/10 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kairat x Pafos FC - 21/10 17:45 - DAZN 2",
+      "pubDate": "Tue, 21 Oct 2025 17:45:00",
       "guid": ""
     }
   ]

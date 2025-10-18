@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Torino x Napoli - 18/10 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Napoli - 18/10 17:00 - SportTV 2",
-      "pubDate": "Sat, 18 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fulham x Arsenal - 18/10 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Arsenal - 18/10 17:30 - DAZN 1",
@@ -25,13 +18,6 @@
       "title": "Bayern München x Borussia Dortmund - 18/10 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Borussia Dortmund - 18/10 17:30 - DAZN 2",
-      "pubDate": "Sat, 18 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x FC Porto (Andebol) - 18/10 17:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x FC Porto (Andebol) - 18/10 17:30 - PortoCanal",
       "pubDate": "Sat, 18 Oct 2025 17:30:00",
       "guid": ""
     },
@@ -243,6 +229,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x Benfica (Feminino) - 19/10 11:00 - Canal11",
       "pubDate": "Sun, 19 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.B S17B) x Amora FC (Jun.B S17) - 19/10 11:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.B S17B) x Amora FC (Jun.B S17) - 19/10 11:00 - BTv",
+      "pubDate": "Sun, 19 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Juventus - 19/10 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Juventus - 19/10 11:30 - SportTV 2",
+      "pubDate": "Sun, 19 Oct 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee FC x Celtic - 19/10 12:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee FC x Celtic - 19/10 12:00 - SportTV 7",
+      "pubDate": "Sun, 19 Oct 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Athletic Bilbao - 19/10 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Athletic Bilbao - 19/10 13:00 - DAZN 2",
+      "pubDate": "Sun, 19 Oct 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x Moreirense - 19/10 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x Moreirense - 19/10 14:00 - Canal11",
+      "pubDate": "Sun, 19 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Bologna - 19/10 14:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Bologna - 19/10 14:00 - SportTV 4",
+      "pubDate": "Sun, 19 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Paris FC - 19/10 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Paris FC - 19/10 14:00 - SportTV 2",
+      "pubDate": "Sun, 19 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Aston Villa - 19/10 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Aston Villa - 19/10 14:00 - DAZN 1",
+      "pubDate": "Sun, 19 Oct 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Eintracht Frankfurt - 19/10 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Eintracht Frankfurt - 19/10 14:30 - DAZN 4",
+      "pubDate": "Sun, 19 Oct 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Power FC (Feminino) x Torreense (Feminino) - 19/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Power FC (Feminino) x Torreense (Feminino) - 19/10 15:00 - C11 Stream",
+      "pubDate": "Sun, 19 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Real Sociedad - 19/10 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Real Sociedad - 19/10 15:15 - DAZN 2",
+      "pubDate": "Sun, 19 Oct 2025 15:15:00",
       "guid": ""
     }
   ]

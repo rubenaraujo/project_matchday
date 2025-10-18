@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Nottingham Forest x Chelsea - 18/10 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Chelsea - 18/10 12:30 - DAZN 1",
-      "pubDate": "Sat, 18 Oct 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (S23) x Santa Clara (S23) - 18/10 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x Santa Clara (S23) - 18/10 13:00 - Canal11",
-      "pubDate": "Sat, 18 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Mallorca - 18/10 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Mallorca - 18/10 13:00 - DAZN 2",
-      "pubDate": "Sat, 18 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lecce x Sassuolo - 18/10 14:00 - SportTV 2",
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x Sporting - 18/10 20:15 - RTP1",
       "pubDate": "Sat, 18 Oct 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Turquel (Hóquei) x FC Porto (Hóquei) - 18/10 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Turquel (Hóquei) x FC Porto (Hóquei) - 18/10 21:00 - FPP TV",
+      "pubDate": "Sat, 18 Oct 2025 21:00:00",
       "guid": ""
     }
   ]

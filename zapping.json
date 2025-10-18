@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "CH Carvalhos (Hóquei) x Juventude Pacense (Hóquei) - 18/10 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CH Carvalhos (Hóquei) x Juventude Pacense (Hóquei) - 18/10 18:00 - FPP TV",
-      "pubDate": "Sat, 18 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Internazionale - 18/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Internazionale - 18/10 19:45 - SportTV 7",
-      "pubDate": "Sat, 18 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Osasuna - 18/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Osasuna - 18/10 20:00 - DAZN 1",
-      "pubDate": "Sat, 18 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x AZ Alkmaar - 18/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x AZ Alkmaar - 18/10 20:00 - DAZN 2",
-      "pubDate": "Sat, 18 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Le Havre - 18/10 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Le Havre - 18/10 20:05 - SportTV 3",
-      "pubDate": "Sat, 18 Oct 2025 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Paços de Ferreira x Sporting - 18/10 20:15 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x Sporting - 18/10 20:15 - RTP1",
@@ -201,6 +166,125 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Manchester United - 19/10 16:30 - DAZN 1",
       "pubDate": "Sun, 19 Oct 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC St. Pauli x TSG Hoffenheim - 19/10 16:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC St. Pauli x TSG Hoffenheim - 19/10 16:30 - DAZN 4",
+      "pubDate": "Sun, 19 Oct 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol Feminino) x Islândia (Andebol Feminino) - 19/10 17:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol Feminino) x Islândia (Andebol Feminino) - 19/10 17:00 - RTP2",
+      "pubDate": "Sun, 19 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Lazio - 19/10 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Lazio - 19/10 17:00 - SportTV 4",
+      "pubDate": "Sun, 19 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Póvoa AC (Andebol) x Sporting (Andebol) - 19/10 17:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Póvoa AC (Andebol) x Sporting (Andebol) - 19/10 17:00 - SportingTv",
+      "pubDate": "Sun, 19 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Rayo Vallecano - 19/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Rayo Vallecano - 19/10 17:30 - DAZN 2",
+      "pubDate": "Sun, 19 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x Estoril Praia - 19/10 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x Estoril Praia - 19/10 18:00 - Canal11",
+      "pubDate": "Sun, 19 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Karagumruk - 19/10 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Karagumruk - 19/10 18:00 - SportTV 3",
+      "pubDate": "Sun, 19 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Neom SC x Al-Qadisiyah - 19/10 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Neom SC x Al-Qadisiyah - 19/10 19:00 - SportTV 6",
+      "pubDate": "Sun, 19 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Fiorentina - 19/10 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Fiorentina - 19/10 19:45 - SportTV 1",
+      "pubDate": "Sun, 19 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Lille - 19/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Lille - 19/10 19:45 - SportTV 2",
+      "pubDate": "Sun, 19 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Real Madrid - 19/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Real Madrid - 19/10 20:00 - DAZN 1",
+      "pubDate": "Sun, 19 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bahia x Grêmio - 20/10 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bahia x Grêmio - 20/10 00:30 - Canal11",
+      "pubDate": "Mon, 20 Oct 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria (S23) x Torreense (S23) - 20/10 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x Torreense (S23) - 20/10 16:00 - Canal11",
+      "pubDate": "Mon, 20 Oct 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Udinese - 20/10 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Udinese - 20/10 19:45 - SportTV 1",
+      "pubDate": "Mon, 20 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Brentford - 20/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Brentford - 20/10 20:00 - DAZN 1",
+      "pubDate": "Mon, 20 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Valencia - 20/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Valencia - 20/10 20:00 - DAZN 2",
+      "pubDate": "Mon, 20 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (S23) x FC Famalicão (S23) - 21/10 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (S23) x FC Famalicão (S23) - 21/10 11:00 - C11 Stream",
+      "pubDate": "Tue, 21 Oct 2025 11:00:00",
       "guid": ""
     }
   ]

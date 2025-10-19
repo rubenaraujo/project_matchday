@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Corinthians x Atlético Mineiro - 18/10 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Atlético Mineiro - 18/10 22:30 - Canal11",
-      "pubDate": "Sat, 18 Oct 2025 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Talleres x River Plate - 19/10 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Talleres x River Plate - 19/10 00:30 - SportTV 1",
@@ -232,6 +225,13 @@
       "guid": ""
     },
     {
+      "title": "Rosario Central x Platense - 19/10 22:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Platense - 19/10 22:00 - SportTV 1",
+      "pubDate": "Sun, 19 Oct 2025 22:00:00",
+      "guid": ""
+    },
+    {
       "title": "Bahia x Grêmio - 20/10 00:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahia x Grêmio - 20/10 00:30 - Canal11",
@@ -306,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kairat x Pafos FC - 21/10 17:45 - DAZN 2",
       "pubDate": "Tue, 21 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bristol City x Southampton - 21/10 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bristol City x Southampton - 21/10 19:45 - SportTV 4",
+      "pubDate": "Tue, 21 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Ferencváros (Andebol) - 21/10 19:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Ferencváros (Andebol) - 21/10 19:45 - BTv",
+      "pubDate": "Tue, 21 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

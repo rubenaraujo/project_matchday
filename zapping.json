@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Neom SC x Al-Qadisiyah - 19/10 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Neom SC x Al-Qadisiyah - 19/10 19:00 - SportTV 6",
-      "pubDate": "Sun, 19 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Milan x Fiorentina - 19/10 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Fiorentina - 19/10 19:45 - SportTV 1",
@@ -264,6 +257,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eintracht Frankfurt x Liverpool - 22/10 20:00 - DAZN 2",
       "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Slavia Praha - 22/10 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Slavia Praha - 22/10 20:00 - DAZN",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Tottenham - 22/10 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Tottenham - 22/10 20:00 - DAZN",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AA S. Pedro do Sul (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 22/10 20:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AA S. Pedro do Sul (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 22/10 20:30 - AndebolTV",
+      "pubDate": "Wed, 22 Oct 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Flamengo x Racing Club - 23/10 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Flamengo x Racing Club - 23/10 01:30 - SportTV 1",
+      "pubDate": "Thu, 23 Oct 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 23/10 17:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 23/10 17:45 - SportTV 6",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brann x Rangers - 23/10 17:45 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brann x Rangers - 23/10 17:45 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
       "guid": ""
     }
   ]

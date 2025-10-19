@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Levante x Rayo Vallecano - 19/10 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Rayo Vallecano - 19/10 17:30 - DAZN 2",
-      "pubDate": "Sun, 19 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x Estoril Praia - 19/10 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Estoril Praia - 19/10 18:00 - Canal11",
-      "pubDate": "Sun, 19 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fenerbahçe x Karagumruk - 19/10 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Karagumruk - 19/10 18:00 - SportTV 3",
-      "pubDate": "Sun, 19 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Neom SC x Al-Qadisiyah - 19/10 19:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Neom SC x Al-Qadisiyah - 19/10 19:00 - SportTV 6",
@@ -249,6 +228,41 @@
       "title": "Sporting x Marseille - 22/10 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Marseille - 22/10 20:00 - SportTV 5",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sheffield Wed. x Middlesbrough - 22/10 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sheffield Wed. x Middlesbrough - 22/10 20:00 - SportTV 1",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Club Brugge - 22/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Club Brugge - 22/10 20:00 - DAZN 3",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Ajax - 22/10 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Ajax - 22/10 20:00 - DAZN 4",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Juventus - 22/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Juventus - 22/10 20:00 - DAZN 1",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x Liverpool - 22/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x Liverpool - 22/10 20:00 - DAZN 2",
       "pubDate": "Wed, 22 Oct 2025 20:00:00",
       "guid": ""
     }

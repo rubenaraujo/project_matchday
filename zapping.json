@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Milan x Fiorentina - 19/10 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Fiorentina - 19/10 19:45 - SportTV 1",
-      "pubDate": "Sun, 19 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nantes x Lille - 19/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Lille - 19/10 19:45 - SportTV 2",
-      "pubDate": "Sun, 19 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Real Madrid - 19/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Real Madrid - 19/10 20:00 - DAZN 1",
-      "pubDate": "Sun, 19 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Platense - 19/10 22:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Platense - 19/10 22:00 - SportTV 1",
@@ -298,6 +277,27 @@
       "title": "Brann x Rangers - 23/10 17:45 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brann x Rangers - 23/10 17:45 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Genk x Real Betis - 23/10 17:45 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genk x Real Betis - 23/10 17:45 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Go Ahead Eagles x Aston Villa - 23/10 17:45 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Go Ahead Eagles x Aston Villa - 23/10 17:45 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Stuttgart - 23/10 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Stuttgart - 23/10 17:45 - DAZN 3",
       "pubDate": "Thu, 23 Oct 2025 17:45:00",
       "guid": ""
     }

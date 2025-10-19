@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Letónia (Futsal) x Portugal (Futsal) - 19/10 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia (Futsal) x Portugal (Futsal) - 19/10 16:00 - Canal11",
-      "pubDate": "Sun, 19 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Toulouse x Metz - 19/10 16:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Toulouse x Metz - 19/10 16:15 - SportTV 2",
-      "pubDate": "Sun, 19 Oct 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Manchester United - 19/10 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Manchester United - 19/10 16:30 - DAZN 1",
-      "pubDate": "Sun, 19 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC St. Pauli x TSG Hoffenheim - 19/10 16:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x TSG Hoffenheim - 19/10 16:30 - DAZN 4",
-      "pubDate": "Sun, 19 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Andebol Feminino) x Islândia (Andebol Feminino) - 19/10 17:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol Feminino) x Islândia (Andebol Feminino) - 19/10 17:00 - RTP2",
-      "pubDate": "Sun, 19 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Lazio - 19/10 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Lazio - 19/10 17:00 - SportTV 4",
-      "pubDate": "Sun, 19 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Póvoa AC (Andebol) x Sporting (Andebol) - 19/10 17:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Póvoa AC (Andebol) x Sporting (Andebol) - 19/10 17:00 - SportingTv",
-      "pubDate": "Sun, 19 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Levante x Rayo Vallecano - 19/10 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Levante x Rayo Vallecano - 19/10 17:30 - DAZN 2",
@@ -285,6 +236,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Konyaspor x Besiktas - 22/10 18:00 - SportTV 1",
       "pubDate": "Wed, 22 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aquila Basket (Basket) x Turk Telekom (Basket) - 22/10 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aquila Basket (Basket) x Turk Telekom (Basket) - 22/10 19:00 - SportTV 4",
+      "pubDate": "Wed, 22 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Marseille - 22/10 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Marseille - 22/10 20:00 - SportTV 5",
+      "pubDate": "Wed, 22 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Celta de Vigo x Real Sociedad - 19/10 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Real Sociedad - 19/10 15:15 - DAZN 2",
-      "pubDate": "Sun, 19 Oct 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x Feirense - 19/10 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x Feirense - 19/10 15:30 - SportTV 1",
-      "pubDate": "Sun, 19 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Foz x Aliados Lordelo - 19/10 15:30 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Foz x Aliados Lordelo - 19/10 15:30 - Online",
-      "pubDate": "Sun, 19 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Heracles Almelo x Feyenoord - 19/10 15:45 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Heracles Almelo x Feyenoord - 19/10 15:45 - DAZN",
-      "pubDate": "Sun, 19 Oct 2025 15:45:00",
-      "guid": ""
-    },
-    {
       "title": "Letónia (Futsal) x Portugal (Futsal) - 19/10 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Letónia (Futsal) x Portugal (Futsal) - 19/10 16:00 - Canal11",
@@ -285,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 22/10 00:00 - SportTV 3",
       "pubDate": "Wed, 22 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Independiente del Valle x Atlético Mineiro - 22/10 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente del Valle x Atlético Mineiro - 22/10 01:30 - SportTV 1",
+      "pubDate": "Wed, 22 Oct 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Bodo/Glimt - 22/10 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Bodo/Glimt - 22/10 17:45 - DAZN 2",
+      "pubDate": "Wed, 22 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Qarabag - 22/10 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Qarabag - 22/10 17:45 - DAZN 1",
+      "pubDate": "Wed, 22 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Konyaspor x Besiktas - 22/10 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Konyaspor x Besiktas - 22/10 18:00 - SportTV 1",
+      "pubDate": "Wed, 22 Oct 2025 18:00:00",
       "guid": ""
     }
   ]

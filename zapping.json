@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Talleres x River Plate - 19/10 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Talleres x River Plate - 19/10 00:30 - SportTV 1",
-      "pubDate": "Sun, 19 Oct 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cruzeiro x Fortaleza - 19/10 01:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Fortaleza - 19/10 01:00 - Canal11",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Andebol) x Ferencváros (Andebol) - 21/10 19:45 - BTv",
       "pubDate": "Tue, 21 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Kriens-Luzern (Andebol) - 21/10 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Kriens-Luzern (Andebol) - 21/10 19:45 - PortoCanal",
+      "pubDate": "Tue, 21 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Benfica - 21/10 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Benfica - 21/10 20:00 - SportTV 5",
+      "pubDate": "Tue, 21 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

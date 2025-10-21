@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal Feminino S23) x Bélgica (Futsal Feminino S23) - 21/10 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino S23) x Bélgica (Futsal Feminino S23) - 21/10 19:00 - Canal11",
-      "pubDate": "Tue, 21 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ottawa Senators (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 22/10 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 22/10 00:00 - SportTV 3",
@@ -249,6 +242,13 @@
       "title": "SC Braga x Crvena Zvezda - 23/10 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Crvena Zvezda - 23/10 17:45 - DAZN 1",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x FC Basel - 23/10 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x FC Basel - 23/10 17:45 - DAZN 2",
       "pubDate": "Thu, 23 Oct 2025 17:45:00",
       "guid": ""
     }

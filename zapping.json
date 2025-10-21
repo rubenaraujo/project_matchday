@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Arsenal (Jun.A S19) x Atlético de Madrid (Jun.A S19) - 21/10 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal (Jun.A S19) x Atlético de Madrid (Jun.A S19) - 21/10 13:00 - DAZN 1",
-      "pubDate": "Tue, 21 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Newcastle (Jun.A S19) x Benfica (Jun.A S19) - 21/10 14:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle (Jun.A S19) x Benfica (Jun.A S19) - 21/10 14:00 - BTv",
@@ -313,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei Feminino) x APAC Tojal (Hóquei Feminino) - 22/10 21:30 - BTv",
       "pubDate": "Wed, 22 Oct 2025 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 23/10 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 23/10 00:30 - SportTV 2",
+      "pubDate": "Thu, 23 Oct 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Flamengo x Racing Club - 23/10 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Flamengo x Racing Club - 23/10 01:30 - SportTV 1",
+      "pubDate": "Thu, 23 Oct 2025 01:30:00",
       "guid": ""
     }
   ]

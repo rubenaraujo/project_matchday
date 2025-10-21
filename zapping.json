@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Letónia (Futsal) x Portugal (Futsal) - 21/10 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia (Futsal) x Portugal (Futsal) - 21/10 17:00 - Canal11",
-      "pubDate": "Tue, 21 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona x Olympiacos - 21/10 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x Olympiacos - 21/10 17:45 - DAZN 1",
@@ -292,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tai Po x Beijing Guoan - 23/10 11:00 - Canal11",
       "pubDate": "Thu, 23 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S18) x Ilhas Faroé (Feminino S18) - 23/10 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S18) x Ilhas Faroé (Feminino S18) - 23/10 16:00 - Canal11",
+      "pubDate": "Thu, 23 Oct 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 23/10 17:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 23/10 17:45 - SportTV 6",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brann x Rangers - 23/10 17:45 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brann x Rangers - 23/10 17:45 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Genk x Real Betis - 23/10 17:45 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genk x Real Betis - 23/10 17:45 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 17:45:00",
       "guid": ""
     }
   ]

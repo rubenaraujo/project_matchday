@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Gil Vicente (S23) x FC Vizela (S23) - 21/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente (S23) x FC Vizela (S23) - 21/10 15:00 - Canal11",
-      "pubDate": "Tue, 21 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico (S23) x SC Braga (S23) - 21/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (S23) x SC Braga (S23) - 21/10 15:00 - C11 Stream",
-      "pubDate": "Tue, 21 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões (S23) x Rio Ave (S23) - 21/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (S23) x Rio Ave (S23) - 21/10 15:00 - C11 Stream",
-      "pubDate": "Tue, 21 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora (S23) x Farense (S23) - 21/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora (S23) x Farense (S23) - 21/10 15:00 - C11 Stream",
-      "pubDate": "Tue, 21 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Letónia (Futsal) x Portugal (Futsal) - 21/10 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Letónia (Futsal) x Portugal (Futsal) - 21/10 17:00 - Canal11",
@@ -313,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Flamengo x Racing Club - 23/10 01:30 - SportTV 1",
       "pubDate": "Thu, 23 Oct 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tai Po x Beijing Guoan - 23/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tai Po x Beijing Guoan - 23/10 11:00 - Canal11",
+      "pubDate": "Thu, 23 Oct 2025 11:00:00",
       "guid": ""
     }
   ]

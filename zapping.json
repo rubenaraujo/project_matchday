@@ -1,80 +1,10 @@
 {
   "items": [
     {
-      "title": "Aquila Basket (Basket) x Turk Telekom (Basket) - 22/10 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aquila Basket (Basket) x Turk Telekom (Basket) - 22/10 19:00 - SportTV 4",
-      "pubDate": "Wed, 22 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Futsal Feminino S23) x Bélgica (Futsal Feminino S23) - 22/10 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal Feminino S23) x Bélgica (Futsal Feminino S23) - 22/10 19:00 - Canal11",
       "pubDate": "Wed, 22 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Marseille - 22/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Marseille - 22/10 20:00 - SportTV 5",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sheffield Wed. x Middlesbrough - 22/10 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sheffield Wed. x Middlesbrough - 22/10 20:00 - SportTV 1",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Club Brugge - 22/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Club Brugge - 22/10 20:00 - DAZN 3",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Ajax - 22/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Ajax - 22/10 20:00 - DAZN 4",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Juventus - 22/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Juventus - 22/10 20:00 - DAZN 1",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Liverpool - 22/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Liverpool - 22/10 20:00 - DAZN 2",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Slavia Praha - 22/10 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Slavia Praha - 22/10 20:00 - DAZN",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Tottenham - 22/10 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Tottenham - 22/10 20:00 - DAZN",
-      "pubDate": "Wed, 22 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AA S. Pedro do Sul (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 22/10 20:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AA S. Pedro do Sul (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 22/10 20:30 - AndebolTV",
-      "pubDate": "Wed, 22 Oct 2025 20:30:00",
       "guid": ""
     },
     {
@@ -292,6 +222,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/10 00:30 - SportTV 2",
       "pubDate": "Fri, 24 Oct 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Belgrano x Argentinos Juniors - 24/10 01:10 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belgrano x Argentinos Juniors - 24/10 01:10 - SportTV 6",
+      "pubDate": "Fri, 24 Oct 2025 01:10:00",
+      "guid": ""
+    },
+    {
+      "title": "LDU Quito x Palmeiras - 24/10 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LDU Quito x Palmeiras - 24/10 01:30 - SportTV 1",
+      "pubDate": "Fri, 24 Oct 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Feminino) x França (Feminino) - 24/10 16:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Feminino) x França (Feminino) - 24/10 16:45 - SportTV 1",
+      "pubDate": "Fri, 24 Oct 2025 16:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Darmstadt 98 - 24/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Darmstadt 98 - 24/10 17:30 - DAZN 1",
+      "pubDate": "Fri, 24 Oct 2025 17:30:00",
       "guid": ""
     }
   ]

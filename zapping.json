@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Oklahoma City Thunder (Basket) x Houston Rockets (Basket) - 22/10 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x Houston Rockets (Basket) - 22/10 00:30 - SportTV 2",
-      "pubDate": "Wed, 22 Oct 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x Golden State Warriors (Basket) - 22/10 03:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Golden State Warriors (Basket) - 22/10 03:00 - SportTV 3",
@@ -312,6 +305,13 @@
       "title": "Maccabi Tel Aviv x Midtjylland - 23/10 20:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Maccabi Tel Aviv x Midtjylland - 23/10 20:00 - DAZN",
+      "pubDate": "Thu, 23 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x FC Utrecht - 23/10 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x FC Utrecht - 23/10 20:00 - DAZN",
       "pubDate": "Thu, 23 Oct 2025 20:00:00",
       "guid": ""
     }

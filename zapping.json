@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Madrid (Jun.A S19) x Juventus (Jun.A S19) - 22/10 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Jun.A S19) x Juventus (Jun.A S19) - 22/10 15:00 - DAZN 2",
-      "pubDate": "Wed, 22 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S19) x Rep. Irlanda (Feminino S19) - 22/10 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S19) x Rep. Irlanda (Feminino S19) - 22/10 17:00 - Canal11",
@@ -305,6 +298,13 @@
       "title": "Roma x Plzen - 23/10 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Roma x Plzen - 23/10 20:00 - DAZN 1",
+      "pubDate": "Thu, 23 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x AEK Larnaca - 23/10 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x AEK Larnaca - 23/10 20:00 - DAZN 4",
       "pubDate": "Thu, 23 Oct 2025 20:00:00",
       "guid": ""
     }

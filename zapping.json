@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 23/10 17:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 23/10 17:45 - SportTV 6",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Brann x Rangers - 23/10 17:45 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brann x Rangers - 23/10 17:45 - DAZN",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Genk x Real Betis - 23/10 17:45 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genk x Real Betis - 23/10 17:45 - DAZN",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Go Ahead Eagles x Aston Villa - 23/10 17:45 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Go Ahead Eagles x Aston Villa - 23/10 17:45 - DAZN",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fenerbahçe x Stuttgart - 23/10 17:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Stuttgart - 23/10 17:45 - DAZN 3",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Crvena Zvezda - 23/10 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Crvena Zvezda - 23/10 17:45 - DAZN 1",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x FC Basel - 23/10 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x FC Basel - 23/10 17:45 - DAZN 2",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rapid Wien x Fiorentina - 23/10 17:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rapid Wien x Fiorentina - 23/10 17:45 - DAZN 4",
-      "pubDate": "Thu, 23 Oct 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S23) x França (Feminino S23) - 23/10 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S23) x França (Feminino S23) - 23/10 18:00 - Canal11",
-      "pubDate": "Thu, 23 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Najma x Al-Ahli Jeddah - 23/10 19:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Najma x Al-Ahli Jeddah - 23/10 19:00 - SportTV 1",
@@ -327,6 +264,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Girona x Real Oviedo - 25/10 13:00 - DAZN 4",
       "pubDate": "Sat, 25 Oct 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Portimonense - 25/10 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Portimonense - 25/10 14:00 - SportTV +",
+      "pubDate": "Sat, 25 Oct 2025 14:00:00",
       "guid": ""
     }
   ]

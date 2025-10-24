@@ -1,31 +1,10 @@
 {
   "items": [
     {
-      "title": "Boston Bruins (Hóquei no Gelo  Seniores) x Anaheim Ducks (Hóquei no Gelo  Seniores) - 24/10 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Bruins (Hóquei no Gelo  Seniores) x Anaheim Ducks (Hóquei no Gelo  Seniores) - 24/10 00:00 - SportTV 3",
-      "pubDate": "Fri, 24 Oct 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/10 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/10 00:30 - SportTV 2",
       "pubDate": "Fri, 24 Oct 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Belgrano x Argentinos Juniors - 24/10 01:10 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belgrano x Argentinos Juniors - 24/10 01:10 - SportTV 6",
-      "pubDate": "Fri, 24 Oct 2025 01:10:00",
-      "guid": ""
-    },
-    {
-      "title": "LDU Quito x Palmeiras - 24/10 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LDU Quito x Palmeiras - 24/10 01:30 - SportTV 1",
-      "pubDate": "Fri, 24 Oct 2025 01:30:00",
       "guid": ""
     },
     {
@@ -327,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "ABC (Andebol) x Marítimo (Andebol) - 25/10 17:00 - AndebolTV",
       "pubDate": "Sat, 25 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x Brighton  Hove Albion - 25/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x Brighton  Hove Albion - 25/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 25 Oct 2025 17:30:00",
       "guid": ""
     }
   ]

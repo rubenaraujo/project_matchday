@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x UD Oliveirense - 24/10 18:45 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x UD Oliveirense - 24/10 18:45 - SportTV +",
-      "pubDate": "Fri, 24 Oct 2025 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Feminino) x Suécia (Feminino) - 24/10 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Feminino) x Suécia (Feminino) - 24/10 19:00 - SportTV 5",
-      "pubDate": "Fri, 24 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ittihad Jeddah x Al-Hilal - 24/10 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Hilal - 24/10 19:00 - SportTV 4",
-      "pubDate": "Fri, 24 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Werder Bremen x 1. FC Union Berlin - 24/10 19:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Werder Bremen x 1. FC Union Berlin - 24/10 19:30 - DAZN 3",
@@ -319,6 +298,13 @@
       "title": "Novasemente (Futsal Feminino) x Atlético CP (Futsal Feminino) - 25/10 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novasemente (Futsal Feminino) x Atlético CP (Futsal Feminino) - 25/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 25 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ADCR Caxinas Poça Barca (Futsal) x Ferreira do Zêzere (Futsal) - 25/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ADCR Caxinas Poça Barca (Futsal) x Ferreira do Zêzere (Futsal) - 25/10 18:00 - C11 Stream",
       "pubDate": "Sat, 25 Oct 2025 18:00:00",
       "guid": ""
     }

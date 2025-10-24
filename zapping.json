@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Alverca x Gil Vicente - 24/10 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Gil Vicente - 24/10 20:15 - SportTV 1",
-      "pubDate": "Fri, 24 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vizela x FC Felgueiras - 24/10 20:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x FC Felgueiras - 24/10 20:45 - SportTV 2",
-      "pubDate": "Fri, 24 Oct 2025 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente Rivadavia x River Plate - 25/10 02:10 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Rivadavia x River Plate - 25/10 02:10 - SportTV 1",
@@ -277,6 +263,27 @@
       "title": "Santa Clara x AFS - 25/10 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x AFS - 25/10 18:00 - SportTV 1",
+      "pubDate": "Sat, 25 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Toulouse - 25/10 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Toulouse - 25/10 18:00 - SportTV 3",
+      "pubDate": "Sat, 25 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Arsenal da Devesa (Andebol) - 25/10 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Arsenal da Devesa (Andebol) - 25/10 18:00 - BTv",
+      "pubDate": "Sat, 25 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Igualada HC (Hóquei) x FC Porto (Hóquei) - 25/10 18:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Igualada HC (Hóquei) x FC Porto (Hóquei) - 25/10 18:00 - WSE TV",
       "pubDate": "Sat, 25 Oct 2025 18:00:00",
       "guid": ""
     }

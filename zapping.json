@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/10 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/10 00:30 - SportTV 2",
-      "pubDate": "Fri, 24 Oct 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Alemanha (Feminino) x França (Feminino) - 24/10 16:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Feminino) x França (Feminino) - 24/10 16:45 - SportTV 1",
@@ -312,6 +305,20 @@
       "title": "Manchester United x Brighton  Hove Albion - 25/10 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Brighton  Hove Albion - 25/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 25 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x FC Köln - 25/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x FC Köln - 25/10 17:30 - DAZN 2",
+      "pubDate": "Sat, 25 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Getafe - 25/10 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Getafe - 25/10 17:30 - DAZN 3",
       "pubDate": "Sat, 25 Oct 2025 17:30:00",
       "guid": ""
     }

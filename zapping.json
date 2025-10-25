@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Paços de Ferreira x Portimonense - 25/10 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Portimonense - 25/10 14:00 - SportTV +",
-      "pubDate": "Sat, 25 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Como 1907 - 25/10 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Como 1907 - 25/10 14:00 - SportTV 3",
-      "pubDate": "Sat, 25 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia M´gladbach x Bayern München - 25/10 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x Bayern München - 25/10 14:30 - DAZN 3",
@@ -319,6 +305,13 @@
       "title": "Fafe x Vitória SC - 25/10 20:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x Vitória SC - 25/10 20:00 - C11 Stream",
+      "pubDate": "Sat, 25 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Liverpool - 25/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Liverpool - 25/10 20:00 - DAZN 1",
       "pubDate": "Sat, 25 Oct 2025 20:00:00",
       "guid": ""
     }

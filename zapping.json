@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Ipswich Town x West Bromwich - 25/10 12:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ipswich Town x West Bromwich - 25/10 12:30 - SportTV 6",
-      "pubDate": "Sat, 25 Oct 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Real Oviedo - 25/10 13:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Real Oviedo - 25/10 13:00 - DAZN 4",
-      "pubDate": "Sat, 25 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Paços de Ferreira x Portimonense - 25/10 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x Portimonense - 25/10 14:00 - SportTV +",
@@ -306,6 +292,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águias Santa Marta (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 25/10 19:00 - C11 Stream",
       "pubDate": "Sat, 25 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hazm x Al-Nassr - 25/10 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hazm x Al-Nassr - 25/10 19:00 - SportTV 4",
+      "pubDate": "Sat, 25 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hertha BSC x Fortuna Düsseldorf - 25/10 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hertha BSC x Fortuna Düsseldorf - 25/10 19:30 - DAZN 3",
+      "pubDate": "Sat, 25 Oct 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Atalanta - 25/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Atalanta - 25/10 19:45 - SportTV 2",
+      "pubDate": "Sat, 25 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x Vitória SC - 25/10 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x Vitória SC - 25/10 20:00 - C11 Stream",
+      "pubDate": "Sat, 25 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

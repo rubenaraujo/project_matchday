@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia M´gladbach x Bayern München - 25/10 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia M´gladbach x Bayern München - 25/10 14:30 - DAZN 3",
-      "pubDate": "Sat, 25 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x FC St. Pauli - 25/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x FC St. Pauli - 25/10 14:30 - DAZN",
-      "pubDate": "Sat, 25 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Augsburg x RB Leipzig - 25/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x RB Leipzig - 25/10 14:30 - DAZN",
-      "pubDate": "Sat, 25 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "TSG Hoffenheim x 1. FC Heidenheim 1846 - 25/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "TSG Hoffenheim x 1. FC Heidenheim 1846 - 25/10 14:30 - DAZN",
-      "pubDate": "Sat, 25 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hamburger SV x Wolfsburg - 25/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hamburger SV x Wolfsburg - 25/10 14:30 - DAZN",
-      "pubDate": "Sat, 25 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Blackburn Rovers x Southampton - 25/10 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Blackburn Rovers x Southampton - 25/10 15:00 - SportTV 6",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Gaia (Andebol) x Póvoa AC (Andebol) - 25/10 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Gaia (Andebol) x Póvoa AC (Andebol) - 25/10 15:00 - ABola TV",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Sunderland - 25/10 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Sunderland - 25/10 15:00 - DAZN 1",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Fulham - 25/10 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Fulham - 25/10 15:00 - DAZN 2",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Vitória SC (Jun.A S19) - 25/10 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Vitória SC (Jun.A S19) - 25/10 15:00 - PortoCanal",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x HC Braga (Hóquei) - 25/10 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x HC Braga (Hóquei) - 25/10 15:00 - FPP TV",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses (Andebol) x Vitória SC (Andebol) - 25/10 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x Vitória SC (Andebol) - 25/10 15:00 - AndebolTV",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanyol x Elche - 25/10 15:15 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanyol x Elche - 25/10 15:15 - DAZN 4",
@@ -313,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brentford x Liverpool - 25/10 20:00 - DAZN 1",
       "pubDate": "Sat, 25 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Villarreal - 25/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Villarreal - 25/10 20:00 - DAZN 2",
+      "pubDate": "Sat, 25 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Marseille - 25/10 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Marseille - 25/10 20:05 - SportTV 3",
+      "pubDate": "Sat, 25 Oct 2025 20:05:00",
       "guid": ""
     }
   ]

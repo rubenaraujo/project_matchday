@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/10 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/10 19:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Detroit Pistons (Basket) x Boston Celtics (Basket) - 26/10 19:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Detroit Pistons (Basket) x Boston Celtics (Basket) - 26/10 19:30 - SportTV 6",
@@ -271,6 +264,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x FC Vizela - 29/10 17:15 - SportTV 3",
       "pubDate": "Wed, 29 Oct 2025 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Parma - 29/10 17:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Parma - 29/10 17:30 - SportTV 5",
+      "pubDate": "Wed, 29 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Udinese - 29/10 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Udinese - 29/10 17:30 - SportTV 1",
+      "pubDate": "Wed, 29 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lorient x PSG - 29/10 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lorient x PSG - 29/10 18:00 - SportTV 4",
+      "pubDate": "Wed, 29 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x FC Porto (Hóquei) - 29/10 18:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x FC Porto (Hóquei) - 29/10 18:30 - DAZN 1",
+      "pubDate": "Wed, 29 Oct 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Santa Clara - 29/10 19:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Santa Clara - 29/10 19:15 - SportTV 2",
+      "pubDate": "Wed, 29 Oct 2025 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x FC Porto - 29/10 19:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x FC Porto - 29/10 19:15 - SportTV 3",
+      "pubDate": "Wed, 29 Oct 2025 19:15:00",
       "guid": ""
     }
   ]

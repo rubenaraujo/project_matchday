@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Osasuna x Celta de Vigo - 26/10 17:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Celta de Vigo - 26/10 17:30 - DAZN 4",
-      "pubDate": "Sun, 26 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Sporting - 26/10 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Sporting - 26/10 18:00 - SportTV 1",
-      "pubDate": "Sun, 26 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 26/10 18:00 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 26/10 18:00 - WSE TV",
-      "pubDate": "Sun, 26 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/10 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/10 19:00 - C11 Stream",
@@ -257,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x Santa Clara (S23) - 29/10 11:00 - C11 Stream",
       "pubDate": "Wed, 29 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x Est. Amadora (S23) - 29/10 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Est. Amadora (S23) - 29/10 11:00 - C11 Stream",
+      "pubDate": "Wed, 29 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (S23) x Portimonense (S23) - 29/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (S23) x Portimonense (S23) - 29/10 15:00 - C11 Stream",
+      "pubDate": "Wed, 29 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas (Basket) x JL Bourg-en-Bresse (Basket) - 29/10 16:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas (Basket) x JL Bourg-en-Bresse (Basket) - 29/10 16:00 - SportTV 6",
+      "pubDate": "Wed, 29 Oct 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Paderborn 07 x Bayer Leverkusen - 29/10 17:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Paderborn 07 x Bayer Leverkusen - 29/10 17:00 - DAZN 1",
+      "pubDate": "Wed, 29 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitânia de Lourosa x FC Vizela - 29/10 17:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitânia de Lourosa x FC Vizela - 29/10 17:15 - SportTV 3",
+      "pubDate": "Wed, 29 Oct 2025 17:15:00",
       "guid": ""
     }
   ]

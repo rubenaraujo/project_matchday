@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Ikast Handbold (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 26/10 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ikast Handbold (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 26/10 15:00 - SportTV 5",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Barcelona - 26/10 15:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Barcelona - 26/10 15:15 - DAZN 1",
-      "pubDate": "Sun, 26 Oct 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x Vitória SC - 26/10 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Vitória SC - 26/10 15:30 - SportTV 2",
-      "pubDate": "Sun, 26 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Estoril Praia x Nacional - 26/10 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Nacional - 26/10 15:30 - SportTV 4",
-      "pubDate": "Sun, 26 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.A S19) x ADCR Caxinas Poça Barca (Futsal  Jun.A S19) - 26/10 15:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.A S19) x ADCR Caxinas Poça Barca (Futsal  Jun.A S19) - 26/10 15:30 - SportingTv",
-      "pubDate": "Sun, 26 Oct 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Fiães (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 26/10 16:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Fiães (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 26/10 16:00 - ABola TV",
-      "pubDate": "Sun, 26 Oct 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rennes x Nice - 26/10 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rennes x Nice - 26/10 16:15 - SportTV 3",
@@ -236,6 +194,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente (S23) x FC Famalicão (S23) - 28/10 15:00 - C11 Stream",
       "pubDate": "Tue, 28 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Patrioti Levice (Basket) x AEK (Basket) - 28/10 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Patrioti Levice (Basket) x AEK (Basket) - 28/10 17:00 - SportTV 7",
+      "pubDate": "Tue, 28 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Napoli - 28/10 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Napoli - 28/10 17:30 - SportTV 2",
+      "pubDate": "Tue, 28 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x Borussia Dortmund - 28/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x Borussia Dortmund - 28/10 17:30 - DAZN 1",
+      "pubDate": "Tue, 28 Oct 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Ittihad Jeddah - 28/10 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Ittihad Jeddah - 28/10 18:00 - SportTV 3",
+      "pubDate": "Tue, 28 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München (Basket) x Real Madrid (Basket) - 28/10 19:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München (Basket) x Real Madrid (Basket) - 28/10 19:00 - SportTV 7",
+      "pubDate": "Tue, 28 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Milan - 28/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Milan - 28/10 19:45 - SportTV 2",
+      "pubDate": "Tue, 28 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Wycombe Wanderers x Fulham - 28/10 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wycombe Wanderers x Fulham - 28/10 19:45 - SportTV 4",
+      "pubDate": "Tue, 28 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

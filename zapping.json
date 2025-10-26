@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Bayer Leverkusen x SC Freiburg - 26/10 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x SC Freiburg - 26/10 14:30 - DAZN",
-      "pubDate": "Sun, 26 Oct 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x Varzim - 26/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x Varzim - 26/10 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x USC Paredes - 26/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x USC Paredes - 26/10 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x SC Covilhã - 26/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x SC Covilhã - 26/10 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x Académica OAF - 26/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x Académica OAF - 26/10 15:00 - Canal11",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Lusit. Évora - 26/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Lusit. Évora - 26/10 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x CD Mafra - 26/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x CD Mafra - 26/10 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x Belenenses - 26/10 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x Belenenses - 26/10 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Oct 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ikast Handbold (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 26/10 15:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ikast Handbold (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 26/10 15:00 - SportTV 5",
@@ -277,6 +221,20 @@
       "title": "Rio Ave (S23) x SC Braga (S23) - 28/10 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (S23) x SC Braga (S23) - 28/10 15:00 - Canal11",
+      "pubDate": "Tue, 28 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x FC Vizela (S23) - 28/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x FC Vizela (S23) - 28/10 15:00 - C11 Stream",
+      "pubDate": "Tue, 28 Oct 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente (S23) x FC Famalicão (S23) - 28/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente (S23) x FC Famalicão (S23) - 28/10 15:00 - C11 Stream",
       "pubDate": "Tue, 28 Oct 2025 15:00:00",
       "guid": ""
     }

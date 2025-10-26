@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Rennes x Nice - 26/10 16:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Nice - 26/10 16:15 - SportTV 3",
-      "pubDate": "Sun, 26 Oct 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Tottenham - 26/10 16:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Tottenham - 26/10 16:30 - DAZN 2",
-      "pubDate": "Sun, 26 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x Mainz - 26/10 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Mainz - 26/10 16:30 - DAZN 3",
-      "pubDate": "Sun, 26 Oct 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eléctrico (Futsal) x Rio Ave (Futsal) - 26/10 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x Rio Ave (Futsal) - 26/10 17:00 - Canal11",
-      "pubDate": "Sun, 26 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Bologna - 26/10 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Bologna - 26/10 17:00 - SportTV 7",
-      "pubDate": "Sun, 26 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kasimpasa x Besiktas - 26/10 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kasimpasa x Besiktas - 26/10 17:00 - SportTV 6",
-      "pubDate": "Sun, 26 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Osasuna x Celta de Vigo - 26/10 17:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Celta de Vigo - 26/10 17:30 - DAZN 4",
@@ -243,6 +201,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wycombe Wanderers x Fulham - 28/10 19:45 - SportTV 4",
       "pubDate": "Tue, 28 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC St. Pauli x TSG Hoffenheim - 28/10 19:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC St. Pauli x TSG Hoffenheim - 28/10 19:45 - DAZN 2",
+      "pubDate": "Tue, 28 Oct 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Cardiff City - 28/10 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Cardiff City - 28/10 20:00 - SportTV 5",
+      "pubDate": "Tue, 28 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x FC Alverca - 28/10 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x FC Alverca - 28/10 20:15 - SportTV 1",
+      "pubDate": "Tue, 28 Oct 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 28/10 22:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 28/10 22:00 - SportTV 3",
+      "pubDate": "Tue, 28 Oct 2025 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milwaukee Bucks (Basket) x New York Knicks (Basket) - 29/10 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milwaukee Bucks (Basket) x New York Knicks (Basket) - 29/10 00:00 - SportTV 2",
+      "pubDate": "Wed, 29 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético Mineiro x Independiente del Valle - 29/10 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético Mineiro x Independiente del Valle - 29/10 00:30 - SportTV 1",
+      "pubDate": "Wed, 29 Oct 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x LA Clippers (Basket) - 29/10 03:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x LA Clippers (Basket) - 29/10 03:00 - SportTV 2",
+      "pubDate": "Wed, 29 Oct 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia (S23) x Santa Clara (S23) - 29/10 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Santa Clara (S23) - 29/10 11:00 - C11 Stream",
+      "pubDate": "Wed, 29 Oct 2025 11:00:00",
       "guid": ""
     }
   ]

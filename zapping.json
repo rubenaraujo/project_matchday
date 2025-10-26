@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "GD Árvore (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 26/10 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Árvore (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 26/10 13:00 - Canal11",
-      "pubDate": "Sun, 26 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Levante - 26/10 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Levante - 26/10 13:00 - DAZN 1",
-      "pubDate": "Sun, 26 Oct 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Feyenoord x PSV - 26/10 13:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feyenoord x PSV - 26/10 13:30 - DAZN 4",
@@ -285,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Cruzeiro - 26/10 23:30 - Canal11",
       "pubDate": "Sun, 26 Oct 2025 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gazisehir Gaziantep x Fenerbahçe - 27/10 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gazisehir Gaziantep x Fenerbahçe - 27/10 17:00 - SportTV 1",
+      "pubDate": "Mon, 27 Oct 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barracas Central x Boca Juniors - 27/10 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barracas Central x Boca Juniors - 27/10 19:00 - SportTV 3",
+      "pubDate": "Mon, 27 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Atlético de Madrid - 27/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Atlético de Madrid - 27/10 20:00 - DAZN 1",
+      "pubDate": "Mon, 27 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

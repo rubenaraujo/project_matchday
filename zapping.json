@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Feyenoord x PSV - 26/10 13:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x PSV - 26/10 13:30 - DAZN 4",
-      "pubDate": "Sun, 26 Oct 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Metz - 26/10 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Metz - 26/10 14:00 - SportTV 3",
-      "pubDate": "Sun, 26 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Roma - 26/10 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Roma - 26/10 14:00 - SportTV 1",
-      "pubDate": "Sun, 26 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Crystal Palace - 26/10 14:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Crystal Palace - 26/10 14:00 - DAZN 2",
-      "pubDate": "Sun, 26 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Manchester City - 26/10 14:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Manchester City - 26/10 14:00 - DAZN 3",
-      "pubDate": "Sun, 26 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Nottingham Forest - 26/10 14:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Nottingham Forest - 26/10 14:00 - DAZN",
-      "pubDate": "Sun, 26 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Burnley - 26/10 14:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Burnley - 26/10 14:00 - DAZN",
-      "pubDate": "Sun, 26 Oct 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bayer Leverkusen x SC Freiburg - 26/10 14:30 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayer Leverkusen x SC Freiburg - 26/10 14:30 - DAZN",
@@ -292,6 +243,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Atlético de Madrid - 27/10 20:00 - DAZN 1",
       "pubDate": "Mon, 27 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x FC Porto - 27/10 20:15 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x FC Porto - 27/10 20:15 - TVI",
+      "pubDate": "Mon, 27 Oct 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (Futsal) x SC Braga (Futsal) - 27/10 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (Futsal) x SC Braga (Futsal) - 27/10 21:00 - Canal11",
+      "pubDate": "Mon, 27 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New Orleans Pelicans (Basket) x Boston Celtics (Basket) - 28/10 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New Orleans Pelicans (Basket) x Boston Celtics (Basket) - 28/10 00:00 - SportTV 2",
+      "pubDate": "Tue, 28 Oct 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (S23) x Académico (S23) - 28/10 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (S23) x Académico (S23) - 28/10 11:00 - C11 Stream",
+      "pubDate": "Tue, 28 Oct 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (S23) x SC Braga (S23) - 28/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (S23) x SC Braga (S23) - 28/10 15:00 - Canal11",
+      "pubDate": "Tue, 28 Oct 2025 15:00:00",
       "guid": ""
     }
   ]

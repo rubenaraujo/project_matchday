@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Moreirense x FC Porto - 27/10 20:15 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x FC Porto - 27/10 20:15 - TVI",
-      "pubDate": "Mon, 27 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão (Futsal) x SC Braga (Futsal) - 27/10 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (Futsal) x SC Braga (Futsal) - 27/10 21:00 - Canal11",
-      "pubDate": "Mon, 27 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "New Orleans Pelicans (Basket) x Boston Celtics (Basket) - 28/10 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New Orleans Pelicans (Basket) x Boston Celtics (Basket) - 28/10 00:00 - SportTV 2",
@@ -299,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Tomar (Hóquei) x CH Carvalhos (Hóquei) - 29/10 21:00 - FPP TV",
       "pubDate": "Wed, 29 Oct 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude Pacense (Hóquei) x OC Barcelos (Hóquei) - 29/10 21:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude Pacense (Hóquei) x OC Barcelos (Hóquei) - 29/10 21:30 - FPP TV",
+      "pubDate": "Wed, 29 Oct 2025 21:30:00",
       "guid": ""
     }
   ]

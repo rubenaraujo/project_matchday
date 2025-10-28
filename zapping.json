@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Eintracht Frankfurt x Borussia Dortmund - 28/10 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Borussia Dortmund - 28/10 17:30 - DAZN 1",
-      "pubDate": "Tue, 28 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München (Basket) x Real Madrid (Basket) - 28/10 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München (Basket) x Real Madrid (Basket) - 28/10 19:00 - SportTV 7",
-      "pubDate": "Tue, 28 Oct 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Futsal  S19) x Espanha (Futsal  S19) - 28/10 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal  S19) x Espanha (Futsal  S19) - 28/10 19:00 - Canal11",
@@ -271,6 +257,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kairat (Futsal) x Sporting (Futsal) - 30/10 16:00 - Canal11",
       "pubDate": "Thu, 30 Oct 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Sassuolo - 30/10 17:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Sassuolo - 30/10 17:30 - SportTV 3",
+      "pubDate": "Thu, 30 Oct 2025 17:30:00",
       "guid": ""
     }
   ]

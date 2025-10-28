@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Feminino S19) x Estados Unidos (Feminino S19) - 28/10 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S19) x Estados Unidos (Feminino S19) - 28/10 11:00 - Canal11",
-      "pubDate": "Tue, 28 Oct 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave (S23) x SC Braga (S23) - 28/10 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (S23) x SC Braga (S23) - 28/10 15:00 - C11 Stream",
@@ -292,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Cleveland Cavaliers (Basket) - 29/10 23:00 - SportTV 4",
       "pubDate": "Wed, 29 Oct 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Club x Flamengo - 30/10 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Club x Flamengo - 30/10 00:30 - SportTV 1",
+      "pubDate": "Thu, 30 Oct 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Minnesota Timberwolves (Basket) x LA Lakers (Basket) - 30/10 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Minnesota Timberwolves (Basket) x LA Lakers (Basket) - 30/10 01:30 - SportTV 3",
+      "pubDate": "Thu, 30 Oct 2025 01:30:00",
       "guid": ""
     }
   ]

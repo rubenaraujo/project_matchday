@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC St. Pauli x TSG Hoffenheim - 28/10 19:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x TSG Hoffenheim - 28/10 19:45 - DAZN 2",
-      "pubDate": "Tue, 28 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x FC Alverca - 28/10 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x FC Alverca - 28/10 20:15 - SportTV 1",
-      "pubDate": "Tue, 28 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 28/10 22:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 28/10 22:00 - SportTV 3",
@@ -243,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (B) x Paços de Ferreira - 30/10 18:00 - BTv",
       "pubDate": "Thu, 30 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Torreense - 30/10 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Torreense - 30/10 18:00 - SportTV +",
+      "pubDate": "Thu, 30 Oct 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Lazio - 30/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Lazio - 30/10 19:45 - SportTV 3",
+      "pubDate": "Thu, 30 Oct 2025 19:45:00",
       "guid": ""
     }
   ]

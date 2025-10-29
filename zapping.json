@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal  S19) x Espanha (Futsal  S19) - 29/10 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal  S19) x Espanha (Futsal  S19) - 29/10 17:00 - Canal11",
-      "pubDate": "Wed, 29 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Paderborn 07 x Bayer Leverkusen - 29/10 17:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Paderborn 07 x Bayer Leverkusen - 29/10 17:00 - DAZN 2",
@@ -278,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x Fortuna Sittard - 31/10 19:00 - DAZN 2",
       "pubDate": "Fri, 31 Oct 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Augsburg x Borussia Dortmund - 31/10 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Augsburg x Borussia Dortmund - 31/10 19:30 - DAZN 1",
+      "pubDate": "Fri, 31 Oct 2025 19:30:00",
       "guid": ""
     }
   ]

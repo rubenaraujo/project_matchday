@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Paderborn 07 x Bayer Leverkusen - 29/10 17:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Paderborn 07 x Bayer Leverkusen - 29/10 17:00 - DAZN 2",
-      "pubDate": "Wed, 29 Oct 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x FC Vizela - 29/10 17:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x FC Vizela - 29/10 17:15 - SportTV 3",
-      "pubDate": "Wed, 29 Oct 2025 17:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Parma - 29/10 17:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Parma - 29/10 17:30 - SportTV 5",
-      "pubDate": "Wed, 29 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Udinese - 29/10 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Udinese - 29/10 17:30 - SportTV 1",
-      "pubDate": "Wed, 29 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lorient x PSG - 29/10 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lorient x PSG - 29/10 18:00 - SportTV 4",
-      "pubDate": "Wed, 29 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Hóquei) x FC Porto (Hóquei) - 29/10 18:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x FC Porto (Hóquei) - 29/10 18:30 - DAZN 3",
@@ -278,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Augsburg x Borussia Dortmund - 31/10 19:30 - DAZN 1",
       "pubDate": "Fri, 31 Oct 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
+      "pubDate": "Fri, 31 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
+      "pubDate": "Fri, 31 Oct 2025 20:00:00",
       "guid": ""
     }
   ]

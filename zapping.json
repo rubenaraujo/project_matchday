@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia (S23) x Santa Clara (S23) - 29/10 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia (S23) x Santa Clara (S23) - 29/10 11:00 - Canal11",
-      "pubDate": "Wed, 29 Oct 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense (S23) x Portimonense (S23) - 29/10 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (S23) x Portimonense (S23) - 29/10 15:00 - C11 Stream",
@@ -176,6 +169,13 @@
       "guid": ""
     },
     {
+      "title": "Portugal (S16) x Turquia (S16) - 30/10 13:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S16) x Turquia (S16) - 30/10 13:00 - SportTV 1",
+      "pubDate": "Thu, 30 Oct 2025 13:00:00",
+      "guid": ""
+    },
+    {
       "title": "Kairat (Futsal) x Sporting (Futsal) - 30/10 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kairat (Futsal) x Sporting (Futsal) - 30/10 16:00 - Canal11",
@@ -284,13 +284,6 @@
       "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
-      "pubDate": "Fri, 31 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
       "pubDate": "Fri, 31 Oct 2025 20:00:00",
       "guid": ""
     }

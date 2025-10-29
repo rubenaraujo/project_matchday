@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x CD Tondela - 29/10 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x CD Tondela - 29/10 20:45 - SportTV 1",
-      "pubDate": "Wed, 29 Oct 2025 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x CH Carvalhos (Hóquei) - 29/10 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x CH Carvalhos (Hóquei) - 29/10 21:00 - FPP TV",
-      "pubDate": "Wed, 29 Oct 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Juventude Pacense (Hóquei) x OC Barcelos (Hóquei) - 29/10 21:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventude Pacense (Hóquei) x OC Barcelos (Hóquei) - 29/10 21:30 - FPP TV",
@@ -236,6 +222,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S16) x País de Gales (S16) - 01/11 09:00 - SportTV 1",
       "pubDate": "Sat, 01 Nov 2025 09:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Feirense - 01/11 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Feirense - 01/11 11:00 - SportingTv",
+      "pubDate": "Sat, 01 Nov 2025 11:00:00",
       "guid": ""
     }
   ]

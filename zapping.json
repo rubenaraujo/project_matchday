@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Hóquei) x FC Porto (Hóquei) - 29/10 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x FC Porto (Hóquei) - 29/10 18:30 - DAZN 3",
-      "pubDate": "Wed, 29 Oct 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Santa Clara - 29/10 19:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Santa Clara - 29/10 19:15 - SportTV 2",
-      "pubDate": "Wed, 29 Oct 2025 19:15:00",
-      "guid": ""
-    },
-    {
       "title": "UD Oliveirense x FC Porto - 29/10 19:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x FC Porto - 29/10 19:15 - SportTV 3",
@@ -257,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
       "pubDate": "Fri, 31 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Girona - 31/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Girona - 31/10 20:00 - DAZN 3",
+      "pubDate": "Fri, 31 Oct 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x FC Alverca - 31/10 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x FC Alverca - 31/10 20:15 - SportTV 1",
+      "pubDate": "Fri, 31 Oct 2025 20:15:00",
       "guid": ""
     }
   ]

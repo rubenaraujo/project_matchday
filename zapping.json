@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Oliveirense x FC Porto - 29/10 19:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense x FC Porto - 29/10 19:15 - SportTV 3",
-      "pubDate": "Wed, 29 Oct 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Swansea City x Manchester City - 29/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Swansea City x Manchester City - 29/10 19:45 - SportTV 6",
-      "pubDate": "Wed, 29 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Brighton  Hove Albion - 29/10 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Brighton  Hove Albion - 29/10 19:45 - SportTV 5",
-      "pubDate": "Wed, 29 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Crystal Palace - 29/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Crystal Palace - 29/10 19:45 - SportTV 7",
-      "pubDate": "Wed, 29 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Köln x Bayern München - 29/10 19:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x Bayern München - 29/10 19:45 - DAZN 1",
-      "pubDate": "Wed, 29 Oct 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Lyon - 29/10 20:05 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Lyon - 29/10 20:05 - SportTV 4",
-      "pubDate": "Wed, 29 Oct 2025 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x CD Tondela - 29/10 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x CD Tondela - 29/10 20:45 - SportTV 1",
@@ -257,6 +215,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x FC Alverca - 31/10 20:15 - SportTV 1",
       "pubDate": "Fri, 31 Oct 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 31/10 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 31/10 20:30 - Canal11",
+      "pubDate": "Fri, 31 Oct 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Instituto x Rosario Central - 01/11 00:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Instituto x Rosario Central - 01/11 00:15 - SportTV 1",
+      "pubDate": "Sat, 01 Nov 2025 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S16) x País de Gales (S16) - 01/11 09:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S16) x País de Gales (S16) - 01/11 09:00 - SportTV 1",
+      "pubDate": "Sat, 01 Nov 2025 09:00:00",
       "guid": ""
     }
   ]

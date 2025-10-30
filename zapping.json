@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Minnesota Timberwolves (Basket) x LA Lakers (Basket) - 30/10 01:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Timberwolves (Basket) x LA Lakers (Basket) - 30/10 01:30 - SportTV 3",
-      "pubDate": "Thu, 30 Oct 2025 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Inglaterra (S16) x País de Gales (S16) - 30/10 09:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Inglaterra (S16) x País de Gales (S16) - 30/10 09:00 - SportTV 1",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Sevilla - 01/11 15:15 - DAZN 3",
       "pubDate": "Sat, 01 Nov 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x FC Famalicão - 01/11 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x FC Famalicão - 01/11 15:30 - SportTV 1",
+      "pubDate": "Sat, 01 Nov 2025 15:30:00",
       "guid": ""
     }
   ]

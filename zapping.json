@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Inglaterra (S16) x País de Gales (S16) - 30/10 09:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Inglaterra (S16) x País de Gales (S16) - 30/10 09:00 - SportTV 1",
-      "pubDate": "Thu, 30 Oct 2025 09:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (S23) x Est. Amadora (S23) - 30/10 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (S23) x Est. Amadora (S23) - 30/10 11:00 - Canal11",
-      "pubDate": "Thu, 30 Oct 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S16) x Turquia (S16) - 30/10 13:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S16) x Turquia (S16) - 30/10 13:00 - SportTV 1",
@@ -326,6 +312,13 @@
       "title": "PSG x Nice - 01/11 16:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Nice - 01/11 16:00 - SportTV 3",
+      "pubDate": "Sat, 01 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol) x Egipto (Andebol) - 01/11 16:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol) x Egipto (Andebol) - 01/11 16:00 - ABola TV",
       "pubDate": "Sat, 01 Nov 2025 16:00:00",
       "guid": ""
     }

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Cagliari x Sassuolo - 30/10 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Sassuolo - 30/10 17:30 - SportTV 3",
-      "pubDate": "Thu, 30 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ahli Jeddah x Al-Riyadh - 30/10 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ahli Jeddah x Al-Riyadh - 30/10 17:30 - SportTV 4",
-      "pubDate": "Thu, 30 Oct 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x Paços de Ferreira - 30/10 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x Paços de Ferreira - 30/10 18:00 - BTv",
-      "pubDate": "Thu, 30 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portimonense x Torreense - 30/10 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense x Torreense - 30/10 18:00 - SportTV +",
-      "pubDate": "Thu, 30 Oct 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Pisa x Lazio - 30/10 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pisa x Lazio - 30/10 19:45 - SportTV 3",
@@ -313,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 01/11 16:00 - AndebolTV",
       "pubDate": "Sat, 01 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Como 1907 - 01/11 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Como 1907 - 01/11 17:00 - SportTV 6",
+      "pubDate": "Sat, 01 Nov 2025 17:00:00",
       "guid": ""
     }
   ]

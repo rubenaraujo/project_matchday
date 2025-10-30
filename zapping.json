@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Racing Club x Flamengo - 30/10 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Flamengo - 30/10 00:30 - SportTV 1",
-      "pubDate": "Thu, 30 Oct 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Timberwolves (Basket) x LA Lakers (Basket) - 30/10 01:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x LA Lakers (Basket) - 30/10 01:30 - SportTV 3",
@@ -305,6 +298,20 @@
       "title": "Nottingham Forest x Manchester United - 01/11 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nottingham Forest x Manchester United - 01/11 15:00 - DAZN 1",
+      "pubDate": "Sat, 01 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Burnley x Arsenal - 01/11 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burnley x Arsenal - 01/11 15:00 - DAZN 2",
+      "pubDate": "Sat, 01 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x Vitória SC (Voleibol) - 01/11 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x Vitória SC (Voleibol) - 01/11 15:00 - SportingTv",
       "pubDate": "Sat, 01 Nov 2025 15:00:00",
       "guid": ""
     }

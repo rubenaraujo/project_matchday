@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
-      "pubDate": "Fri, 31 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x FC Alverca - 31/10 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x FC Alverca - 31/10 20:15 - SportTV 1",
-      "pubDate": "Fri, 31 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Instituto x Rosario Central - 01/11 00:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Instituto x Rosario Central - 01/11 00:15 - SportTV 1",
@@ -299,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Sociedad x Athletic Bilbao - 01/11 17:30 - DAZN",
       "pubDate": "Sat, 01 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x Estoril Praia - 01/11 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x Estoril Praia - 01/11 18:00 - SportTV 1",
+      "pubDate": "Sat, 01 Nov 2025 18:00:00",
       "guid": ""
     }
   ]

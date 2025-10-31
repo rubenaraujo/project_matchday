@@ -1,30 +1,9 @@
 {
   "items": [
     {
-      "title": "FC Augsburg x Borussia Dortmund - 31/10 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x Borussia Dortmund - 31/10 19:30 - DAZN 1",
-      "pubDate": "Fri, 31 Oct 2025 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 31/10 20:00 - SportTV 4",
-      "pubDate": "Fri, 31 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Coventry City - 31/10 20:00 - SportTV 3",
-      "pubDate": "Fri, 31 Oct 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Girona - 31/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Girona - 31/10 20:00 - DAZN 3",
       "pubDate": "Fri, 31 Oct 2025 20:00:00",
       "guid": ""
     },
@@ -33,13 +12,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x FC Alverca - 31/10 20:15 - SportTV 1",
       "pubDate": "Fri, 31 Oct 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 31/10 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 31/10 20:30 - Canal11",
-      "pubDate": "Fri, 31 Oct 2025 20:30:00",
       "guid": ""
     },
     {
@@ -312,6 +284,20 @@
       "title": "Tottenham x Chelsea - 01/11 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tottenham x Chelsea - 01/11 17:30 - DAZN 1",
+      "pubDate": "Sat, 01 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Bayer Leverkusen - 01/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Bayer Leverkusen - 01/11 17:30 - DAZN 2",
+      "pubDate": "Sat, 01 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Athletic Bilbao - 01/11 17:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Athletic Bilbao - 01/11 17:30 - DAZN",
       "pubDate": "Sat, 01 Nov 2025 17:30:00",
       "guid": ""
     }

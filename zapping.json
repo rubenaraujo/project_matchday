@@ -1,24 +1,10 @@
 {
   "items": [
     {
-      "title": "Portugal (Andebol  S20) x Polónia (Andebol  S20) - 01/11 11:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol  S20) x Polónia (Andebol  S20) - 01/11 11:30 - AndebolTV",
-      "pubDate": "Sat, 01 Nov 2025 11:30:00",
-      "guid": ""
-    },
-    {
       "title": "Turquia (S16) x Inglaterra (S16) - 01/11 13:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Turquia (S16) x Inglaterra (S16) - 01/11 13:00 - SportTV 1",
       "pubDate": "Sat, 01 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Udinese x Atalanta - 01/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Atalanta - 01/11 14:00 - SportTV 2",
-      "pubDate": "Sat, 01 Nov 2025 14:00:00",
       "guid": ""
     },
     {
@@ -306,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Póvoa (Hóquei) x AD Valongo (Hóquei) - 01/11 18:30 - FPP TV",
       "pubDate": "Sat, 01 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Novo Vrijeme (Futsal) x Sporting (Futsal) - 01/11 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Novo Vrijeme (Futsal) x Sporting (Futsal) - 01/11 19:00 - Canal11",
+      "pubDate": "Sat, 01 Nov 2025 19:00:00",
       "guid": ""
     }
   ]

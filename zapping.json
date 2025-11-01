@@ -1,104 +1,6 @@
 {
   "items": [
     {
-      "title": "Turquia (S16) x Inglaterra (S16) - 01/11 13:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia (S16) x Inglaterra (S16) - 01/11 13:00 - SportTV 1",
-      "pubDate": "Sat, 01 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "RB Leipzig x Stuttgart - 01/11 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RB Leipzig x Stuttgart - 01/11 14:30 - DAZN 4",
-      "pubDate": "Sat, 01 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Union Berlin x SC Freiburg - 01/11 14:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x SC Freiburg - 01/11 14:30 - DAZN",
-      "pubDate": "Sat, 01 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Feminino) x Damaiense (Feminino) - 01/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x Damaiense (Feminino) - 01/11 15:00 - C11 Stream",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Varzim x AD Marco 09 - 01/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x AD Marco 09 - 01/11 15:00 - C11 Stream",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Caldas SC - 01/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Caldas SC - 01/11 15:00 - C11 Stream",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusit. Évora x 1º Dezembro - 01/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusit. Évora x 1º Dezembro - 01/11 15:00 - Canal11",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colégio de Gaia (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 01/11 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colégio de Gaia (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 01/11 15:00 - AndebolTV",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Manchester United - 01/11 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Manchester United - 01/11 15:00 - DAZN 1",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Arsenal - 01/11 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Arsenal - 01/11 15:00 - DAZN 2",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x Vitória SC (Voleibol) - 01/11 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Vitória SC (Voleibol) - 01/11 15:00 - SportingTv",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Leeds United - 01/11 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Leeds United - 01/11 15:00 - DAZN",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Brentford - 01/11 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Brentford - 01/11 15:00 - DAZN",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Wolverhampton - 01/11 15:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Wolverhampton - 01/11 15:00 - DAZN",
-      "pubDate": "Sat, 01 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético de Madrid x Sevilla - 01/11 15:15 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Sevilla - 01/11 15:15 - DAZN 3",
@@ -299,6 +201,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novo Vrijeme (Futsal) x Sporting (Futsal) - 01/11 19:00 - Canal11",
       "pubDate": "Sat, 01 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense (Hóquei) x Benfica (Hóquei) - 01/11 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Hóquei) x Benfica (Hóquei) - 01/11 19:00 - DAZN 4",
+      "pubDate": "Sat, 01 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feyenoord x FC Volendam - 01/11 19:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feyenoord x FC Volendam - 01/11 19:00 - DAZN",
+      "pubDate": "Sat, 01 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Juventus - 01/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Juventus - 01/11 19:45 - SportTV 4",
+      "pubDate": "Sat, 01 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Aston Villa - 01/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Aston Villa - 01/11 20:00 - DAZN 1",
+      "pubDate": "Sat, 01 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

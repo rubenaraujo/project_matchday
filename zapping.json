@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (B) x Feirense - 01/11 11:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x Feirense - 01/11 11:00 - SportingTv",
-      "pubDate": "Sat, 01 Nov 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Andebol  S20) x Polónia (Andebol  S20) - 01/11 11:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol  S20) x Polónia (Andebol  S20) - 01/11 11:30 - AndebolTV",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CH Carvalhos (Hóquei) x Sporting (Hóquei) - 01/11 18:00 - FPP TV",
       "pubDate": "Sat, 01 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Futsal) x Leões Porto Salvo (Futsal) - 01/11 18:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Futsal) x Leões Porto Salvo (Futsal) - 01/11 18:30 - C11 Stream",
+      "pubDate": "Sat, 01 Nov 2025 18:30:00",
       "guid": ""
     }
   ]

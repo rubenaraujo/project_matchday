@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Cremonese x Juventus - 01/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cremonese x Juventus - 01/11 19:45 - SportTV 4",
-      "pubDate": "Sat, 01 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Aston Villa - 01/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Aston Villa - 01/11 20:00 - DAZN 1",
-      "pubDate": "Sat, 01 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Valencia - 01/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Valencia - 01/11 20:00 - DAZN 2",
-      "pubDate": "Sat, 01 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Marseille - 01/11 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Marseille - 01/11 20:05 - SportTV 3",
-      "pubDate": "Sat, 01 Nov 2025 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x Benfica - 01/11 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Benfica - 01/11 20:30 - SportTV 1",
@@ -194,6 +166,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 02/11 16:00 - PortoCanal",
       "pubDate": "Sun, 02 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Angers - 02/11 16:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Angers - 02/11 16:15 - SportTV 5",
+      "pubDate": "Sun, 02 Nov 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Metz - 02/11 16:15 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Metz - 02/11 16:15 - SportTV 7",
+      "pubDate": "Sun, 02 Nov 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Bournemouth - 02/11 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Bournemouth - 02/11 16:30 - DAZN 1",
+      "pubDate": "Sun, 02 Nov 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolfsburg x TSG Hoffenheim - 02/11 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolfsburg x TSG Hoffenheim - 02/11 16:30 - DAZN 3",
+      "pubDate": "Sun, 02 Nov 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Bologna - 02/11 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Bologna - 02/11 17:00 - SportTV 3",
+      "pubDate": "Sun, 02 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Fenerbahçe - 02/11 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Fenerbahçe - 02/11 17:00 - SportTV 6",
+      "pubDate": "Sun, 02 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Elche - 02/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Elche - 02/11 17:30 - DAZN 2",
+      "pubDate": "Sun, 02 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Moreirense - 02/11 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Moreirense - 02/11 18:00 - SportTV 2",
+      "pubDate": "Sun, 02 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estudiantes x Boca Juniors - 02/11 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estudiantes x Boca Juniors - 02/11 19:00 - SportTV 5",
+      "pubDate": "Sun, 02 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol) x Sporting (Voleibol) - 02/11 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol) x Sporting (Voleibol) - 02/11 19:00 - BTv",
+      "pubDate": "Sun, 02 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Roma - 02/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Roma - 02/11 19:45 - SportTV 3",
+      "pubDate": "Sun, 02 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

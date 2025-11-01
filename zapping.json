@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético de Madrid x Sevilla - 01/11 15:15 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Sevilla - 01/11 15:15 - DAZN 3",
-      "pubDate": "Sat, 01 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x FC Famalicão - 01/11 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x FC Famalicão - 01/11 15:30 - SportTV 1",
-      "pubDate": "Sat, 01 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x Heerenveen - 01/11 15:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Heerenveen - 01/11 15:30 - DAZN",
-      "pubDate": "Sat, 01 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Nice - 01/11 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Nice - 01/11 16:00 - SportTV 3",
-      "pubDate": "Sat, 01 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Andebol) x Egipto (Andebol) - 01/11 16:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol) x Egipto (Andebol) - 01/11 16:00 - ABola TV",
-      "pubDate": "Sat, 01 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 01/11 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 01/11 16:00 - AndebolTV",
-      "pubDate": "Sat, 01 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Napoli x Como 1907 - 01/11 17:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Como 1907 - 01/11 17:00 - SportTV 6",
@@ -228,6 +186,13 @@
       "title": "Liverpool x Aston Villa - 01/11 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Aston Villa - 01/11 20:00 - DAZN 1",
+      "pubDate": "Sat, 01 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Valencia - 01/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Valencia - 01/11 20:00 - DAZN 2",
       "pubDate": "Sat, 01 Nov 2025 20:00:00",
       "guid": ""
     }

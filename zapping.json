@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Barcelona x Elche - 02/11 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Elche - 02/11 17:30 - DAZN 2",
-      "pubDate": "Sun, 02 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Arouca x Moreirense - 02/11 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Moreirense - 02/11 18:00 - SportTV 2",
-      "pubDate": "Sun, 02 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Estudiantes x Boca Juniors - 02/11 19:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estudiantes x Boca Juniors - 02/11 19:00 - SportTV 5",
@@ -264,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Bayer Leverkusen - 05/11 20:00 - SportTV 5",
       "pubDate": "Wed, 05 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portsmouth x Wrexham - 05/11 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portsmouth x Wrexham - 05/11 20:00 - SportTV 1",
+      "pubDate": "Wed, 05 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
+      "pubDate": "Thu, 06 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
+      "pubDate": "Thu, 06 Nov 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
+      "pubDate": "Thu, 06 Nov 2025 12:30:00",
       "guid": ""
     }
   ]

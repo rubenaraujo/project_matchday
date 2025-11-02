@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x SC Tomar (Hóquei) - 01/11 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x SC Tomar (Hóquei) - 01/11 21:30 - FPP TV",
-      "pubDate": "Sat, 01 Nov 2025 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Houston Rockets (Basket) - 02/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Houston Rockets (Basket) - 02/11 00:00 - SportTV 1",
@@ -278,6 +271,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Buffalo Bills (Fut. Americano) x Kansas City Chiefs (Fut. Americano) - 02/11 21:25 - DAZN 2",
       "pubDate": "Sun, 02 Nov 2025 21:25:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Gimnasia - 02/11 23:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Gimnasia - 02/11 23:30 - SportTV 2",
+      "pubDate": "Sun, 02 Nov 2025 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Knicks (Basket) x Chicago Bulls (Basket) - 03/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Knicks (Basket) x Chicago Bulls (Basket) - 03/11 00:00 - SportTV 1",
+      "pubDate": "Mon, 03 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Commanders (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 03/11 01:20 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Commanders (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 03/11 01:20 - DAZN 1",
+      "pubDate": "Mon, 03 Nov 2025 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Genoa - 03/11 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Genoa - 03/11 17:30 - SportTV 2",
+      "pubDate": "Mon, 03 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Leixões - 03/11 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Leixões - 03/11 18:00 - SportTV +",
+      "pubDate": "Mon, 03 Nov 2025 18:00:00",
       "guid": ""
     }
   ]

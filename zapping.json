@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "Alavés x Espanyol - 02/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Espanyol - 02/11 15:15 - DAZN 2",
-      "pubDate": "Sun, 02 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x CD Tondela - 02/11 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x CD Tondela - 02/11 15:30 - SportTV 1",
-      "pubDate": "Sun, 02 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense x Benfica - 02/11 15:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense x Benfica - 02/11 15:30 - SportTV +",
-      "pubDate": "Sun, 02 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Aliados Lordelo x Lixa - 02/11 15:30 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aliados Lordelo x Lixa - 02/11 15:30 - Youtube",
-      "pubDate": "Sun, 02 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 02/11 16:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 02/11 16:00 - PortoCanal",
-      "pubDate": "Sun, 02 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lille x Angers - 02/11 16:15 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Angers - 02/11 16:15 - SportTV 5",
-      "pubDate": "Sun, 02 Nov 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Nantes x Metz - 02/11 16:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Metz - 02/11 16:15 - SportTV 7",
       "pubDate": "Sun, 02 Nov 2025 16:15:00",
       "guid": ""
     },
@@ -250,6 +208,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x Santa Clara - 03/11 20:45 - SportTV 1",
       "pubDate": "Mon, 03 Nov 2025 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 04/11 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 04/11 01:00 - SportTV 1",
+      "pubDate": "Tue, 04 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S16) x Inglaterra (S16) - 04/11 09:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S16) x Inglaterra (S16) - 04/11 09:00 - SportTV 1",
+      "pubDate": "Tue, 04 Nov 2025 09:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turquia (S16) x País de Gales (S16) - 04/11 13:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turquia (S16) x País de Gales (S16) - 04/11 13:00 - SportTV 1",
+      "pubDate": "Tue, 04 Nov 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x FC Felgueiras - 04/11 16:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x FC Felgueiras - 04/11 16:00 - SportTV +",
+      "pubDate": "Tue, 04 Nov 2025 16:00:00",
       "guid": ""
     }
   ]

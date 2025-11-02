@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Celtic x Rangers - 02/11 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Rangers - 02/11 14:00 - SportTV 3",
-      "pubDate": "Sun, 02 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Köln x Hamburger SV - 02/11 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x Hamburger SV - 02/11 14:30 - DAZN 3",
-      "pubDate": "Sun, 02 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x S. João Ver - 02/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x S. João Ver - 02/11 15:00 - C11 Stream",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x AD Sanjoanense - 02/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x AD Sanjoanense - 02/11 15:00 - C11 Stream",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x Amarante FC - 02/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Amarante FC - 02/11 15:00 - C11 Stream",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Amora FC - 02/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Amora FC - 02/11 15:00 - C11 Stream",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x U. Santarém - 02/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x U. Santarém - 02/11 15:00 - C11 Stream",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol Feminino) x Colégio de Gaia (Andebol Feminino) - 02/11 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x Colégio de Gaia (Andebol Feminino) - 02/11 15:00 - AndebolTV",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Voleibol Feminino) x Benfica (Voleibol Feminino) - 02/11 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Voleibol Feminino) x Benfica (Voleibol Feminino) - 02/11 15:00 - ABola TV",
-      "pubDate": "Sun, 02 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Alavés x Espanyol - 02/11 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Espanyol - 02/11 15:15 - DAZN 2",
@@ -306,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 03/11 20:30 - Canal11",
       "pubDate": "Mon, 03 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Santa Clara - 03/11 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Santa Clara - 03/11 20:45 - SportTV 1",
+      "pubDate": "Mon, 03 Nov 2025 20:45:00",
       "guid": ""
     }
   ]

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Lille x Angers - 02/11 16:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Angers - 02/11 16:15 - SportTV 5",
-      "pubDate": "Sun, 02 Nov 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Bournemouth - 02/11 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Bournemouth - 02/11 16:30 - DAZN 1",
-      "pubDate": "Sun, 02 Nov 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolfsburg x TSG Hoffenheim - 02/11 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x TSG Hoffenheim - 02/11 16:30 - DAZN 3",
-      "pubDate": "Sun, 02 Nov 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Bologna - 02/11 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Bologna - 02/11 17:00 - SportTV 3",
-      "pubDate": "Sun, 02 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Fenerbahçe - 02/11 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Fenerbahçe - 02/11 17:00 - SportTV 6",
-      "pubDate": "Sun, 02 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona x Elche - 02/11 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x Elche - 02/11 17:30 - DAZN 2",
@@ -236,6 +201,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x FC Felgueiras - 04/11 16:00 - SportTV +",
       "pubDate": "Tue, 04 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x Lusitânia de Lourosa - 04/11 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x Lusitânia de Lourosa - 04/11 18:00 - SportTV 1",
+      "pubDate": "Tue, 04 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "KK Buducnost (Basket) x Besiktas (Basket) - 04/11 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "KK Buducnost (Basket) x Besiktas (Basket) - 04/11 18:00 - SportTV 2",
+      "pubDate": "Tue, 04 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Sporting - 04/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Sporting - 04/11 20:00 - SportTV 5",
+      "pubDate": "Tue, 04 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x Sheffield United - 04/11 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x Sheffield United - 04/11 20:00 - SportTV 2",
+      "pubDate": "Tue, 04 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlanta Hawks (Basket) x Orlando Magic (Basket) - 05/11 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlanta Hawks (Basket) x Orlando Magic (Basket) - 05/11 01:00 - SportTV 1",
+      "pubDate": "Wed, 05 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Stars (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 05/11 01:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Stars (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 05/11 01:00 - SportTV 3",
+      "pubDate": "Wed, 05 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 05/11 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 05/11 16:00 - Canal11",
+      "pubDate": "Wed, 05 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x Le Mans Basket (Basket) - 05/11 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x Le Mans Basket (Basket) - 05/11 17:30 - SportTV 1",
+      "pubDate": "Wed, 05 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Bayer Leverkusen - 05/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Bayer Leverkusen - 05/11 20:00 - SportTV 5",
+      "pubDate": "Wed, 05 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

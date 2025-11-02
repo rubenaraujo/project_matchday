@@ -1,30 +1,9 @@
 {
   "items": [
     {
-      "title": "Fiorentina x Lecce - 02/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Lecce - 02/11 14:00 - SportTV 2",
-      "pubDate": "Sun, 02 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x Strasbourg - 02/11 14:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Strasbourg - 02/11 14:00 - SportTV 7",
-      "pubDate": "Sun, 02 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Celtic x Rangers - 02/11 14:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celtic x Rangers - 02/11 14:00 - SportTV 3",
-      "pubDate": "Sun, 02 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Newcastle - 02/11 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Newcastle - 02/11 14:00 - DAZN 1",
       "pubDate": "Sun, 02 Nov 2025 14:00:00",
       "guid": ""
     },
@@ -320,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Osasuna - 03/11 20:00 - DAZN 2",
       "pubDate": "Mon, 03 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 03/11 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 03/11 20:30 - Canal11",
+      "pubDate": "Mon, 03 Nov 2025 20:30:00",
       "guid": ""
     }
   ]

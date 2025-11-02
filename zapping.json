@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Voleibol) x Sporting (Voleibol) - 02/11 19:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol) x Sporting (Voleibol) - 02/11 19:00 - BTv",
-      "pubDate": "Sun, 02 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Milan x Roma - 02/11 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Roma - 02/11 19:45 - SportTV 3",
@@ -278,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
       "pubDate": "Thu, 06 Nov 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Utrecht x FC Porto - 06/11 17:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Utrecht x FC Porto - 06/11 17:45 - SportTV 5",
+      "pubDate": "Thu, 06 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Nashville Predators (Hóquei no Gelo  Seniores) x Philadelphia Flyers (Hóquei no Gelo  Seniores) - 07/11 01:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nashville Predators (Hóquei no Gelo  Seniores) x Philadelphia Flyers (Hóquei no Gelo  Seniores) - 07/11 01:00 - SportTV 3",
+      "pubDate": "Fri, 07 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Broncos (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 07/11 01:15 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Broncos (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 07/11 01:15 - DAZN 3",
+      "pubDate": "Fri, 07 Nov 2025 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Phoenix Suns (Basket) x LA Clippers (Basket) - 07/11 02:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Phoenix Suns (Basket) x LA Clippers (Basket) - 07/11 02:00 - SportTV 1",
+      "pubDate": "Fri, 07 Nov 2025 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x Farense - 07/11 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x Farense - 07/11 18:00 - SportTV +",
+      "pubDate": "Fri, 07 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Basket) x Real Madrid (Basket) - 07/11 19:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Basket) x Real Madrid (Basket) - 07/11 19:30 - SportTV 4",
+      "pubDate": "Fri, 07 Nov 2025 19:30:00",
       "guid": ""
     }
   ]

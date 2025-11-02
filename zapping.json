@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x SC Braga - 02/11 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x SC Braga - 02/11 20:30 - SportTV 1",
-      "pubDate": "Sun, 02 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Oklahoma City Thunder (Basket) x New Orleans Pelicans (Basket) - 02/11 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x New Orleans Pelicans (Basket) - 02/11 20:30 - SportTV 2",
-      "pubDate": "Sun, 02 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Buffalo Bills (Fut. Americano) x Kansas City Chiefs (Fut. Americano) - 02/11 21:25 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Buffalo Bills (Fut. Americano) x Kansas City Chiefs (Fut. Americano) - 02/11 21:25 - DAZN 2",
@@ -260,6 +246,13 @@
       "guid": ""
     },
     {
+      "title": "Al-Najma x Al-Hilal - 07/11 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Najma x Al-Hilal - 07/11 17:30 - SportTV 1",
+      "pubDate": "Fri, 07 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
       "title": "Feirense x Farense - 07/11 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x Farense - 07/11 18:00 - SportTV +",
@@ -274,6 +267,20 @@
       "guid": ""
     },
     {
+      "title": "Paris FC x Rennes - 07/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Rennes - 07/11 19:45 - SportTV 3",
+      "pubDate": "Fri, 07 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Cremonese - 07/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Cremonese - 07/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 07 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Estoril Praia x FC Arouca - 07/11 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia x FC Arouca - 07/11 20:15 - SportTV 1",
@@ -285,13 +292,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Futsal) x Ferreira do Zêzere (Futsal) - 07/11 20:30 - Canal11",
       "pubDate": "Fri, 07 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Benfica (Feminino) - 08/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Benfica (Feminino) - 08/11 11:00 - Canal11",
-      "pubDate": "Sat, 08 Nov 2025 11:00:00",
       "guid": ""
     }
   ]

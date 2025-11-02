@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Levante x Celta de Vigo - 02/11 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Celta de Vigo - 02/11 13:00 - DAZN 2",
-      "pubDate": "Sun, 02 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fiorentina x Lecce - 02/11 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Lecce - 02/11 14:00 - SportTV 2",
@@ -312,6 +305,20 @@
       "title": "UD Leiria x GD Chaves - 03/11 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x GD Chaves - 03/11 20:00 - SportTV 2",
+      "pubDate": "Mon, 03 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Everton - 03/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Everton - 03/11 20:00 - DAZN 1",
+      "pubDate": "Mon, 03 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Oviedo x Osasuna - 03/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Oviedo x Osasuna - 03/11 20:00 - DAZN 2",
       "pubDate": "Mon, 03 Nov 2025 20:00:00",
       "guid": ""
     }

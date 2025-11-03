@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Buffalo Bills (Fut. Americano) x Kansas City Chiefs (Fut. Americano) - 02/11 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Buffalo Bills (Fut. Americano) x Kansas City Chiefs (Fut. Americano) - 02/11 21:25 - DAZN 2",
-      "pubDate": "Sun, 02 Nov 2025 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Gimnasia - 02/11 23:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Gimnasia - 02/11 23:30 - SportTV 2",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Cagliari - 08/11 14:00 - SportTV 1",
       "pubDate": "Sat, 08 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Sporting (Feminino) - 08/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Sporting (Feminino) - 08/11 15:00 - Canal11",
+      "pubDate": "Sat, 08 Nov 2025 15:00:00",
       "guid": ""
     }
   ]

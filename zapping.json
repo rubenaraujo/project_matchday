@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Washington Commanders (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 03/11 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Commanders (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 03/11 01:20 - DAZN 1",
-      "pubDate": "Mon, 03 Nov 2025 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Nova Caledónia (S17) x Portugal (S17) - 03/11 15:15 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nova Caledónia (S17) x Portugal (S17) - 03/11 15:15 - Canal11",
@@ -333,6 +326,13 @@
       "title": "Amora FC x Atlético CP - 08/11 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Amora FC x Atlético CP - 08/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 08 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stoke City x Coventry City - 08/11 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stoke City x Coventry City - 08/11 15:00 - SportTV 5",
       "pubDate": "Sat, 08 Nov 2025 15:00:00",
       "guid": ""
     }

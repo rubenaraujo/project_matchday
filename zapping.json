@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Knicks (Basket) x Chicago Bulls (Basket) - 03/11 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Knicks (Basket) x Chicago Bulls (Basket) - 03/11 00:00 - SportTV 1",
-      "pubDate": "Mon, 03 Nov 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Washington Commanders (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 03/11 01:20 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Commanders (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 03/11 01:20 - DAZN 1",
@@ -326,6 +319,13 @@
       "title": "SC Braga (Feminino) x Sporting (Feminino) - 08/11 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Feminino) x Sporting (Feminino) - 08/11 15:00 - Canal11",
+      "pubDate": "Sat, 08 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x S. João Ver - 08/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x S. João Ver - 08/11 15:00 - C11 Stream",
       "pubDate": "Sat, 08 Nov 2025 15:00:00",
       "guid": ""
     }

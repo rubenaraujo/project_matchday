@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal  S23) x França (Futsal  S23) - 04/11 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal  S23) x França (Futsal  S23) - 04/11 17:30 - Canal11",
-      "pubDate": "Tue, 04 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Slavia Praha x Arsenal - 04/11 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Slavia Praha x Arsenal - 04/11 17:45 - DAZN 1",
-      "pubDate": "Tue, 04 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Eintracht Frankfurt - 04/11 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Eintracht Frankfurt - 04/11 17:45 - DAZN 2",
-      "pubDate": "Tue, 04 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico x Lusitânia de Lourosa - 04/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico x Lusitânia de Lourosa - 04/11 18:00 - SportTV 1",
-      "pubDate": "Tue, 04 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "KK Buducnost (Basket) x Besiktas (Basket) - 04/11 18:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "KK Buducnost (Basket) x Besiktas (Basket) - 04/11 18:00 - SportTV 2",
@@ -334,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x New Orleans Pelicans (Basket) - 06/11 01:30 - AmzPrime",
       "pubDate": "Thu, 06 Nov 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Miami Heat (Basket) - 06/11 02:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Miami Heat (Basket) - 06/11 02:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 02:00:00",
       "guid": ""
     }
   ]

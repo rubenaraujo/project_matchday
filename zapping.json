@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Juventus x Sporting - 04/11 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Sporting - 04/11 20:00 - SportTV 5",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Coventry City x Sheffield United - 04/11 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coventry City x Sheffield United - 04/11 20:00 - SportTV 2",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Real Madrid - 04/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Real Madrid - 04/11 20:00 - DAZN 1",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Bayern München - 04/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Bayern München - 04/11 20:00 - DAZN 2",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Union St. Gilloise - 04/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Union St. Gilloise - 04/11 20:00 - DAZN 3",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x FC Kobenhavn - 04/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x FC Kobenhavn - 04/11 20:00 - DAZN 4",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bodo/Glimt x Monaco - 04/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bodo/Glimt x Monaco - 04/11 20:00 - DAZN",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos x PSV - 04/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos x PSV - 04/11 20:00 - DAZN",
-      "pubDate": "Tue, 04 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Toronto Raptors (Basket) x Milwaukee Bucks (Basket) - 05/11 00:30 - AmzPrime",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toronto Raptors (Basket) x Milwaukee Bucks (Basket) - 05/11 00:30 - AmzPrime",
@@ -306,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Denver Nuggets (Basket) x Miami Heat (Basket) - 06/11 02:00 - AmzPrime",
       "pubDate": "Thu, 06 Nov 2025 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
+      "pubDate": "Thu, 06 Nov 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portland Trail Blazers (Basket) x Oklahoma City Thunder (Basket) - 06/11 03:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portland Trail Blazers (Basket) x Oklahoma City Thunder (Basket) - 06/11 03:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sacramento Kings (Basket) x Golden State Warriors (Basket) - 06/11 03:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sacramento Kings (Basket) x Golden State Warriors (Basket) - 06/11 03:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
+      "pubDate": "Thu, 06 Nov 2025 12:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S16) x Inglaterra (S16) - 04/11 09:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S16) x Inglaterra (S16) - 04/11 09:00 - SportTV 1",
-      "pubDate": "Tue, 04 Nov 2025 09:00:00",
-      "guid": ""
-    },
-    {
       "title": "Turquia (S16) x País de Gales (S16) - 04/11 13:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Turquia (S16) x País de Gales (S16) - 04/11 13:00 - SportTV 1",
@@ -316,6 +309,13 @@
       "guid": ""
     },
     {
+      "title": "Independiente Rivadavia x Argentinos Juniors - 06/11 00:10 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente Rivadavia x Argentinos Juniors - 06/11 00:10 - SportTV 2",
+      "pubDate": "Thu, 06 Nov 2025 00:10:00",
+      "guid": ""
+    },
+    {
       "title": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
@@ -334,13 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Memphis Grizzlies (Basket) x Houston Rockets (Basket) - 06/11 01:00 - AmzPrime",
       "pubDate": "Thu, 06 Nov 2025 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dallas Mavericks (Basket) x New Orleans Pelicans (Basket) - 06/11 01:30 - AmzPrime",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Mavericks (Basket) x New Orleans Pelicans (Basket) - 06/11 01:30 - AmzPrime",
-      "pubDate": "Thu, 06 Nov 2025 01:30:00",
       "guid": ""
     }
   ]

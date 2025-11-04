@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Utah Jazz (Basket) - 04/11 00:30 - AmzPrime",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Utah Jazz (Basket) - 04/11 00:30 - AmzPrime",
-      "pubDate": "Tue, 04 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 04/11 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 04/11 01:00 - SportTV 1",
-      "pubDate": "Tue, 04 Nov 2025 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Memphis Grizzlies (Basket) x Detroit Pistons (Basket) - 04/11 01:00 - AmzPrime",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Memphis Grizzlies (Basket) x Detroit Pistons (Basket) - 04/11 01:00 - AmzPrime",
-      "pubDate": "Tue, 04 Nov 2025 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Denver Nuggets (Basket) x Sacramento Kings (Basket) - 04/11 02:00 - AmzPrime",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Denver Nuggets (Basket) x Sacramento Kings (Basket) - 04/11 02:00 - AmzPrime",
@@ -327,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Galatasaray - 05/11 20:00 - DAZN 4",
       "pubDate": "Wed, 05 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
+      "pubDate": "Wed, 05 Nov 2025 20:15:00",
       "guid": ""
     }
   ]

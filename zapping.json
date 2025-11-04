@@ -1,10 +1,66 @@
 {
   "items": [
     {
+      "title": "Brooklyn Nets (Basket) x Minnesota Timberwolves (Basket) - 04/11 00:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brooklyn Nets (Basket) x Minnesota Timberwolves (Basket) - 04/11 00:00 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Indiana Pacers (Basket) x Milwaukee Bucks (Basket) - 04/11 00:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Indiana Pacers (Basket) x Milwaukee Bucks (Basket) - 04/11 00:00 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Utah Jazz (Basket) - 04/11 00:30 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Utah Jazz (Basket) - 04/11 00:30 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Knicks (Basket) x Washington Wizards (Basket) - 04/11 00:30 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Knicks (Basket) x Washington Wizards (Basket) - 04/11 00:30 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
       "title": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 04/11 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 04/11 01:00 - SportTV 1",
       "pubDate": "Tue, 04 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Memphis Grizzlies (Basket) x Detroit Pistons (Basket) - 04/11 01:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Memphis Grizzlies (Basket) x Detroit Pistons (Basket) - 04/11 01:00 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Sacramento Kings (Basket) - 04/11 02:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Sacramento Kings (Basket) - 04/11 02:00 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portland Trail Blazers (Basket) x LA Lakers (Basket) - 04/11 03:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portland Trail Blazers (Basket) x LA Lakers (Basket) - 04/11 03:00 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Clippers (Basket) x Miami Heat (Basket) - 04/11 03:30 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Clippers (Basket) x Miami Heat (Basket) - 04/11 03:30 - AmzPrime",
+      "pubDate": "Tue, 04 Nov 2025 03:30:00",
       "guid": ""
     },
     {
@@ -127,6 +183,13 @@
       "guid": ""
     },
     {
+      "title": "Toronto Raptors (Basket) x Milwaukee Bucks (Basket) - 05/11 00:30 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toronto Raptors (Basket) x Milwaukee Bucks (Basket) - 05/11 00:30 - AmzPrime",
+      "pubDate": "Wed, 05 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
       "title": "Atlanta Hawks (Basket) x Orlando Magic (Basket) - 05/11 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x Orlando Magic (Basket) - 05/11 01:00 - SportTV 1",
@@ -138,6 +201,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Stars (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 05/11 01:00 - SportTV 3",
       "pubDate": "Wed, 05 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chicago Bulls (Basket) x Philadelphia 76ers (Basket) - 05/11 01:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chicago Bulls (Basket) x Philadelphia 76ers (Basket) - 05/11 01:00 - AmzPrime",
+      "pubDate": "Wed, 05 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New Orleans Pelicans (Basket) x Charlotte Hornets (Basket) - 05/11 01:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New Orleans Pelicans (Basket) x Charlotte Hornets (Basket) - 05/11 01:00 - AmzPrime",
+      "pubDate": "Wed, 05 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x Phoenix Suns (Basket) - 05/11 03:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x Phoenix Suns (Basket) - 05/11 03:00 - AmzPrime",
+      "pubDate": "Wed, 05 Nov 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Clippers (Basket) x Oklahoma City Thunder (Basket) - 05/11 04:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Clippers (Basket) x Oklahoma City Thunder (Basket) - 05/11 04:00 - AmzPrime",
+      "pubDate": "Wed, 05 Nov 2025 04:00:00",
       "guid": ""
     },
     {
@@ -257,69 +348,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Galatasaray - 05/11 20:00 - DAZN 4",
       "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
-      "pubDate": "Wed, 05 Nov 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
-      "pubDate": "Thu, 06 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
-      "pubDate": "Thu, 06 Nov 2025 03:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
-      "pubDate": "Thu, 06 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vizela (S23) x Rio Ave (S23) - 06/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela (S23) x Rio Ave (S23) - 06/11 15:00 - Canal11",
-      "pubDate": "Thu, 06 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Utrecht x FC Porto - 06/11 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Utrecht x FC Porto - 06/11 17:45 - SportTV 5",
-      "pubDate": "Thu, 06 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x SC Freiburg - 06/11 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x SC Freiburg - 06/11 17:45 - DAZN 2",
-      "pubDate": "Thu, 06 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Crvena Zvezda x Lille - 06/11 17:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crvena Zvezda x Lille - 06/11 17:45 - DAZN 3",
-      "pubDate": "Thu, 06 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Mainz x Fiorentina - 06/11 17:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x Fiorentina - 06/11 17:45 - DAZN 4",
-      "pubDate": "Thu, 06 Nov 2025 17:45:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x FC Felgueiras - 04/11 16:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x FC Felgueiras - 04/11 16:00 - SportTV +",
-      "pubDate": "Tue, 04 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Futsal  S23) x França (Futsal  S23) - 04/11 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal  S23) x França (Futsal  S23) - 04/11 17:30 - Canal11",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Minnesota Timberwolves (Basket) - 06/11 00:30 - AmzPrime",
       "pubDate": "Thu, 06 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Memphis Grizzlies (Basket) x Houston Rockets (Basket) - 06/11 01:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Memphis Grizzlies (Basket) x Houston Rockets (Basket) - 06/11 01:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 01:00:00",
       "guid": ""
     }
   ]

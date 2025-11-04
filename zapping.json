@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Denver Nuggets (Basket) x Sacramento Kings (Basket) - 04/11 02:00 - AmzPrime",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Nuggets (Basket) x Sacramento Kings (Basket) - 04/11 02:00 - AmzPrime",
-      "pubDate": "Tue, 04 Nov 2025 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portland Trail Blazers (Basket) x LA Lakers (Basket) - 04/11 03:00 - AmzPrime",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portland Trail Blazers (Basket) x LA Lakers (Basket) - 04/11 03:00 - AmzPrime",
@@ -313,6 +306,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
       "pubDate": "Wed, 05 Nov 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Philadelphia 76ers (Basket) - 06/11 00:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Philadelphia 76ers (Basket) - 06/11 00:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Detroit Pistons (Basket) x Utah Jazz (Basket) - 06/11 00:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Detroit Pistons (Basket) x Utah Jazz (Basket) - 06/11 00:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Indiana Pacers (Basket) x Brooklyn Nets (Basket) - 06/11 00:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Indiana Pacers (Basket) x Brooklyn Nets (Basket) - 06/11 00:00 - AmzPrime",
+      "pubDate": "Thu, 06 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Washington Wizards (Basket) - 06/11 00:30 - SportTV 1",
+      "pubDate": "Thu, 06 Nov 2025 00:30:00",
       "guid": ""
     }
   ]

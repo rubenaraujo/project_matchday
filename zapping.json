@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 05/11 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 05/11 16:00 - Canal11",
-      "pubDate": "Wed, 05 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Basket) x Le Mans Basket (Basket) - 05/11 17:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x Le Mans Basket (Basket) - 05/11 17:30 - SportTV 1",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Futsal) x Ferreira do Zêzere (Futsal) - 07/11 20:30 - Canal11",
       "pubDate": "Fri, 07 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x San Lorenzo - 08/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x San Lorenzo - 08/11 00:00 - SportTV 1",
+      "pubDate": "Sat, 08 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "San Antonio Spurs (Basket) x Houston Rockets (Basket) - 08/11 00:30 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Antonio Spurs (Basket) x Houston Rockets (Basket) - 08/11 00:30 - AmzPrime",
+      "pubDate": "Sat, 08 Nov 2025 00:30:00",
       "guid": ""
     }
   ]

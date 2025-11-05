@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Al Wasl x Al-Muharraq - 05/11 13:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al Wasl x Al-Muharraq - 05/11 13:45 - Canal11",
-      "pubDate": "Wed, 05 Nov 2025 13:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket Feminino) x Zaglebie Sosnowiec (Basket Feminino) - 05/11 14:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket Feminino) x Zaglebie Sosnowiec (Basket Feminino) - 05/11 14:00 - BTv",
-      "pubDate": "Wed, 05 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Jun.A S19) x NK Bravo (Jun.A S19) - 05/11 15:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x NK Bravo (Jun.A S19) - 05/11 15:00 - PortoCanal",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia x FC Arouca - 07/11 20:15 - SportTV 1",
       "pubDate": "Fri, 07 Nov 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (Futsal) x Ferreira do Zêzere (Futsal) - 07/11 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (Futsal) x Ferreira do Zêzere (Futsal) - 07/11 20:30 - Canal11",
+      "pubDate": "Fri, 07 Nov 2025 20:30:00",
       "guid": ""
     }
   ]

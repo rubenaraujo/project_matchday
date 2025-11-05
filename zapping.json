@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Bayer Leverkusen - 05/11 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Bayer Leverkusen - 05/11 20:00 - SportTV 5",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portsmouth x Wrexham - 05/11 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portsmouth x Wrexham - 05/11 20:00 - SportTV 1",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Borussia Dortmund - 05/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Borussia Dortmund - 05/11 20:00 - DAZN 1",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Club Brugge x Barcelona - 05/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Club Brugge x Barcelona - 05/11 20:00 - DAZN 2",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Kairat - 05/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Kairat - 05/11 20:00 - DAZN 3",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x Galatasaray - 05/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Galatasaray - 05/11 20:00 - DAZN 4",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Atalanta - 05/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Atalanta - 05/11 20:00 - DAZN",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Athletic Bilbao - 05/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Athletic Bilbao - 05/11 20:00 - DAZN",
-      "pubDate": "Wed, 05 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x AD Fundão (Futsal) - 05/11 20:15 - Canal11",
-      "pubDate": "Wed, 05 Nov 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente Rivadavia x Argentinos Juniors - 06/11 00:10 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Rivadavia x Argentinos Juniors - 06/11 00:10 - SportTV 2",
@@ -285,6 +222,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Feminino) x Benfica (Feminino) - 08/11 11:00 - Canal11",
       "pubDate": "Sat, 08 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x Sporting - 08/11 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x Sporting - 08/11 11:00 - SportTV 1",
+      "pubDate": "Sat, 08 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x SV 07 Elversberg - 08/11 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x SV 07 Elversberg - 08/11 12:00 - DAZN 3",
+      "pubDate": "Sat, 08 Nov 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Manchester United - 08/11 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Manchester United - 08/11 12:30 - DAZN 1",
+      "pubDate": "Sat, 08 Nov 2025 12:30:00",
       "guid": ""
     }
   ]

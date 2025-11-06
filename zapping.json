@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Independiente Rivadavia x Argentinos Juniors - 06/11 00:10 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente Rivadavia x Argentinos Juniors - 06/11 00:10 - SportTV 2",
-      "pubDate": "Thu, 06 Nov 2025 00:10:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
@@ -312,6 +305,13 @@
       "title": "Everton x Fulham - 08/11 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Everton x Fulham - 08/11 15:00 - DAZN 1",
+      "pubDate": "Sat, 08 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Burnley - 08/11 15:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Burnley - 08/11 15:00 - DAZN 3",
       "pubDate": "Sat, 08 Nov 2025 15:00:00",
       "guid": ""
     }

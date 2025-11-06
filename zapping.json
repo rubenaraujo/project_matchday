@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Vizela (S23) x Rio Ave (S23) - 06/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela (S23) x Rio Ave (S23) - 06/11 15:00 - Canal11",
-      "pubDate": "Thu, 06 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Utrecht x FC Porto - 06/11 17:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Utrecht x FC Porto - 06/11 17:45 - SportTV 5",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
       "pubDate": "Sat, 08 Nov 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Rio Ave - 08/11 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Rio Ave - 08/11 15:30 - SportTV 2",
+      "pubDate": "Sat, 08 Nov 2025 15:30:00",
       "guid": ""
     }
   ]

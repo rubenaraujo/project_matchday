@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x San Antonio Spurs (Basket) - 06/11 03:00 - SportTV 2",
-      "pubDate": "Thu, 06 Nov 2025 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x Marrocos (S17) - 06/11 12:30 - Canal11",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol) x GC Santo Tirso (Voleibol) - 08/11 15:00 - SportingTv",
       "pubDate": "Sat, 08 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
+      "pubDate": "Sat, 08 Nov 2025 15:15:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Denver Broncos (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 07/11 01:15 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Broncos (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 07/11 01:15 - DAZN 3",
-      "pubDate": "Fri, 07 Nov 2025 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Najma x Al-Hilal - 07/11 17:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Najma x Al-Hilal - 07/11 17:30 - SportTV 1",
@@ -319,6 +312,20 @@
       "title": "GD Chaves x FC Porto - 08/11 18:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x FC Porto - 08/11 18:00 - SportTV 7",
+      "pubDate": "Sat, 08 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x FC Vizela - 08/11 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x FC Vizela - 08/11 18:00 - BTv",
+      "pubDate": "Sat, 08 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Havre x Nantes - 08/11 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Havre x Nantes - 08/11 18:00 - SportTV 3",
       "pubDate": "Sat, 08 Nov 2025 18:00:00",
       "guid": ""
     }

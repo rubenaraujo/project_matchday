@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "FC Barcelona (Basket) x Real Madrid (Basket) - 07/11 19:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Basket) x Real Madrid (Basket) - 07/11 19:30 - SportTV 4",
-      "pubDate": "Fri, 07 Nov 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Werder Bremen x Wolfsburg - 07/11 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Werder Bremen x Wolfsburg - 07/11 19:30 - DAZN 2",
-      "pubDate": "Fri, 07 Nov 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Rennes - 07/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Rennes - 07/11 19:45 - SportTV 3",
-      "pubDate": "Fri, 07 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Cremonese - 07/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Cremonese - 07/11 19:45 - SportTV 2",
-      "pubDate": "Fri, 07 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Real Sociedad - 07/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Real Sociedad - 07/11 20:00 - DAZN 1",
-      "pubDate": "Fri, 07 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Estoril Praia x FC Arouca - 07/11 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia x FC Arouca - 07/11 20:15 - SportTV 1",
       "pubDate": "Fri, 07 Nov 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão (Futsal) x Ferreira do Zêzere (Futsal) - 07/11 20:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (Futsal) x Ferreira do Zêzere (Futsal) - 07/11 20:30 - C11 Stream",
-      "pubDate": "Fri, 07 Nov 2025 20:30:00",
       "guid": ""
     },
     {
@@ -305,6 +263,27 @@
       "title": "FC Porto (Basket) x Vitória SC (Basket) - 08/11 18:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Basket) x Vitória SC (Basket) - 08/11 18:00 - PortoCanal",
+      "pubDate": "Sat, 08 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal da Devesa (Andebol) x Póvoa AC (Andebol) - 08/11 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x Póvoa AC (Andebol) - 08/11 18:00 - AndebolTV",
+      "pubDate": "Sat, 08 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x FC Gaia (Andebol) - 08/11 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x FC Gaia (Andebol) - 08/11 18:00 - AndebolTV",
+      "pubDate": "Sat, 08 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Horta (Andebol) x AD Sanjoanense (Andebol) - 08/11 18:00 - Facebook",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Horta (Andebol) x AD Sanjoanense (Andebol) - 08/11 18:00 - Facebook",
       "pubDate": "Sat, 08 Nov 2025 18:00:00",
       "guid": ""
     }

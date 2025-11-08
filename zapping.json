@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
-      "pubDate": "Sat, 08 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x Rio Ave - 08/11 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Rio Ave - 08/11 15:30 - SportTV 2",
-      "pubDate": "Sat, 08 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x SC Braga (Futsal) - 08/11 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x SC Braga (Futsal) - 08/11 16:00 - C11 Stream",
-      "pubDate": "Sat, 08 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Brest - 08/11 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Brest - 08/11 16:00 - SportTV 3",
-      "pubDate": "Sat, 08 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Sporting (Andebol) - 08/11 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Sporting (Andebol) - 08/11 16:00 - AndebolTV",
-      "pubDate": "Sat, 08 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académica OAF x 1º Dezembro - 08/11 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x 1º Dezembro - 08/11 17:00 - Canal11",
@@ -243,6 +208,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Athletic Bilbao x Real Oviedo - 09/11 13:00 - DAZN 2",
       "pubDate": "Sun, 09 Nov 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Japão (S17) - 09/11 13:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Japão (S17) - 09/11 13:30 - Canal11",
+      "pubDate": "Sun, 09 Nov 2025 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras x Académico - 09/11 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras x Académico - 09/11 14:00 - SportTV +",
+      "pubDate": "Sun, 09 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Napoli - 09/11 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Napoli - 09/11 14:00 - SportTV 6",
+      "pubDate": "Sun, 09 Nov 2025 14:00:00",
       "guid": ""
     }
   ]

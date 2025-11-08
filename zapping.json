@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Arsenal da Devesa (Andebol) x Póvoa AC (Andebol) - 08/11 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal da Devesa (Andebol) x Póvoa AC (Andebol) - 08/11 18:00 - AndebolTV",
-      "pubDate": "Sat, 08 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Horta (Andebol) x AD Sanjoanense (Andebol) - 08/11 18:00 - Facebook",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Horta (Andebol) x AD Sanjoanense (Andebol) - 08/11 18:00 - Facebook",
-      "pubDate": "Sat, 08 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x SC Braga - 08/11 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x SC Braga - 08/11 19:00 - Canal11",
-      "pubDate": "Sat, 08 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eléctrico (Futsal) x Benfica (Futsal) - 08/11 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x Benfica (Futsal) - 08/11 19:00 - C11 Stream",
-      "pubDate": "Sat, 08 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x Rio Ave (Futsal) - 08/11 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x Rio Ave (Futsal) - 08/11 19:00 - C11 Stream",
-      "pubDate": "Sat, 08 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Parma x Milan - 08/11 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Milan - 08/11 19:45 - SportTV 4",
@@ -236,6 +201,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valadares Gaia (Feminino) x Vitória SC (Feminino) - 09/11 15:30 - Canal11",
       "pubDate": "Sun, 09 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x Paços de Ferreira - 09/11 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x Paços de Ferreira - 09/11 15:30 - SportTV 3",
+      "pubDate": "Sun, 09 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Fundão (Futsal) x Quinta dos Lombos (Futsal) - 09/11 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Fundão (Futsal) x Quinta dos Lombos (Futsal) - 09/11 16:00 - C11 Stream",
+      "pubDate": "Sun, 09 Nov 2025 16:00:00",
       "guid": ""
     }
   ]

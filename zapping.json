@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "1. FC Union Berlin x Bayern München - 08/11 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x Bayern München - 08/11 14:30 - DAZN 4",
-      "pubDate": "Sat, 08 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Feminino) x Sporting (Feminino) - 08/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Feminino) x Sporting (Feminino) - 08/11 15:00 - Canal11",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x S. João Ver - 08/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x S. João Ver - 08/11 15:00 - C11 Stream",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x Atlético CP - 08/11 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x Atlético CP - 08/11 15:00 - C11 Stream",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stoke City x Coventry City - 08/11 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Coventry City - 08/11 15:00 - SportTV 5",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Fulham - 08/11 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Fulham - 08/11 15:00 - DAZN 1",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Burnley - 08/11 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Burnley - 08/11 15:00 - DAZN 3",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x GC Santo Tirso (Voleibol) - 08/11 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x GC Santo Tirso (Voleibol) - 08/11 15:00 - SportingTv",
-      "pubDate": "Sat, 08 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Osasuna - 08/11 15:15 - DAZN 2",
@@ -285,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x Torreense - 09/11 11:00 - SportTV 1",
       "pubDate": "Sun, 09 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Sassuolo - 09/11 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Sassuolo - 09/11 11:30 - SportTV 2",
+      "pubDate": "Sun, 09 Nov 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Real Oviedo - 09/11 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Real Oviedo - 09/11 13:00 - DAZN 2",
+      "pubDate": "Sun, 09 Nov 2025 13:00:00",
       "guid": ""
     }
   ]

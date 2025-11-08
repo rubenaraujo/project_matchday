@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Clara x Sporting - 08/11 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Sporting - 08/11 20:30 - SportTV 1",
-      "pubDate": "Sat, 08 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Atlanta Hawks (Basket) x LA Lakers (Basket) - 09/11 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x LA Lakers (Basket) - 09/11 01:00 - SportTV 2",
@@ -264,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x River Plate - 09/11 19:30 - SportTV 6",
       "pubDate": "Sun, 09 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Lazio - 09/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Lazio - 09/11 19:45 - SportTV 4",
+      "pubDate": "Sun, 09 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x PSG - 09/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x PSG - 09/11 19:45 - SportTV 3",
+      "pubDate": "Sun, 09 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x Amarante FC - 09/11 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x Amarante FC - 09/11 20:00 - Canal11",
+      "pubDate": "Sun, 09 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Barcelona - 09/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Barcelona - 09/11 20:00 - DAZN 2",
+      "pubDate": "Sun, 09 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

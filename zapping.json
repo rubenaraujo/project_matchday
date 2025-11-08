@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Neom SC x Al-Nassr - 08/11 13:50 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Neom SC x Al-Nassr - 08/11 13:50 - SportTV 3",
-      "pubDate": "Sat, 08 Nov 2025 13:50:00",
-      "guid": ""
-    },
-    {
-      "title": "Portimonense x UD Oliveirense - 08/11 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense x UD Oliveirense - 08/11 14:00 - SportTV +",
-      "pubDate": "Sat, 08 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Cagliari - 08/11 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Cagliari - 08/11 14:00 - SportTV 1",
-      "pubDate": "Sat, 08 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "1. FC Union Berlin x Bayern München - 08/11 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "1. FC Union Berlin x Bayern München - 08/11 14:30 - DAZN 4",
@@ -298,6 +277,13 @@
       "title": "Vitória SC (B) x AD Marco 09 - 09/11 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (B) x AD Marco 09 - 09/11 11:00 - Canal11",
+      "pubDate": "Sun, 09 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Torreense - 09/11 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Torreense - 09/11 11:00 - SportTV 1",
       "pubDate": "Sun, 09 Nov 2025 11:00:00",
       "guid": ""
     }

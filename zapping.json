@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Tottenham x Manchester United - 08/11 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Manchester United - 08/11 12:30 - DAZN 1",
-      "pubDate": "Sat, 08 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Alavés - 08/11 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Alavés - 08/11 13:00 - DAZN 2",
-      "pubDate": "Sat, 08 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Neom SC x Al-Nassr - 08/11 13:50 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Neom SC x Al-Nassr - 08/11 13:50 - SportTV 3",
@@ -299,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Sporting - 08/11 20:30 - SportTV 1",
       "pubDate": "Sat, 08 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlanta Hawks (Basket) x LA Lakers (Basket) - 09/11 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlanta Hawks (Basket) x LA Lakers (Basket) - 09/11 01:00 - SportTV 2",
+      "pubDate": "Sun, 09 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (B) x AD Marco 09 - 09/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (B) x AD Marco 09 - 09/11 11:00 - Canal11",
+      "pubDate": "Sun, 09 Nov 2025 11:00:00",
       "guid": ""
     }
   ]

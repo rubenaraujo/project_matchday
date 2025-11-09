@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Eintracht Frankfurt x Mainz - 09/11 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Mainz - 09/11 18:30 - DAZN 4",
-      "pubDate": "Sun, 09 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x OC Barcelos (Hóquei) - 09/11 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x OC Barcelos (Hóquei) - 09/11 19:00 - DAZN 4",
-      "pubDate": "Sun, 09 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x River Plate - 09/11 19:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x River Plate - 09/11 19:30 - SportTV 6",
@@ -271,6 +257,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Finlândia x Malta - 14/11 17:00 - SportTV 1",
       "pubDate": "Fri, 14 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x FC Famalicão (Futsal) - 14/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x FC Famalicão (Futsal) - 14/11 19:30 - Canal11",
+      "pubDate": "Fri, 14 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Basket) x Virtus Bologna (Basket) - 14/11 19:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Basket) x Virtus Bologna (Basket) - 14/11 19:30 - SportTV 5",
+      "pubDate": "Fri, 14 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Croácia x Ilhas Faroé - 14/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Croácia x Ilhas Faroé - 14/11 19:45 - SportTV 3",
+      "pubDate": "Fri, 14 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslováquia x Irl. Norte - 14/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslováquia x Irl. Norte - 14/11 19:45 - SportTV 4",
+      "pubDate": "Fri, 14 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Polónia x Países Baixos - 14/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Polónia x Países Baixos - 14/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 14 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

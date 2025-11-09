@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses x CD Mafra - 09/11 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x CD Mafra - 09/11 17:30 - Canal11",
-      "pubDate": "Sun, 09 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia x Real Betis - 09/11 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Real Betis - 09/11 17:30 - DAZN 2",
-      "pubDate": "Sun, 09 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x FC Porto - 09/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x FC Porto - 09/11 18:00 - SportTV 1",
-      "pubDate": "Sun, 09 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x CH Carvalhos (Hóquei) - 09/11 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x CH Carvalhos (Hóquei) - 09/11 18:00 - FPP TV",
-      "pubDate": "Sun, 09 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Eintracht Frankfurt x Mainz - 09/11 18:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eintracht Frankfurt x Mainz - 09/11 18:30 - DAZN 4",
@@ -257,6 +229,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Inglaterra x Sérvia - 13/11 19:45 - SportTV 3",
       "pubDate": "Thu, 13 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Moldávia x Itália - 13/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moldávia x Itália - 13/11 19:45 - SportTV 4",
+      "pubDate": "Thu, 13 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "França x Ucrânia - 13/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França x Ucrânia - 13/11 19:45 - SportTV 2",
+      "pubDate": "Thu, 13 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rep. Irlanda x Portugal - 13/11 19:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rep. Irlanda x Portugal - 13/11 19:45 - RTP1",
+      "pubDate": "Thu, 13 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "New England Patriots (Fut. Americano) x New York Jets (Fut. Americano) - 14/11 01:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New England Patriots (Fut. Americano) x New York Jets (Fut. Americano) - 14/11 01:15 - DAZN 1",
+      "pubDate": "Fri, 14 Nov 2025 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Utah Jazz (Basket) x Atlanta Hawks (Basket) - 14/11 02:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Utah Jazz (Basket) x Atlanta Hawks (Basket) - 14/11 02:00 - SportTV 1",
+      "pubDate": "Fri, 14 Nov 2025 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia x Malta - 14/11 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia x Malta - 14/11 17:00 - SportTV 1",
+      "pubDate": "Fri, 14 Nov 2025 17:00:00",
       "guid": ""
     }
   ]

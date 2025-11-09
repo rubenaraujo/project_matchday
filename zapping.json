@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Indianapolis Colts (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 09/11 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Indianapolis Colts (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 09/11 14:30 - DAZN 3",
-      "pubDate": "Sun, 09 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Rio Tinto x FC Vilarinho - 09/11 15:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Rio Tinto x FC Vilarinho - 09/11 15:00 - Online",
-      "pubDate": "Sun, 09 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Real Madrid - 09/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Real Madrid - 09/11 15:15 - DAZN 2",
-      "pubDate": "Sun, 09 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x Nacional - 09/11 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Nacional - 09/11 15:30 - SportTV 2",
-      "pubDate": "Sun, 09 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x Gil Vicente - 09/11 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Gil Vicente - 09/11 15:30 - SportTV 1",
-      "pubDate": "Sun, 09 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Valadares Gaia (Feminino) x Vitória SC (Feminino) - 09/11 15:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valadares Gaia (Feminino) x Vitória SC (Feminino) - 09/11 15:30 - Canal11",
-      "pubDate": "Sun, 09 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo x Paços de Ferreira - 09/11 15:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x Paços de Ferreira - 09/11 15:30 - SportTV 3",
-      "pubDate": "Sun, 09 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x Quinta dos Lombos (Futsal) - 09/11 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x Quinta dos Lombos (Futsal) - 09/11 16:00 - C11 Stream",
-      "pubDate": "Sun, 09 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Strasbourg x Lille - 09/11 16:15 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Strasbourg x Lille - 09/11 16:15 - SportTV 7",
@@ -250,6 +194,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GOG (Andebol) x PSG (Andebol) - 12/11 17:45 - SportTV 4",
       "pubDate": "Wed, 12 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Zalgiris Kaunas (Basket) - 12/11 19:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Zalgiris Kaunas (Basket) - 12/11 19:15 - SportTV 3",
+      "pubDate": "Wed, 12 Nov 2025 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x Riba D´Ave (Hóquei) - 12/11 20:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x Riba D´Ave (Hóquei) - 12/11 20:30 - FPP TV",
+      "pubDate": "Wed, 12 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense (Hóquei) x CD Póvoa (Hóquei) - 12/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Hóquei) x CD Póvoa (Hóquei) - 12/11 21:00 - FPP TV",
+      "pubDate": "Wed, 12 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Valongo (Hóquei) x HC Braga (Hóquei) - 12/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Valongo (Hóquei) x HC Braga (Hóquei) - 12/11 21:00 - FPP TV",
+      "pubDate": "Wed, 12 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x HC Turquel (Hóquei) - 12/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x HC Turquel (Hóquei) - 12/11 21:00 - FPP TV",
+      "pubDate": "Wed, 12 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude Pacense (Hóquei) x FC Porto (Hóquei) - 12/11 21:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude Pacense (Hóquei) x FC Porto (Hóquei) - 12/11 21:30 - FPP TV",
+      "pubDate": "Wed, 12 Nov 2025 21:30:00",
       "guid": ""
     }
   ]

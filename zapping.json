@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Casa Pia AC - 09/11 20:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Casa Pia AC - 09/11 20:30 - BTv",
-      "pubDate": "Sun, 09 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Moreirense - 09/11 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Moreirense - 09/11 20:30 - SportTV 2",
-      "pubDate": "Sun, 09 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x UD Leiria - 09/11 20:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x UD Leiria - 09/11 20:30 - SportTV 7",
-      "pubDate": "Sun, 09 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Washington Commanders (Fut. Americano) x Detroit Lions (Fut. Americano) - 09/11 21:25 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Commanders (Fut. Americano) x Detroit Lions (Fut. Americano) - 09/11 21:25 - DAZN 1",
@@ -292,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Canadá x Equador - 15/11 00:30 - SportTV 1",
       "pubDate": "Sat, 15 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cazaquistão x Bélgica - 15/11 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cazaquistão x Bélgica - 15/11 14:00 - SportTV 2",
+      "pubDate": "Sat, 15 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
+      "pubDate": "Sat, 15 Nov 2025 17:00:00",
       "guid": ""
     }
   ]

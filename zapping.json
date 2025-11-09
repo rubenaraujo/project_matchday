@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Strasbourg x Lille - 09/11 16:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Lille - 09/11 16:15 - SportTV 7",
-      "pubDate": "Sun, 09 Nov 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Liverpool - 09/11 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Liverpool - 09/11 16:30 - DAZN 1",
-      "pubDate": "Sun, 09 Nov 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x FC Augsburg - 09/11 16:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x FC Augsburg - 09/11 16:30 - DAZN 4",
-      "pubDate": "Sun, 09 Nov 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Udinese - 09/11 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Udinese - 09/11 17:00 - SportTV 4",
-      "pubDate": "Sun, 09 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fenerbahçe x Kayserispor - 09/11 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Kayserispor - 09/11 17:00 - SportTV 6",
-      "pubDate": "Sun, 09 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses x CD Mafra - 09/11 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x CD Mafra - 09/11 17:30 - Canal11",
@@ -236,6 +201,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventude Pacense (Hóquei) x FC Porto (Hóquei) - 12/11 21:30 - FPP TV",
       "pubDate": "Wed, 12 Nov 2025 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Knicks (Basket) x Orlando Magic (Basket) - 13/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Knicks (Basket) x Orlando Magic (Basket) - 13/11 00:00 - SportTV 1",
+      "pubDate": "Thu, 13 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Oklahoma City Thunder (Basket) x LA Lakers (Basket) - 13/11 02:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oklahoma City Thunder (Basket) x LA Lakers (Basket) - 13/11 02:30 - SportTV 2",
+      "pubDate": "Thu, 13 Nov 2025 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nigéria x Gabão - 13/11 16:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nigéria x Gabão - 13/11 16:00 - SportTV 1",
+      "pubDate": "Thu, 13 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arménia x Hungria - 13/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arménia x Hungria - 13/11 17:00 - SportTV 2",
+      "pubDate": "Thu, 13 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega x Estónia - 13/11 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega x Estónia - 13/11 17:00 - SportTV 3",
+      "pubDate": "Thu, 13 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Azerbaijão x Islândia - 13/11 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Azerbaijão x Islândia - 13/11 17:00 - SportTV 4",
+      "pubDate": "Thu, 13 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Camarões x Rep. Dem. Congo - 13/11 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Camarões x Rep. Dem. Congo - 13/11 19:00 - SportTV 5",
+      "pubDate": "Thu, 13 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Inglaterra x Sérvia - 13/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inglaterra x Sérvia - 13/11 19:45 - SportTV 3",
+      "pubDate": "Thu, 13 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

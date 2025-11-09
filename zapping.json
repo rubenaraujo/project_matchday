@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S17) x Japão (S17) - 09/11 13:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S17) x Japão (S17) - 09/11 13:30 - Canal11",
-      "pubDate": "Sun, 09 Nov 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Felgueiras x Académico - 09/11 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras x Académico - 09/11 14:00 - SportTV +",
-      "pubDate": "Sun, 09 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Napoli - 09/11 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Napoli - 09/11 14:00 - SportTV 6",
-      "pubDate": "Sun, 09 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lorient x Toulouse - 09/11 14:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lorient x Toulouse - 09/11 14:00 - SportTV 7",
-      "pubDate": "Sun, 09 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Brighton  Hove Albion - 09/11 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Brighton  Hove Albion - 09/11 14:00 - DAZN 1",
-      "pubDate": "Sun, 09 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Leeds United - 09/11 14:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Leeds United - 09/11 14:00 - DAZN 4",
-      "pubDate": "Sun, 09 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Indianapolis Colts (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 09/11 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Indianapolis Colts (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 09/11 14:30 - DAZN 3",
@@ -320,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CB Canarias (Basket) x Tofas SK (Basket) - 11/11 20:00 - SportTV 3",
       "pubDate": "Tue, 11 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x Boston Celtics (Basket) - 12/11 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x Boston Celtics (Basket) - 12/11 01:00 - SportTV 1",
+      "pubDate": "Wed, 12 Nov 2025 01:00:00",
       "guid": ""
     }
   ]

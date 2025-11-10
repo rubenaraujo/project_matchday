@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Washington Commanders (Fut. Americano) x Detroit Lions (Fut. Americano) - 09/11 21:25 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Commanders (Fut. Americano) x Detroit Lions (Fut. Americano) - 09/11 21:25 - DAZN 1",
-      "pubDate": "Sun, 09 Nov 2025 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x Boston Celtics (Basket) - 09/11 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Boston Celtics (Basket) - 09/11 23:00 - SportTV 1",
@@ -285,6 +278,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
       "pubDate": "Sat, 15 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turquia x Bulgária - 15/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turquia x Bulgária - 15/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 15 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chipre x Áustria - 15/11 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chipre x Áustria - 15/11 17:00 - SportTV 3",
+      "pubDate": "Sat, 15 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
+      "pubDate": "Sat, 15 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia x Kosovo - 15/11 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia x Kosovo - 15/11 19:45 - SportTV 5",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Suíça x Suécia - 15/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suíça x Suécia - 15/11 19:45 - SportTV 1",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Grécia x Escócia - 15/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grécia x Escócia - 15/11 19:45 - SportTV 3",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x Bielorrússia - 15/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x Bielorrússia - 15/11 19:45 - SportTV 2",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x Eléctrico (Futsal) - 15/11 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x Eléctrico (Futsal) - 15/11 21:00 - Canal11",
+      "pubDate": "Sat, 15 Nov 2025 21:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Miami Heat (Basket) x Cleveland Cavaliers (Basket) - 11/11 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Miami Heat (Basket) x Cleveland Cavaliers (Basket) - 11/11 00:30 - SportTV 1",
-      "pubDate": "Tue, 11 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Elverum (Andebol) x FC Porto (Andebol) - 11/11 17:45 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elverum (Andebol) x FC Porto (Andebol) - 11/11 17:45 - PortoCanal",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cazaquistão x Bélgica - 15/11 14:00 - SportTV 2",
       "pubDate": "Sat, 15 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x País de Gales (S17) - 15/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x País de Gales (S17) - 15/11 15:00 - Canal11",
+      "pubDate": "Sat, 15 Nov 2025 15:00:00",
       "guid": ""
     }
   ]

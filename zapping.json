@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Aris (Basket) x Bahçesehir Koleji (Basket) - 11/11 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aris (Basket) x Bahçesehir Koleji (Basket) - 11/11 18:00 - SportTV 2",
-      "pubDate": "Tue, 11 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "HIF Karlskrona (Andebol) x Benfica (Andebol) - 11/11 19:45 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "HIF Karlskrona (Andebol) x Benfica (Andebol) - 11/11 19:45 - BTv",
@@ -197,6 +190,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Andebol) x Fuchse Berlin (Andebol) - 13/11 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Fuchse Berlin (Andebol) - 13/11 19:45 - SportingTv",
+      "pubDate": "Thu, 13 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "New England Patriots (Fut. Americano) x New York Jets (Fut. Americano) - 14/11 01:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New England Patriots (Fut. Americano) x New York Jets (Fut. Americano) - 14/11 01:15 - DAZN 1",
@@ -319,13 +319,6 @@
       "title": "Portugal (S17) x País de Gales (S17) - 15/11 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x País de Gales (S17) - 15/11 15:00 - Canal11",
-      "pubDate": "Sat, 15 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x SC Rio Tinto (Feminino) - 15/11 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x SC Rio Tinto (Feminino) - 15/11 15:00 - PortoCanal",
       "pubDate": "Sat, 15 Nov 2025 15:00:00",
       "guid": ""
     }

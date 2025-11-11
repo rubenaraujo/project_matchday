@@ -1,23 +1,9 @@
 {
   "items": [
     {
-      "title": "HIF Karlskrona (Andebol) x Benfica (Andebol) - 11/11 19:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HIF Karlskrona (Andebol) x Benfica (Andebol) - 11/11 19:45 - BTv",
-      "pubDate": "Tue, 11 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "CB Canarias (Basket) x Tofas SK (Basket) - 11/11 20:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CB Canarias (Basket) x Tofas SK (Basket) - 11/11 20:00 - SportTV 3",
-      "pubDate": "Tue, 11 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Eslovénia (Futsal) - 11/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Eslovénia (Futsal) - 11/11 20:00 - Canal11",
       "pubDate": "Tue, 11 Nov 2025 20:00:00",
       "guid": ""
     },
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x País de Gales (S17) - 15/11 15:00 - Canal11",
       "pubDate": "Sat, 15 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x SC Rio Tinto (Feminino) - 15/11 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x SC Rio Tinto (Feminino) - 15/11 15:00 - PortoCanal",
+      "pubDate": "Sat, 15 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
+      "pubDate": "Sat, 15 Nov 2025 17:00:00",
       "guid": ""
     }
   ]

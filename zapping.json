@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S19) x Estónia (S19) - 12/11 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S19) x Estónia (S19) - 12/11 17:00 - Canal11",
-      "pubDate": "Wed, 12 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "GOG (Andebol) x PSG (Andebol) - 12/11 17:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GOG (Andebol) x PSG (Andebol) - 12/11 17:45 - SportTV 4",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Benfica (Andebol) - 15/11 19:00 - PortoCanal",
       "pubDate": "Sat, 15 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
+      "pubDate": "Sat, 15 Nov 2025 19:30:00",
       "guid": ""
     }
   ]

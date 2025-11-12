@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Olympiacos (Basket) x Zalgiris Kaunas (Basket) - 12/11 19:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x Zalgiris Kaunas (Basket) - 12/11 19:15 - SportTV 3",
-      "pubDate": "Wed, 12 Nov 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Basket) x Tartu Ulikool (Basket) - 12/11 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x Tartu Ulikool (Basket) - 12/11 20:00 - PortoCanal",
-      "pubDate": "Wed, 12 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "AD Sanjoanense (Hóquei) x CD Póvoa (Hóquei) - 12/11 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Sanjoanense (Hóquei) x CD Póvoa (Hóquei) - 12/11 21:00 - FPP TV",
@@ -305,6 +291,20 @@
       "title": "Eslovénia x Kosovo - 15/11 19:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eslovénia x Kosovo - 15/11 19:45 - SportTV 5",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Suíça x Suécia - 15/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suíça x Suécia - 15/11 19:45 - SportTV 1",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Grécia x Escócia - 15/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grécia x Escócia - 15/11 19:45 - SportTV 3",
       "pubDate": "Sat, 15 Nov 2025 19:45:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal) x Eslovénia (Futsal) - 12/11 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Eslovénia (Futsal) - 12/11 19:00 - Canal11",
-      "pubDate": "Wed, 12 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Olympiacos (Basket) x Zalgiris Kaunas (Basket) - 12/11 19:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Olympiacos (Basket) x Zalgiris Kaunas (Basket) - 12/11 19:15 - SportTV 3",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
       "pubDate": "Sat, 15 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia x Kosovo - 15/11 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia x Kosovo - 15/11 19:45 - SportTV 5",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

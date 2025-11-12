@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "AD Sanjoanense (Hóquei) x CD Póvoa (Hóquei) - 12/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x CD Póvoa (Hóquei) - 12/11 21:00 - FPP TV",
-      "pubDate": "Wed, 12 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x HC Braga (Hóquei) - 12/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x HC Braga (Hóquei) - 12/11 21:00 - FPP TV",
-      "pubDate": "Wed, 12 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x HC Turquel (Hóquei) - 12/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x HC Turquel (Hóquei) - 12/11 21:00 - FPP TV",
-      "pubDate": "Wed, 12 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude Pacense (Hóquei) x FC Porto (Hóquei) - 12/11 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude Pacense (Hóquei) x FC Porto (Hóquei) - 12/11 21:30 - FPP TV",
-      "pubDate": "Wed, 12 Nov 2025 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Orlando Magic (Basket) - 13/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Orlando Magic (Basket) - 13/11 00:00 - SportTV 1",
@@ -305,6 +277,13 @@
       "title": "Grécia x Escócia - 15/11 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grécia x Escócia - 15/11 19:45 - SportTV 3",
+      "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x Bielorrússia - 15/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x Bielorrússia - 15/11 19:45 - SportTV 2",
       "pubDate": "Sat, 15 Nov 2025 19:45:00",
       "guid": ""
     }

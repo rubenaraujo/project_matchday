@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Camarões x Rep. Dem. Congo - 13/11 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Camarões x Rep. Dem. Congo - 13/11 19:00 - SportTV 5",
-      "pubDate": "Thu, 13 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Inglaterra x Sérvia - 13/11 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Inglaterra x Sérvia - 13/11 19:45 - SportTV 3",
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal) x Eléctrico (Futsal) - 15/11 21:00 - Canal11",
       "pubDate": "Sat, 15 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol Feminino) x Almeida Garrett (Andebol Feminino) - 15/11 21:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol Feminino) x Almeida Garrett (Andebol Feminino) - 15/11 21:00 - BTv",
+      "pubDate": "Sat, 15 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
+      "pubDate": "Sat, 15 Nov 2025 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
+      "pubDate": "Sat, 15 Nov 2025 22:00:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Nigéria x Gabão - 13/11 16:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nigéria x Gabão - 13/11 16:00 - SportTV 1",
-      "pubDate": "Thu, 13 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arménia x Hungria - 13/11 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arménia x Hungria - 13/11 17:00 - SportTV 2",
-      "pubDate": "Thu, 13 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega x Estónia - 13/11 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x Estónia - 13/11 17:00 - SportTV 3",
-      "pubDate": "Thu, 13 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Azerbaijão x Islândia - 13/11 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Azerbaijão x Islândia - 13/11 17:00 - SportTV 4",
-      "pubDate": "Thu, 13 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Camarões x Rep. Dem. Congo - 13/11 19:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Camarões x Rep. Dem. Congo - 13/11 19:00 - SportTV 5",
@@ -334,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dinamarca x Bielorrússia - 15/11 19:45 - SportTV 2",
       "pubDate": "Sat, 15 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Granada - 15/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Granada - 15/11 20:00 - DAZN 2",
+      "pubDate": "Sat, 15 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S17) x Bélgica (S17) - 14/11 12:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S17) x Bélgica (S17) - 14/11 12:30 - Canal11",
-      "pubDate": "Fri, 14 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Clara (S23) x Sporting (S23) - 14/11 15:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara (S23) x Sporting (S23) - 14/11 15:30 - Canal11",
@@ -232,9 +225,37 @@
       "guid": ""
     },
     {
+      "title": "HC Braga (Hóquei) x AD Sanjoanense (Hóquei) - 15/11 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Braga (Hóquei) x AD Sanjoanense (Hóquei) - 15/11 18:00 - FPP TV",
+      "pubDate": "Sat, 15 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CH Carvalhos (Hóquei) x AD Valongo (Hóquei) - 15/11 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CH Carvalhos (Hóquei) x AD Valongo (Hóquei) - 15/11 18:00 - FPP TV",
+      "pubDate": "Sat, 15 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Vasco da Gama (Basket) x CA Queluz (Basket) - 15/11 18:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco da Gama (Basket) x CA Queluz (Basket) - 15/11 18:30 - DAZN 1",
+      "pubDate": "Sat, 15 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x Benfica (Hóquei) - 15/11 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x Benfica (Hóquei) - 15/11 18:30 - FPP TV",
+      "pubDate": "Sat, 15 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Riba d´Ave (Hóquei) x Juventude Pacense (Hóquei) - 15/11 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba d´Ave (Hóquei) x Juventude Pacense (Hóquei) - 15/11 18:30 - FPP TV",
       "pubDate": "Sat, 15 Nov 2025 18:30:00",
       "guid": ""
     },
@@ -302,6 +323,13 @@
       "guid": ""
     },
     {
+      "title": "HC Turquel (Hóquei) x Sporting (Hóquei) - 15/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Turquel (Hóquei) x Sporting (Hóquei) - 15/11 21:00 - FPP TV",
+      "pubDate": "Sat, 15 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
@@ -313,41 +341,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
       "pubDate": "Sat, 15 Nov 2025 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
-      "pubDate": "Sun, 16 Nov 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente x Rosario Central - 16/11 00:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente x Rosario Central - 16/11 00:30 - SportTV 6",
-      "pubDate": "Sun, 16 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Minnesota Timberwolves (Basket) x Denver Nuggets (Basket) - 16/11 01:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Timberwolves (Basket) x Denver Nuggets (Basket) - 16/11 01:00 - SportTV 3",
-      "pubDate": "Sun, 16 Nov 2025 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Felgueiras x Farense - 16/11 11:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras x Farense - 16/11 11:00 - SportTV 2",
-      "pubDate": "Sun, 16 Nov 2025 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Feminino) x Marítimo (Feminino) - 16/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x Marítimo (Feminino) - 16/11 11:00 - Canal11",
-      "pubDate": "Sun, 16 Nov 2025 11:00:00",
       "guid": ""
     }
   ]

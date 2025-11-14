@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Itália (S20) x Portugal (S20) - 14/11 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (S20) x Portugal (S20) - 14/11 17:30 - Canal11",
-      "pubDate": "Fri, 14 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal) x FC Famalicão (Futsal) - 14/11 19:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal) x FC Famalicão (Futsal) - 14/11 19:30 - Canal11",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
       "pubDate": "Sun, 16 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Independiente x Rosario Central - 16/11 00:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente x Rosario Central - 16/11 00:30 - SportTV 6",
+      "pubDate": "Sun, 16 Nov 2025 00:30:00",
       "guid": ""
     }
   ]

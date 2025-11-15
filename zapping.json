@@ -183,13 +183,6 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Andebol) x Benfica (Andebol) - 15/11 19:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Benfica (Andebol) - 15/11 19:00 - PortoCanal",
-      "pubDate": "Sat, 15 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
@@ -292,6 +285,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Felgueiras x Farense - 16/11 11:00 - SportTV 2",
       "pubDate": "Sun, 16 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x Marítimo (Feminino) - 16/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x Marítimo (Feminino) - 16/11 11:00 - Canal11",
+      "pubDate": "Sun, 16 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia Basket (Basket) x CB Canarias (Basket) - 16/11 11:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia Basket (Basket) x CB Canarias (Basket) - 16/11 11:30 - DAZN 1",
+      "pubDate": "Sun, 16 Nov 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Pittsburgh Penguins (Hóquei no Gelo  Seniores) x Nashville Predators (Hóquei no Gelo  Seniores) - 16/11 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pittsburgh Penguins (Hóquei no Gelo  Seniores) x Nashville Predators (Hóquei no Gelo  Seniores) - 16/11 14:00 - SportTV 3",
+      "pubDate": "Sun, 16 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal x Arménia - 16/11 14:00 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal x Arménia - 16/11 14:00 - RTP1",
+      "pubDate": "Sun, 16 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hungria x Rep. Irlanda - 16/11 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hungria x Rep. Irlanda - 16/11 14:00 - SportTV 2",
+      "pubDate": "Sun, 16 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Miami Dolphins (Fut. Americano) x Washington Commanders (Fut. Americano) - 16/11 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Miami Dolphins (Fut. Americano) x Washington Commanders (Fut. Americano) - 16/11 14:30 - DAZN 2",
+      "pubDate": "Sun, 16 Nov 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferencváros (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 16/11 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferencváros (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 16/11 15:00 - SportTV 5",
+      "pubDate": "Sun, 16 Nov 2025 15:00:00",
       "guid": ""
     }
   ]

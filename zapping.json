@@ -1,38 +1,10 @@
 {
   "items": [
     {
-      "title": "Basket Zaragoza (Basket) x Unicaja (Basket) - 15/11 18:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Basket Zaragoza (Basket) x Unicaja (Basket) - 15/11 18:00 - DAZN 2",
-      "pubDate": "Sat, 15 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vasco da Gama (Basket) x CA Queluz (Basket) - 15/11 18:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco da Gama (Basket) x CA Queluz (Basket) - 15/11 18:30 - DAZN 1",
-      "pubDate": "Sat, 15 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x Benfica (Hóquei) - 15/11 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x Benfica (Hóquei) - 15/11 18:30 - FPP TV",
-      "pubDate": "Sat, 15 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Riba d´Ave (Hóquei) x Juventude Pacense (Hóquei) - 15/11 18:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Riba d´Ave (Hóquei) x Juventude Pacense (Hóquei) - 15/11 18:30 - FPP TV",
       "pubDate": "Sat, 15 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Futsal) x Torreense (Futsal) - 15/11 19:30 - Canal11",
-      "pubDate": "Sat, 15 Nov 2025 19:30:00",
       "guid": ""
     },
     {
@@ -264,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x GD Chaves - 16/11 18:00 - SportTV +",
       "pubDate": "Sun, 16 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Basket) x CD Baskonia (Basket) - 16/11 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Basket) x CD Baskonia (Basket) - 16/11 18:00 - DAZN 1",
+      "pubDate": "Sun, 16 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Águas Santas (Andebol) - 16/11 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Águas Santas (Andebol) - 16/11 18:30 - SportingTv",
+      "pubDate": "Sun, 16 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nigéria x Rep. Dem. Congo - 16/11 19:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nigéria x Rep. Dem. Congo - 16/11 19:00 - SportTV 7",
+      "pubDate": "Sun, 16 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Israel x Moldávia - 16/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Israel x Moldávia - 16/11 19:45 - SportTV 2",
+      "pubDate": "Sun, 16 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália x Noruega - 16/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália x Noruega - 16/11 19:45 - SportTV 1",
+      "pubDate": "Sun, 16 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

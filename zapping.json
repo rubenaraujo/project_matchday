@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Brasil x Senegal - 15/11 16:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil x Senegal - 15/11 16:00 - SportTV 4",
-      "pubDate": "Sat, 15 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Madeira SAD (Andebol Feminino) x KHF Istogu (Andebol Feminino) - 15/11 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Madeira SAD (Andebol Feminino) x KHF Istogu (Andebol Feminino) - 15/11 16:00 - AndebolTV",
-      "pubDate": "Sat, 15 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Geórgia x Espanha - 15/11 17:00 - SportTV 1",
@@ -285,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Voleibol Feminino) x Vitória SC (Voleibol Feminino) - 16/11 15:00 - ABola TV",
       "pubDate": "Sun, 16 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boavista SAD x Lousada - 16/11 15:30 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boavista SAD x Lousada - 16/11 15:30 - Youtube",
+      "pubDate": "Sun, 16 Nov 2025 15:30:00",
       "guid": ""
     }
   ]

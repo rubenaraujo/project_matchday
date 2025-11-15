@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Riba d´Ave (Hóquei) x Juventude Pacense (Hóquei) - 15/11 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Riba d´Ave (Hóquei) x Juventude Pacense (Hóquei) - 15/11 18:30 - FPP TV",
-      "pubDate": "Sat, 15 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Eléctrico (Futsal) - 15/11 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Eléctrico (Futsal) - 15/11 21:00 - Canal11",
-      "pubDate": "Sat, 15 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol Feminino) x Almeida Garrett (Andebol Feminino) - 15/11 21:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x Almeida Garrett (Andebol Feminino) - 15/11 21:00 - BTv",
-      "pubDate": "Sat, 15 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Turquel (Hóquei) x Sporting (Hóquei) - 15/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x Sporting (Hóquei) - 15/11 21:00 - FPP TV",
-      "pubDate": "Sat, 15 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
@@ -271,6 +243,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Los Angeles Rams (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 16/11 21:05 - DAZN 2",
       "pubDate": "Sun, 16 Nov 2025 21:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Tigre - 16/11 23:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Tigre - 16/11 23:15 - SportTV 2",
+      "pubDate": "Sun, 16 Nov 2025 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
+      "pubDate": "Mon, 17 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia x Andorra - 17/11 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia x Andorra - 17/11 17:00 - SportTV 1",
+      "pubDate": "Mon, 17 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha x Eslováquia - 17/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha x Eslováquia - 17/11 19:45 - SportTV 1",
+      "pubDate": "Mon, 17 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

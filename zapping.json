@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Andebol) x Águas Santas (Andebol) - 16/11 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Águas Santas (Andebol) - 16/11 18:30 - SportingTv",
-      "pubDate": "Sun, 16 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Nigéria x Rep. Dem. Congo - 16/11 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nigéria x Rep. Dem. Congo - 16/11 19:00 - SportTV 7",
@@ -278,6 +271,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
       "pubDate": "Fri, 21 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Texans (Fut. Americano) x Buffalo Bills (Fut. Americano) - 21/11 01:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Texans (Fut. Americano) x Buffalo Bills (Fut. Americano) - 21/11 01:15 - DAZN 1",
+      "pubDate": "Fri, 21 Nov 2025 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Suécia Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 21/11 15:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suécia Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 21/11 15:30 - AndebolTV",
+      "pubDate": "Fri, 21 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Qadisiyah - 21/11 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Qadisiyah - 21/11 17:30 - SportTV 2",
+      "pubDate": "Fri, 21 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x Marseille - 21/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x Marseille - 21/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 21 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 21/11 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 21/11 20:00 - Canal11",
+      "pubDate": "Fri, 21 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

@@ -8,20 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Portugal x Arménia - 16/11 14:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal x Arménia - 16/11 14:00 - RTP1",
-      "pubDate": "Sun, 16 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hungria x Rep. Irlanda - 16/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria x Rep. Irlanda - 16/11 14:00 - SportTV 2",
-      "pubDate": "Sun, 16 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Miami Dolphins (Fut. Americano) x Washington Commanders (Fut. Americano) - 16/11 14:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Miami Dolphins (Fut. Americano) x Washington Commanders (Fut. Americano) - 16/11 14:30 - DAZN 2",
@@ -320,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 18/11 20:00 - Canal11",
       "pubDate": "Tue, 18 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brooklyn Nets (Basket) x Boston Celtics (Basket) - 19/11 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brooklyn Nets (Basket) x Boston Celtics (Basket) - 19/11 00:30 - SportTV 1",
+      "pubDate": "Wed, 19 Nov 2025 00:30:00",
       "guid": ""
     }
   ]

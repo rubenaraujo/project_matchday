@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Sérvia x Letónia - 16/11 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sérvia x Letónia - 16/11 17:00 - SportTV 4",
-      "pubDate": "Sun, 16 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Albânia x Inglaterra - 16/11 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Albânia x Inglaterra - 16/11 17:00 - SportTV 3",
-      "pubDate": "Sun, 16 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Azerbaijão x França - 16/11 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Azerbaijão x França - 16/11 17:00 - SportTV 2",
-      "pubDate": "Sun, 16 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ucrânia x Islândia - 16/11 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia x Islândia - 16/11 17:00 - SportTV 5",
-      "pubDate": "Sun, 16 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Hóquei) x SC Tomar (Hóquei) - 16/11 17:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x SC Tomar (Hóquei) - 16/11 17:30 - FPP TV",
@@ -271,6 +243,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Spartak Subotica (Basket) x Benfica (Basket) - 19/11 19:00 - SportTV 2",
       "pubDate": "Wed, 19 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG (Andebol) x Barcelona (Andebol) - 19/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG (Andebol) x Barcelona (Andebol) - 19/11 19:45 - SportTV 4",
+      "pubDate": "Wed, 19 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Feminino) x Glasgow City LFC (Feminino) - 19/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Feminino) x Glasgow City LFC (Feminino) - 19/11 19:45 - SportTV 1",
+      "pubDate": "Wed, 19 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 20/11 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 20/11 00:00 - SportTV 3",
+      "pubDate": "Thu, 20 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 20/11 14:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 20/11 14:30 - AndebolTV",
+      "pubDate": "Thu, 20 Nov 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Basket) x Zalgiris Kaunas (Basket) - 20/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Basket) x Zalgiris Kaunas (Basket) - 20/11 19:45 - SportTV 2",
+      "pubDate": "Thu, 20 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
-      "pubDate": "Sun, 16 Nov 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente x Rosario Central - 16/11 00:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente x Rosario Central - 16/11 00:30 - SportTV 6",
-      "pubDate": "Sun, 16 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Timberwolves (Basket) x Denver Nuggets (Basket) - 16/11 01:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x Denver Nuggets (Basket) - 16/11 01:00 - SportTV 3",
@@ -326,6 +312,13 @@
       "title": "Espanha x Turquia - 18/11 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha x Turquia - 18/11 19:45 - SportTV 1",
+      "pubDate": "Tue, 18 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Kosovo x Suíça - 18/11 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kosovo x Suíça - 18/11 19:45 - SportTV 6",
       "pubDate": "Tue, 18 Nov 2025 19:45:00",
       "guid": ""
     }

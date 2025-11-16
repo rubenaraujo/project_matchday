@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Hóquei) x SC Tomar (Hóquei) - 16/11 17:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x SC Tomar (Hóquei) - 16/11 17:30 - FPP TV",
-      "pubDate": "Sun, 16 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões x GD Chaves - 16/11 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x GD Chaves - 16/11 18:00 - SportTV +",
-      "pubDate": "Sun, 16 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Barcelona (Basket) x CD Baskonia (Basket) - 16/11 18:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Basket) x CD Baskonia (Basket) - 16/11 18:00 - DAZN 1",
-      "pubDate": "Sun, 16 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Andebol) x Águas Santas (Andebol) - 16/11 18:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Andebol) x Águas Santas (Andebol) - 16/11 18:30 - SportingTv",
@@ -278,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid (Basket) x Zalgiris Kaunas (Basket) - 20/11 19:45 - SportTV 2",
       "pubDate": "Thu, 20 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
+      "pubDate": "Thu, 20 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x Reus Deportiu (Hóquei) - 20/11 20:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x Reus Deportiu (Hóquei) - 20/11 20:30 - PortoCanal",
+      "pubDate": "Thu, 20 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
+      "pubDate": "Fri, 21 Nov 2025 00:00:00",
       "guid": ""
     }
   ]

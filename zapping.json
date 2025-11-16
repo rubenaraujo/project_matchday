@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
-      "pubDate": "Sat, 15 Nov 2025 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia x Nova Zelândia - 16/11 00:00 - SportTV 1",
@@ -306,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Milwaukee Bucks (Basket) - 18/11 00:00 - SportTV 1",
       "pubDate": "Tue, 18 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Universitatea Cluj (Basket) x Hapoel Jerusalém (Basket) - 18/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Universitatea Cluj (Basket) x Hapoel Jerusalém (Basket) - 18/11 17:00 - SportTV 2",
+      "pubDate": "Tue, 18 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil x Tunísia - 18/11 19:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil x Tunísia - 18/11 19:30 - SportTV 4",
+      "pubDate": "Tue, 18 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Escócia x Dinamarca - 18/11 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Escócia x Dinamarca - 18/11 19:45 - SportTV 7",
+      "pubDate": "Tue, 18 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha x Turquia - 18/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha x Turquia - 18/11 19:45 - SportTV 1",
+      "pubDate": "Tue, 18 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

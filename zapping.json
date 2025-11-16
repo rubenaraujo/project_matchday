@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Nigéria x Rep. Dem. Congo - 16/11 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nigéria x Rep. Dem. Congo - 16/11 19:00 - SportTV 7",
-      "pubDate": "Sun, 16 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Israel x Moldávia - 16/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Israel x Moldávia - 16/11 19:45 - SportTV 2",
-      "pubDate": "Sun, 16 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália x Noruega - 16/11 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália x Noruega - 16/11 19:45 - SportTV 1",
-      "pubDate": "Sun, 16 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Quinta dos Lombos (Futsal) x SC Braga (Futsal) - 16/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Futsal) x SC Braga (Futsal) - 16/11 20:00 - Canal11",
-      "pubDate": "Sun, 16 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Zaragoza x Huesca - 16/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Zaragoza x Huesca - 16/11 20:00 - DAZN 1",
-      "pubDate": "Sun, 16 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vélez Sarsfield x River Plate - 16/11 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vélez Sarsfield x River Plate - 16/11 20:00 - SportTV 6",
-      "pubDate": "Sun, 16 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x LA Clippers (Basket) - 16/11 20:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x LA Clippers (Basket) - 16/11 20:30 - SportTV 3",
@@ -306,6 +264,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 21/11 20:00 - Canal11",
       "pubDate": "Fri, 21 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Preston North End x Blackburn Rovers - 21/11 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Preston North End x Blackburn Rovers - 21/11 20:00 - SportTV 4",
+      "pubDate": "Fri, 21 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 21/11 20:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 21/11 20:30 - AndebolTV",
+      "pubDate": "Fri, 21 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x Benfica - 21/11 20:30 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x Benfica - 21/11 20:30 - RTP1",
+      "pubDate": "Fri, 21 Nov 2025 20:30:00",
       "guid": ""
     }
   ]

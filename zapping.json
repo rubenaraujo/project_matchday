@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x UD Oliveirense (Hóquei) - 15/11 21:30 - DAZN 1",
-      "pubDate": "Sat, 15 Nov 2025 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Memphis Grizzlies (Basket) - 15/11 22:00 - SportTV 2",
@@ -271,6 +264,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha x Eslováquia - 17/11 19:45 - SportTV 1",
       "pubDate": "Mon, 17 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Malta x Polónia - 17/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Malta x Polónia - 17/11 19:45 - SportTV 4",
+      "pubDate": "Mon, 17 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Montenegro x Croácia - 17/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Montenegro x Croácia - 17/11 19:45 - SportTV 3",
+      "pubDate": "Mon, 17 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos x Lituânia - 17/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos x Lituânia - 17/11 19:45 - SportTV 2",
+      "pubDate": "Mon, 17 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x Gibraltar - 17/11 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x Gibraltar - 17/11 19:45 - SportTV 6",
+      "pubDate": "Mon, 17 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Fundão (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 17/11 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Fundão (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 17/11 20:00 - Canal11",
+      "pubDate": "Mon, 17 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Milwaukee Bucks (Basket) - 18/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Milwaukee Bucks (Basket) - 18/11 00:00 - SportTV 1",
+      "pubDate": "Tue, 18 Nov 2025 00:00:00",
       "guid": ""
     }
   ]

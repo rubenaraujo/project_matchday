@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Tigre - 16/11 23:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Tigre - 16/11 23:15 - SportTV 2",
-      "pubDate": "Sun, 16 Nov 2025 23:15:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
       "pubDate": "Sat, 22 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Juventus - 22/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Juventus - 22/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 22 Nov 2025 17:00:00",
       "guid": ""
     }
   ]

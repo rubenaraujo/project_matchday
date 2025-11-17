@@ -134,6 +134,20 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Andebol) x Elverum (Andebol) - 18/11 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Elverum (Andebol) - 18/11 19:45 - PortoCanal",
+      "pubDate": "Tue, 18 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x HIF Karlskrona (Andebol) - 18/11 19:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x HIF Karlskrona (Andebol) - 18/11 19:45 - BTv",
+      "pubDate": "Tue, 18 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 18/11 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 18/11 20:00 - Canal11",
@@ -169,6 +183,13 @@
       "guid": ""
     },
     {
+      "title": "Rostock Seawolves (Basket) x FC Porto (Basket) - 19/11 17:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rostock Seawolves (Basket) x FC Porto (Basket) - 19/11 17:00 - PortoCanal",
+      "pubDate": "Wed, 19 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Famalicão (Futsal) x Sporting (Futsal) - 19/11 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Futsal) x Sporting (Futsal) - 19/11 19:00 - Canal11",
@@ -183,6 +204,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Basket) x CS Vâlcea 1924 (Basket) - 19/11 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x CS Vâlcea 1924 (Basket) - 19/11 19:30 - SportingTv",
+      "pubDate": "Wed, 19 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
       "title": "PSG (Andebol) x Barcelona (Andebol) - 19/11 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG (Andebol) x Barcelona (Andebol) - 19/11 19:45 - SportTV 4",
@@ -194,6 +222,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Feminino) x Glasgow City LFC (Feminino) - 19/11 19:45 - SportTV 1",
       "pubDate": "Wed, 19 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol) x OK Medjimurje (Voleibol) - 19/11 20:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol) x OK Medjimurje (Voleibol) - 19/11 20:00 - BTv",
+      "pubDate": "Wed, 19 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.C S15B) x EFBO (Jun.C S15) - 19/11 21:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.C S15B) x EFBO (Jun.C S15) - 19/11 21:00 - BTv",
+      "pubDate": "Wed, 19 Nov 2025 21:00:00",
       "guid": ""
     },
     {
@@ -218,6 +260,13 @@
       "guid": ""
     },
     {
+      "title": "Fuchse Berlin (Andebol) x Sporting (Andebol) - 20/11 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fuchse Berlin (Andebol) x Sporting (Andebol) - 20/11 19:45 - SportingTv",
+      "pubDate": "Thu, 20 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
@@ -228,6 +277,13 @@
       "title": "FC Porto (Hóquei) x Reus Deportiu (Hóquei) - 20/11 20:30 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x Reus Deportiu (Hóquei) - 20/11 20:30 - PortoCanal",
+      "pubDate": "Thu, 20 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x Hockey Bassano (Hóquei) - 20/11 20:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x Hockey Bassano (Hóquei) - 20/11 20:30 - SportingTv",
       "pubDate": "Thu, 20 Nov 2025 20:30:00",
       "guid": ""
     },
@@ -267,66 +323,10 @@
       "guid": ""
     },
     {
-      "title": "Nice x Marseille - 21/11 19:45 - SportTV 2",
+      "title": "Hertha BSC x Eintracht Braunschweig - 21/11 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x Marseille - 21/11 19:45 - SportTV 2",
-      "pubDate": "Fri, 21 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 21/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 21/11 20:00 - Canal11",
-      "pubDate": "Fri, 21 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Preston North End x Blackburn Rovers - 21/11 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Preston North End x Blackburn Rovers - 21/11 20:00 - SportTV 4",
-      "pubDate": "Fri, 21 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 21/11 20:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 21/11 20:30 - AndebolTV",
-      "pubDate": "Fri, 21 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x Benfica - 21/11 20:30 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x Benfica - 21/11 20:30 - RTP1",
-      "pubDate": "Fri, 21 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cleveland Cavaliers (Basket) x Indiana Pacers (Basket) - 22/11 00:00 - AmzPrime",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Cavaliers (Basket) x Indiana Pacers (Basket) - 22/11 00:00 - AmzPrime",
-      "pubDate": "Sat, 22 Nov 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 22/11 01:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 22/11 01:00 - SportTV 3",
-      "pubDate": "Sat, 22 Nov 2025 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Houston Rockets (Basket) x Denver Nuggets (Basket) - 22/11 02:30 - AmzPrime",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Denver Nuggets (Basket) - 22/11 02:30 - AmzPrime",
-      "pubDate": "Sat, 22 Nov 2025 02:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x Académico - 22/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Académico - 22/11 11:00 - Canal11",
-      "pubDate": "Sat, 22 Nov 2025 11:00:00",
+      "description": "Hertha BSC x Eintracht Braunschweig - 21/11 17:30 - DAZN 2",
+      "pubDate": "Fri, 21 Nov 2025 17:30:00",
       "guid": ""
     }
   ]

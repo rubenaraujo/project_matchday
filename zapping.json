@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x LA Clippers (Basket) - 16/11 20:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x LA Clippers (Basket) - 16/11 20:30 - SportTV 3",
-      "pubDate": "Sun, 16 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Los Angeles Rams (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 16/11 21:05 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Los Angeles Rams (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 16/11 21:05 - DAZN 2",
-      "pubDate": "Sun, 16 Nov 2025 21:05:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Tigre - 16/11 23:15 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Tigre - 16/11 23:15 - SportTV 2",
@@ -306,6 +292,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Denver Nuggets (Basket) - 22/11 02:30 - AmzPrime",
       "pubDate": "Sat, 22 Nov 2025 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Académico - 22/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Académico - 22/11 11:00 - Canal11",
+      "pubDate": "Sat, 22 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x West Bromwich - 22/11 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x West Bromwich - 22/11 12:30 - SportTV 1",
+      "pubDate": "Sat, 22 Nov 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Bologna - 22/11 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Bologna - 22/11 14:00 - SportTV 2",
+      "pubDate": "Sat, 22 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x Mortágua FC - 22/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x Mortágua FC - 22/11 15:00 - Canal11",
+      "pubDate": "Sat, 22 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Norwich City - 22/11 15:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Norwich City - 22/11 15:00 - SportTV 4",
+      "pubDate": "Sat, 22 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
+      "pubDate": "Sat, 22 Nov 2025 16:00:00",
       "guid": ""
     }
   ]

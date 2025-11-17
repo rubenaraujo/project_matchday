@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Houston Rockets (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
-      "pubDate": "Mon, 17 Nov 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia Eagles (Fut. Americano) x Detroit Lions (Fut. Americano) - 17/11 01:20 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Eagles (Fut. Americano) x Detroit Lions (Fut. Americano) - 17/11 01:20 - DAZN 1",
@@ -333,6 +326,13 @@
       "title": "Fiorentina x Juventus - 22/11 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Juventus - 22/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 22 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Gençlerbirligi - 22/11 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Gençlerbirligi - 22/11 17:00 - SportTV 5",
       "pubDate": "Sat, 22 Nov 2025 17:00:00",
       "guid": ""
     }

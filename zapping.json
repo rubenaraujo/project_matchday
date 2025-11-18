@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Brasil x Tunísia - 18/11 19:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil x Tunísia - 18/11 19:30 - SportTV 4",
-      "pubDate": "Tue, 18 Nov 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Escócia x Dinamarca - 18/11 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Escócia x Dinamarca - 18/11 19:45 - SportTV 7",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha x Turquia - 18/11 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Turquia - 18/11 19:45 - SportTV 1",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Kosovo x Suíça - 18/11 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kosovo x Suíça - 18/11 19:45 - SportTV 6",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bélgica x Liechtenstein - 18/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Liechtenstein - 18/11 19:45 - SportTV 2",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Áustria x Bósnia - 18/11 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Áustria x Bósnia - 18/11 19:45 - SportTV 5",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x Elverum (Andebol) - 18/11 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Elverum (Andebol) - 18/11 19:45 - PortoCanal",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x HIF Karlskrona (Andebol) - 18/11 19:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x HIF Karlskrona (Andebol) - 18/11 19:45 - BTv",
-      "pubDate": "Tue, 18 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 18/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 18/11 20:00 - Canal11",
-      "pubDate": "Tue, 18 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Brooklyn Nets (Basket) x Boston Celtics (Basket) - 19/11 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brooklyn Nets (Basket) x Boston Celtics (Basket) - 19/11 00:30 - SportTV 1",
@@ -306,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Denver Nuggets (Basket) - 22/11 02:30 - AmzPrime",
       "pubDate": "Sat, 22 Nov 2025 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Académico - 22/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Académico - 22/11 11:00 - Canal11",
+      "pubDate": "Sat, 22 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.C S15) x SC Salgueiros (Jun.C S15) - 22/11 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.C S15) x SC Salgueiros (Jun.C S15) - 22/11 11:00 - PortoCanal",
+      "pubDate": "Sat, 22 Nov 2025 11:00:00",
       "guid": ""
     }
   ]

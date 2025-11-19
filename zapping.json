@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Brooklyn Nets (Basket) x Boston Celtics (Basket) - 19/11 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brooklyn Nets (Basket) x Boston Celtics (Basket) - 19/11 00:30 - SportTV 1",
-      "pubDate": "Wed, 19 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Equador x Nova Zelândia - 19/11 01:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Equador x Nova Zelândia - 19/11 01:30 - SportTV 4",
@@ -333,6 +326,13 @@
       "title": "Fulham x Sunderland - 22/11 15:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Sunderland - 22/11 15:00 - DAZN 4",
+      "pubDate": "Sat, 22 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal da Devesa (Andebol) x Artística de Avanca (Andebol) - 22/11 15:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x Artística de Avanca (Andebol) - 22/11 15:00 - ABola TV",
       "pubDate": "Sat, 22 Nov 2025 15:00:00",
       "guid": ""
     }

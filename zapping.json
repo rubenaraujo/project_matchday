@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Famalicão (Futsal) x Sporting (Futsal) - 19/11 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (Futsal) x Sporting (Futsal) - 19/11 19:00 - Canal11",
-      "pubDate": "Wed, 19 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Spartak Subotica (Basket) x Benfica (Basket) - 19/11 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Spartak Subotica (Basket) x Benfica (Basket) - 19/11 19:00 - SportTV 2",
-      "pubDate": "Wed, 19 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Basket) x CS Vâlcea 1924 (Basket) - 19/11 19:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket) x CS Vâlcea 1924 (Basket) - 19/11 19:30 - SportingTv",
@@ -340,6 +326,13 @@
       "title": "Liverpool x Nottingham Forest - 22/11 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Nottingham Forest - 22/11 15:00 - DAZN 1",
+      "pubDate": "Sat, 22 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Sunderland - 22/11 15:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Sunderland - 22/11 15:00 - DAZN 4",
       "pubDate": "Sat, 22 Nov 2025 15:00:00",
       "guid": ""
     }

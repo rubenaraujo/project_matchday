@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Madrid (Basket) x Zalgiris Kaunas (Basket) - 20/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Basket) x Zalgiris Kaunas (Basket) - 20/11 19:45 - SportTV 2",
-      "pubDate": "Thu, 20 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
@@ -81,6 +74,13 @@
       "title": "Mainz x TSG Hoffenheim - 21/11 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mainz x TSG Hoffenheim - 21/11 19:30 - DAZN 1",
+      "pubDate": "Fri, 21 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Las Palmas x Albacete - 21/11 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Las Palmas x Albacete - 21/11 19:30 - DAZN 3",
       "pubDate": "Fri, 21 Nov 2025 19:30:00",
       "guid": ""
     },
@@ -305,6 +305,13 @@
       "title": "Quinta dos Lombos (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 22/11 17:30 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Quinta dos Lombos (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 22/11 17:30 - C11 Stream",
+      "pubDate": "Sat, 22 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Fateh - 22/11 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Fateh - 22/11 17:30 - SportTV 4",
       "pubDate": "Sat, 22 Nov 2025 17:30:00",
       "guid": ""
     }

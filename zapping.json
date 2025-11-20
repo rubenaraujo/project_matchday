@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Jun.C S15B) x EFBO (Jun.C S15) - 19/11 21:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.C S15B) x EFBO (Jun.C S15) - 19/11 21:00 - BTv",
-      "pubDate": "Wed, 19 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 20/11 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 20/11 00:00 - SportTV 3",
-      "pubDate": "Thu, 20 Nov 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x Houston Rockets (Basket) - 20/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Houston Rockets (Basket) - 20/11 00:00 - SportTV 1",
@@ -67,6 +53,13 @@
       "title": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
+      "pubDate": "Fri, 21 Nov 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Florida Panthers (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 21/11 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Florida Panthers (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 21/11 00:00 - SportTV 3",
       "pubDate": "Fri, 21 Nov 2025 00:00:00",
       "guid": ""
     },
@@ -267,13 +260,6 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Feminino) x Racing Power FC (Feminino) - 22/11 14:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x Racing Power FC (Feminino) - 22/11 14:30 - PortoCanal",
-      "pubDate": "Sat, 22 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x Mortágua FC - 22/11 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Mortágua FC - 22/11 15:00 - Canal11",
@@ -313,6 +299,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol Feminino) x Clube K (Voleibol Feminino) - 22/11 15:00 - SportingTv",
       "pubDate": "Sat, 22 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Athletic Bilbao - 22/11 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Athletic Bilbao - 22/11 15:15 - DAZN 2",
+      "pubDate": "Sat, 22 Nov 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
+      "pubDate": "Sat, 22 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Juventus - 22/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Juventus - 22/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 22 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Gençlerbirligi - 22/11 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Gençlerbirligi - 22/11 17:00 - SportTV 4",
+      "pubDate": "Sat, 22 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 22/11 17:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 22/11 17:30 - C11 Stream",
+      "pubDate": "Sat, 22 Nov 2025 17:30:00",
       "guid": ""
     }
   ]

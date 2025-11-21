@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Suécia Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 21/11 15:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suécia Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 21/11 15:30 - AndebolTV",
-      "pubDate": "Fri, 21 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ahli Jeddah x Al-Qadisiyah - 21/11 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ahli Jeddah x Al-Qadisiyah - 21/11 17:30 - SportTV 2",
-      "pubDate": "Fri, 21 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hertha BSC x Eintracht Braunschweig - 21/11 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hertha BSC x Eintracht Braunschweig - 21/11 17:30 - DAZN 2",
-      "pubDate": "Fri, 21 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Mainz x TSG Hoffenheim - 21/11 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mainz x TSG Hoffenheim - 21/11 19:30 - DAZN 1",
@@ -341,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x Vitória SC (Andebol) - 22/11 18:00 - AndebolTV",
       "pubDate": "Sat, 22 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x Vasco da Gama (Basket) - 22/11 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x Vasco da Gama (Basket) - 22/11 18:30 - SportingTv",
+      "pubDate": "Sat, 22 Nov 2025 18:30:00",
       "guid": ""
     }
   ]

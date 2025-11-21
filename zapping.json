@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Houston Texans (Fut. Americano) x Buffalo Bills (Fut. Americano) - 21/11 01:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Texans (Fut. Americano) x Buffalo Bills (Fut. Americano) - 21/11 01:15 - DAZN 1",
-      "pubDate": "Fri, 21 Nov 2025 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Marrocos (Futsal Feminino) x Argentina (Futsal Feminino) - 21/11 10:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marrocos (Futsal Feminino) x Argentina (Futsal Feminino) - 21/11 10:00 - RTP Play",
@@ -340,6 +333,13 @@
       "title": "Sporting x Marinhense - 22/11 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Marinhense - 22/11 18:00 - SportTV 1",
+      "pubDate": "Sat, 22 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Monaco - 22/11 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Monaco - 22/11 18:00 - SportTV 3",
       "pubDate": "Sat, 22 Nov 2025 18:00:00",
       "guid": ""
     }

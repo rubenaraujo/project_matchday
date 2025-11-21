@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal Andebol (Andebol Feminino S18) x Suécia Andebol (Andebol Feminino S18) - 20/11 20:30 - AndebolTV",
-      "pubDate": "Thu, 20 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x LA Clippers (Basket) - 21/11 00:00 - SportTV 1",
@@ -313,6 +306,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Hilal x Al-Fateh - 22/11 17:30 - SportTV 4",
       "pubDate": "Sat, 22 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CS Noisy Le Grand (Hóquei Feminino) x Ely  Chesterton (Hóquei Feminino) - 22/11 17:30 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CS Noisy Le Grand (Hóquei Feminino) x Ely  Chesterton (Hóquei Feminino) - 22/11 17:30 - WSE TV",
+      "pubDate": "Sat, 22 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Manchester City - 22/11 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Manchester City - 22/11 17:30 - DAZN 1",
+      "pubDate": "Sat, 22 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Real Sociedad - 22/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Real Sociedad - 22/11 17:30 - DAZN 2",
+      "pubDate": "Sat, 22 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Köln x Eintracht Frankfurt - 22/11 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Köln x Eintracht Frankfurt - 22/11 17:30 - DAZN 3",
+      "pubDate": "Sat, 22 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 22/11 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 22/11 18:00 - AndebolTV",
+      "pubDate": "Sat, 22 Nov 2025 18:00:00",
       "guid": ""
     }
   ]

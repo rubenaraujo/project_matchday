@@ -1,59 +1,10 @@
 {
   "items": [
     {
-      "title": "Portugal Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 22/11 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal Andebol (Andebol Feminino S18) x Espanha Andebol (Andebol Feminino S18) - 22/11 18:00 - AndebolTV",
-      "pubDate": "Sat, 22 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Atalanta - 22/11 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Atalanta - 22/11 19:45 - SportTV 7",
-      "pubDate": "Sat, 22 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Lanús x Atlético Mineiro - 22/11 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lanús x Atlético Mineiro - 22/11 20:00 - SportTV 4",
       "pubDate": "Sat, 22 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "St. Mirren x Celtic - 22/11 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "St. Mirren x Celtic - 22/11 20:00 - SportTV 5",
-      "pubDate": "Sat, 22 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Mallorca - 22/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Mallorca - 22/11 20:00 - DAZN 1",
-      "pubDate": "Sat, 22 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Le Havre - 22/11 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Le Havre - 22/11 20:05 - SportTV 3",
-      "pubDate": "Sat, 22 Nov 2025 20:05:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Sintrense - 22/11 20:15 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Sintrense - 22/11 20:15 - RTP1",
-      "pubDate": "Sat, 22 Nov 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Middlesbrough RHC (Hóquei Feminino) x Loire-Atlantique (Hóquei Feminino) - 22/11 20:30 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Middlesbrough RHC (Hóquei Feminino) x Loire-Atlantique (Hóquei Feminino) - 22/11 20:30 - WSE TV",
-      "pubDate": "Sat, 22 Nov 2025 20:30:00",
       "guid": ""
     },
     {
@@ -236,6 +187,97 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Girona - 23/11 15:15 - DAZN 2",
       "pubDate": "Sun, 23 Nov 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nogueirense FC x Gondomar SC - 23/11 15:30 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nogueirense FC x Gondomar SC - 23/11 15:30 - Youtube",
+      "pubDate": "Sun, 23 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 23/11 16:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 23/11 16:00 - ABola TV",
+      "pubDate": "Sun, 23 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Lorient - 23/11 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Lorient - 23/11 16:15 - SportTV 3",
+      "pubDate": "Sun, 23 Nov 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Tottenham - 23/11 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Tottenham - 23/11 16:30 - DAZN 1",
+      "pubDate": "Sun, 23 Nov 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC St. Pauli x 1. FC Union Berlin - 23/11 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC St. Pauli x 1. FC Union Berlin - 23/11 16:30 - DAZN 3",
+      "pubDate": "Sun, 23 Nov 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Caldas SC - 23/11 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Caldas SC - 23/11 17:00 - Canal11",
+      "pubDate": "Sun, 23 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Caykur Rizespor x Fenerbahçe - 23/11 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caykur Rizespor x Fenerbahçe - 23/11 17:00 - SportTV 5",
+      "pubDate": "Sun, 23 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Lecce - 23/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Lecce - 23/11 17:00 - SportTV 2",
+      "pubDate": "Sun, 23 Nov 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Nacional - 23/11 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Nacional - 23/11 17:30 - SportTV 1",
+      "pubDate": "Sun, 23 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Khaleej - 23/11 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Khaleej - 23/11 17:30 - SportTV 4",
+      "pubDate": "Sun, 23 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Atlético de Madrid - 23/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Atlético de Madrid - 23/11 17:30 - DAZN 2",
+      "pubDate": "Sun, 23 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Valongo (Hóquei) x OC Barcelos (Hóquei) - 23/11 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Valongo (Hóquei) x OC Barcelos (Hóquei) - 23/11 18:00 - FPP TV",
+      "pubDate": "Sun, 23 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Hóquei) x HC Turquel (Hóquei) - 23/11 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Hóquei) x HC Turquel (Hóquei) - 23/11 18:00 - FPP TV",
+      "pubDate": "Sun, 23 Nov 2025 18:00:00",
       "guid": ""
     }
   ]

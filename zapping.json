@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Lanús x Atlético Mineiro - 22/11 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lanús x Atlético Mineiro - 22/11 20:00 - SportTV 4",
-      "pubDate": "Sat, 22 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket Feminino) x Benfica (Basket Feminino) - 22/11 21:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket Feminino) x Benfica (Basket Feminino) - 22/11 21:00 - DAZN 2",
-      "pubDate": "Sat, 22 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Rio Ave (Futsal) - 22/11 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Rio Ave (Futsal) - 22/11 21:00 - Canal11",
-      "pubDate": "Sat, 22 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Gaia (Andebol) x Águas Santas (Andebol) - 22/11 21:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Gaia (Andebol) x Águas Santas (Andebol) - 22/11 21:00 - AndebolTV",
-      "pubDate": "Sat, 22 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x New York Knicks (Basket) - 22/11 22:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x New York Knicks (Basket) - 22/11 22:00 - SportTV 7",
@@ -278,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense (Hóquei) x HC Turquel (Hóquei) - 23/11 18:00 - FPP TV",
       "pubDate": "Sun, 23 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x FC Porto (Hóquei) - 23/11 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x FC Porto (Hóquei) - 23/11 19:00 - DAZN 4",
+      "pubDate": "Sun, 23 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Milan - 23/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Milan - 23/11 19:45 - SportTV 2",
+      "pubDate": "Sun, 23 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

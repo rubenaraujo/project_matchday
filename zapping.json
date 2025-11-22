@@ -1,31 +1,10 @@
 {
   "items": [
     {
-      "title": "Barcelona x Athletic Bilbao - 22/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Athletic Bilbao - 22/11 15:15 - DAZN 2",
-      "pubDate": "Sat, 22 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
       "title": "Suécia Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 22/11 15:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suécia Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 22/11 15:30 - AndebolTV",
       "pubDate": "Sat, 22 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Strasbourg - 22/11 16:00 - SportTV 3",
-      "pubDate": "Sat, 22 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eléctrico (Futsal) x AD Fundão (Futsal) - 22/11 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x AD Fundão (Futsal) - 22/11 16:00 - C11 Stream",
-      "pubDate": "Sat, 22 Nov 2025 16:00:00",
       "guid": ""
     },
     {
@@ -271,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket Feminino) x União Sportiva (Basket Feminino) - 23/11 11:00 - ABola TV",
       "pubDate": "Sun, 23 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hellas Verona x Parma - 23/11 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hellas Verona x Parma - 23/11 11:30 - SportTV 2",
+      "pubDate": "Sun, 23 Nov 2025 11:30:00",
       "guid": ""
     }
   ]

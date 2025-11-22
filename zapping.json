@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Udinese x Bologna - 22/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Bologna - 22/11 14:00 - SportTV 2",
-      "pubDate": "Sat, 22 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bayern München x SC Freiburg - 22/11 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x SC Freiburg - 22/11 14:30 - DAZN 3",
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal Feminino) x Tanzânia (Futsal Feminino) - 23/11 06:30 - RTP2",
       "pubDate": "Sun, 23 Nov 2025 06:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (Futsal Feminino) x Panamá (Futsal Feminino) - 23/11 09:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (Futsal Feminino) x Panamá (Futsal Feminino) - 23/11 09:00 - RTP Play",
+      "pubDate": "Sun, 23 Nov 2025 09:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (B) x Portimonense - 23/11 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x Portimonense - 23/11 11:00 - PortoCanal",
+      "pubDate": "Sun, 23 Nov 2025 11:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 21/11 20:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal Andebol (Andebol Feminino S18) x Noruega Andebol (Andebol Feminino S18) - 21/11 20:30 - AndebolTV",
-      "pubDate": "Fri, 21 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x Indiana Pacers (Basket) - 22/11 00:00 - AmzPrime",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Indiana Pacers (Basket) - 22/11 00:00 - AmzPrime",
@@ -292,6 +285,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "RHC Vordemwald (Hóquei Feminino) x RSC Cronenberg (Hóquei Feminino) - 22/11 19:30 - WSE TV",
       "pubDate": "Sat, 22 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Atalanta - 22/11 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Atalanta - 22/11 19:45 - SportTV 7",
+      "pubDate": "Sat, 22 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lanús x Atlético Mineiro - 22/11 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lanús x Atlético Mineiro - 22/11 20:00 - SportTV 4",
+      "pubDate": "Sat, 22 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "St. Mirren x Celtic - 22/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "St. Mirren x Celtic - 22/11 20:00 - SportTV 5",
+      "pubDate": "Sat, 22 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal x Mallorca - 22/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal x Mallorca - 22/11 20:00 - DAZN 1",
+      "pubDate": "Sat, 22 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Le Havre - 22/11 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Le Havre - 22/11 20:05 - SportTV 3",
+      "pubDate": "Sat, 22 Nov 2025 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Sintrense - 22/11 20:15 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Sintrense - 22/11 20:15 - RTP1",
+      "pubDate": "Sat, 22 Nov 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Middlesbrough RHC (Hóquei Feminino) x Loire-Atlantique (Hóquei Feminino) - 22/11 20:30 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Middlesbrough RHC (Hóquei Feminino) x Loire-Atlantique (Hóquei Feminino) - 22/11 20:30 - WSE TV",
+      "pubDate": "Sat, 22 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CP Esgueira (Basket Feminino) x Benfica (Basket Feminino) - 22/11 21:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CP Esgueira (Basket Feminino) x Benfica (Basket Feminino) - 22/11 21:00 - DAZN 2",
+      "pubDate": "Sat, 22 Nov 2025 21:00:00",
       "guid": ""
     }
   ]

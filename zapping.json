@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Tondela x Caldas SC - 23/11 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Caldas SC - 23/11 17:00 - Canal11",
-      "pubDate": "Sun, 23 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Nacional - 23/11 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Nacional - 23/11 17:30 - SportTV 1",
-      "pubDate": "Sun, 23 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Khaleej - 23/11 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Khaleej - 23/11 17:30 - SportTV 4",
-      "pubDate": "Sun, 23 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Atlético de Madrid - 23/11 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Atlético de Madrid - 23/11 17:30 - DAZN 2",
-      "pubDate": "Sun, 23 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x OC Barcelos (Hóquei) - 23/11 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x OC Barcelos (Hóquei) - 23/11 18:00 - FPP TV",
-      "pubDate": "Sun, 23 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x HC Turquel (Hóquei) - 23/11 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x HC Turquel (Hóquei) - 23/11 18:00 - FPP TV",
-      "pubDate": "Sun, 23 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CB Gran Canaria (Basket) x FC Barcelona (Basket) - 23/11 18:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CB Gran Canaria (Basket) x FC Barcelona (Basket) - 23/11 18:00 - DAZN 4",
-      "pubDate": "Sun, 23 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Hóquei) x FC Porto (Hóquei) - 23/11 19:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x FC Porto (Hóquei) - 23/11 19:00 - DAZN 4",
@@ -285,6 +236,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pafos FC x Monaco - 26/11 17:45 - DAZN 1",
       "pubDate": "Wed, 26 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Kobenhavn x Kairat - 26/11 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Kobenhavn x Kairat - 26/11 17:45 - DAZN 2",
+      "pubDate": "Wed, 26 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Crvena Zvezda (Basket) x Olympiacos (Basket) - 26/11 18:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crvena Zvezda (Basket) x Olympiacos (Basket) - 26/11 18:30 - SportTV 2",
+      "pubDate": "Wed, 26 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Club Brugge - 26/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Club Brugge - 26/11 20:00 - SportTV 5",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

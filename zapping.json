@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Itália (Futsal Feminino) x Panamá (Futsal Feminino) - 23/11 09:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Futsal Feminino) x Panamá (Futsal Feminino) - 23/11 09:00 - RTP Play",
-      "pubDate": "Sun, 23 Nov 2025 09:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (B) x Portimonense - 23/11 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x Portimonense - 23/11 11:00 - PortoCanal",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Como 1907 - 24/11 17:30 - SportTV 1",
       "pubDate": "Mon, 24 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Pisa - 24/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Pisa - 24/11 19:45 - SportTV 1",
+      "pubDate": "Mon, 24 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

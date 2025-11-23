@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Karlsruher SC x SV 07 Elversberg - 23/11 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Karlsruher SC x SV 07 Elversberg - 23/11 12:30 - DAZN 3",
-      "pubDate": "Sun, 23 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Rayo Vallecano - 23/11 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Rayo Vallecano - 23/11 13:00 - DAZN 2",
-      "pubDate": "Sun, 23 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Feyenoord x NEC - 23/11 13:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feyenoord x NEC - 23/11 13:30 - DAZN 4",
@@ -292,6 +278,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Everton - 24/11 20:00 - DAZN 1",
       "pubDate": "Mon, 24 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Sevilla - 24/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Sevilla - 24/11 20:00 - DAZN 2",
+      "pubDate": "Mon, 24 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Club x River Plate - 24/11 22:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Club x River Plate - 24/11 22:15 - SportTV 1",
+      "pubDate": "Mon, 24 Nov 2025 22:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Miami Heat (Basket) x Dallas Mavericks (Basket) - 25/11 00:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Miami Heat (Basket) x Dallas Mavericks (Basket) - 25/11 00:30 - SportTV 3",
+      "pubDate": "Tue, 25 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tailândia (Futsal Feminino) x Canadá (Futsal Feminino) - 25/11 10:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tailândia (Futsal Feminino) x Canadá (Futsal Feminino) - 25/11 10:00 - RTP Play",
+      "pubDate": "Tue, 25 Nov 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Futsal Feminino) x Colômbia (Futsal Feminino) - 25/11 12:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Futsal Feminino) x Colômbia (Futsal Feminino) - 25/11 12:30 - RTP Play",
+      "pubDate": "Tue, 25 Nov 2025 12:30:00",
       "guid": ""
     }
   ]

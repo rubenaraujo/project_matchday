@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Hóquei) x FC Porto (Hóquei) - 23/11 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x FC Porto (Hóquei) - 23/11 19:00 - DAZN 4",
-      "pubDate": "Sun, 23 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Internazionale x Milan - 23/11 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Milan - 23/11 19:45 - SportTV 2",
@@ -257,6 +250,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Club Brugge - 26/11 20:00 - SportTV 5",
       "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Bromwich x Birmingham City - 26/11 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Bromwich x Birmingham City - 26/11 20:00 - SportTV 1",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Galatasaray (Voleibol Feminino) - 26/11 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Galatasaray (Voleibol Feminino) - 26/11 20:00 - PortoCanal",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 21:00:00",
       "guid": ""
     }
   ]

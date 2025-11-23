@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo x FC Penafiel - 23/11 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x FC Penafiel - 23/11 14:00 - SportTV +",
-      "pubDate": "Sun, 23 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "RB Leipzig x Werder Bremen - 23/11 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RB Leipzig x Werder Bremen - 23/11 14:30 - DAZN 3",
-      "pubDate": "Sun, 23 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Marítimo (Andebol) - 23/11 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Marítimo (Andebol) - 23/11 15:00 - SportingTv",
-      "pubDate": "Sun, 23 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x Racing Power FC (Feminino) - 23/11 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x Racing Power FC (Feminino) - 23/11 15:00 - PortoCanal",
-      "pubDate": "Sun, 23 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Betis x Girona - 23/11 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Girona - 23/11 15:15 - DAZN 2",
@@ -285,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Benfica - 25/11 17:45 - SportTV 5",
       "pubDate": "Tue, 25 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Union St. Gilloise - 25/11 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Union St. Gilloise - 25/11 17:45 - DAZN 1",
+      "pubDate": "Tue, 25 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Fram Reykjavik (Andebol) - 25/11 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Fram Reykjavik (Andebol) - 25/11 19:45 - PortoCanal",
+      "pubDate": "Tue, 25 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

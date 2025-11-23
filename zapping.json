@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Betis x Girona - 23/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Girona - 23/11 15:15 - DAZN 2",
-      "pubDate": "Sun, 23 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Nogueirense FC x Gondomar SC - 23/11 15:30 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nogueirense FC x Gondomar SC - 23/11 15:30 - Youtube",
-      "pubDate": "Sun, 23 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 23/11 16:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 23/11 16:00 - ABola TV",
-      "pubDate": "Sun, 23 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nantes x Lorient - 23/11 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nantes x Lorient - 23/11 16:15 - SportTV 3",
@@ -271,6 +250,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Fram Reykjavik (Andebol) - 25/11 19:45 - PortoCanal",
       "pubDate": "Tue, 25 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Leicester City - 25/11 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Leicester City - 25/11 20:00 - SportTV 1",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x Orlando Magic (Basket) - 26/11 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x Orlando Magic (Basket) - 26/11 01:00 - SportTV 1",
+      "pubDate": "Wed, 26 Nov 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 26/11 02:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 26/11 02:00 - SportTV 2",
+      "pubDate": "Wed, 26 Nov 2025 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x LA Clippers (Basket) - 26/11 04:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x LA Clippers (Basket) - 26/11 04:00 - SportTV 1",
+      "pubDate": "Wed, 26 Nov 2025 04:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tanzânia (Futsal Feminino) x Nova Zelândia (Futsal Feminino) - 26/11 05:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tanzânia (Futsal Feminino) x Nova Zelândia (Futsal Feminino) - 26/11 05:00 - RTP Play",
+      "pubDate": "Wed, 26 Nov 2025 05:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Japão (Futsal Feminino) - 26/11 07:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Japão (Futsal Feminino) - 26/11 07:30 - RTP2",
+      "pubDate": "Wed, 26 Nov 2025 07:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Irão (Futsal Feminino) x Panamá (Futsal Feminino) - 26/11 10:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Irão (Futsal Feminino) x Panamá (Futsal Feminino) - 26/11 10:00 - RTP Play",
+      "pubDate": "Wed, 26 Nov 2025 10:00:00",
       "guid": ""
     }
   ]

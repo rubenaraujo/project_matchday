@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "title": "Filipinas (Futsal Feminino) x Marrocos (Futsal Feminino) - 24/11 12:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Filipinas (Futsal Feminino) x Marrocos (Futsal Feminino) - 24/11 12:30 - RTP Play",
-      "pubDate": "Mon, 24 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S17) x Brasil (S17) - 24/11 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x Brasil (S17) - 24/11 16:00 - Canal11",
+      "pubDate": "Mon, 24 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Araz Naxçivan (Futsal) x Benfica (Futsal) - 24/11 16:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Araz Naxçivan (Futsal) x Benfica (Futsal) - 24/11 16:00 - BTv",
       "pubDate": "Mon, 24 Nov 2025 16:00:00",
       "guid": ""
     },
@@ -19,6 +19,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Como 1907 - 24/11 17:30 - SportTV 1",
       "pubDate": "Mon, 24 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AEK (Futsal) x Sporting (Futsal) - 24/11 19:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AEK (Futsal) x Sporting (Futsal) - 24/11 19:00 - SportingTv",
+      "pubDate": "Mon, 24 Nov 2025 19:00:00",
       "guid": ""
     },
     {
@@ -326,20 +333,6 @@
       "title": "Arsenal x Bayern München - 26/11 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Bayern München - 26/11 20:00 - DAZN 1",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
       "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     }

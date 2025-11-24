@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Torino x Como 1907 - 24/11 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Como 1907 - 24/11 17:30 - SportTV 1",
-      "pubDate": "Mon, 24 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "AEK (Futsal) x Sporting (Futsal) - 24/11 19:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AEK (Futsal) x Sporting (Futsal) - 24/11 19:00 - SportingTv",
@@ -89,13 +82,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia Dortmund (Jun.A S19) x Villarreal (Jun.A S19) - 25/11 15:00 - DAZN 1",
       "pubDate": "Tue, 25 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x MT Melsungen (Andebol) - 25/11 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x MT Melsungen (Andebol) - 25/11 17:00 - BTv",
-      "pubDate": "Tue, 25 Nov 2025 17:00:00",
       "guid": ""
     },
     {
@@ -326,6 +312,27 @@
       "title": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Tottenham - 26/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Tottenham - 26/11 20:00 - DAZN 2",
       "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     }

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Sassuolo x Pisa - 24/11 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Pisa - 24/11 19:45 - SportTV 1",
-      "pubDate": "Mon, 24 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Everton - 24/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Everton - 24/11 20:00 - DAZN 1",
-      "pubDate": "Mon, 24 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Sevilla - 24/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Sevilla - 24/11 20:00 - DAZN 2",
-      "pubDate": "Mon, 24 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Racing Club x River Plate - 24/11 22:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Club x River Plate - 24/11 22:15 - SportTV 1",
@@ -326,6 +305,13 @@
       "title": "PSG x Tottenham - 26/11 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Tottenham - 26/11 20:00 - DAZN 2",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x Atalanta - 26/11 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x Atalanta - 26/11 20:00 - DAZN",
       "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     }

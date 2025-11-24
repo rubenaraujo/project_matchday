@@ -1,23 +1,9 @@
 {
   "items": [
     {
-      "title": "Dallas Cowboys (Fut. Americano) x Philadelphia Eagles (Fut. Americano) - 23/11 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Cowboys (Fut. Americano) x Philadelphia Eagles (Fut. Americano) - 23/11 21:25 - DAZN 2",
-      "pubDate": "Sun, 23 Nov 2025 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Orlando Magic (Basket) - 23/11 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Orlando Magic (Basket) - 23/11 23:00 - SportTV 1",
-      "pubDate": "Sun, 23 Nov 2025 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x Talleres - 23/11 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Talleres - 23/11 23:00 - SportTV 2",
       "pubDate": "Sun, 23 Nov 2025 23:00:00",
       "guid": ""
     },
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
       "pubDate": "Thu, 27 Nov 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cong An Nhan Dan x Beijing Guoan - 27/11 12:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cong An Nhan Dan x Beijing Guoan - 27/11 12:15 - Canal11",
+      "pubDate": "Thu, 27 Nov 2025 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
+      "pubDate": "Thu, 27 Nov 2025 12:30:00",
       "guid": ""
     }
   ]

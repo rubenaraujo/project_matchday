@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentina (Futsal Feminino) x Polónia (Futsal Feminino) - 24/11 10:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina (Futsal Feminino) x Polónia (Futsal Feminino) - 24/11 10:00 - RTP Play",
-      "pubDate": "Mon, 24 Nov 2025 10:00:00",
-      "guid": ""
-    },
-    {
       "title": "Filipinas (Futsal Feminino) x Marrocos (Futsal Feminino) - 24/11 12:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Filipinas (Futsal Feminino) x Marrocos (Futsal Feminino) - 24/11 12:30 - RTP Play",
@@ -253,9 +246,23 @@
       "guid": ""
     },
     {
+      "title": "Arsenal (Jun.A S19) x Bayern München (Jun.A S19) - 26/11 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal (Jun.A S19) x Bayern München (Jun.A S19) - 26/11 13:00 - DAZN 2",
+      "pubDate": "Wed, 26 Nov 2025 13:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
+      "pubDate": "Wed, 26 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Jun.A S19) x Real Madrid (Jun.A S19) - 26/11 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Jun.A S19) x Real Madrid (Jun.A S19) - 26/11 15:00 - DAZN 2",
       "pubDate": "Wed, 26 Nov 2025 15:00:00",
       "guid": ""
     },
@@ -326,20 +333,6 @@
       "title": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
       "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     }

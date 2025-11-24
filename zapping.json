@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "Polónia (Futsal Feminino) x Argentina (Futsal Feminino) - 24/11 10:00 - RTP Play",
+      "title": "Argentina (Futsal Feminino) x Polónia (Futsal Feminino) - 24/11 10:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia (Futsal Feminino) x Argentina (Futsal Feminino) - 24/11 10:00 - RTP Play",
+      "description": "Argentina (Futsal Feminino) x Polónia (Futsal Feminino) - 24/11 10:00 - RTP Play",
       "pubDate": "Mon, 24 Nov 2025 10:00:00",
       "guid": ""
     },
@@ -85,9 +85,23 @@
       "guid": ""
     },
     {
+      "title": "Chelsea (Jun.A S19) x Barcelona (Jun.A S19) - 25/11 13:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea (Jun.A S19) x Barcelona (Jun.A S19) - 25/11 13:00 - DAZN 1",
+      "pubDate": "Tue, 25 Nov 2025 13:00:00",
+      "guid": ""
+    },
+    {
       "title": "Estoril Praia (S23) x Torreense (S23) - 25/11 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x Torreense (S23) - 25/11 15:00 - Canal11",
+      "pubDate": "Tue, 25 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund (Jun.A S19) x Villarreal (Jun.A S19) - 25/11 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund (Jun.A S19) x Villarreal (Jun.A S19) - 25/11 15:00 - DAZN 1",
       "pubDate": "Tue, 25 Nov 2025 15:00:00",
       "guid": ""
     },
@@ -123,6 +137,55 @@
       "title": "Southampton x Leicester City - 25/11 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Southampton x Leicester City - 25/11 20:00 - SportTV 1",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Barcelona - 25/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Barcelona - 25/11 20:00 - DAZN 1",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Villarreal - 25/11 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Villarreal - 25/11 20:00 - DAZN 3",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Bayer Leverkusen - 25/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Bayer Leverkusen - 25/11 20:00 - DAZN 2",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bodo/Glimt x Juventus - 25/11 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bodo/Glimt x Juventus - 25/11 20:00 - DAZN 4",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Newcastle - 25/11 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Newcastle - 25/11 20:00 - DAZN",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Slavia Praha x Athletic Bilbao - 25/11 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Slavia Praha x Athletic Bilbao - 25/11 20:00 - DAZN",
+      "pubDate": "Tue, 25 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Qarabag - 25/11 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Qarabag - 25/11 20:00 - DAZN",
       "pubDate": "Tue, 25 Nov 2025 20:00:00",
       "guid": ""
     },
@@ -253,80 +316,31 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
+      "title": "Arsenal x Bayern München - 26/11 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 20:30:00",
+      "description": "Arsenal x Bayern München - 26/11 20:00 - DAZN 1",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     },
     {
-      "title": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
+      "title": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 21:00:00",
+      "description": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     },
     {
-      "title": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
+      "title": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 21:00:00",
+      "description": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     },
     {
-      "title": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
+      "title": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Detroit Pistons (Basket) - 26/11 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Detroit Pistons (Basket) - 26/11 22:00 - SportTV 1",
-      "pubDate": "Wed, 26 Nov 2025 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
-      "pubDate": "Thu, 27 Nov 2025 10:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cong An Nhan Dan x Beijing Guoan - 27/11 12:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cong An Nhan Dan x Beijing Guoan - 27/11 12:15 - Canal11",
-      "pubDate": "Thu, 27 Nov 2025 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
-      "pubDate": "Thu, 27 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Winners of Match 101 x Winners of Match 102 - 27/11 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Winners of Match 101 x Winners of Match 102 - 27/11 16:00 - Canal11",
-      "pubDate": "Thu, 27 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
-      "pubDate": "Thu, 27 Nov 2025 19:45:00",
+      "description": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
+      "pubDate": "Wed, 26 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

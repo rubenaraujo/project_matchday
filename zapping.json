@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rosario Central x Estudiantes - 23/11 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Estudiantes - 23/11 20:30 - SportTV 1",
-      "pubDate": "Sun, 23 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Dallas Cowboys (Fut. Americano) x Philadelphia Eagles (Fut. Americano) - 23/11 21:25 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Cowboys (Fut. Americano) x Philadelphia Eagles (Fut. Americano) - 23/11 21:25 - DAZN 2",
@@ -106,10 +99,24 @@
       "guid": ""
     },
     {
+      "title": "Leixões (S23) x Académico (S23) - 25/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Académico (S23) - 25/11 11:00 - Canal11",
+      "pubDate": "Tue, 25 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Espanha (Futsal Feminino) x Colômbia (Futsal Feminino) - 25/11 12:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Futsal Feminino) x Colômbia (Futsal Feminino) - 25/11 12:30 - RTP Play",
       "pubDate": "Tue, 25 Nov 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia (S23) x Torreense (S23) - 25/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Torreense (S23) - 25/11 15:00 - Canal11",
+      "pubDate": "Tue, 25 Nov 2025 15:00:00",
       "guid": ""
     },
     {
@@ -190,6 +197,13 @@
       "guid": ""
     },
     {
+      "title": "FC Vizela (S23) x SC Braga (S23) - 26/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela (S23) x SC Braga (S23) - 26/11 11:00 - Canal11",
+      "pubDate": "Wed, 26 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Brasil (Futsal Feminino) x Itália (Futsal Feminino) - 26/11 12:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Futsal Feminino) x Itália (Futsal Feminino) - 26/11 12:30 - RTP2",
@@ -197,10 +211,24 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - PortoCanal",
+      "title": "Sporting (Jun.A S19) x Club Brugge (Jun.A S19) - 26/11 13:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - PortoCanal",
+      "description": "Sporting (Jun.A S19) x Club Brugge (Jun.A S19) - 26/11 13:00 - Canal11",
+      "pubDate": "Wed, 26 Nov 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
       "pubDate": "Wed, 26 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hungria (Feminino S17) x Portugal (Feminino S17) - 26/11 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hungria (Feminino S17) x Portugal (Feminino S17) - 26/11 16:00 - Canal11",
+      "pubDate": "Wed, 26 Nov 2025 16:00:00",
       "guid": ""
     },
     {
@@ -215,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Kobenhavn x Kairat - 26/11 17:45 - DAZN 2",
       "pubDate": "Wed, 26 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S19) x Kosovo (Feminino S19) - 26/11 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S19) x Kosovo (Feminino S19) - 26/11 18:00 - Canal11",
+      "pubDate": "Wed, 26 Nov 2025 18:00:00",
       "guid": ""
     },
     {
@@ -285,41 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
       "pubDate": "Thu, 27 Nov 2025 10:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
-      "pubDate": "Thu, 27 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
-      "pubDate": "Thu, 27 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fuchse Berlin (Andebol) x Veszprém (Andebol) - 27/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fuchse Berlin (Andebol) x Veszprém (Andebol) - 27/11 19:45 - SportTV 3",
-      "pubDate": "Thu, 27 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rangers x SC Braga - 27/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rangers x SC Braga - 27/11 20:00 - DAZN 1",
-      "pubDate": "Thu, 27 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

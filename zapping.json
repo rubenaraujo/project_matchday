@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Andebol) x Fram Reykjavik (Andebol) - 25/11 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Fram Reykjavik (Andebol) - 25/11 19:45 - PortoCanal",
-      "pubDate": "Tue, 25 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Southampton x Leicester City - 25/11 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x Leicester City - 25/11 20:00 - SportTV 1",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Barcelona - 25/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Barcelona - 25/11 20:00 - DAZN 1",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund x Villarreal - 25/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Villarreal - 25/11 20:00 - DAZN 3",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Bayer Leverkusen - 25/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Bayer Leverkusen - 25/11 20:00 - DAZN 2",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bodo/Glimt x Juventus - 25/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bodo/Glimt x Juventus - 25/11 20:00 - DAZN 4",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Newcastle - 25/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Newcastle - 25/11 20:00 - DAZN",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Slavia Praha x Athletic Bilbao - 25/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Slavia Praha x Athletic Bilbao - 25/11 20:00 - DAZN",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Qarabag - 25/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Qarabag - 25/11 20:00 - DAZN",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia 76ers (Basket) x Orlando Magic (Basket) - 26/11 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia 76ers (Basket) x Orlando Magic (Basket) - 26/11 01:00 - SportTV 1",
@@ -312,6 +249,20 @@
       "title": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
+      "pubDate": "Thu, 27 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Young Boys - 27/11 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Young Boys - 27/11 17:45 - DAZN 1",
+      "pubDate": "Thu, 27 Nov 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Feyenoord x Celtic - 27/11 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feyenoord x Celtic - 27/11 17:45 - DAZN 2",
       "pubDate": "Thu, 27 Nov 2025 17:45:00",
       "guid": ""
     }

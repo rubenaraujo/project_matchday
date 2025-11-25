@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia (S23) x Torreense (S23) - 25/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia (S23) x Torreense (S23) - 25/11 15:00 - Canal11",
-      "pubDate": "Tue, 25 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund (Jun.A S19) x Villarreal (Jun.A S19) - 25/11 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund (Jun.A S19) x Villarreal (Jun.A S19) - 25/11 15:00 - DAZN 1",
-      "pubDate": "Tue, 25 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ajax x Benfica - 25/11 17:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Benfica - 25/11 17:45 - SportTV 5",
@@ -313,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
       "pubDate": "Thu, 27 Nov 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cong An Nhan Dan x Beijing Guoan - 27/11 12:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cong An Nhan Dan x Beijing Guoan - 27/11 12:15 - Canal11",
+      "pubDate": "Thu, 27 Nov 2025 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Filipinas (Futsal Feminino) x Argentina (Futsal Feminino) - 27/11 12:30 - RTP Play",
+      "pubDate": "Thu, 27 Nov 2025 12:30:00",
       "guid": ""
     }
   ]

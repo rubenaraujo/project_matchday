@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Racing Club x River Plate - 24/11 22:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x River Plate - 24/11 22:15 - SportTV 1",
-      "pubDate": "Mon, 24 Nov 2025 22:15:00",
-      "guid": ""
-    },
-    {
       "title": "Miami Heat (Basket) x Dallas Mavericks (Basket) - 25/11 00:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Miami Heat (Basket) x Dallas Mavericks (Basket) - 25/11 00:30 - SportTV 3",
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
       "pubDate": "Wed, 26 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
+      "pubDate": "Wed, 26 Nov 2025 21:00:00",
       "guid": ""
     }
   ]

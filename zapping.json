@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Brasil (Futsal Feminino) x Itália (Futsal Feminino) - 26/11 12:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil (Futsal Feminino) x Itália (Futsal Feminino) - 26/11 12:30 - RTP2",
-      "pubDate": "Wed, 26 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.A S19) x Club Brugge (Jun.A S19) - 26/11 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.A S19) x Club Brugge (Jun.A S19) - 26/11 13:00 - Canal11",
-      "pubDate": "Wed, 26 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal (Jun.A S19) x Bayern München (Jun.A S19) - 26/11 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal (Jun.A S19) x Bayern München (Jun.A S19) - 26/11 13:00 - DAZN 2",
-      "pubDate": "Wed, 26 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
@@ -320,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x SC Paderborn 07 - 28/11 17:30 - DAZN 2",
       "pubDate": "Fri, 28 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Feminino) x Espanha (Feminino) - 28/11 19:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Feminino) x Espanha (Feminino) - 28/11 19:30 - SportTV 6",
+      "pubDate": "Fri, 28 Nov 2025 19:30:00",
       "guid": ""
     }
   ]

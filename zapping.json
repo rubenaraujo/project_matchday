@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Pafos FC x Monaco - 26/11 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pafos FC x Monaco - 26/11 17:45 - DAZN 1",
-      "pubDate": "Wed, 26 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Kobenhavn x Kairat - 26/11 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Kobenhavn x Kairat - 26/11 17:45 - DAZN 2",
-      "pubDate": "Wed, 26 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S19) x Kosovo (Feminino S19) - 26/11 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S19) x Kosovo (Feminino S19) - 26/11 18:00 - Canal11",
-      "pubDate": "Wed, 26 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Crvena Zvezda (Basket) x Olympiacos (Basket) - 26/11 18:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crvena Zvezda (Basket) x Olympiacos (Basket) - 26/11 18:30 - SportTV 2",
@@ -319,6 +298,13 @@
       "title": "Philadelphia Eagles (Fut. Americano) x Chicago Bears (Fut. Americano) - 28/11 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Eagles (Fut. Americano) x Chicago Bears (Fut. Americano) - 28/11 20:00 - DAZN 3",
+      "pubDate": "Fri, 28 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Elche - 28/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Elche - 28/11 20:00 - DAZN 2",
       "pubDate": "Fri, 28 Nov 2025 20:00:00",
       "guid": ""
     }

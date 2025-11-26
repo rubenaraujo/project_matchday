@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x CH Carvalhos (Hóquei) - 26/11 21:00 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x Riba d´Ave (Hóquei) - 26/11 21:00 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Detroit Pistons (Basket) - 26/11 22:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Detroit Pistons (Basket) - 26/11 22:00 - SportTV 1",
@@ -250,6 +229,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Milwaukee Bucks (Basket) - 29/11 00:30 - AmzPrime",
       "pubDate": "Sat, 29 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x Dallas Mavericks (Basket) - 29/11 03:00 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x Dallas Mavericks (Basket) - 29/11 03:00 - AmzPrime",
+      "pubDate": "Sat, 29 Nov 2025 03:00:00",
       "guid": ""
     }
   ]

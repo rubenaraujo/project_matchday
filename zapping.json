@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 26/11 02:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 26/11 02:00 - SportTV 2",
-      "pubDate": "Wed, 26 Nov 2025 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x LA Clippers (Basket) - 26/11 04:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x LA Clippers (Basket) - 26/11 04:00 - SportTV 1",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Arsenal da Devesa (Andebol) - 27/11 20:45 - PortoCanal",
       "pubDate": "Thu, 27 Nov 2025 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Baltimore Ravens (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 28/11 01:20 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Baltimore Ravens (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 28/11 01:20 - DAZN 3",
+      "pubDate": "Fri, 28 Nov 2025 01:20:00",
       "guid": ""
     }
   ]

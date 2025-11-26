@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Real Betis (Jun.A S19) - 26/11 15:00 - Canal11",
-      "pubDate": "Wed, 26 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos (Jun.A S19) x Real Madrid (Jun.A S19) - 26/11 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Jun.A S19) x Real Madrid (Jun.A S19) - 26/11 15:00 - DAZN 2",
-      "pubDate": "Wed, 26 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hungria (Feminino S17) x Portugal (Feminino S17) - 26/11 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hungria (Feminino S17) x Portugal (Feminino S17) - 26/11 16:00 - Canal11",
@@ -306,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Feminino) x Espanha (Feminino) - 28/11 19:30 - SportTV 6",
       "pubDate": "Fri, 28 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia M´gladbach x RB Leipzig - 28/11 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia M´gladbach x RB Leipzig - 28/11 19:30 - DAZN 1",
+      "pubDate": "Fri, 28 Nov 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz x Rennes - 28/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz x Rennes - 28/11 19:45 - SportTV 3",
+      "pubDate": "Fri, 28 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Sassuolo - 28/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Sassuolo - 28/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 28 Nov 2025 19:45:00",
       "guid": ""
     }
   ]

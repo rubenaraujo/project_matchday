@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x Club Brugge - 26/11 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Club Brugge - 26/11 20:00 - SportTV 5",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Bromwich x Birmingham City - 26/11 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Bromwich x Birmingham City - 26/11 20:00 - SportTV 1",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Galatasaray (Voleibol Feminino) - 26/11 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Galatasaray (Voleibol Feminino) - 26/11 20:00 - PortoCanal",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Bayern München - 26/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Bayern München - 26/11 20:00 - DAZN 1",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos x Real Madrid - 26/11 20:00 - DAZN 4",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Internazionale - 26/11 20:00 - DAZN",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x PSV - 26/11 20:00 - DAZN 3",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Tottenham - 26/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Tottenham - 26/11 20:00 - DAZN 2",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Atalanta - 26/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Atalanta - 26/11 20:00 - DAZN",
-      "pubDate": "Wed, 26 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Juventude Pacense (Hóquei) - 26/11 20:30 - FPP TV",
-      "pubDate": "Wed, 26 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Póvoa (Hóquei) x HC Braga (Hóquei) - 26/11 21:00 - FPP TV",
@@ -299,6 +229,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Getafe x Elche - 28/11 20:00 - DAZN 2",
       "pubDate": "Fri, 28 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x AFS - 28/11 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x AFS - 28/11 20:15 - SportTV 1",
+      "pubDate": "Fri, 28 Nov 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Buffalo Sabres (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 28/11 21:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Buffalo Sabres (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 28/11 21:00 - SportTV 4",
+      "pubDate": "Fri, 28 Nov 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Knicks (Basket) x Milwaukee Bucks (Basket) - 29/11 00:30 - AmzPrime",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Knicks (Basket) x Milwaukee Bucks (Basket) - 29/11 00:30 - AmzPrime",
+      "pubDate": "Sat, 29 Nov 2025 00:30:00",
       "guid": ""
     }
   ]

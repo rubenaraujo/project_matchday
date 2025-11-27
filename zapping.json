@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
-      "pubDate": "Thu, 27 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fuchse Berlin (Andebol) x Veszprém (Andebol) - 27/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fuchse Berlin (Andebol) x Veszprém (Andebol) - 27/11 19:45 - SportTV 3",
-      "pubDate": "Thu, 27 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rangers x SC Braga - 27/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rangers x SC Braga - 27/11 20:00 - DAZN 1",
-      "pubDate": "Thu, 27 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Malmö - 27/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Malmö - 27/11 20:00 - DAZN 2",
-      "pubDate": "Thu, 27 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Maccabi Tel Aviv x Lyon - 27/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Maccabi Tel Aviv x Lyon - 27/11 20:00 - DAZN 3",
-      "pubDate": "Thu, 27 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x AEK - 27/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x AEK - 27/11 20:00 - DAZN 4",
-      "pubDate": "Thu, 27 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Andebol) x Arsenal da Devesa (Andebol) - 27/11 20:45 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Arsenal da Devesa (Andebol) - 27/11 20:45 - PortoCanal",
@@ -306,6 +264,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Bromwich x Swansea City - 29/11 15:00 - SportTV 6",
       "pubDate": "Sat, 29 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Alavés - 29/11 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Alavés - 29/11 15:15 - DAZN 2",
+      "pubDate": "Sat, 29 Nov 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x FC Famalicão - 29/11 15:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x FC Famalicão - 29/11 15:30 - V+",
+      "pubDate": "Sat, 29 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x FC Alverca - 29/11 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x FC Alverca - 29/11 15:30 - SportTV 1",
+      "pubDate": "Sat, 29 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x PSG - 29/11 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x PSG - 29/11 16:00 - SportTV 3",
+      "pubDate": "Sat, 29 Nov 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 29/11 16:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 29/11 16:00 - AndebolTV",
+      "pubDate": "Sat, 29 Nov 2025 16:00:00",
       "guid": ""
     }
   ]

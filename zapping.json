@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Detroit Pistons (Basket) - 26/11 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Detroit Pistons (Basket) - 26/11 22:00 - SportTV 1",
-      "pubDate": "Wed, 26 Nov 2025 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia (Futsal Feminino) x Marrocos (Futsal Feminino) - 27/11 10:00 - RTP Play",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x Leixões - 29/11 14:00 - SportTV +",
       "pubDate": "Sat, 29 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Udinese - 29/11 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Udinese - 29/11 14:00 - SportTV 2",
+      "pubDate": "Sat, 29 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x FC St. Pauli - 29/11 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x FC St. Pauli - 29/11 14:30 - DAZN 3",
+      "pubDate": "Sat, 29 Nov 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x USC Paredes - 29/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x USC Paredes - 29/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 29 Nov 2025 15:00:00",
       "guid": ""
     }
   ]

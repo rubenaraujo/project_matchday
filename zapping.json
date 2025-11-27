@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Nice - 27/11 17:45 - SportTV 5",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Young Boys - 27/11 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Young Boys - 27/11 17:45 - DAZN 1",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Feyenoord x Celtic - 27/11 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Celtic - 27/11 17:45 - DAZN 2",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Midtjylland - 27/11 17:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Midtjylland - 27/11 17:45 - DAZN 3",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "AZ Alkmaar x Shelbourne - 27/11 17:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x Shelbourne - 27/11 17:45 - DAZN 4",
-      "pubDate": "Thu, 27 Nov 2025 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Andebol) x Kolstad IL (Andebol) - 27/11 19:45 - SportingTv",
@@ -333,6 +298,13 @@
       "title": "ABC (Andebol) x Belenenses (Andebol) - 29/11 15:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "ABC (Andebol) x Belenenses (Andebol) - 29/11 15:00 - ABola TV",
+      "pubDate": "Sat, 29 Nov 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Bromwich x Swansea City - 29/11 15:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Bromwich x Swansea City - 29/11 15:00 - SportTV 6",
       "pubDate": "Sat, 29 Nov 2025 15:00:00",
       "guid": ""
     }

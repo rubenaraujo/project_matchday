@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Kholood x Al-Khaleej - 28/11 14:50 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Kholood x Al-Khaleej - 28/11 14:50 - SportTV 1",
-      "pubDate": "Fri, 28 Nov 2025 14:50:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Ahli Jeddah x Al-Qadisiyah - 28/11 17:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ahli Jeddah x Al-Qadisiyah - 28/11 17:30 - SportTV 1",
@@ -340,6 +333,13 @@
       "title": "Bayer Leverkusen x Borussia Dortmund - 29/11 17:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayer Leverkusen x Borussia Dortmund - 29/11 17:30 - DAZN 3",
+      "pubDate": "Sat, 29 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Albacete x Deportivo - 29/11 17:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Albacete x Deportivo - 29/11 17:30 - DAZN 4",
       "pubDate": "Sat, 29 Nov 2025 17:30:00",
       "guid": ""
     }

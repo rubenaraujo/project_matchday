@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Canadá (Futsal Feminino) x Espanha (Futsal Feminino) - 28/11 12:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Canadá (Futsal Feminino) x Espanha (Futsal Feminino) - 28/11 12:30 - RTP Play",
-      "pubDate": "Fri, 28 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Kholood x Al-Khaleej - 28/11 14:50 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Kholood x Al-Khaleej - 28/11 14:50 - SportTV 1",
@@ -340,6 +333,13 @@
       "title": "Levante x Athletic Bilbao - 29/11 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Levante x Athletic Bilbao - 29/11 17:30 - DAZN 2",
+      "pubDate": "Sat, 29 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x Borussia Dortmund - 29/11 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x Borussia Dortmund - 29/11 17:30 - DAZN 3",
       "pubDate": "Sat, 29 Nov 2025 17:30:00",
       "guid": ""
     }

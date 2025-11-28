@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Baltimore Ravens (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 28/11 01:20 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Baltimore Ravens (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 28/11 01:20 - DAZN 3",
-      "pubDate": "Fri, 28 Nov 2025 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Tailândia (Futsal Feminino) x Colômbia (Futsal Feminino) - 28/11 10:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tailândia (Futsal Feminino) x Colômbia (Futsal Feminino) - 28/11 10:00 - RTP Play",
@@ -347,6 +340,13 @@
       "title": "Everton x Newcastle - 29/11 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Everton x Newcastle - 29/11 17:30 - DAZN 1",
+      "pubDate": "Sat, 29 Nov 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Athletic Bilbao - 29/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Athletic Bilbao - 29/11 17:30 - DAZN 2",
       "pubDate": "Sat, 29 Nov 2025 17:30:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Nova Zelândia (Futsal Feminino) x Portugal (Futsal Feminino) - 29/11 06:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nova Zelândia (Futsal Feminino) x Portugal (Futsal Feminino) - 29/11 06:30 - RTP2",
-      "pubDate": "Sat, 29 Nov 2025 06:30:00",
-      "guid": ""
-    },
-    {
       "title": "Irão (Futsal Feminino) x Itália (Futsal Feminino) - 29/11 09:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Irão (Futsal Feminino) x Itália (Futsal Feminino) - 29/11 09:00 - RTP Play",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valladolid x Málaga - 29/11 20:00 - DAZN 3",
       "pubDate": "Sat, 29 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Toulouse - 29/11 20:05 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Toulouse - 29/11 20:05 - SportTV 4",
+      "pubDate": "Sat, 29 Nov 2025 20:05:00",
       "guid": ""
     }
   ]

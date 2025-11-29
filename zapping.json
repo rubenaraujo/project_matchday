@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "U. Santarém x Académica OAF - 29/11 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Académica OAF - 29/11 17:00 - C11 Stream",
-      "pubDate": "Sat, 29 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica (Hóquei) x FC Porto (Hóquei) - 29/11 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica (Hóquei) x FC Porto (Hóquei) - 29/11 17:00 - PortoCanal",
-      "pubDate": "Sat, 29 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Cagliari - 29/11 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Cagliari - 29/11 17:00 - SportTV 2",
-      "pubDate": "Sat, 29 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trabzonspor x Konyaspor - 29/11 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trabzonspor x Konyaspor - 29/11 17:00 - SportTV 5",
-      "pubDate": "Sat, 29 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Ittihad Jeddah x Al-Shabab - 29/11 17:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ittihad Jeddah x Al-Shabab - 29/11 17:30 - SportTV 4",
@@ -243,6 +215,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x FC Volendam - 30/11 11:15 - DAZN 4",
       "pubDate": "Sun, 30 Nov 2025 11:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Torino - 30/11 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Torino - 30/11 11:30 - SportTV 2",
+      "pubDate": "Sun, 30 Nov 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Manchester United - 30/11 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Manchester United - 30/11 12:00 - DAZN 1",
+      "pubDate": "Sun, 30 Nov 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hibernian x Celtic - 30/11 12:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hibernian x Celtic - 30/11 12:00 - SportTV 6",
+      "pubDate": "Sun, 30 Nov 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SV 07 Elversberg x Darmstadt 98 - 30/11 12:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SV 07 Elversberg x Darmstadt 98 - 30/11 12:30 - DAZN 3",
+      "pubDate": "Sun, 30 Nov 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Villarreal - 30/11 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Villarreal - 30/11 13:00 - DAZN 2",
+      "pubDate": "Sun, 30 Nov 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x Lusit. Évora - 30/11 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x Lusit. Évora - 30/11 14:00 - Canal11",
+      "pubDate": "Sun, 30 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Marítimo - 30/11 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Marítimo - 30/11 14:00 - SportTV +",
+      "pubDate": "Sun, 30 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Internazionale - 30/11 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Internazionale - 30/11 14:00 - SportTV 2",
+      "pubDate": "Sun, 30 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Brest - 30/11 14:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Brest - 30/11 14:00 - SportTV 4",
+      "pubDate": "Sun, 30 Nov 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Liverpool - 30/11 14:05 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Liverpool - 30/11 14:05 - DAZN 1",
+      "pubDate": "Sun, 30 Nov 2025 14:05:00",
       "guid": ""
     }
   ]

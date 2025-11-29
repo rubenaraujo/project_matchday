@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Oliveirense x Leixões - 29/11 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense x Leixões - 29/11 14:00 - SportTV +",
-      "pubDate": "Sat, 29 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Udinese - 29/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Udinese - 29/11 14:00 - SportTV 2",
-      "pubDate": "Sat, 29 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bayern München x FC St. Pauli - 29/11 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x FC St. Pauli - 29/11 14:30 - DAZN 3",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x Boston Celtics (Basket) - 29/11 22:00 - SportTV 1",
       "pubDate": "Sat, 29 Nov 2025 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Central Córdoba S.Estero x Estudiantes - 30/11 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Central Córdoba S.Estero x Estudiantes - 30/11 00:30 - SportTV 2",
+      "pubDate": "Sun, 30 Nov 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x New Orleans Pelicans (Basket) - 30/11 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x New Orleans Pelicans (Basket) - 30/11 01:30 - SportTV 1",
+      "pubDate": "Sun, 30 Nov 2025 01:30:00",
       "guid": ""
     }
   ]

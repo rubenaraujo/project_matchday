@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Ittihad Jeddah x Al-Shabab - 29/11 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Shabab - 29/11 17:30 - SportTV 4",
-      "pubDate": "Sat, 29 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S19) x Islândia (Feminino S19) - 29/11 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S19) x Islândia (Feminino S19) - 29/11 17:30 - Canal11",
-      "pubDate": "Sat, 29 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Newcastle - 29/11 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Newcastle - 29/11 17:30 - DAZN 1",
-      "pubDate": "Sat, 29 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Athletic Bilbao - 29/11 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Athletic Bilbao - 29/11 17:30 - DAZN 2",
-      "pubDate": "Sat, 29 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x Borussia Dortmund - 29/11 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Borussia Dortmund - 29/11 17:30 - DAZN 3",
-      "pubDate": "Sat, 29 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Albacete x Deportivo - 29/11 17:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Albacete x Deportivo - 29/11 17:30 - DAZN 4",
-      "pubDate": "Sat, 29 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Benfica - 29/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Benfica - 29/11 18:00 - SportTV 1",
-      "pubDate": "Sat, 29 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Auxerre - 29/11 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Auxerre - 29/11 18:00 - SportTV 3",
-      "pubDate": "Sat, 29 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Águas Santas (Andebol) x Póvoa AC (Andebol) - 29/11 18:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águas Santas (Andebol) x Póvoa AC (Andebol) - 29/11 18:30 - AndebolTV",
@@ -285,6 +229,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Ham x Liverpool - 30/11 14:05 - DAZN 1",
       "pubDate": "Sun, 30 Nov 2025 14:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Wolverhampton - 30/11 14:05 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Wolverhampton - 30/11 14:05 - DAZN 4",
+      "pubDate": "Sun, 30 Nov 2025 14:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Hamburger SV x Stuttgart - 30/11 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hamburger SV x Stuttgart - 30/11 14:30 - DAZN 3",
+      "pubDate": "Sun, 30 Nov 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Real Betis - 30/11 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Real Betis - 30/11 15:15 - DAZN 2",
+      "pubDate": "Sun, 30 Nov 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Farense - 30/11 15:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Farense - 30/11 15:30 - SportingTv",
+      "pubDate": "Sun, 30 Nov 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x Santa Clara - 30/11 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x Santa Clara - 30/11 15:30 - SportTV 1",
+      "pubDate": "Sun, 30 Nov 2025 15:30:00",
       "guid": ""
     }
   ]

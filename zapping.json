@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Gil Vicente x CD Tondela - 29/11 20:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x CD Tondela - 29/11 20:30 - SportTV 3",
-      "pubDate": "Sat, 29 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Clube dos Galitos (Basket Feminino) x Sporting (Basket Feminino) - 29/11 21:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Clube dos Galitos (Basket Feminino) x Sporting (Basket Feminino) - 29/11 21:00 - ABola TV",
-      "pubDate": "Sat, 29 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Palmeiras x Flamengo - 29/11 21:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Flamengo - 29/11 21:00 - SportTV 2",
@@ -243,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Caldas SC x Amora FC - 30/11 18:00 - Canal11",
       "pubDate": "Sun, 30 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Est. Amadora - 30/11 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Est. Amadora - 30/11 18:00 - SportTV 2",
+      "pubDate": "Sun, 30 Nov 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
+      "pubDate": "Sun, 30 Nov 2025 18:30:00",
       "guid": ""
     }
   ]

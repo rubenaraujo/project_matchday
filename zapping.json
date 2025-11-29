@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Philadelphia Eagles (Fut. Americano) x Chicago Bears (Fut. Americano) - 28/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia Eagles (Fut. Americano) x Chicago Bears (Fut. Americano) - 28/11 20:00 - DAZN 3",
-      "pubDate": "Fri, 28 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Buffalo Sabres (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 28/11 21:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Buffalo Sabres (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 28/11 21:00 - SportTV 4",
-      "pubDate": "Fri, 28 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Milwaukee Bucks (Basket) - 29/11 00:30 - AmzPrime",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Milwaukee Bucks (Basket) - 29/11 00:30 - AmzPrime",
@@ -299,6 +285,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águas Santas (Andebol) x Póvoa AC (Andebol) - 29/11 18:30 - AndebolTV",
       "pubDate": "Sat, 29 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Rangers (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 29/11 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Rangers (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 29/11 19:00 - SportTV 6",
+      "pubDate": "Sat, 29 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Lazio - 29/11 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Lazio - 29/11 19:45 - SportTV 7",
+      "pubDate": "Sat, 29 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "ADCR Caxinas Poça Barca (Futsal) x Eléctrico (Futsal) - 29/11 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ADCR Caxinas Poça Barca (Futsal) x Eléctrico (Futsal) - 29/11 20:00 - C11 Stream",
+      "pubDate": "Sat, 29 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Fundão (Futsal) x FC Famalicão (Futsal) - 29/11 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Fundão (Futsal) x FC Famalicão (Futsal) - 29/11 20:00 - C11 Stream",
+      "pubDate": "Sat, 29 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x Leões Porto Salvo (Futsal) - 29/11 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x Leões Porto Salvo (Futsal) - 29/11 20:00 - Canal11",
+      "pubDate": "Sat, 29 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x Torreense (Futsal) - 29/11 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Torreense (Futsal) - 29/11 20:00 - C11 Stream",
+      "pubDate": "Sat, 29 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x SC Braga (Futsal) - 29/11 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x SC Braga (Futsal) - 29/11 20:00 - C11 Stream",
+      "pubDate": "Sat, 29 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Futsal) x Quinta dos Lombos (Futsal) - 29/11 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Futsal) x Quinta dos Lombos (Futsal) - 29/11 20:00 - C11 Stream",
+      "pubDate": "Sat, 29 Nov 2025 20:00:00",
       "guid": ""
     }
   ]

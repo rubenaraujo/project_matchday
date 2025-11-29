@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Sunderland x Bournemouth - 29/11 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Bournemouth - 29/11 15:00 - DAZN 4",
-      "pubDate": "Sat, 29 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x Ala Nun´Álvares (Voleibol) - 29/11 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Ala Nun´Álvares (Voleibol) - 29/11 15:00 - SportingTv",
-      "pubDate": "Sat, 29 Nov 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Alavés - 29/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Alavés - 29/11 15:15 - DAZN 2",
-      "pubDate": "Sat, 29 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Moreirense x FC Famalicão - 29/11 15:30 - V+",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x FC Famalicão - 29/11 15:30 - V+",
-      "pubDate": "Sat, 29 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x FC Alverca - 29/11 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x FC Alverca - 29/11 15:30 - SportTV 1",
-      "pubDate": "Sat, 29 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x PSG - 29/11 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x PSG - 29/11 16:00 - SportTV 3",
-      "pubDate": "Sat, 29 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 29/11 16:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 29/11 16:00 - AndebolTV",
-      "pubDate": "Sat, 29 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "U. Santarém x Académica OAF - 29/11 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x Académica OAF - 29/11 17:00 - C11 Stream",
@@ -278,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x Lusitânia de Lourosa - 30/11 11:00 - PortoCanal",
       "pubDate": "Sun, 30 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x GD Chaves - 30/11 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x GD Chaves - 30/11 11:00 - SportTV 1",
+      "pubDate": "Sun, 30 Nov 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x FC Volendam - 30/11 11:15 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x FC Volendam - 30/11 11:15 - DAZN 4",
+      "pubDate": "Sun, 30 Nov 2025 11:15:00",
       "guid": ""
     }
   ]

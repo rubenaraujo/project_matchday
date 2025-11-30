@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Palmeiras x Flamengo - 29/11 21:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Flamengo - 29/11 21:00 - SportTV 2",
-      "pubDate": "Sat, 29 Nov 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Timberwolves (Basket) x Boston Celtics (Basket) - 29/11 22:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x Boston Celtics (Basket) - 29/11 22:00 - SportTV 1",
@@ -243,6 +236,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
       "pubDate": "Sun, 30 Nov 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x FC Groningen - 30/11 19:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x FC Groningen - 30/11 19:00 - DAZN 1",
+      "pubDate": "Sun, 30 Nov 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Napoli - 30/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Napoli - 30/11 19:45 - SportTV 4",
+      "pubDate": "Sun, 30 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Nantes - 30/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Nantes - 30/11 19:45 - SportTV 3",
+      "pubDate": "Sun, 30 Nov 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Girona x Real Madrid - 30/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Girona x Real Madrid - 30/11 20:00 - DAZN 2",
+      "pubDate": "Sun, 30 Nov 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Estoril Praia - 30/11 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Estoril Praia - 30/11 20:30 - SportTV 1",
+      "pubDate": "Sun, 30 Nov 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Argentinos Juniors - 30/11 21:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Argentinos Juniors - 30/11 21:30 - SportTV 6",
+      "pubDate": "Sun, 30 Nov 2025 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Boston Celtics (Basket) - 30/11 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Boston Celtics (Basket) - 30/11 23:00 - SportTV 2",
+      "pubDate": "Sun, 30 Nov 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Commanders (Fut. Americano) x Denver Broncos (Fut. Americano) - 01/12 01:20 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Commanders (Fut. Americano) x Denver Broncos (Fut. Americano) - 01/12 01:20 - DAZN 1",
+      "pubDate": "Mon, 01 Dec 2025 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentina (Futsal Feminino) x Colômbia (Futsal Feminino) - 01/12 10:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentina (Futsal Feminino) x Colômbia (Futsal Feminino) - 01/12 10:00 - RTP Play",
+      "pubDate": "Mon, 01 Dec 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Futsal Feminino) x Marrocos (Futsal Feminino) - 01/12 12:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Futsal Feminino) x Marrocos (Futsal Feminino) - 01/12 12:30 - RTP Play",
+      "pubDate": "Mon, 01 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x FC Felgueiras - 01/12 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x FC Felgueiras - 01/12 14:00 - SportTV 1",
+      "pubDate": "Mon, 01 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GC Santo Tirso (Voleibol) x Benfica (Voleibol) - 01/12 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GC Santo Tirso (Voleibol) x Benfica (Voleibol) - 01/12 15:00 - SportTV 2",
+      "pubDate": "Mon, 01 Dec 2025 15:00:00",
       "guid": ""
     }
   ]

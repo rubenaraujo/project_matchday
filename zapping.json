@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Ajax x FC Groningen - 30/11 19:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x FC Groningen - 30/11 19:00 - DAZN 1",
-      "pubDate": "Sun, 30 Nov 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Estoril Praia - 30/11 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Estoril Praia - 30/11 20:30 - SportTV 1",
-      "pubDate": "Sun, 30 Nov 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Argentinos Juniors - 30/11 21:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Argentinos Juniors - 30/11 21:30 - SportTV 6",
@@ -306,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Marseille - 05/12 20:00 - SportTV 2",
       "pubDate": "Fri, 05 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
+      "pubDate": "Fri, 05 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Sporting - 05/12 20:15 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Sporting - 05/12 20:15 - BTv",
+      "pubDate": "Fri, 05 Dec 2025 20:15:00",
       "guid": ""
     }
   ]

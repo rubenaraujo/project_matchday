@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Roma x Napoli - 30/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Napoli - 30/11 19:45 - SportTV 4",
-      "pubDate": "Sun, 30 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Nantes - 30/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Nantes - 30/11 19:45 - SportTV 3",
-      "pubDate": "Sun, 30 Nov 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Real Madrid - 30/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Real Madrid - 30/11 20:00 - DAZN 2",
-      "pubDate": "Sun, 30 Nov 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Estoril Praia - 30/11 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Estoril Praia - 30/11 20:30 - SportTV 1",
@@ -306,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x UD Leiria - 05/12 18:00 - SportTV +",
       "pubDate": "Fri, 05 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crvena Zvezda (Basket) x FC Barcelona (Basket) - 05/12 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crvena Zvezda (Basket) x FC Barcelona (Basket) - 05/12 19:00 - SportTV 3",
+      "pubDate": "Fri, 05 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Salford City x Leyton Orient - 05/12 19:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Salford City x Leyton Orient - 05/12 19:30 - SportTV 7",
+      "pubDate": "Fri, 05 Dec 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Marseille - 05/12 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Marseille - 05/12 20:00 - SportTV 2",
+      "pubDate": "Fri, 05 Dec 2025 20:00:00",
       "guid": ""
     }
   ]

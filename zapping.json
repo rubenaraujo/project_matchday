@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Minnesota Timberwolves (Basket) x Boston Celtics (Basket) - 29/11 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Timberwolves (Basket) x Boston Celtics (Basket) - 29/11 22:00 - SportTV 1",
-      "pubDate": "Sat, 29 Nov 2025 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Central Córdoba S.Estero x Estudiantes - 30/11 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Central Córdoba S.Estero x Estudiantes - 30/11 00:30 - SportTV 2",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GC Santo Tirso (Voleibol) x Benfica (Voleibol) - 01/12 15:00 - SportTV 2",
       "pubDate": "Mon, 01 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Galatasaray - 01/12 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Galatasaray - 01/12 17:00 - SportTV 1",
+      "pubDate": "Mon, 01 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

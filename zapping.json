@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Le Havre x Lille - 30/11 16:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Le Havre x Lille - 30/11 16:15 - SportTV 7",
-      "pubDate": "Sun, 30 Nov 2025 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Arsenal - 30/11 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Arsenal - 30/11 16:30 - DAZN 1",
-      "pubDate": "Sun, 30 Nov 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Wolfsburg - 30/11 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Wolfsburg - 30/11 16:30 - DAZN 3",
-      "pubDate": "Sun, 30 Nov 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Karagumruk x Besiktas - 30/11 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Karagumruk x Besiktas - 30/11 17:00 - SportTV 5",
-      "pubDate": "Sun, 30 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Fiorentina - 30/11 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Fiorentina - 30/11 17:00 - SportTV 4",
-      "pubDate": "Sun, 30 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Andebol) x FC Gaia (Andebol) - 30/11 17:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x FC Gaia (Andebol) - 30/11 17:00 - AndebolTV",
-      "pubDate": "Sun, 30 Nov 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Celta de Vigo x Espanyol - 30/11 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celta de Vigo x Espanyol - 30/11 17:30 - DAZN 2",
@@ -278,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dundee United x Rangers - 03/12 19:45 - SportTV 2",
       "pubDate": "Wed, 03 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Venezia - 03/12 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Venezia - 03/12 20:00 - SportTV 1",
+      "pubDate": "Wed, 03 Dec 2025 20:00:00",
       "guid": ""
     }
   ]

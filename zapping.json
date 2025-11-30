@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Mafra x Lusit. Évora - 30/11 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Lusit. Évora - 30/11 14:00 - Canal11",
-      "pubDate": "Sun, 30 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portimonense x Marítimo - 30/11 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense x Marítimo - 30/11 14:00 - SportTV +",
-      "pubDate": "Sun, 30 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Internazionale - 30/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Internazionale - 30/11 14:00 - SportTV 2",
-      "pubDate": "Sun, 30 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Brest - 30/11 14:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Brest - 30/11 14:00 - SportTV 4",
-      "pubDate": "Sun, 30 Nov 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Liverpool - 30/11 14:05 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Liverpool - 30/11 14:05 - DAZN 1",
-      "pubDate": "Sun, 30 Nov 2025 14:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Wolverhampton - 30/11 14:05 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Wolverhampton - 30/11 14:05 - DAZN 4",
-      "pubDate": "Sun, 30 Nov 2025 14:05:00",
-      "guid": ""
-    },
-    {
       "title": "Hamburger SV x Stuttgart - 30/11 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hamburger SV x Stuttgart - 30/11 14:30 - DAZN 3",
@@ -285,6 +243,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Chicago Bulls (Basket) - 02/12 00:30 - SportTV 1",
       "pubDate": "Tue, 02 Dec 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x Phoenix Suns (Basket) - 02/12 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x Phoenix Suns (Basket) - 02/12 03:00 - SportTV 1",
+      "pubDate": "Tue, 02 Dec 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Itália (Futsal Feminino) - 02/12 10:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Itália (Futsal Feminino) - 02/12 10:00 - RTP2",
+      "pubDate": "Tue, 02 Dec 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
+      "pubDate": "Tue, 02 Dec 2025 12:30:00",
       "guid": ""
     }
   ]

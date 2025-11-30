@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Hamburger SV x Stuttgart - 30/11 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hamburger SV x Stuttgart - 30/11 14:30 - DAZN 3",
-      "pubDate": "Sun, 30 Nov 2025 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Sevilla x Real Betis - 30/11 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Real Betis - 30/11 15:15 - DAZN 2",
@@ -264,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
       "pubDate": "Tue, 02 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Feminino) x Alemanha (Feminino) - 02/12 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Feminino) x Alemanha (Feminino) - 02/12 17:30 - SportTV 2",
+      "pubDate": "Tue, 02 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Udinese - 02/12 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Udinese - 02/12 20:00 - SportTV 1",
+      "pubDate": "Tue, 02 Dec 2025 20:00:00",
       "guid": ""
     }
   ]

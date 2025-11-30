@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Central Córdoba S.Estero x Estudiantes - 30/11 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Central Córdoba S.Estero x Estudiantes - 30/11 00:30 - SportTV 2",
-      "pubDate": "Sun, 30 Nov 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Golden State Warriors (Basket) x New Orleans Pelicans (Basket) - 30/11 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Golden State Warriors (Basket) x New Orleans Pelicans (Basket) - 30/11 01:30 - SportTV 1",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fenerbahçe x Galatasaray - 01/12 17:00 - SportTV 1",
       "pubDate": "Mon, 01 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Feirense - 01/12 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Feirense - 01/12 18:00 - SportTV +",
+      "pubDate": "Mon, 01 Dec 2025 18:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "SV 07 Elversberg x Darmstadt 98 - 30/11 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SV 07 Elversberg x Darmstadt 98 - 30/11 12:30 - DAZN 3",
-      "pubDate": "Sun, 30 Nov 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Villarreal - 30/11 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Villarreal - 30/11 13:00 - DAZN 2",
-      "pubDate": "Sun, 30 Nov 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "CD Mafra x Lusit. Évora - 30/11 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Mafra x Lusit. Évora - 30/11 14:00 - Canal11",
@@ -271,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bologna x Cremonese - 01/12 19:45 - SportTV 2",
       "pubDate": "Mon, 01 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Valencia - 01/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Valencia - 01/12 20:00 - DAZN 1",
+      "pubDate": "Mon, 01 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Watford - 01/12 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Watford - 01/12 20:00 - SportTV 3",
+      "pubDate": "Mon, 01 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
+      "pubDate": "Mon, 01 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x Chicago Bulls (Basket) - 02/12 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x Chicago Bulls (Basket) - 02/12 00:30 - SportTV 1",
+      "pubDate": "Tue, 02 Dec 2025 00:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
-      "pubDate": "Sun, 30 Nov 2025 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Ajax x FC Groningen - 30/11 19:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x FC Groningen - 30/11 19:00 - DAZN 1",
@@ -271,6 +264,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Wizards (Basket) x Boston Celtics (Basket) - 05/12 00:00 - SportTV 1",
       "pubDate": "Fri, 05 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brooklyn Nets (Basket) x Utah Jazz (Basket) - 05/12 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brooklyn Nets (Basket) x Utah Jazz (Basket) - 05/12 00:30 - SportTV 2",
+      "pubDate": "Fri, 05 Dec 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SF1 x SF2 - 05/12 10:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SF1 x SF2 - 05/12 10:00 - RTP Play",
+      "pubDate": "Fri, 05 Dec 2025 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SF3 x SF4 - 05/12 12:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SF3 x SF4 - 05/12 12:30 - RTP2",
+      "pubDate": "Fri, 05 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
+      "pubDate": "Fri, 05 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Monaco - 05/12 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Monaco - 05/12 18:00 - SportTV 2",
+      "pubDate": "Fri, 05 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x UD Leiria - 05/12 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x UD Leiria - 05/12 18:00 - SportTV +",
+      "pubDate": "Fri, 05 Dec 2025 18:00:00",
       "guid": ""
     }
   ]

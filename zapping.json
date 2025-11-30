@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Celta de Vigo x Espanyol - 30/11 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Espanyol - 30/11 17:30 - DAZN 2",
-      "pubDate": "Sun, 30 Nov 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Amora FC - 30/11 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Amora FC - 30/11 18:00 - Canal11",
-      "pubDate": "Sun, 30 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Est. Amadora - 30/11 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Est. Amadora - 30/11 18:00 - SportTV 2",
-      "pubDate": "Sun, 30 Nov 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Mainz - 30/11 18:30 - DAZN 3",
@@ -243,6 +222,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Venezia - 03/12 20:00 - SportTV 1",
       "pubDate": "Wed, 03 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
+      "pubDate": "Thu, 04 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x San Antonio Spurs (Basket) - 04/12 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x San Antonio Spurs (Basket) - 04/12 00:00 - SportTV 1",
+      "pubDate": "Thu, 04 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bahçesehir Koleji (Basket) x KK Neptunas (Basket) - 04/12 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bahçesehir Koleji (Basket) x KK Neptunas (Basket) - 04/12 16:00 - SportTV 3",
+      "pubDate": "Thu, 04 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Parma - 04/12 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Parma - 04/12 17:00 - SportTV 2",
+      "pubDate": "Thu, 04 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Milan - 04/12 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Milan - 04/12 20:00 - SportTV 2",
+      "pubDate": "Thu, 04 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
+      "pubDate": "Thu, 04 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Wizards (Basket) x Boston Celtics (Basket) - 05/12 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Wizards (Basket) x Boston Celtics (Basket) - 05/12 00:00 - SportTV 1",
+      "pubDate": "Fri, 05 Dec 2025 00:00:00",
       "guid": ""
     }
   ]

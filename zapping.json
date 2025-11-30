@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Sevilla x Real Betis - 30/11 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Real Betis - 30/11 15:15 - DAZN 2",
-      "pubDate": "Sun, 30 Nov 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (B) x Farense - 30/11 15:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x Farense - 30/11 15:30 - SportingTv",
-      "pubDate": "Sun, 30 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave x Santa Clara - 30/11 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x Santa Clara - 30/11 15:30 - SportTV 1",
-      "pubDate": "Sun, 30 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria x Benfica - 30/11 15:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x Benfica - 30/11 15:30 - SportTV 3",
-      "pubDate": "Sun, 30 Nov 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x SC Covilhã - 30/11 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x SC Covilhã - 30/11 16:00 - C11 Stream",
-      "pubDate": "Sun, 30 Nov 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Le Havre x Lille - 30/11 16:15 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Le Havre x Lille - 30/11 16:15 - SportTV 7",
@@ -271,6 +236,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Udinese - 02/12 20:00 - SportTV 1",
       "pubDate": "Tue, 02 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x New York Knicks (Basket) - 03/12 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x New York Knicks (Basket) - 03/12 01:00 - SportTV 1",
+      "pubDate": "Wed, 03 Dec 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x Oklahoma City Thunder (Basket) - 03/12 04:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x Oklahoma City Thunder (Basket) - 03/12 04:00 - SportTV 1",
+      "pubDate": "Wed, 03 Dec 2025 04:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Genoa - 03/12 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Genoa - 03/12 14:00 - SportTV 1",
+      "pubDate": "Wed, 03 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Cagliari - 03/12 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Cagliari - 03/12 17:00 - SportTV 1",
+      "pubDate": "Wed, 03 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona (Andebol) x PSG (Andebol) - 03/12 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona (Andebol) x PSG (Andebol) - 03/12 19:45 - SportTV 3",
+      "pubDate": "Wed, 03 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee United x Rangers - 03/12 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee United x Rangers - 03/12 19:45 - SportTV 2",
+      "pubDate": "Wed, 03 Dec 2025 19:45:00",
       "guid": ""
     }
   ]

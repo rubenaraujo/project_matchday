@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
-      "pubDate": "Mon, 01 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x Chicago Bulls (Basket) - 02/12 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Chicago Bulls (Basket) - 02/12 00:30 - SportTV 1",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x West Ham - 04/12 20:00 - DAZN 1",
       "pubDate": "Thu, 04 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
+      "pubDate": "Thu, 04 Dec 2025 20:15:00",
       "guid": ""
     }
   ]

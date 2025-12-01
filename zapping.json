@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentina (Futsal Feminino) x Colômbia (Futsal Feminino) - 01/12 10:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina (Futsal Feminino) x Colômbia (Futsal Feminino) - 01/12 10:00 - RTP Play",
-      "pubDate": "Mon, 01 Dec 2025 10:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão (S23) x FC Vizela (S23) - 01/12 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (S23) x FC Vizela (S23) - 01/12 11:00 - Canal11",
@@ -92,6 +85,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 01/12 20:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 01/12 20:00 - SportingTv",
+      "pubDate": "Mon, 01 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
@@ -141,9 +141,30 @@
       "guid": ""
     },
     {
+      "title": "Est. Amadora (S23) x Benfica (S23) - 02/12 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora (S23) x Benfica (S23) - 02/12 15:00 - BTv",
+      "pubDate": "Tue, 02 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal (Feminino S17) x Espanha (Feminino S17) - 02/12 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S17) x Espanha (Feminino S17) - 02/12 17:00 - Canal11",
+      "pubDate": "Tue, 02 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hertha BSC x Kaiserslautern - 02/12 17:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hertha BSC x Kaiserslautern - 02/12 17:00 - DAZN 3",
+      "pubDate": "Tue, 02 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia M´gladbach x FC St. Pauli - 02/12 17:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia M´gladbach x FC St. Pauli - 02/12 17:00 - DAZN 4",
       "pubDate": "Tue, 02 Dec 2025 17:00:00",
       "guid": ""
     },
@@ -152,6 +173,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Feminino) x Alemanha (Feminino) - 02/12 17:30 - SportTV 2",
       "pubDate": "Tue, 02 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Kriens-Luzern (Andebol) x FC Porto (Andebol) - 02/12 17:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kriens-Luzern (Andebol) x FC Porto (Andebol) - 02/12 17:45 - PortoCanal",
+      "pubDate": "Tue, 02 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Manchester City - 02/12 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Manchester City - 02/12 19:30 - DAZN 2",
+      "pubDate": "Tue, 02 Dec 2025 19:30:00",
       "guid": ""
     },
     {
@@ -166,6 +201,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Udinese - 02/12 20:00 - SportTV 1",
       "pubDate": "Tue, 02 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Atlético de Madrid - 02/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Atlético de Madrid - 02/12 20:00 - DAZN 1",
+      "pubDate": "Tue, 02 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Bayer Leverkusen - 02/12 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Bayer Leverkusen - 02/12 20:00 - DAZN 3",
+      "pubDate": "Tue, 02 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Tottenham - 02/12 20:15 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Tottenham - 02/12 20:15 - DAZN 4",
+      "pubDate": "Tue, 02 Dec 2025 20:15:00",
       "guid": ""
     },
     {
@@ -197,10 +253,52 @@
       "guid": ""
     },
     {
+      "title": "Galatasaray (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 03/12 16:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 03/12 16:30 - PortoCanal",
+      "pubDate": "Wed, 03 Dec 2025 16:30:00",
+      "guid": ""
+    },
+    {
       "title": "Napoli x Cagliari - 03/12 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Cagliari - 03/12 17:00 - SportTV 1",
       "pubDate": "Wed, 03 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "VfL Bochum x Stuttgart - 03/12 17:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "VfL Bochum x Stuttgart - 03/12 17:00 - DAZN 3",
+      "pubDate": "Wed, 03 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Real Madrid - 03/12 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Real Madrid - 03/12 18:00 - DAZN 1",
+      "pubDate": "Wed, 03 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x Budowlani Lódz (Voleibol Feminino) - 03/12 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x Budowlani Lódz (Voleibol Feminino) - 03/12 19:00 - BTv",
+      "pubDate": "Wed, 03 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Brentford - 03/12 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Brentford - 03/12 19:30 - DAZN 2",
+      "pubDate": "Wed, 03 Dec 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol Feminino) x Vandoeuvre Nancy (Voleibol Feminino) - 03/12 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x Vandoeuvre Nancy (Voleibol Feminino) - 03/12 19:30 - SportingTv",
+      "pubDate": "Wed, 03 Dec 2025 19:30:00",
       "guid": ""
     },
     {
@@ -218,6 +316,13 @@
       "guid": ""
     },
     {
+      "title": "1. FC Union Berlin x Bayern München - 03/12 19:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Union Berlin x Bayern München - 03/12 19:45 - DAZN 3",
+      "pubDate": "Wed, 03 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Internazionale x Venezia - 03/12 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Venezia - 03/12 20:00 - SportTV 1",
@@ -225,122 +330,10 @@
       "guid": ""
     },
     {
-      "title": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
+      "title": "Liverpool x Sunderland - 03/12 20:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
-      "pubDate": "Thu, 04 Dec 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Orlando Magic (Basket) x San Antonio Spurs (Basket) - 04/12 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Orlando Magic (Basket) x San Antonio Spurs (Basket) - 04/12 00:00 - SportTV 1",
-      "pubDate": "Thu, 04 Dec 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bahçesehir Koleji (Basket) x KK Neptunas (Basket) - 04/12 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bahçesehir Koleji (Basket) x KK Neptunas (Basket) - 04/12 16:00 - SportTV 3",
-      "pubDate": "Thu, 04 Dec 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Parma - 04/12 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Parma - 04/12 17:00 - SportTV 2",
-      "pubDate": "Thu, 04 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Milan - 04/12 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Milan - 04/12 20:00 - SportTV 2",
-      "pubDate": "Thu, 04 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
-      "pubDate": "Thu, 04 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Washington Wizards (Basket) x Boston Celtics (Basket) - 05/12 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Wizards (Basket) x Boston Celtics (Basket) - 05/12 00:00 - SportTV 1",
-      "pubDate": "Fri, 05 Dec 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brooklyn Nets (Basket) x Utah Jazz (Basket) - 05/12 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brooklyn Nets (Basket) x Utah Jazz (Basket) - 05/12 00:30 - SportTV 2",
-      "pubDate": "Fri, 05 Dec 2025 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SF1 x SF2 - 05/12 10:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SF1 x SF2 - 05/12 10:00 - RTP Play",
-      "pubDate": "Fri, 05 Dec 2025 10:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SF3 x SF4 - 05/12 12:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SF3 x SF4 - 05/12 12:30 - RTP2",
-      "pubDate": "Fri, 05 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
-      "pubDate": "Fri, 05 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brest x Monaco - 05/12 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brest x Monaco - 05/12 18:00 - SportTV 2",
-      "pubDate": "Fri, 05 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x UD Leiria - 05/12 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x UD Leiria - 05/12 18:00 - SportTV +",
-      "pubDate": "Fri, 05 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crvena Zvezda (Basket) x FC Barcelona (Basket) - 05/12 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crvena Zvezda (Basket) x FC Barcelona (Basket) - 05/12 19:00 - SportTV 3",
-      "pubDate": "Fri, 05 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Salford City x Leyton Orient - 05/12 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Salford City x Leyton Orient - 05/12 19:30 - SportTV 7",
-      "pubDate": "Fri, 05 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Marseille - 05/12 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Marseille - 05/12 20:00 - SportTV 2",
-      "pubDate": "Fri, 05 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
-      "pubDate": "Fri, 05 Dec 2025 20:00:00",
+      "description": "Liverpool x Sunderland - 03/12 20:15 - DAZN 1",
+      "pubDate": "Wed, 03 Dec 2025 20:15:00",
       "guid": ""
     }
   ]

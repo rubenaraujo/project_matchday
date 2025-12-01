@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Washington Commanders (Fut. Americano) x Denver Broncos (Fut. Americano) - 01/12 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Commanders (Fut. Americano) x Denver Broncos (Fut. Americano) - 01/12 01:20 - DAZN 1",
-      "pubDate": "Mon, 01 Dec 2025 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Argentina (Futsal Feminino) x Colômbia (Futsal Feminino) - 01/12 10:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentina (Futsal Feminino) x Colômbia (Futsal Feminino) - 01/12 10:00 - RTP Play",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Felgueiras x Sporting - 06/12 11:00 - SportTV",
       "pubDate": "Sat, 06 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Derby County x Leicester City - 06/12 12:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derby County x Leicester City - 06/12 12:30 - SportTV 3",
+      "pubDate": "Sat, 06 Dec 2025 12:30:00",
       "guid": ""
     }
   ]

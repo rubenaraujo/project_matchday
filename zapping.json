@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha (Futsal Feminino) x Marrocos (Futsal Feminino) - 01/12 12:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal Feminino) x Marrocos (Futsal Feminino) - 01/12 12:30 - RTP Play",
-      "pubDate": "Mon, 01 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Paços de Ferreira x FC Felgueiras - 01/12 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x FC Felgueiras - 01/12 14:00 - SportTV 1",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Sunderland - 03/12 20:15 - DAZN 1",
       "pubDate": "Wed, 03 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 03/12 21:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 03/12 21:00 - DAZN 4",
+      "pubDate": "Wed, 03 Dec 2025 21:00:00",
       "guid": ""
     }
   ]

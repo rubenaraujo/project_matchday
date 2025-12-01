@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Bologna x Cremonese - 01/12 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Cremonese - 01/12 19:45 - SportTV 2",
-      "pubDate": "Mon, 01 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Valencia - 01/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Valencia - 01/12 20:00 - DAZN 1",
-      "pubDate": "Mon, 01 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Birmingham City x Watford - 01/12 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Birmingham City x Watford - 01/12 20:00 - SportTV 3",
-      "pubDate": "Mon, 01 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 01/12 20:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 01/12 20:00 - SportingTv",
-      "pubDate": "Mon, 01 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Arouca x SC Braga - 01/12 20:15 - SportTV 1",
@@ -326,6 +298,13 @@
       "title": "Lazio x Milan - 04/12 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Milan - 04/12 20:00 - SportTV 2",
+      "pubDate": "Thu, 04 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x West Ham - 04/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x West Ham - 04/12 20:00 - DAZN 1",
       "pubDate": "Thu, 04 Dec 2025 20:00:00",
       "guid": ""
     }

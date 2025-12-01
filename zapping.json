@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "GC Santo Tirso (Voleibol) x Benfica (Voleibol) - 01/12 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GC Santo Tirso (Voleibol) x Benfica (Voleibol) - 01/12 15:00 - SportTV 2",
-      "pubDate": "Mon, 01 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fenerbahçe x Galatasaray - 01/12 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fenerbahçe x Galatasaray - 01/12 17:00 - SportTV 1",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 03/12 21:00 - DAZN 4",
       "pubDate": "Wed, 03 Dec 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
+      "pubDate": "Thu, 04 Dec 2025 00:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
-      "pubDate": "Tue, 02 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Dinamarca (Feminino S19) x Portugal (Feminino S19) - 02/12 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dinamarca (Feminino S19) x Portugal (Feminino S19) - 02/12 15:00 - Canal11",
@@ -309,9 +302,9 @@
       "guid": ""
     },
     {
-      "title": "Espanha (Futsal Feminino) x SF4 - 05/12 12:30 - RTP2",
+      "title": "Espanha (Futsal Feminino) x Brasil (Futsal Feminino) - 05/12 12:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal Feminino) x SF4 - 05/12 12:30 - RTP2",
+      "description": "Espanha (Futsal Feminino) x Brasil (Futsal Feminino) - 05/12 12:30 - RTP2",
       "pubDate": "Fri, 05 Dec 2025 12:30:00",
       "guid": ""
     },
@@ -333,6 +326,13 @@
       "title": "Fortuna Düsseldorf x Schalke 04 - 05/12 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fortuna Düsseldorf x Schalke 04 - 05/12 17:30 - DAZN 2",
+      "pubDate": "Fri, 05 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x Araz Naxçivan (Futsal) - 05/12 17:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Araz Naxçivan (Futsal) - 05/12 17:30 - BTv",
       "pubDate": "Fri, 05 Dec 2025 17:30:00",
       "guid": ""
     }

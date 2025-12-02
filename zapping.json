@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Leiria (S23) x Santa Clara (S23) - 02/12 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria (S23) x Santa Clara (S23) - 02/12 11:00 - Canal11",
-      "pubDate": "Tue, 02 Dec 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Futsal Feminino) x Japão (Futsal Feminino) - 02/12 12:30 - RTP Play",
@@ -26,13 +19,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora (S23) x Benfica (S23) - 02/12 15:00 - BTv",
       "pubDate": "Tue, 02 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S17) x Espanha (Feminino S17) - 02/12 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S17) x Espanha (Feminino S17) - 02/12 17:00 - Canal11",
-      "pubDate": "Tue, 02 Dec 2025 17:00:00",
       "guid": ""
     },
     {
@@ -74,6 +60,13 @@
       "title": "Portugal (Feminino) x Brasil (Feminino) - 02/12 19:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino) x Brasil (Feminino) - 02/12 19:45 - Canal11",
+      "pubDate": "Tue, 02 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x MT Melsungen (Andebol) - 02/12 19:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x MT Melsungen (Andebol) - 02/12 19:45 - BTv",
       "pubDate": "Tue, 02 Dec 2025 19:45:00",
       "guid": ""
     },

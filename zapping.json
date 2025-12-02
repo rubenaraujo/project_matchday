@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal Feminino) x Itália (Futsal Feminino) - 02/12 10:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Itália (Futsal Feminino) - 02/12 10:00 - RTP2",
-      "pubDate": "Tue, 02 Dec 2025 10:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria (S23) x Santa Clara (S23) - 02/12 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria (S23) x Santa Clara (S23) - 02/12 11:00 - Canal11",
@@ -302,13 +295,6 @@
       "guid": ""
     },
     {
-      "title": "Brooklyn Nets (Basket) x Utah Jazz (Basket) - 05/12 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brooklyn Nets (Basket) x Utah Jazz (Basket) - 05/12 00:30 - SportTV 2",
-      "pubDate": "Fri, 05 Dec 2025 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Detroit Lions (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 05/12 01:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Detroit Lions (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 05/12 01:15 - DAZN 1",
@@ -316,9 +302,9 @@
       "guid": ""
     },
     {
-      "title": "Argentina (Futsal Feminino) x SF2 - 05/12 10:00 - RTP Play",
+      "title": "Argentina (Futsal Feminino) x Portugal (Futsal Feminino) - 05/12 10:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina (Futsal Feminino) x SF2 - 05/12 10:00 - RTP Play",
+      "description": "Argentina (Futsal Feminino) x Portugal (Futsal Feminino) - 05/12 10:00 - RTP Play",
       "pubDate": "Fri, 05 Dec 2025 10:00:00",
       "guid": ""
     },
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (S23) x Portimonense (S23) - 05/12 15:00 - Canal11",
       "pubDate": "Fri, 05 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
+      "pubDate": "Fri, 05 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

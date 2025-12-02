@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Fulham x Manchester City - 02/12 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Manchester City - 02/12 19:30 - DAZN 2",
-      "pubDate": "Tue, 02 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino) x Brasil (Feminino) - 02/12 19:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino) x Brasil (Feminino) - 02/12 19:45 - Canal11",
-      "pubDate": "Tue, 02 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x MT Melsungen (Andebol) - 02/12 19:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x MT Melsungen (Andebol) - 02/12 19:45 - BTv",
-      "pubDate": "Tue, 02 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Udinese - 02/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Udinese - 02/12 20:00 - SportTV 1",
-      "pubDate": "Tue, 02 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Atlético de Madrid - 02/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Atlético de Madrid - 02/12 20:00 - DAZN 1",
-      "pubDate": "Tue, 02 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund x Bayer Leverkusen - 02/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Bayer Leverkusen - 02/12 20:00 - DAZN 3",
-      "pubDate": "Tue, 02 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Newcastle x Tottenham - 02/12 20:15 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Tottenham - 02/12 20:15 - DAZN 4",
@@ -333,6 +291,20 @@
       "title": "Lille x Marseille - 05/12 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Marseille - 05/12 20:00 - SportTV 2",
+      "pubDate": "Fri, 05 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
+      "pubDate": "Fri, 05 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Oviedo x Mallorca - 05/12 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Oviedo x Mallorca - 05/12 20:00 - DAZN 2",
       "pubDate": "Fri, 05 Dec 2025 20:00:00",
       "guid": ""
     }

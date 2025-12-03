@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Liverpool x Sunderland - 03/12 20:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Sunderland - 03/12 20:15 - DAZN 1",
-      "pubDate": "Wed, 03 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 03/12 21:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 03/12 21:00 - DAZN 4",
-      "pubDate": "Wed, 03 Dec 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New Jersey Devils (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 04/12 00:00 - SportTV 3",
@@ -299,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo x Torreense - 06/12 14:00 - SportTV +",
       "pubDate": "Sat, 06 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Bayern München - 06/12 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Bayern München - 06/12 14:30 - DAZN 4",
+      "pubDate": "Sat, 06 Dec 2025 14:30:00",
       "guid": ""
     }
   ]

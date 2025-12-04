@@ -22,13 +22,6 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Futsal) x AEK (Futsal) - 04/12 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x AEK (Futsal) - 04/12 19:30 - Canal11",
-      "pubDate": "Thu, 04 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lazio x Milan - 04/12 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Milan - 04/12 20:00 - SportTV 2",
@@ -47,6 +40,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Vitória SC - 04/12 20:15 - SportTV 1",
       "pubDate": "Thu, 04 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x AEK (Futsal) - 04/12 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x AEK (Futsal) - 04/12 20:30 - Canal11",
+      "pubDate": "Thu, 04 Dec 2025 20:30:00",
       "guid": ""
     },
     {
@@ -341,6 +341,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Casa Pia AC - 06/12 15:30 - SportTV 1",
       "pubDate": "Sat, 06 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Lens - 06/12 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Lens - 06/12 16:00 - SportTV 3",
+      "pubDate": "Sat, 06 Dec 2025 16:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Detroit Lions (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 05/12 01:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Detroit Lions (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 05/12 01:15 - DAZN 1",
-      "pubDate": "Fri, 05 Dec 2025 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Argentina (Futsal Feminino) x Portugal (Futsal Feminino) - 05/12 10:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentina (Futsal Feminino) x Portugal (Futsal Feminino) - 05/12 10:00 - RTP2",
@@ -326,6 +319,13 @@
       "title": "Leeds United x Liverpool - 06/12 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Liverpool - 06/12 17:30 - DAZN 1",
+      "pubDate": "Sat, 06 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Barcelona - 06/12 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Barcelona - 06/12 17:30 - DAZN 2",
       "pubDate": "Sat, 06 Dec 2025 17:30:00",
       "guid": ""
     }

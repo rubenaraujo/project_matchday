@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
-      "pubDate": "Fri, 05 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fortuna Düsseldorf x Schalke 04 - 05/12 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fortuna Düsseldorf x Schalke 04 - 05/12 17:30 - DAZN 2",
@@ -319,6 +312,13 @@
       "title": "AFS x Rio Ave - 06/12 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x Rio Ave - 06/12 18:00 - SportTV 1",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toulouse x Strasbourg - 06/12 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toulouse x Strasbourg - 06/12 18:00 - SportTV 3",
       "pubDate": "Sat, 06 Dec 2025 18:00:00",
       "guid": ""
     }

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
-      "pubDate": "Fri, 05 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Sporting - 05/12 20:15 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Sporting - 05/12 20:15 - BTv",
-      "pubDate": "Fri, 05 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x LA Lakers (Basket) - 06/12 00:00 - AmzPrime",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x LA Lakers (Basket) - 06/12 00:00 - AmzPrime",
@@ -284,6 +270,13 @@
       "title": "Artística de Avanca (Andebol) x Águas Santas (Andebol) - 06/12 18:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Artística de Avanca (Andebol) x Águas Santas (Andebol) - 06/12 18:00 - AndebolTV",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Gaia (Andebol) x Benfica (Andebol) - 06/12 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Gaia (Andebol) x Benfica (Andebol) - 06/12 18:00 - AndebolTV",
       "pubDate": "Sat, 06 Dec 2025 18:00:00",
       "guid": ""
     }

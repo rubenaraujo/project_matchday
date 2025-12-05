@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (S23) x Portimonense (S23) - 05/12 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x Portimonense (S23) - 05/12 15:00 - Canal11",
-      "pubDate": "Fri, 05 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Samsunspor - 05/12 17:00 - SportTV 1",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x CD Mafra - 06/12 17:30 - Canal11",
       "pubDate": "Sat, 06 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Rio Ave - 06/12 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Rio Ave - 06/12 18:00 - SportTV 1",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
       "guid": ""
     }
   ]

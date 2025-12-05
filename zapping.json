@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "Crvena Zvezda (Basket) x FC Barcelona (Basket) - 05/12 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crvena Zvezda (Basket) x FC Barcelona (Basket) - 05/12 19:00 - SportTV 3",
-      "pubDate": "Fri, 05 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Salford City x Leyton Orient - 05/12 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Salford City x Leyton Orient - 05/12 19:30 - SportTV 7",
-      "pubDate": "Fri, 05 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Mainz x Borussia M´gladbach - 05/12 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x Borussia M´gladbach - 05/12 19:30 - DAZN 1",
-      "pubDate": "Fri, 05 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Marseille - 05/12 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Marseille - 05/12 20:00 - SportTV 2",
-      "pubDate": "Fri, 05 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hull City x Middlesbrough - 05/12 20:00 - SportTV 1",
-      "pubDate": "Fri, 05 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Mallorca - 05/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Mallorca - 05/12 20:00 - DAZN 2",
-      "pubDate": "Fri, 05 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 05/12 20:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 05/12 20:00 - FPP TV",
       "pubDate": "Fri, 05 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -298,6 +256,34 @@
       "title": "Benfica (B) x UD Oliveirense - 06/12 18:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (B) x UD Oliveirense - 06/12 18:00 - BTv",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x FC Porto - 06/12 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x FC Porto - 06/12 18:00 - SportTV 6",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CH Carvalhos (Hóquei) x CD Póvoa (Hóquei) - 06/12 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CH Carvalhos (Hóquei) x CD Póvoa (Hóquei) - 06/12 18:00 - FPP TV",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal da Devesa (Andebol) x Vitória SC (Andebol) - 06/12 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x Vitória SC (Andebol) - 06/12 18:00 - AndebolTV",
+      "pubDate": "Sat, 06 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x Águas Santas (Andebol) - 06/12 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x Águas Santas (Andebol) - 06/12 18:00 - AndebolTV",
       "pubDate": "Sat, 06 Dec 2025 18:00:00",
       "guid": ""
     }

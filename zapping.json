@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Derby County x Leicester City - 06/12 12:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Derby County x Leicester City - 06/12 12:30 - SportTV 3",
-      "pubDate": "Sat, 06 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Arsenal - 06/12 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Arsenal - 06/12 12:30 - DAZN 1",
-      "pubDate": "Sat, 06 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Getafe - 06/12 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Getafe - 06/12 13:00 - DAZN 2",
-      "pubDate": "Sat, 06 Dec 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sassuolo x Fiorentina - 06/12 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sassuolo x Fiorentina - 06/12 14:00 - SportTV 2",
@@ -285,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão x SC Braga - 06/12 20:30 - SportTV 1",
       "pubDate": "Sat, 06 Dec 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CP Esgueira (Basket) x Sporting (Basket) - 06/12 21:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CP Esgueira (Basket) x Sporting (Basket) - 06/12 21:00 - ABola TV",
+      "pubDate": "Sat, 06 Dec 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brooklyn Nets (Basket) x New Orleans Pelicans (Basket) - 06/12 22:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brooklyn Nets (Basket) x New Orleans Pelicans (Basket) - 06/12 22:00 - SportTV 2",
+      "pubDate": "Sat, 06 Dec 2025 22:00:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Stuttgart x Bayern München - 06/12 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Bayern München - 06/12 14:30 - DAZN 4",
-      "pubDate": "Sat, 06 Dec 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x Amarante FC - 06/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x Amarante FC - 06/12 15:00 - C11 Stream",
-      "pubDate": "Sat, 06 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x 1º Dezembro - 06/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x 1º Dezembro - 06/12 15:00 - C11 Stream",
-      "pubDate": "Sat, 06 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Sunderland - 06/12 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Sunderland - 06/12 15:00 - DAZN 1",
-      "pubDate": "Sat, 06 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Brentford - 06/12 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Brentford - 06/12 15:00 - DAZN 3",
-      "pubDate": "Sat, 06 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.B S17) x Beira-Mar (Jun.B S17) - 06/12 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x Beira-Mar (Jun.B S17) - 06/12 15:00 - PortoCanal",
-      "pubDate": "Sat, 06 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses (Andebol) x FC Porto (Andebol) - 06/12 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x FC Porto (Andebol) - 06/12 15:00 - PortoCanal",
-      "pubDate": "Sat, 06 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Póvoa AC (Andebol) x Marítimo (Andebol) - 06/12 15:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x Marítimo (Andebol) - 06/12 15:00 - ABola TV",
@@ -278,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentina (Futsal Feminino) x Espanha (Futsal Feminino) - 07/12 09:00 - RTP2",
       "pubDate": "Sun, 07 Dec 2025 09:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 07/12 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 07/12 11:00 - PortoCanal",
+      "pubDate": "Sun, 07 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.B S17) x FC Alverca (Jun.B S17) - 07/12 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.B S17) x FC Alverca (Jun.B S17) - 07/12 11:00 - SportingTv",
+      "pubDate": "Sun, 07 Dec 2025 11:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Internazionale x Como 1907 - 06/12 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Como 1907 - 06/12 17:00 - SportTV 2",
-      "pubDate": "Sat, 06 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Basaksehir x Fenerbahçe - 06/12 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Basaksehir x Fenerbahçe - 06/12 17:00 - SportTV 5",
-      "pubDate": "Sat, 06 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "AD Fundão (Futsal) x Leões Porto Salvo (Futsal) - 06/12 17:30 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Fundão (Futsal) x Leões Porto Salvo (Futsal) - 06/12 17:30 - C11 Stream",
@@ -88,13 +74,6 @@
       "title": "Arsenal da Devesa (Andebol) x Vitória SC (Andebol) - 06/12 18:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal da Devesa (Andebol) x Vitória SC (Andebol) - 06/12 18:00 - AndebolTV",
-      "pubDate": "Sat, 06 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Artística de Avanca (Andebol) x Águas Santas (Andebol) - 06/12 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Artística de Avanca (Andebol) x Águas Santas (Andebol) - 06/12 18:00 - AndebolTV",
       "pubDate": "Sat, 06 Dec 2025 18:00:00",
       "guid": ""
     },
@@ -222,6 +201,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bragança x Camacha - 07/12 11:00 - Canal11",
       "pubDate": "Sun, 07 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Lecce - 07/12 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Lecce - 07/12 11:30 - SportTV 2",
+      "pubDate": "Sun, 07 Dec 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Brasil (Futsal Feminino) - 07/12 11:30 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Brasil (Futsal Feminino) - 07/12 11:30 - RTP1",
+      "pubDate": "Sun, 07 Dec 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CB Canarias (Basket) x Real Madrid (Basket) - 07/12 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CB Canarias (Basket) x Real Madrid (Basket) - 07/12 12:00 - DAZN 3",
+      "pubDate": "Sun, 07 Dec 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Girona - 07/12 13:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Girona - 07/12 13:00 - DAZN 1",
+      "pubDate": "Sun, 07 Dec 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cádiz x Racing Santander - 07/12 13:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cádiz x Racing Santander - 07/12 13:00 - DAZN 4",
+      "pubDate": "Sun, 07 Dec 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Roma - 07/12 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Roma - 07/12 14:00 - SportTV 2",
+      "pubDate": "Sun, 07 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x Angers - 07/12 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x Angers - 07/12 14:00 - SportTV 3",
+      "pubDate": "Sun, 07 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x Académico - 07/12 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x Académico - 07/12 14:00 - SportTV +",
+      "pubDate": "Sun, 07 Dec 2025 14:00:00",
       "guid": ""
     }
   ]

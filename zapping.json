@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cremonese x Lecce - 07/12 11:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cremonese x Lecce - 07/12 11:30 - SportTV 2",
-      "pubDate": "Sun, 07 Dec 2025 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x Brasil (Futsal Feminino) - 07/12 11:30 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Brasil (Futsal Feminino) - 07/12 11:30 - RTP1",
-      "pubDate": "Sun, 07 Dec 2025 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CB Canarias (Basket) x Real Madrid (Basket) - 07/12 12:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CB Canarias (Basket) x Real Madrid (Basket) - 07/12 12:00 - DAZN 3",
-      "pubDate": "Sun, 07 Dec 2025 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Elche x Girona - 07/12 13:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche x Girona - 07/12 13:00 - DAZN 1",
@@ -141,6 +120,13 @@
       "guid": ""
     },
     {
+      "title": "Oliv. Douro (Feminino) x Baião (Feminino) - 07/12 15:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oliv. Douro (Feminino) x Baião (Feminino) - 07/12 15:00 - Online",
+      "pubDate": "Sun, 07 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Valencia x Sevilla - 07/12 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Sevilla - 07/12 15:15 - DAZN 1",
@@ -239,6 +225,13 @@
       "guid": ""
     },
     {
+      "title": "Oliv. Douro x AD Grijó - 07/12 18:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oliv. Douro x AD Grijó - 07/12 18:00 - Online",
+      "pubDate": "Sun, 07 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Sporting (Voleibol Feminino) x Benfica (Voleibol Feminino) - 07/12 19:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol Feminino) x Benfica (Voleibol Feminino) - 07/12 19:00 - SportingTv",
@@ -299,20 +292,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chicago Bulls (Basket) x Golden State Warriors (Basket) - 08/12 00:00 - SportTV 1",
       "pubDate": "Mon, 08 Dec 2025 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kansas City Chiefs (Fut. Americano) x Houston Texans (Fut. Americano) - 08/12 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kansas City Chiefs (Fut. Americano) x Houston Texans (Fut. Americano) - 08/12 01:20 - DAZN 1",
-      "pubDate": "Mon, 08 Dec 2025 01:20:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Parma - 08/12 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Parma - 08/12 14:00 - SportTV 2",
-      "pubDate": "Mon, 08 Dec 2025 14:00:00",
       "guid": ""
     }
   ]

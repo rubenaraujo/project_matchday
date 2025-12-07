@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "AD Marco 09 x Fafe - 07/12 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x Fafe - 07/12 17:30 - Canal11",
-      "pubDate": "Sun, 07 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Rayo Vallecano - 07/12 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Rayo Vallecano - 07/12 17:30 - DAZN 1",
-      "pubDate": "Sun, 07 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Castellón - 07/12 17:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Castellón - 07/12 17:30 - DAZN 4",
-      "pubDate": "Sun, 07 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x Nacional - 07/12 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Nacional - 07/12 18:00 - SportTV 2",
-      "pubDate": "Sun, 07 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x FC Arouca - 07/12 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x FC Arouca - 07/12 18:00 - SportTV 4",
-      "pubDate": "Sun, 07 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Oliv. Douro x AD Grijó - 07/12 18:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oliv. Douro x AD Grijó - 07/12 18:00 - Online",
-      "pubDate": "Sun, 07 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Voleibol Feminino) x Benfica (Voleibol Feminino) - 07/12 19:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol Feminino) x Benfica (Voleibol Feminino) - 07/12 19:00 - SportingTv",
@@ -264,6 +222,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New Jersey Devils (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 12/12 00:00 - SportTV 2",
       "pubDate": "Fri, 12 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (B) x FC Penafiel - 12/12 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x FC Penafiel - 12/12 18:00 - PortoCanal",
+      "pubDate": "Fri, 12 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x GD Chaves - 12/12 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x GD Chaves - 12/12 18:00 - SportTV +",
+      "pubDate": "Fri, 12 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Basket) x Olympiacos (Basket) - 12/12 19:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Basket) x Olympiacos (Basket) - 12/12 19:30 - SportTV 4",
+      "pubDate": "Fri, 12 Dec 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Pisa - 12/12 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Pisa - 12/12 19:45 - SportTV 2",
+      "pubDate": "Fri, 12 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x Nantes - 12/12 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x Nantes - 12/12 19:45 - SportTV 3",
+      "pubDate": "Fri, 12 Dec 2025 19:45:00",
       "guid": ""
     }
   ]

@@ -1,37 +1,23 @@
 {
   "items": [
     {
-      "title": "Cagliari x Roma - 07/12 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Roma - 07/12 14:00 - SportTV 2",
-      "pubDate": "Sun, 07 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x Angers - 07/12 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x Angers - 07/12 14:00 - SportTV 3",
-      "pubDate": "Sun, 07 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Académico - 07/12 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Académico - 07/12 14:00 - SportTV +",
-      "pubDate": "Sun, 07 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x West Ham - 07/12 14:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x West Ham - 07/12 14:00 - DAZN 2",
-      "pubDate": "Sun, 07 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hamburger SV x Werder Bremen - 07/12 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hamburger SV x Werder Bremen - 07/12 14:30 - DAZN 3",
+      "pubDate": "Sun, 07 Dec 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Coreia do Sul (Andebol Feminino) x Chéquia (Andebol Feminino) - 07/12 14:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coreia do Sul (Andebol Feminino) x Chéquia (Andebol Feminino) - 07/12 14:30 - Online",
+      "pubDate": "Sun, 07 Dec 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal (Andebol Feminino) x Japão (Andebol Feminino) - 07/12 14:30 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal (Andebol Feminino) x Japão (Andebol Feminino) - 07/12 14:30 - Youtube",
       "pubDate": "Sun, 07 Dec 2025 14:30:00",
       "guid": ""
     },
@@ -305,6 +291,13 @@
       "title": "Udinese x Genoa - 08/12 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Genoa - 08/12 17:00 - SportTV 2",
+      "pubDate": "Mon, 08 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Gazisehir Gaziantep - 08/12 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Gazisehir Gaziantep - 08/12 17:00 - SportTV 3",
       "pubDate": "Mon, 08 Dec 2025 17:00:00",
       "guid": ""
     }

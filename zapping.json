@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Brooklyn Nets (Basket) x New Orleans Pelicans (Basket) - 06/12 22:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brooklyn Nets (Basket) x New Orleans Pelicans (Basket) - 06/12 22:00 - SportTV 2",
-      "pubDate": "Sat, 06 Dec 2025 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x Golden State Warriors (Basket) - 07/12 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Golden State Warriors (Basket) - 07/12 00:30 - SportTV 2",
@@ -278,6 +271,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Alverca x Nacional - 07/12 18:00 - SportTV 2",
       "pubDate": "Sun, 07 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora x FC Arouca - 07/12 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora x FC Arouca - 07/12 18:00 - SportTV 4",
+      "pubDate": "Sun, 07 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol Feminino) x Benfica (Voleibol Feminino) - 07/12 19:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x Benfica (Voleibol Feminino) - 07/12 19:00 - SportingTv",
+      "pubDate": "Sun, 07 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Juventus - 07/12 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Juventus - 07/12 19:45 - SportTV 3",
+      "pubDate": "Sun, 07 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lorient x Lyon - 07/12 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lorient x Lyon - 07/12 19:45 - SportTV 6",
+      "pubDate": "Sun, 07 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Celta de Vigo - 07/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Celta de Vigo - 07/12 20:00 - DAZN 1",
+      "pubDate": "Sun, 07 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x FC Porto - 07/12 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x FC Porto - 07/12 20:30 - SportTV 1",
+      "pubDate": "Sun, 07 Dec 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Toronto Raptors (Basket) x Boston Celtics (Basket) - 07/12 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toronto Raptors (Basket) x Boston Celtics (Basket) - 07/12 20:30 - SportTV 2",
+      "pubDate": "Sun, 07 Dec 2025 20:30:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Elche x Girona - 07/12 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Girona - 07/12 13:00 - DAZN 1",
-      "pubDate": "Sun, 07 Dec 2025 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Racing Santander - 07/12 13:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Racing Santander - 07/12 13:00 - DAZN 4",
-      "pubDate": "Sun, 07 Dec 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cagliari x Roma - 07/12 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Roma - 07/12 14:00 - SportTV 2",
@@ -292,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chicago Bulls (Basket) x Golden State Warriors (Basket) - 08/12 00:00 - SportTV 1",
       "pubDate": "Mon, 08 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kansas City Chiefs (Fut. Americano) x Houston Texans (Fut. Americano) - 08/12 01:20 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kansas City Chiefs (Fut. Americano) x Houston Texans (Fut. Americano) - 08/12 01:20 - DAZN 1",
+      "pubDate": "Mon, 08 Dec 2025 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Parma - 08/12 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Parma - 08/12 14:00 - SportTV 2",
+      "pubDate": "Mon, 08 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense x FC Vizela - 08/12 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense x FC Vizela - 08/12 15:30 - SportTV 1",
+      "pubDate": "Mon, 08 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Genoa - 08/12 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Genoa - 08/12 17:00 - SportTV 2",
+      "pubDate": "Mon, 08 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

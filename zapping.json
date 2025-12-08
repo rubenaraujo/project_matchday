@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "HC Turquel (Hóquei) x AD Valongo (Hóquei) - 08/12 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x AD Valongo (Hóquei) - 08/12 18:00 - FPP TV",
-      "pubDate": "Mon, 08 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
@@ -152,13 +145,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x Atlético de Madrid - 09/12 20:00 - DAZN 4",
       "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x SCRA Saint-Omer (Hóquei) - 09/12 20:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x SCRA Saint-Omer (Hóquei) - 09/12 20:30 - PortoCanal",
-      "pubDate": "Tue, 09 Dec 2025 20:30:00",
       "guid": ""
     },
     {
@@ -306,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Beijing Guoan x Macarthur FC - 11/12 12:15 - Canal11",
       "pubDate": "Thu, 11 Dec 2025 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x SC Braga - 11/12 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x SC Braga - 11/12 17:45 - DAZN 1",
+      "pubDate": "Thu, 11 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamo Zagreb x Real Betis - 11/12 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamo Zagreb x Real Betis - 11/12 17:45 - DAZN 2",
+      "pubDate": "Thu, 11 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Utrecht x Nottingham Forest - 11/12 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Utrecht x Nottingham Forest - 11/12 17:45 - DAZN 3",
+      "pubDate": "Thu, 11 Dec 2025 17:45:00",
       "guid": ""
     }
   ]

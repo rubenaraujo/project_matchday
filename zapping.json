@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Vitória SC x Gil Vicente - 08/12 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x Gil Vicente - 08/12 20:30 - SportTV 1",
-      "pubDate": "Mon, 08 Dec 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 09/12 00:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 09/12 00:30 - SportTV 3",
@@ -298,6 +291,13 @@
       "title": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
+      "pubDate": "Thu, 11 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x Roma - 11/12 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x Roma - 11/12 20:00 - DAZN 3",
       "pubDate": "Thu, 11 Dec 2025 20:00:00",
       "guid": ""
     }

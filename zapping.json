@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/12 17:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/12 17:00 - SportingTv",
-      "pubDate": "Mon, 08 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
@@ -313,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Utrecht x Nottingham Forest - 11/12 17:45 - DAZN 3",
       "pubDate": "Thu, 11 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Dynamo Kyiv - 11/12 17:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Dynamo Kyiv - 11/12 17:45 - DAZN 4",
+      "pubDate": "Thu, 11 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Malmö - 11/12 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Malmö - 11/12 20:00 - SportTV 5",
+      "pubDate": "Thu, 11 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
+      "pubDate": "Thu, 11 Dec 2025 20:00:00",
       "guid": ""
     }
   ]

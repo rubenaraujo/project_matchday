@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Chicago Bulls (Basket) x Golden State Warriors (Basket) - 08/12 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chicago Bulls (Basket) x Golden State Warriors (Basket) - 08/12 00:00 - SportTV 1",
-      "pubDate": "Mon, 08 Dec 2025 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Kansas City Chiefs (Fut. Americano) x Houston Texans (Fut. Americano) - 08/12 01:20 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kansas City Chiefs (Fut. Americano) x Houston Texans (Fut. Americano) - 08/12 01:20 - DAZN 1",
@@ -71,10 +64,24 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/12 17:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/12 17:00 - SportingTv",
+      "pubDate": "Mon, 08 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
       "title": "HC Turquel (Hóquei) x AD Valongo (Hóquei) - 08/12 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Turquel (Hóquei) x AD Valongo (Hóquei) - 08/12 18:00 - FPP TV",
       "pubDate": "Mon, 08 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
+      "pubDate": "Mon, 08 Dec 2025 19:00:00",
       "guid": ""
     },
     {
@@ -124,6 +131,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x UD Leiria (S23) - 09/12 12:00 - Canal11",
       "pubDate": "Tue, 09 Dec 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München (Jun.A S19) x Sporting (Jun.A S19) - 09/12 12:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München (Jun.A S19) x Sporting (Jun.A S19) - 09/12 12:30 - SportingTv",
+      "pubDate": "Tue, 09 Dec 2025 12:30:00",
       "guid": ""
     },
     {
@@ -211,6 +225,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Andebol) x Póvoa AC (Andebol) - 09/12 20:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Póvoa AC (Andebol) - 09/12 20:45 - BTv",
+      "pubDate": "Tue, 09 Dec 2025 20:45:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Jun.A S19) x Napoli (Jun.A S19) - 10/12 11:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Jun.A S19) x Napoli (Jun.A S19) - 10/12 11:00 - DAZN 1",
@@ -250,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Qarabag x Ajax - 10/12 17:45 - DAZN 2",
       "pubDate": "Wed, 10 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "SVG Luneburg (Voleibol) x Sporting (Voleibol) - 10/12 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SVG Luneburg (Voleibol) x Sporting (Voleibol) - 10/12 18:00 - SportingTv",
+      "pubDate": "Wed, 10 Dec 2025 18:00:00",
       "guid": ""
     },
     {
@@ -306,34 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Sporting (Andebol) - 10/12 20:00 - PortoCanal",
       "pubDate": "Wed, 10 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Beijing Guoan x Macarthur FC - 11/12 12:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Beijing Guoan x Macarthur FC - 11/12 12:15 - Canal11",
-      "pubDate": "Thu, 11 Dec 2025 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x SC Braga - 11/12 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x SC Braga - 11/12 17:45 - DAZN 1",
-      "pubDate": "Thu, 11 Dec 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamo Zagreb x Real Betis - 11/12 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamo Zagreb x Real Betis - 11/12 17:45 - DAZN 2",
-      "pubDate": "Thu, 11 Dec 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Utrecht x Nottingham Forest - 11/12 17:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Utrecht x Nottingham Forest - 11/12 17:45 - DAZN 3",
-      "pubDate": "Thu, 11 Dec 2025 17:45:00",
       "guid": ""
     }
   ]

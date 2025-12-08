@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 08/12 19:00 - BTv",
-      "pubDate": "Mon, 08 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Milan - 08/12 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Milan - 08/12 19:45 - SportTV 2",
-      "pubDate": "Mon, 08 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Osasuna x Levante - 08/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Levante - 08/12 20:00 - DAZN 2",
-      "pubDate": "Mon, 08 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Manchester United - 08/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Manchester United - 08/12 20:00 - DAZN 1",
-      "pubDate": "Mon, 08 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gimnasia x Estudiantes - 08/12 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gimnasia x Estudiantes - 08/12 20:00 - SportTV 3",
-      "pubDate": "Mon, 08 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x Gil Vicente - 08/12 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Gil Vicente - 08/12 20:30 - SportTV 1",
@@ -326,6 +291,13 @@
       "title": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
+      "pubDate": "Thu, 11 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
       "pubDate": "Thu, 11 Dec 2025 20:00:00",
       "guid": ""
     }

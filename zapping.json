@@ -1,72 +1,9 @@
 {
   "items": [
     {
-      "title": "BC Oostende (Basket) x Unicaja (Basket) - 09/12 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "BC Oostende (Basket) x Unicaja (Basket) - 09/12 19:30 - SportTV 3",
-      "pubDate": "Tue, 09 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "QPR x Birmingham City - 09/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "QPR x Birmingham City - 09/12 20:00 - SportTV 1",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Liverpool - 09/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Liverpool - 09/12 20:00 - DAZN 1",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Eintracht Frankfurt - 09/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Eintracht Frankfurt - 09/12 20:00 - DAZN 2",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Chelsea - 09/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Chelsea - 09/12 20:00 - DAZN 3",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x Atlético de Madrid - 09/12 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Atlético de Madrid - 09/12 20:00 - DAZN 4",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Hóquei) x SCRA Saint-Omer (Hóquei) - 09/12 20:00 - WSE TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x SCRA Saint-Omer (Hóquei) - 09/12 20:00 - WSE TV",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Union St. Gilloise x Marseille - 09/12 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Union St. Gilloise x Marseille - 09/12 20:00 - DAZN",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Slavia Praha - 09/12 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Slavia Praha - 09/12 20:00 - DAZN",
-      "pubDate": "Tue, 09 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Galatasaray - 09/12 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Galatasaray - 09/12 20:00 - DAZN",
       "pubDate": "Tue, 09 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -334,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New Jersey Devils (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 12/12 00:00 - SportTV 2",
       "pubDate": "Fri, 12 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milwaukee Bucks (Basket) x Boston Celtics (Basket) - 12/12 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milwaukee Bucks (Basket) x Boston Celtics (Basket) - 12/12 01:00 - SportTV 1",
+      "pubDate": "Fri, 12 Dec 2025 01:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia (S23) x UD Leiria (S23) - 09/12 12:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia (S23) x UD Leiria (S23) - 09/12 12:00 - Canal11",
-      "pubDate": "Tue, 09 Dec 2025 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Vizela (S23) x Académico (S23) - 09/12 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela (S23) x Académico (S23) - 09/12 15:00 - Canal11",
@@ -333,6 +326,13 @@
       "title": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
+      "pubDate": "Thu, 11 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
       "pubDate": "Thu, 11 Dec 2025 20:00:00",
       "guid": ""
     }

@@ -8,20 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Bayern München (Jun.A S19) x Sporting (Jun.A S19) - 09/12 12:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München (Jun.A S19) x Sporting (Jun.A S19) - 09/12 12:30 - SportingTv",
-      "pubDate": "Tue, 09 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV (Jun.A S19) x Atlético de Madrid (Jun.A S19) - 09/12 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV (Jun.A S19) x Atlético de Madrid (Jun.A S19) - 09/12 13:00 - DAZN 1",
-      "pubDate": "Tue, 09 Dec 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Vizela (S23) x Académico (S23) - 09/12 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela (S23) x Académico (S23) - 09/12 15:00 - Canal11",
@@ -155,13 +141,6 @@
       "guid": ""
     },
     {
-      "title": "Barcelona (Feminino) x Benfica (Feminino) - 10/12 17:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona (Feminino) x Benfica (Feminino) - 10/12 17:45 - RTP1",
-      "pubDate": "Wed, 10 Dec 2025 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Villarreal x FC Kobenhavn - 10/12 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x FC Kobenhavn - 10/12 17:45 - DAZN 1",
@@ -172,6 +151,13 @@
       "title": "Qarabag x Ajax - 10/12 17:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Qarabag x Ajax - 10/12 17:45 - DAZN 2",
+      "pubDate": "Wed, 10 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona (Feminino) x Benfica (Feminino) - 10/12 17:45 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona (Feminino) x Benfica (Feminino) - 10/12 17:45 - RTP2",
       "pubDate": "Wed, 10 Dec 2025 17:45:00",
       "guid": ""
     },

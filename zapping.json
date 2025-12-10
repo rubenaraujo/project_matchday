@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo (Andebol) x Artística de Avanca (Andebol) - 10/12 17:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x Artística de Avanca (Andebol) - 10/12 17:00 - AndebolTV",
-      "pubDate": "Wed, 10 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Villarreal x FC Kobenhavn - 10/12 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x FC Kobenhavn - 10/12 17:45 - DAZN 1",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Feirense - 12/12 20:15 - SportTV 1",
       "pubDate": "Fri, 12 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x Minnesota Timberwolves (Basket) - 13/12 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x Minnesota Timberwolves (Basket) - 13/12 03:00 - SportTV 1",
+      "pubDate": "Sat, 13 Dec 2025 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x FC Felgueiras - 13/12 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x FC Felgueiras - 13/12 11:00 - SportTV 1",
+      "pubDate": "Sat, 13 Dec 2025 11:00:00",
       "guid": ""
     }
   ]

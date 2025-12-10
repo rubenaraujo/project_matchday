@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SVG Luneburg (Voleibol) x Sporting (Voleibol) - 10/12 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SVG Luneburg (Voleibol) x Sporting (Voleibol) - 10/12 18:00 - SportingTv",
-      "pubDate": "Wed, 10 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bàsquet Manresa (Basket) x Cedevita Olimpija (Basket) - 10/12 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bàsquet Manresa (Basket) x Cedevita Olimpija (Basket) - 10/12 19:45 - SportTV 3",
@@ -319,6 +312,13 @@
       "title": "UD Leiria x FC Felgueiras - 13/12 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x FC Felgueiras - 13/12 11:00 - SportTV 1",
+      "pubDate": "Sat, 13 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Sporting (Feminino) - 13/12 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Sporting (Feminino) - 13/12 11:00 - Canal11",
       "pubDate": "Sat, 13 Dec 2025 11:00:00",
       "guid": ""
     }

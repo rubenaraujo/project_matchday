@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "HC Liceo (Hóquei) x Sporting (Hóquei) - 11/12 19:30 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Liceo (Hóquei) x Sporting (Hóquei) - 11/12 19:30 - WSE TV",
-      "pubDate": "Thu, 11 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hockey Trissino (Hóquei) x Reus Deportiu (Hóquei) - 11/12 19:45 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hockey Trissino (Hóquei) x Reus Deportiu (Hóquei) - 11/12 19:45 - WSE TV",
-      "pubDate": "Thu, 11 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hockey Bassano (Hóquei) x UD Oliveirense (Hóquei) - 11/12 19:45 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hockey Bassano (Hóquei) x UD Oliveirense (Hóquei) - 11/12 19:45 - WSE TV",
-      "pubDate": "Thu, 11 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Malmö - 11/12 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Malmö - 11/12 20:00 - SportTV 5",
-      "pubDate": "Thu, 11 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Basel x Aston Villa - 11/12 20:00 - DAZN 1",
-      "pubDate": "Thu, 11 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Go Ahead Eagles - 11/12 20:00 - DAZN 2",
-      "pubDate": "Thu, 11 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celtic x Roma - 11/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Roma - 11/12 20:00 - DAZN 3",
-      "pubDate": "Thu, 11 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Shelbourne x Crystal Palace - 11/12 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Shelbourne x Crystal Palace - 11/12 20:00 - DAZN 4",
-      "pubDate": "Thu, 11 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Hóquei) x OC Barcelos (Hóquei) - 11/12 20:30 - WSE TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x OC Barcelos (Hóquei) - 11/12 20:30 - WSE TV",
@@ -313,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nacional x CD Tondela - 13/12 15:30 - SportTV 2",
       "pubDate": "Sat, 13 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Brest - 13/12 16:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Brest - 13/12 16:00 - SportTV 5",
+      "pubDate": "Sat, 13 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 13/12 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 13/12 17:00 - C11 Stream",
+      "pubDate": "Sat, 13 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Lazio - 13/12 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Lazio - 13/12 17:00 - SportTV 3",
+      "pubDate": "Sat, 13 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

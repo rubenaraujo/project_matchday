@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Barcelona (Basket) x Olympiacos (Basket) - 12/12 19:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Basket) x Olympiacos (Basket) - 12/12 19:30 - SportTV 4",
-      "pubDate": "Fri, 12 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Union Berlin x RB Leipzig - 12/12 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x RB Leipzig - 12/12 19:30 - DAZN 1",
-      "pubDate": "Fri, 12 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lecce x Pisa - 12/12 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Pisa - 12/12 19:45 - SportTV 2",
-      "pubDate": "Fri, 12 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Angers x Nantes - 12/12 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angers x Nantes - 12/12 19:45 - SportTV 3",
-      "pubDate": "Fri, 12 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 12/12 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 12/12 20:00 - Canal11",
-      "pubDate": "Fri, 12 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Girona - 12/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Girona - 12/12 20:00 - DAZN 2",
-      "pubDate": "Fri, 12 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense x Feirense - 12/12 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Feirense - 12/12 20:15 - SportTV 1",
@@ -292,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal da Devesa (Andebol) x Águas Santas (Andebol) - 13/12 18:00 - AndebolTV",
       "pubDate": "Sat, 13 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x Benfica (Andebol) - 13/12 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x Benfica (Andebol) - 13/12 18:00 - AndebolTV",
+      "pubDate": "Sat, 13 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Braga (Hóquei) x CH Carvalhos (Hóquei) - 13/12 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Braga (Hóquei) x CH Carvalhos (Hóquei) - 13/12 18:00 - FPP TV",
+      "pubDate": "Sat, 13 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x GD Árvore (Futsal Feminino) - 13/12 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x GD Árvore (Futsal Feminino) - 13/12 19:00 - C11 Stream",
+      "pubDate": "Sat, 13 Dec 2025 19:00:00",
       "guid": ""
     }
   ]

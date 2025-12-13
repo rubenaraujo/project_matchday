@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Norwich City x Southampton - 13/12 12:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Norwich City x Southampton - 13/12 12:30 - SportTV 4",
-      "pubDate": "Sat, 13 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Valencia - 13/12 13:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Valencia - 13/12 13:00 - DAZN 3",
-      "pubDate": "Sat, 13 Dec 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académico x Farense - 13/12 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico x Farense - 13/12 14:00 - SportTV +",
@@ -88,6 +74,13 @@
       "title": "Póvoa AC (Andebol) x ABC (Andebol) - 13/12 15:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x ABC (Andebol) - 13/12 15:00 - ABola TV",
+      "pubDate": "Sat, 13 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Feminino) x UD Leiria (Feminino) - 13/12 15:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Feminino) x UD Leiria (Feminino) - 13/12 15:00 - Online",
       "pubDate": "Sat, 13 Dec 2025 15:00:00",
       "guid": ""
     },
@@ -278,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Zaragoza x Cádiz - 13/12 20:00 - DAZN 3",
       "pubDate": "Sat, 13 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Toulouse - 13/12 20:05 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Toulouse - 13/12 20:05 - SportTV 2",
+      "pubDate": "Sat, 13 Dec 2025 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x AFS - 13/12 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x AFS - 13/12 20:30 - SportTV 1",
+      "pubDate": "Sat, 13 Dec 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (Futsal) x Eléctrico (Futsal) - 13/12 21:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (Futsal) x Eléctrico (Futsal) - 13/12 21:00 - C11 Stream",
+      "pubDate": "Sat, 13 Dec 2025 21:00:00",
       "guid": ""
     }
   ]

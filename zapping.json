@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 13/12 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 13/12 17:00 - C11 Stream",
-      "pubDate": "Sat, 13 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Luzia (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 13/12 18:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 13/12 18:00 - Canal11",
@@ -25,27 +18,6 @@
       "title": "Casa Povo Freixo (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 13/12 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Povo Freixo (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 13/12 19:00 - C11 Stream",
-      "pubDate": "Sat, 13 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Quinta dos Lombos (Futsal) x Ferreira do Zêzere (Futsal) - 13/12 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Futsal) x Ferreira do Zêzere (Futsal) - 13/12 19:00 - C11 Stream",
-      "pubDate": "Sat, 13 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x Heracles Almelo - 13/12 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Heracles Almelo - 13/12 19:00 - DAZN 4",
-      "pubDate": "Sat, 13 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Belenenses (Andebol) - 13/12 19:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Belenenses (Andebol) - 13/12 19:00 - SportingTv",
       "pubDate": "Sat, 13 Dec 2025 19:00:00",
       "guid": ""
     },
@@ -243,6 +215,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "St. Mirren x Celtic - 14/12 15:30 - SportTV 4",
       "pubDate": "Sun, 14 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Auxerre x Lille - 14/12 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Auxerre x Lille - 14/12 16:15 - SportTV 3",
+      "pubDate": "Sun, 14 Dec 2025 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Mainz - 14/12 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Mainz - 14/12 16:30 - DAZN 1",
+      "pubDate": "Sun, 14 Dec 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Leeds United - 14/12 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Leeds United - 14/12 16:30 - DAZN 2",
+      "pubDate": "Sun, 14 Dec 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Internazionale - 14/12 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Internazionale - 14/12 17:00 - SportTV 2",
+      "pubDate": "Sun, 14 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

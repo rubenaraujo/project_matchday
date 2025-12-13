@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Mallorca x Elche - 13/12 15:15 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Elche - 13/12 15:15 - DAZN 3",
-      "pubDate": "Sat, 13 Dec 2025 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Gil Vicente - 13/12 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Gil Vicente - 13/12 15:30 - SportTV 1",
-      "pubDate": "Sat, 13 Dec 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x Brest - 13/12 16:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Brest - 13/12 16:00 - SportTV 5",
-      "pubDate": "Sat, 13 Dec 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 13/12 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 13/12 17:00 - C11 Stream",
@@ -222,6 +201,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense x Leixões - 14/12 11:00 - SportTV 1",
       "pubDate": "Sun, 14 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Sassuolo - 14/12 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Sassuolo - 14/12 11:30 - SportTV 2",
+      "pubDate": "Sun, 14 Dec 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x FC Nürnberg - 14/12 12:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x FC Nürnberg - 14/12 12:30 - DAZN 3",
+      "pubDate": "Sun, 14 Dec 2025 12:30:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Futsal Feijó (Futsal Feminino) x GD Árvore (Futsal Feminino) - 13/12 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x GD Árvore (Futsal Feminino) - 13/12 19:00 - C11 Stream",
-      "pubDate": "Sat, 13 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Povo Freixo (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 13/12 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Povo Freixo (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 13/12 19:00 - C11 Stream",
-      "pubDate": "Sat, 13 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x AFS - 13/12 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x AFS - 13/12 20:30 - SportTV 1",
-      "pubDate": "Sat, 13 Dec 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão (Futsal) x Eléctrico (Futsal) - 13/12 21:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (Futsal) x Eléctrico (Futsal) - 13/12 21:00 - C11 Stream",
-      "pubDate": "Sat, 13 Dec 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave (Futsal) x Benfica (Futsal) - 14/12 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (Futsal) x Benfica (Futsal) - 14/12 11:00 - Canal11",
@@ -271,6 +243,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marseille x Monaco - 14/12 19:45 - SportTV 3",
       "pubDate": "Sun, 14 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x Trofense - 14/12 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x Trofense - 14/12 20:00 - Canal11",
+      "pubDate": "Sun, 14 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Real Madrid - 14/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Real Madrid - 14/12 20:00 - DAZN 1",
+      "pubDate": "Sun, 14 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Ceuta x Las Palmas - 14/12 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Ceuta x Las Palmas - 14/12 20:00 - DAZN 3",
+      "pubDate": "Sun, 14 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x FC Alverca - 14/12 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x FC Alverca - 14/12 20:30 - SportTV 1",
+      "pubDate": "Sun, 14 Dec 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Charlotte Hornets (Basket) - 14/12 20:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Charlotte Hornets (Basket) - 14/12 20:30 - SportTV 4",
+      "pubDate": "Sun, 14 Dec 2025 20:30:00",
       "guid": ""
     }
   ]

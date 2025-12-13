@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Luzia (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 13/12 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 13/12 18:00 - Canal11",
-      "pubDate": "Sat, 13 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Futsal Feijó (Futsal Feminino) x GD Árvore (Futsal Feminino) - 13/12 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Futsal Feijó (Futsal Feminino) x GD Árvore (Futsal Feminino) - 13/12 19:00 - C11 Stream",
@@ -19,48 +12,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Povo Freixo (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 13/12 19:00 - C11 Stream",
       "pubDate": "Sat, 13 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Cagliari - 13/12 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Cagliari - 13/12 19:45 - SportTV 3",
-      "pubDate": "Sat, 13 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (B) x Vitória SC - 13/12 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x Vitória SC - 13/12 20:00 - Canal11",
-      "pubDate": "Sat, 13 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Wolverhampton - 13/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Wolverhampton - 13/12 20:00 - DAZN 1",
-      "pubDate": "Sat, 13 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Espanyol - 13/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Espanyol - 13/12 20:00 - DAZN 2",
-      "pubDate": "Sat, 13 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Zaragoza x Cádiz - 13/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Zaragoza x Cádiz - 13/12 20:00 - DAZN 3",
-      "pubDate": "Sat, 13 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Toulouse - 13/12 20:05 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Toulouse - 13/12 20:05 - SportTV 2",
-      "pubDate": "Sat, 13 Dec 2025 20:05:00",
       "guid": ""
     },
     {
@@ -243,6 +194,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genoa x Internazionale - 14/12 17:00 - SportTV 2",
       "pubDate": "Sun, 14 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trabzonspor x Besiktas - 14/12 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trabzonspor x Besiktas - 14/12 17:00 - SportTV 5",
+      "pubDate": "Sun, 14 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x Académica OAF - 14/12 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x Académica OAF - 14/12 17:30 - Canal11",
+      "pubDate": "Sun, 14 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Villarreal - 14/12 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Villarreal - 14/12 17:30 - DAZN 3",
+      "pubDate": "Sun, 14 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x Benfica - 14/12 18:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x Benfica - 14/12 18:00 - TVI",
+      "pubDate": "Sun, 14 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Valongo (Hóquei) x FC Porto (Hóquei) - 14/12 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Valongo (Hóquei) x FC Porto (Hóquei) - 14/12 18:00 - FPP TV",
+      "pubDate": "Sun, 14 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Lusitânia de Lourosa - 14/12 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Lusitânia de Lourosa - 14/12 18:00 - SportTV 1",
+      "pubDate": "Sun, 14 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Werder Bremen x Stuttgart - 14/12 18:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Werder Bremen x Stuttgart - 14/12 18:30 - DAZN 2",
+      "pubDate": "Sun, 14 Dec 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Riba d´Ave (Hóquei) x UD Oliveirense (Hóquei) - 14/12 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba d´Ave (Hóquei) x UD Oliveirense (Hóquei) - 14/12 18:30 - FPP TV",
+      "pubDate": "Sun, 14 Dec 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x OC Barcelos (Hóquei) - 14/12 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x OC Barcelos (Hóquei) - 14/12 19:00 - DAZN 4",
+      "pubDate": "Sun, 14 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Juventus - 14/12 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Juventus - 14/12 19:45 - SportTV 2",
+      "pubDate": "Sun, 14 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Monaco - 14/12 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Monaco - 14/12 19:45 - SportTV 3",
+      "pubDate": "Sun, 14 Dec 2025 19:45:00",
       "guid": ""
     }
   ]

@@ -1,44 +1,9 @@
 {
   "items": [
     {
-      "title": "Levante x Villarreal - 14/12 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Villarreal - 14/12 17:30 - DAZN 3",
-      "pubDate": "Sun, 14 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Juventus - 14/12 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Juventus - 14/12 19:45 - SportTV 2",
-      "pubDate": "Sun, 14 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Monaco - 14/12 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Monaco - 14/12 19:45 - SportTV 3",
-      "pubDate": "Sun, 14 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Fafe x Trofense - 14/12 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x Trofense - 14/12 20:00 - Canal11",
-      "pubDate": "Sun, 14 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alavés x Real Madrid - 14/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Real Madrid - 14/12 20:00 - DAZN 1",
-      "pubDate": "Sun, 14 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Ceuta x Las Palmas - 14/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Ceuta x Las Palmas - 14/12 20:00 - DAZN 3",
       "pubDate": "Sun, 14 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -299,6 +264,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x Damaiense (Feminino) - 20/12 11:00 - C11 Stream",
       "pubDate": "Sat, 20 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitânia de Lourosa x UD Oliveirense - 20/12 11:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitânia de Lourosa x UD Oliveirense - 20/12 11:00 - SportTV",
+      "pubDate": "Sat, 20 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
+      "pubDate": "Sat, 20 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x Valadares Gaia (Feminino) - 20/12 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x Valadares Gaia (Feminino) - 20/12 15:00 - C11 Stream",
+      "pubDate": "Sat, 20 Dec 2025 15:00:00",
       "guid": ""
     }
   ]

@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "SC Freiburg x Borussia Dortmund - 14/12 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x Borussia Dortmund - 14/12 14:30 - DAZN 3",
-      "pubDate": "Sun, 14 Dec 2025 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Leões Porto Salvo (Futsal Feminino) x Novasemente (Futsal Feminino) - 14/12 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x Novasemente (Futsal Feminino) - 14/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 14 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x AD Marco 09 - 14/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x AD Marco 09 - 14/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 14 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x Amora FC - 14/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Amora FC - 14/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 14 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x Caldas SC - 14/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x Caldas SC - 14/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 14 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Sporting (Futsal) - 14/12 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Sporting (Futsal) - 14/12 15:00 - Canal11",
-      "pubDate": "Sun, 14 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x Juventude Pacense (Hóquei) - 14/12 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Juventude Pacense (Hóquei) - 14/12 15:00 - FPP TV",
-      "pubDate": "Sun, 14 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x SC Tomar (Hóquei) - 14/12 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x SC Tomar (Hóquei) - 14/12 15:00 - FPP TV",
       "pubDate": "Sun, 14 Dec 2025 15:00:00",
       "guid": ""
     },
@@ -292,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CB Gran Canaria (Basket) x Benfica (Basket) - 16/12 19:00 - SportTV 2",
       "pubDate": "Tue, 16 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
+      "pubDate": "Tue, 16 Dec 2025 19:05:00",
       "guid": ""
     }
   ]

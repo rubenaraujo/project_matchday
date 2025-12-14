@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Werder Bremen x Stuttgart - 14/12 18:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Werder Bremen x Stuttgart - 14/12 18:30 - DAZN 2",
-      "pubDate": "Sun, 14 Dec 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Riba d´Ave (Hóquei) x UD Oliveirense (Hóquei) - 14/12 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Riba d´Ave (Hóquei) x UD Oliveirense (Hóquei) - 14/12 18:30 - FPP TV",
-      "pubDate": "Sun, 14 Dec 2025 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x OC Barcelos (Hóquei) - 14/12 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x OC Barcelos (Hóquei) - 14/12 19:00 - DAZN 4",
-      "pubDate": "Sun, 14 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bologna x Juventus - 14/12 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bologna x Juventus - 14/12 19:45 - SportTV 2",
@@ -285,6 +264,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
+      "pubDate": "Thu, 18 Dec 2025 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Sporting (Andebol) - 19/12 20:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Sporting (Andebol) - 19/12 20:00 - BTv",
+      "pubDate": "Fri, 19 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x SC Braga - 19/12 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x SC Braga - 19/12 20:15 - SportTV 1",
+      "pubDate": "Fri, 19 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Damaiense (Feminino) - 20/12 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Damaiense (Feminino) - 20/12 11:00 - C11 Stream",
+      "pubDate": "Sat, 20 Dec 2025 11:00:00",
       "guid": ""
     }
   ]

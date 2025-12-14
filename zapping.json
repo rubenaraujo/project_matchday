@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "FC Famalicão x Estoril Praia - 14/12 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Estoril Praia - 14/12 15:30 - SportTV 1",
-      "pubDate": "Sun, 14 Dec 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "St. Mirren x Celtic - 14/12 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "St. Mirren x Celtic - 14/12 15:30 - SportTV 4",
-      "pubDate": "Sun, 14 Dec 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Lille - 14/12 16:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Lille - 14/12 16:15 - SportTV 3",
-      "pubDate": "Sun, 14 Dec 2025 16:15:00",
-      "guid": ""
-    },
-    {
       "title": "Bayern München x Mainz - 14/12 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Mainz - 14/12 16:30 - DAZN 1",
@@ -250,6 +229,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
       "pubDate": "Tue, 16 Dec 2025 19:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Cardiff City x Chelsea - 16/12 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cardiff City x Chelsea - 16/12 20:00 - SportTV 1",
+      "pubDate": "Tue, 16 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x GVVV - 16/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x GVVV - 16/12 20:00 - DAZN 1",
+      "pubDate": "Tue, 16 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vila Meã x UD Leiria - 17/12 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vila Meã x UD Leiria - 17/12 14:00 - Canal11",
+      "pubDate": "Wed, 17 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Excelsior Maassluis x Ajax - 17/12 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Excelsior Maassluis x Ajax - 17/12 17:45 - DAZN 1",
+      "pubDate": "Wed, 17 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x Torreense - 17/12 18:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x Torreense - 17/12 18:30 - Canal11",
+      "pubDate": "Wed, 17 Dec 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Brentford - 17/12 19:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Brentford - 17/12 19:30 - SportTV 2",
+      "pubDate": "Wed, 17 Dec 2025 19:30:00",
       "guid": ""
     }
   ]

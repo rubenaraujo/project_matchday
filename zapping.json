@@ -1,38 +1,10 @@
 {
   "items": [
     {
-      "title": "Belenenses x Académica OAF - 14/12 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Académica OAF - 14/12 17:30 - Canal11",
-      "pubDate": "Sun, 14 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Levante x Villarreal - 14/12 17:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Levante x Villarreal - 14/12 17:30 - DAZN 3",
       "pubDate": "Sun, 14 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Moreirense x Benfica - 14/12 18:00 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x Benfica - 14/12 18:00 - TVI",
-      "pubDate": "Sun, 14 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x FC Porto (Hóquei) - 14/12 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x FC Porto (Hóquei) - 14/12 18:00 - FPP TV",
-      "pubDate": "Sun, 14 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paços de Ferreira x Lusitânia de Lourosa - 14/12 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Lusitânia de Lourosa - 14/12 18:00 - SportTV 1",
-      "pubDate": "Sun, 14 Dec 2025 18:00:00",
       "guid": ""
     },
     {
@@ -298,6 +270,20 @@
       "title": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
       "guid": ""
     }

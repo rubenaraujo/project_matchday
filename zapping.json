@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Schalke 04 x FC Nürnberg - 14/12 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Schalke 04 x FC Nürnberg - 14/12 12:30 - DAZN 3",
-      "pubDate": "Sun, 14 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Ajax x Feyenoord - 14/12 13:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Feyenoord - 14/12 13:30 - DAZN 4",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x Real Betis - 15/12 20:00 - DAZN 2",
       "pubDate": "Mon, 15 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Est. Amadora - 15/12 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Est. Amadora - 15/12 20:45 - SportTV 1",
+      "pubDate": "Mon, 15 Dec 2025 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 16/12 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 16/12 00:00 - SportTV 3",
+      "pubDate": "Tue, 16 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Houston Rockets (Basket) - 16/12 02:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Houston Rockets (Basket) - 16/12 02:30 - SportTV 1",
+      "pubDate": "Tue, 16 Dec 2025 02:30:00",
       "guid": ""
     }
   ]

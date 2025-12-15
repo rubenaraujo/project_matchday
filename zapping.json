@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x Est. Amadora - 15/12 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Est. Amadora - 15/12 20:45 - SportTV 1",
-      "pubDate": "Mon, 15 Dec 2025 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 16/12 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 16/12 00:00 - SportTV 3",
@@ -225,13 +218,6 @@
       "guid": ""
     },
     {
-      "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Newcastle x Fulham - 17/12 20:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Fulham - 17/12 20:15 - SportTV 3",
@@ -305,6 +291,13 @@
       "title": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AEK x Universitatea Craiova - 18/12 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AEK x Universitatea Craiova - 18/12 20:00 - SportTV 4",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
       "guid": ""
     }

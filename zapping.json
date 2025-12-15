@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Seattle Seahawks (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 14/12 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Seattle Seahawks (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 14/12 21:25 - DAZN 2",
-      "pubDate": "Sun, 14 Dec 2025 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "Dallas Cowboys (Fut. Americano) x Minnesota Vikings (Fut. Americano) - 15/12 01:20 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Cowboys (Fut. Americano) x Minnesota Vikings (Fut. Americano) - 15/12 01:20 - DAZN 1",
@@ -340,6 +333,13 @@
       "title": "Benfica (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/12 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/12 17:00 - C11 Stream",
+      "pubDate": "Sat, 20 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Caykur Rizespor - 20/12 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Caykur Rizespor - 20/12 17:00 - SportTV 4",
       "pubDate": "Sat, 20 Dec 2025 17:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Feminino S15) x Chéquia (Feminino S15) - 15/12 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S15) x Chéquia (Feminino S15) - 15/12 11:00 - Canal11",
-      "pubDate": "Mon, 15 Dec 2025 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria (S23) x Farense (S23) - 15/12 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria (S23) x Farense (S23) - 15/12 15:00 - Canal11",
@@ -260,13 +253,6 @@
       "guid": ""
     },
     {
-      "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 6",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Andebol) x Póvoa AC (Andebol) - 17/12 20:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Póvoa AC (Andebol) - 17/12 20:00 - PortoCanal",
@@ -284,6 +270,20 @@
       "title": "Talavera CF x Real Madrid - 17/12 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Talavera CF x Real Madrid - 17/12 20:00 - SportTV 4",
+      "pubDate": "Wed, 17 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Sevilla - 17/12 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Sevilla - 17/12 20:00 - SportTV 6",
+      "pubDate": "Wed, 17 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
       "pubDate": "Wed, 17 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -309,6 +309,20 @@
       "guid": ""
     },
     {
+      "title": "Ourense CF x Athletic Bilbao - 18/12 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ourense CF x Athletic Bilbao - 18/12 18:00 - SportTV 6",
+      "pubDate": "Thu, 18 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Burgos CF x Getafe - 18/12 18:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burgos CF x Getafe - 18/12 18:00 - SportTV 7",
+      "pubDate": "Thu, 18 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Santa Clara x Sporting - 18/12 18:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Sporting - 18/12 18:45 - SportTV 1",
@@ -326,20 +340,6 @@
       "title": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Dallas Cowboys (Fut. Americano) x Minnesota Vikings (Fut. Americano) - 15/12 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Cowboys (Fut. Americano) x Minnesota Vikings (Fut. Americano) - 15/12 01:20 - DAZN 1",
-      "pubDate": "Mon, 15 Dec 2025 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Fenerbahçe x Konyaspor - 15/12 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fenerbahçe x Konyaspor - 15/12 17:00 - SportTV 1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Besiktas x Caykur Rizespor - 20/12 17:00 - SportTV 4",
       "pubDate": "Sat, 20 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x Trofense - 20/12 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x Trofense - 20/12 17:30 - Canal11",
+      "pubDate": "Sat, 20 Dec 2025 17:30:00",
       "guid": ""
     }
   ]

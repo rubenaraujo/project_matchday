@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Cleveland Cavaliers (Basket) x Charlotte Hornets (Basket) - 14/12 20:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Cavaliers (Basket) x Charlotte Hornets (Basket) - 14/12 20:30 - SportTV 4",
-      "pubDate": "Sun, 14 Dec 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Seattle Seahawks (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 14/12 21:25 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Seattle Seahawks (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 14/12 21:25 - DAZN 2",
@@ -155,16 +148,16 @@
       "guid": ""
     },
     {
-      "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 4",
+      "title": "Feyenoord x Heerenveen - 17/12 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 4",
+      "description": "Feyenoord x Heerenveen - 17/12 20:00 - DAZN 2",
       "pubDate": "Wed, 17 Dec 2025 20:00:00",
       "guid": ""
     },
     {
-      "title": "Feyenoord x Heerenveen - 17/12 20:00 - DAZN 2",
+      "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Heerenveen - 17/12 20:00 - DAZN 2",
+      "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 6",
       "pubDate": "Wed, 17 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -225,6 +218,13 @@
       "guid": ""
     },
     {
+      "title": "AEK x Universitatea Craiova - 18/12 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AEK x Universitatea Craiova - 18/12 20:00 - SportTV 4",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
@@ -235,6 +235,13 @@
       "title": "Benfica (Andebol) x Sporting (Andebol) - 19/12 20:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Andebol) x Sporting (Andebol) - 19/12 20:00 - BTv",
+      "pubDate": "Fri, 19 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Swansea City x Wrexham - 19/12 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Swansea City x Wrexham - 19/12 20:00 - SportTV 3",
       "pubDate": "Fri, 19 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -253,9 +260,9 @@
       "guid": ""
     },
     {
-      "title": "Lusitânia de Lourosa x UD Oliveirense - 20/12 11:00 - SportTV",
+      "title": "Lusitânia de Lourosa x UD Oliveirense - 20/12 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x UD Oliveirense - 20/12 11:00 - SportTV",
+      "description": "Lusitânia de Lourosa x UD Oliveirense - 20/12 11:00 - SportTV 1",
       "pubDate": "Sat, 20 Dec 2025 11:00:00",
       "guid": ""
     },
@@ -263,6 +270,13 @@
       "title": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Coventry City - 20/12 12:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Coventry City - 20/12 12:30 - SportTV 6",
       "pubDate": "Sat, 20 Dec 2025 12:30:00",
       "guid": ""
     },
@@ -299,6 +313,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1º Dezembro x Atlético CP - 20/12 15:00 - Canal11",
       "pubDate": "Sat, 20 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x West Ham - 20/12 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x West Ham - 20/12 15:00 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Académico - 20/12 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Académico - 20/12 15:30 - SportTV 1",
+      "pubDate": "Sat, 20 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x Paços de Ferreira - 20/12 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x Paços de Ferreira - 20/12 15:30 - SportTV 3",
+      "pubDate": "Sat, 20 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/12 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/12 17:00 - C11 Stream",
+      "pubDate": "Sat, 20 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

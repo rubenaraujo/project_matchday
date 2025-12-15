@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Roma x Como 1907 - 15/12 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Como 1907 - 15/12 19:45 - SportTV 3",
-      "pubDate": "Mon, 15 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Bournemouth - 15/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Bournemouth - 15/12 20:00 - DAZN 1",
-      "pubDate": "Mon, 15 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sheffield Wed. x Derby County - 15/12 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sheffield Wed. x Derby County - 15/12 20:00 - SportTV 4",
-      "pubDate": "Mon, 15 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Real Betis - 15/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Real Betis - 15/12 20:00 - DAZN 2",
-      "pubDate": "Mon, 15 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Est. Amadora - 15/12 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Est. Amadora - 15/12 20:45 - SportTV 1",
@@ -326,6 +298,13 @@
       "title": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
       "guid": ""
     }

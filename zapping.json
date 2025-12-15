@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x Santa Clara - 15/12 18:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Santa Clara - 15/12 18:45 - SportTV 2",
-      "pubDate": "Mon, 15 Dec 2025 18:45:00",
-      "guid": ""
-    },
-    {
       "title": "Roma x Como 1907 - 15/12 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Roma x Como 1907 - 15/12 19:45 - SportTV 3",
@@ -326,6 +319,13 @@
       "title": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Fenerbahçe x Konyaspor - 15/12 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Konyaspor - 15/12 17:00 - SportTV 1",
-      "pubDate": "Mon, 15 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nacional x CD Tondela - 15/12 17:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nacional x CD Tondela - 15/12 17:30 - SportTV 3",
@@ -333,6 +326,13 @@
       "title": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
+      "pubDate": "Thu, 18 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
       "pubDate": "Thu, 18 Dec 2025 20:00:00",
       "guid": ""
     }

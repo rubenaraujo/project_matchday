@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
-      "pubDate": "Tue, 16 Dec 2025 19:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Cardiff City x Chelsea - 16/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cardiff City x Chelsea - 16/12 20:00 - SportTV 1",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x GVVV - 16/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x GVVV - 16/12 20:00 - DAZN 1",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Clube K  (Voleibol Feminino) - 16/12 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Clube K  (Voleibol Feminino) - 16/12 20:00 - PortoCanal",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eldense x Real Sociedad - 16/12 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eldense x Real Sociedad - 16/12 20:00 - SportTV 6",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting Gijón x Valencia - 16/12 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting Gijón x Valencia - 16/12 20:00 - SportTV 7",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Guadalajara x Barcelona - 16/12 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Guadalajara x Barcelona - 16/12 20:00 - SportTV 4",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x Vitória SC (Andebol) - 16/12 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x Vitória SC (Andebol) - 16/12 20:00 - BTv",
       "pubDate": "Tue, 16 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -306,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x Detroit Pistons (Basket) - 19/12 01:30 - SportTV 1",
       "pubDate": "Fri, 19 Dec 2025 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Paderborn 07 x Darmstadt 98 - 19/12 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Paderborn 07 x Darmstadt 98 - 19/12 17:30 - DAZN 2",
+      "pubDate": "Fri, 19 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Caldas SC x U. Santarém - 19/12 17:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caldas SC x U. Santarém - 19/12 17:45 - Canal11",
+      "pubDate": "Fri, 19 Dec 2025 17:45:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Guadalajara x Barcelona - 16/12 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Guadalajara x Barcelona - 16/12 20:00 - SportTV 4",
-      "pubDate": "Tue, 16 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vila Meã x UD Leiria - 17/12 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vila Meã x UD Leiria - 17/12 14:00 - Canal11",
@@ -271,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Caldas SC x U. Santarém - 19/12 17:45 - Canal11",
       "pubDate": "Fri, 19 Dec 2025 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Borussia M´gladbach - 19/12 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Borussia M´gladbach - 19/12 19:30 - DAZN 1",
+      "pubDate": "Fri, 19 Dec 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eibar x Valladolid - 19/12 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eibar x Valladolid - 19/12 19:30 - DAZN 3",
+      "pubDate": "Fri, 19 Dec 2025 19:30:00",
       "guid": ""
     }
   ]

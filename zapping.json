@@ -1,24 +1,10 @@
 {
   "items": [
     {
-      "title": "CB Gran Canaria (Basket) x Benfica (Basket) - 16/12 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CB Gran Canaria (Basket) x Benfica (Basket) - 16/12 19:00 - SportTV 2",
-      "pubDate": "Tue, 16 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hapoel Tel Aviv (Basket) x Crvena Zvezda (Basket) - 16/12 19:05 - SportTV 3",
       "pubDate": "Tue, 16 Dec 2025 19:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Arsenal da Devesa (Andebol) - 16/12 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Arsenal da Devesa (Andebol) - 16/12 19:30 - SportingTv",
-      "pubDate": "Tue, 16 Dec 2025 19:30:00",
       "guid": ""
     },
     {
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 19/12 01:15 - DAZN 1",
       "pubDate": "Fri, 19 Dec 2025 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Mavericks (Basket) x Detroit Pistons (Basket) - 19/12 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Mavericks (Basket) x Detroit Pistons (Basket) - 19/12 01:30 - SportTV 1",
+      "pubDate": "Fri, 19 Dec 2025 01:30:00",
       "guid": ""
     }
   ]

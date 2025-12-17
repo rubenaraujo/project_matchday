@@ -71,13 +71,6 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Feminino) x PSG (Feminino) - 17/12 20:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x PSG (Feminino) - 17/12 20:00 - RTP1",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x AFS - 17/12 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x AFS - 17/12 20:00 - Canal11",
@@ -127,6 +120,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Feminino) x PSG (Feminino) - 17/12 20:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x PSG (Feminino) - 17/12 20:00 - RTP2",
+      "pubDate": "Wed, 17 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Newcastle x Fulham - 17/12 20:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Fulham - 17/12 20:15 - SportTV 3",
@@ -152,6 +152,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "ABC (Andebol) x Artística de Avanca (Andebol) - 17/12 21:00 - AndebolTV",
       "pubDate": "Wed, 17 Dec 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CH Carvalhos (Hóquei) x Benfica (Hóquei) - 17/12 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CH Carvalhos (Hóquei) x Benfica (Hóquei) - 17/12 21:00 - FPP TV",
+      "pubDate": "Wed, 17 Dec 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 17/12 21:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 17/12 21:30 - FPP TV",
+      "pubDate": "Wed, 17 Dec 2025 21:30:00",
       "guid": ""
     },
     {
@@ -320,20 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 19/12 20:30 - PortoCanal",
       "pubDate": "Fri, 19 Dec 2025 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
-      "pubDate": "Fri, 19 Dec 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
-      "pubDate": "Sat, 20 Dec 2025 02:00:00",
       "guid": ""
     }
   ]

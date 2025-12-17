@@ -1,37 +1,9 @@
 {
   "items": [
     {
-      "title": "PSG x Flamengo - 17/12 17:00 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Flamengo - 17/12 17:00 - Youtube",
-      "pubDate": "Wed, 17 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Excelsior Maassluis x Ajax - 17/12 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Excelsior Maassluis x Ajax - 17/12 17:45 - DAZN 1",
-      "pubDate": "Wed, 17 Dec 2025 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Santander x Villarreal - 17/12 18:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Santander x Villarreal - 17/12 18:00 - SportTV 7",
-      "pubDate": "Wed, 17 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Albacete x Celta de Vigo - 17/12 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Albacete x Celta de Vigo - 17/12 18:00 - SportTV 6",
-      "pubDate": "Wed, 17 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético Baleares x Atlético de Madrid - 17/12 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Baleares x Atlético de Madrid - 17/12 18:00 - SportTV 1",
       "pubDate": "Wed, 17 Dec 2025 18:00:00",
       "guid": ""
     },
@@ -327,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
       "pubDate": "Fri, 19 Dec 2025 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
+      "pubDate": "Sat, 20 Dec 2025 02:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester City x Brentford - 17/12 19:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Brentford - 17/12 19:30 - SportTV 2",
-      "pubDate": "Wed, 17 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x PAOK (Basket) - 17/12 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x PAOK (Basket) - 17/12 19:30 - SportingTv",
-      "pubDate": "Wed, 17 Dec 2025 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x AFS - 17/12 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x AFS - 17/12 20:00 - Canal11",
@@ -22,51 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Feyenoord x Heerenveen - 17/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Heerenveen - 17/12 20:00 - DAZN 2",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x Póvoa AC (Andebol) - 17/12 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Póvoa AC (Andebol) - 17/12 20:00 - PortoCanal",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses (Andebol) x FC Gaia (Andebol) - 17/12 20:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x FC Gaia (Andebol) - 17/12 20:00 - ABola TV",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Talavera CF x Real Madrid - 17/12 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Talavera CF x Real Madrid - 17/12 20:00 - SportTV 4",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alavés x Sevilla - 17/12 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Sevilla - 17/12 20:00 - SportTV 6",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Feminino) x PSG (Feminino) - 17/12 20:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x PSG (Feminino) - 17/12 20:00 - RTP2",
       "pubDate": "Wed, 17 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -299,6 +243,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x Damaiense (Feminino) - 20/12 11:00 - C11 Stream",
       "pubDate": "Sat, 20 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Amora FC x CD Mafra - 20/12 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amora FC x CD Mafra - 20/12 11:00 - Canal11",
+      "pubDate": "Sat, 20 Dec 2025 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fortuna Düsseldorf x SpVgg Greuther Fürth - 20/12 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fortuna Düsseldorf x SpVgg Greuther Fürth - 20/12 12:00 - DAZN 3",
+      "pubDate": "Sat, 20 Dec 2025 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Coventry City - 20/12 12:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Coventry City - 20/12 12:30 - SportTV 4",
+      "pubDate": "Sat, 20 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Oviedo x Celta de Vigo - 20/12 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Oviedo x Celta de Vigo - 20/12 13:00 - DAZN 2",
+      "pubDate": "Sat, 20 Dec 2025 13:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Turk Telekom (Basket) x JL Bourg-en-Bresse (Basket) - 17/12 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turk Telekom (Basket) x JL Bourg-en-Bresse (Basket) - 17/12 16:00 - SportTV 3",
-      "pubDate": "Wed, 17 Dec 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "PSG x Flamengo - 17/12 17:00 - Youtube",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Flamengo - 17/12 17:00 - Youtube",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 19/12 20:30 - PortoCanal",
       "pubDate": "Fri, 19 Dec 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
+      "pubDate": "Fri, 19 Dec 2025 21:00:00",
       "guid": ""
     }
   ]

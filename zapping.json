@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Albacete x Celta de Vigo - 17/12 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Albacete x Celta de Vigo - 17/12 18:00 - SportTV 6",
-      "pubDate": "Wed, 17 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Torreense - 17/12 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Torreense - 17/12 18:30 - Canal11",
-      "pubDate": "Wed, 17 Dec 2025 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Manchester City x Brentford - 17/12 19:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Brentford - 17/12 19:30 - SportTV 2",
@@ -306,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
       "pubDate": "Sat, 20 Dec 2025 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Damaiense (Feminino) - 20/12 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Damaiense (Feminino) - 20/12 11:00 - C11 Stream",
+      "pubDate": "Sat, 20 Dec 2025 11:00:00",
       "guid": ""
     }
   ]

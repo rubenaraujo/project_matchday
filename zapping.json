@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Vitória SC x AFS - 17/12 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x AFS - 17/12 20:00 - Canal11",
-      "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dundee United x Celtic - 17/12 20:00 - SportTV 7",
       "pubDate": "Wed, 17 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Fulham - 17/12 20:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Fulham - 17/12 20:15 - SportTV 3",
-      "pubDate": "Wed, 17 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense x Benfica - 17/12 20:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense x Benfica - 17/12 20:45 - RTP1",
-      "pubDate": "Wed, 17 Dec 2025 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x Sporting (Hóquei) - 17/12 21:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x Sporting (Hóquei) - 17/12 21:00 - DAZN 1",
-      "pubDate": "Wed, 17 Dec 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "ABC (Andebol) x Artística de Avanca (Andebol) - 17/12 21:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ABC (Andebol) x Artística de Avanca (Andebol) - 17/12 21:00 - AndebolTV",
-      "pubDate": "Wed, 17 Dec 2025 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CH Carvalhos (Hóquei) x Benfica (Hóquei) - 17/12 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CH Carvalhos (Hóquei) x Benfica (Hóquei) - 17/12 21:00 - FPP TV",
-      "pubDate": "Wed, 17 Dec 2025 21:00:00",
       "guid": ""
     },
     {
@@ -278,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Celta de Vigo - 20/12 13:00 - DAZN 2",
       "pubDate": "Sat, 20 Dec 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
+      "pubDate": "Sat, 20 Dec 2025 14:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
-      "pubDate": "Thu, 18 Dec 2025 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 19/12 01:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 19/12 01:15 - DAZN 1",
@@ -284,6 +277,20 @@
       "title": "Tottenham x Liverpool - 20/12 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tottenham x Liverpool - 20/12 17:30 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Alavés - 20/12 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Alavés - 20/12 17:30 - DAZN 2",
+      "pubDate": "Sat, 20 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x Bayer Leverkusen - 20/12 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x Bayer Leverkusen - 20/12 17:30 - DAZN 3",
       "pubDate": "Sat, 20 Dec 2025 17:30:00",
       "guid": ""
     }

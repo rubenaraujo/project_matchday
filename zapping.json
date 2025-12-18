@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Clara x Sporting - 18/12 18:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Sporting - 18/12 18:45 - SportTV 1",
-      "pubDate": "Thu, 18 Dec 2025 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Panathinaikos (Basket) x Hapoel Tel Aviv (Basket) - 18/12 19:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Panathinaikos (Basket) x Hapoel Tel Aviv (Basket) - 18/12 19:15 - SportTV 4",
-      "pubDate": "Thu, 18 Dec 2025 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x KuPS - 18/12 20:00 - DAZN 1",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lausanne-Sport x Fiorentina - 18/12 20:00 - DAZN 2",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x KF Drita - 18/12 20:00 - DAZN 3",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sparta Praha x Aberdeen - 18/12 20:00 - DAZN 4",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Murcia x Real Betis - 18/12 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Murcia x Real Betis - 18/12 20:00 - SportTV 6",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AEK x Universitatea Craiova - 18/12 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AEK x Universitatea Craiova - 18/12 20:00 - SportTV 5",
-      "pubDate": "Thu, 18 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x FC Famalicão - 18/12 20:45 - RTP1",
@@ -148,9 +92,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 19/12 20:30 - PortoCanal",
+      "title": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 19/12 20:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 19/12 20:30 - PortoCanal",
+      "description": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 19/12 20:30 - FPP TV",
       "pubDate": "Fri, 19 Dec 2025 20:30:00",
       "guid": ""
     },
@@ -327,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Cremonese - 20/12 17:00 - SportTV 2",
       "pubDate": "Sat, 20 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x Trofense - 20/12 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x Trofense - 20/12 17:30 - Canal11",
+      "pubDate": "Sat, 20 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Liverpool - 20/12 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Liverpool - 20/12 17:30 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 17:30:00",
       "guid": ""
     }
   ]

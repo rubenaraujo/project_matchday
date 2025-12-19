@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 19/12 01:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 19/12 01:15 - DAZN 1",
-      "pubDate": "Fri, 19 Dec 2025 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "SC Paderborn 07 x Darmstadt 98 - 19/12 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Paderborn 07 x Darmstadt 98 - 19/12 17:30 - DAZN 2",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Roma - 20/12 19:45 - SportTV 2",
       "pubDate": "Sat, 20 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Águias Santa Marta (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 20/12 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águias Santa Marta (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 20/12 20:00 - Canal11",
+      "pubDate": "Sat, 20 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Arsenal - 20/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Arsenal - 20/12 20:00 - DAZN 1",
+      "pubDate": "Sat, 20 Dec 2025 20:00:00",
       "guid": ""
     }
   ]

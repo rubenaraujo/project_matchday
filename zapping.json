@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia x SC Braga - 19/12 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x SC Braga - 19/12 20:15 - SportTV 1",
-      "pubDate": "Fri, 19 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 19/12 21:00 - SportingTv",
-      "pubDate": "Fri, 19 Dec 2025 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 20/12 02:00 - SportTV 2",
@@ -285,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Crystal Palace - 20/12 20:00 - DAZN 3",
       "pubDate": "Sat, 20 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora x Moreirense - 20/12 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora x Moreirense - 20/12 20:30 - SportTV 1",
+      "pubDate": "Sat, 20 Dec 2025 20:30:00",
       "guid": ""
     }
   ]

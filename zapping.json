@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Chelsea - 20/12 12:30 - DAZN 1",
-      "pubDate": "Sat, 20 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Southampton x Coventry City - 20/12 12:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x Coventry City - 20/12 12:30 - SportTV 4",
-      "pubDate": "Sat, 20 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Celta de Vigo - 20/12 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Celta de Vigo - 20/12 13:00 - DAZN 2",
-      "pubDate": "Sat, 20 Dec 2025 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
@@ -320,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Girona x Atlético de Madrid - 21/12 13:00 - DAZN 2",
       "pubDate": "Sun, 21 Dec 2025 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feyenoord x FC Twente - 21/12 13:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feyenoord x FC Twente - 21/12 13:30 - DAZN 1",
+      "pubDate": "Sun, 21 Dec 2025 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hearts x Rangers - 21/12 13:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hearts x Rangers - 21/12 13:30 - SportTV 6",
+      "pubDate": "Sun, 21 Dec 2025 13:30:00",
       "guid": ""
     }
   ]

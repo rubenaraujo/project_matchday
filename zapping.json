@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Stuttgart x TSG Hoffenheim - 20/12 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x TSG Hoffenheim - 20/12 14:30 - DAZN 4",
-      "pubDate": "Sat, 20 Dec 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Feminino) x Valadares Gaia (Feminino) - 20/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Feminino) x Valadares Gaia (Feminino) - 20/12 15:00 - C11 Stream",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Vitória SC (Feminino) - 20/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Vitória SC (Feminino) - 20/12 15:00 - C11 Stream",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x SC Braga - 20/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x SC Braga - 20/12 15:00 - C11 Stream",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x Atlético CP - 20/12 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x Atlético CP - 20/12 15:00 - Canal11",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x West Ham - 20/12 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x West Ham - 20/12 15:00 - DAZN 1",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Burnley - 20/12 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Burnley - 20/12 15:00 - DAZN 3",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x Gil Vicente (Feminino) - 20/12 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x Gil Vicente (Feminino) - 20/12 15:00 - PortoCanal",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.B S17) x Benfica (Jun.B S17) - 20/12 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.B S17) x Benfica (Jun.B S17) - 20/12 15:00 - SportingTv",
-      "pubDate": "Sat, 20 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Levante x Real Sociedad - 20/12 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Levante x Real Sociedad - 20/12 15:15 - DAZN 2",
@@ -306,6 +243,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x Marítimo - 21/12 14:00 - SportTV +",
       "pubDate": "Sun, 21 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Torino - 21/12 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Torino - 21/12 14:00 - SportTV 2",
+      "pubDate": "Sun, 21 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mainz x FC St. Pauli - 21/12 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mainz x FC St. Pauli - 21/12 14:30 - DAZN 4",
+      "pubDate": "Sun, 21 Dec 2025 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (B) x USC Paredes - 21/12 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (B) x USC Paredes - 21/12 15:00 - C11 Stream",
+      "pubDate": "Sun, 21 Dec 2025 15:00:00",
       "guid": ""
     }
   ]

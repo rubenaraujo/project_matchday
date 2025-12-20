@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Novasemente (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/12 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Novasemente (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/12 18:00 - C11 Stream",
-      "pubDate": "Sat, 20 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/12 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/12 19:00 - C11 Stream",
@@ -15,37 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Juventus x Roma - 20/12 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Roma - 20/12 19:45 - SportTV 2",
-      "pubDate": "Sat, 20 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Águias Santa Marta (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 20/12 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águias Santa Marta (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 20/12 20:00 - Canal11",
-      "pubDate": "Sat, 20 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Arsenal - 20/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Arsenal - 20/12 20:00 - DAZN 1",
-      "pubDate": "Sat, 20 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Sevilla - 20/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Sevilla - 20/12 20:00 - DAZN 2",
-      "pubDate": "Sat, 20 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Crystal Palace - 20/12 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Crystal Palace - 20/12 20:00 - DAZN 3",
       "pubDate": "Sat, 20 Dec 2025 20:00:00",
       "guid": ""
     },
@@ -285,6 +250,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche x Rayo Vallecano - 21/12 17:30 - DAZN 2",
       "pubDate": "Sun, 21 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Casa Pia AC - 21/12 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Casa Pia AC - 21/12 18:00 - SportTV 1",
+      "pubDate": "Sun, 21 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x Torreense - 21/12 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x Torreense - 21/12 18:00 - SportTV 3",
+      "pubDate": "Sun, 21 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marrocos x Ilhas Comores - 21/12 18:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marrocos x Ilhas Comores - 21/12 18:00 - SportTV 7",
+      "pubDate": "Sun, 21 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x Leixões (Voleibol) - 21/12 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x Leixões (Voleibol) - 21/12 18:30 - SportingTv",
+      "pubDate": "Sun, 21 Dec 2025 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal) x Ucrânia (Futsal) - 21/12 19:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal) x Ucrânia (Futsal) - 21/12 19:45 - Canal11",
+      "pubDate": "Sun, 21 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Atalanta - 21/12 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Atalanta - 21/12 19:45 - SportTV 2",
+      "pubDate": "Sun, 21 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Getafe - 21/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Getafe - 21/12 20:00 - DAZN 1",
+      "pubDate": "Sun, 21 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x FC Saint-Cyr Collonges - 21/12 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x FC Saint-Cyr Collonges - 21/12 20:00 - SportTV 4",
+      "pubDate": "Sun, 21 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x FC Arouca - 21/12 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x FC Arouca - 21/12 20:30 - SportTV 1",
+      "pubDate": "Sun, 21 Dec 2025 20:30:00",
       "guid": ""
     }
   ]

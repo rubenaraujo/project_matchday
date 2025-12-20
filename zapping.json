@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 20/12 17:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 20/12 17:30 - SportTV 6",
-      "pubDate": "Sat, 20 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Novasemente (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/12 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novasemente (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 20/12 18:00 - C11 Stream",
@@ -18,13 +11,6 @@
       "title": "Nun´Álvares (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/12 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Atlético CP (Futsal Feminino) - 20/12 19:00 - C11 Stream",
-      "pubDate": "Sat, 20 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "NEC x Ajax - 20/12 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "NEC x Ajax - 20/12 19:00 - DAZN 4",
       "pubDate": "Sat, 20 Dec 2025 19:00:00",
       "guid": ""
     },
@@ -232,6 +218,13 @@
       "guid": ""
     },
     {
+      "title": "Nogueirense FC x Sousense - 21/12 15:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nogueirense FC x Sousense - 21/12 15:00 - Online",
+      "pubDate": "Sun, 21 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Villarreal x Barcelona - 21/12 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Barcelona - 21/12 15:15 - DAZN 2",
@@ -278,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Udinese - 21/12 17:00 - SportTV 2",
       "pubDate": "Sun, 21 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Feminino) x Benfica (Feminino) - 21/12 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Feminino) x Benfica (Feminino) - 21/12 17:30 - Canal11",
+      "pubDate": "Sun, 21 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Rayo Vallecano - 21/12 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Rayo Vallecano - 21/12 17:30 - DAZN 2",
+      "pubDate": "Sun, 21 Dec 2025 17:30:00",
       "guid": ""
     }
   ]

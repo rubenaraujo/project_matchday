@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/12 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 20/12 17:00 - C11 Stream",
-      "pubDate": "Sat, 20 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Caykur Rizespor - 20/12 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Caykur Rizespor - 20/12 17:00 - SportTV 5",
-      "pubDate": "Sat, 20 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Cremonese - 20/12 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Cremonese - 20/12 17:00 - SportTV 2",
-      "pubDate": "Sat, 20 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Varzim x Trofense - 20/12 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Varzim x Trofense - 20/12 17:30 - Canal11",
@@ -257,6 +236,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Amarante FC x Fafe - 21/12 15:00 - Canal11",
       "pubDate": "Sun, 21 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Lusitano GC - 21/12 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Lusitano GC - 21/12 15:00 - C11 Stream",
+      "pubDate": "Sun, 21 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Covilhã x Belenenses - 21/12 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Covilhã x Belenenses - 21/12 15:00 - C11 Stream",
+      "pubDate": "Sun, 21 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 21/12 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 21/12 15:00 - SportingTv",
+      "pubDate": "Sun, 21 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal x Barcelona - 21/12 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal x Barcelona - 21/12 15:15 - DAZN 2",
+      "pubDate": "Sun, 21 Dec 2025 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Nacional - 21/12 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Nacional - 21/12 15:30 - SportTV 1",
+      "pubDate": "Sun, 21 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense x UD Leiria - 21/12 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense x UD Leiria - 21/12 15:30 - SportTV 3",
+      "pubDate": "Sun, 21 Dec 2025 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Manchester United - 21/12 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Manchester United - 21/12 16:30 - DAZN 1",
+      "pubDate": "Sun, 21 Dec 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Heidenheim 1846 x Bayern München - 21/12 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Heidenheim 1846 x Bayern München - 21/12 16:30 - DAZN 3",
+      "pubDate": "Sun, 21 Dec 2025 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Kasimpasa - 21/12 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Kasimpasa - 21/12 17:00 - SportTV 4",
+      "pubDate": "Sun, 21 Dec 2025 17:00:00",
       "guid": ""
     }
   ]

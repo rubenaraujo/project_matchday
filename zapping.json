@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x Portimonense - 20/12 14:00 - SportTV +",
-      "pubDate": "Sat, 20 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eyupspor x Fenerbahçe - 20/12 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eyupspor x Fenerbahçe - 20/12 14:00 - SportTV 6",
-      "pubDate": "Sat, 20 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x TSG Hoffenheim - 20/12 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x TSG Hoffenheim - 20/12 14:30 - DAZN 4",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hearts x Rangers - 21/12 13:30 - SportTV 6",
       "pubDate": "Sun, 21 Dec 2025 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Marítimo - 21/12 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Marítimo - 21/12 14:00 - SportTV +",
+      "pubDate": "Sun, 21 Dec 2025 14:00:00",
       "guid": ""
     }
   ]

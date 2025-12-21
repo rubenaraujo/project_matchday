@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Aston Villa x Manchester United - 21/12 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Manchester United - 21/12 16:30 - DAZN 1",
-      "pubDate": "Sun, 21 Dec 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Heidenheim 1846 x Bayern München - 21/12 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Heidenheim 1846 x Bayern München - 21/12 16:30 - DAZN 3",
-      "pubDate": "Sun, 21 Dec 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Kasimpasa - 21/12 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Kasimpasa - 21/12 17:00 - SportTV 4",
-      "pubDate": "Sun, 21 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Udinese - 21/12 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Udinese - 21/12 17:00 - SportTV 2",
-      "pubDate": "Sun, 21 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Feminino) x Benfica (Feminino) - 21/12 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Feminino) x Benfica (Feminino) - 21/12 17:30 - Canal11",
@@ -264,6 +236,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x Denver Nuggets (Basket) - 24/12 01:00 - SportTV 1",
       "pubDate": "Wed, 24 Dec 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Burkina Faso x Guiné Equatorial - 24/12 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burkina Faso x Guiné Equatorial - 24/12 12:30 - SportTV 1",
+      "pubDate": "Wed, 24 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Argélia x Sudão - 24/12 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argélia x Sudão - 24/12 15:00 - SportTV 1",
+      "pubDate": "Wed, 24 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Costa do Marfim x Moçambique - 24/12 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Costa do Marfim x Moçambique - 24/12 17:30 - SportTV 1",
+      "pubDate": "Wed, 24 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Camarões x Gabão - 24/12 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Camarões x Gabão - 24/12 20:00 - SportTV 1",
+      "pubDate": "Wed, 24 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Knicks (Basket) x Cleveland Cavaliers (Basket) - 25/12 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Knicks (Basket) x Cleveland Cavaliers (Basket) - 25/12 17:00 - SportTV 1",
+      "pubDate": "Thu, 25 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 25/12 19:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 25/12 19:30 - SportTV 1",
+      "pubDate": "Thu, 25 Dec 2025 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x Dallas Mavericks (Basket) - 25/12 22:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x Dallas Mavericks (Basket) - 25/12 22:00 - SportTV 1",
+      "pubDate": "Thu, 25 Dec 2025 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x Houston Rockets (Basket) - 26/12 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x Houston Rockets (Basket) - 26/12 01:00 - SportTV 1",
+      "pubDate": "Fri, 26 Dec 2025 01:00:00",
       "guid": ""
     }
   ]

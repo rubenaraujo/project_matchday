@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Feminino) x Benfica (Feminino) - 21/12 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x Benfica (Feminino) - 21/12 17:30 - Canal11",
-      "pubDate": "Sun, 21 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Rayo Vallecano - 21/12 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Rayo Vallecano - 21/12 17:30 - DAZN 2",
-      "pubDate": "Sun, 21 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Casa Pia AC - 21/12 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Casa Pia AC - 21/12 18:00 - SportTV 1",
-      "pubDate": "Sun, 21 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x Torreense - 21/12 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x Torreense - 21/12 18:00 - SportTV 3",
-      "pubDate": "Sun, 21 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x Leixões (Voleibol) - 21/12 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Leixões (Voleibol) - 21/12 18:30 - SportingTv",
-      "pubDate": "Sun, 21 Dec 2025 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Futsal) x Ucrânia (Futsal) - 21/12 19:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal) x Ucrânia (Futsal) - 21/12 19:45 - Canal11",
@@ -292,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Houston Rockets (Basket) - 26/12 01:00 - SportTV 1",
       "pubDate": "Fri, 26 Dec 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angola x Zimbabwe - 26/12 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angola x Zimbabwe - 26/12 12:30 - SportTV 1",
+      "pubDate": "Fri, 26 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Derby County - 26/12 12:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Derby County - 26/12 12:30 - SportTV 2",
+      "pubDate": "Fri, 26 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto x África do Sul - 26/12 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto x África do Sul - 26/12 15:00 - SportTV 1",
+      "pubDate": "Fri, 26 Dec 2025 15:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Fontenay VF x PSG - 20/12 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fontenay VF x PSG - 20/12 20:00 - SportTV 3",
-      "pubDate": "Sat, 20 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Platense x Estudiantes - 20/12 21:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Platense x Estudiantes - 20/12 21:00 - SportTV 6",
@@ -306,6 +299,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Miami Heat (Basket) - 21/12 23:00 - SportTV 2",
       "pubDate": "Sun, 21 Dec 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Baltimore Ravens (Fut. Americano) x New England Patriots (Fut. Americano) - 22/12 01:20 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Baltimore Ravens (Fut. Americano) x New England Patriots (Fut. Americano) - 22/12 01:20 - DAZN 1",
+      "pubDate": "Mon, 22 Dec 2025 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Mali x Zâmbia - 22/12 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mali x Zâmbia - 22/12 14:00 - SportTV 1",
+      "pubDate": "Mon, 22 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "África do Sul x Angola - 22/12 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "África do Sul x Angola - 22/12 17:00 - SportTV 3",
+      "pubDate": "Mon, 22 Dec 2025 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x Sporting - 22/12 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x Sporting - 22/12 18:00 - BTv",
+      "pubDate": "Mon, 22 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x FC Porto - 22/12 18:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x FC Porto - 22/12 18:45 - SportTV 1",
+      "pubDate": "Mon, 22 Dec 2025 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Bologna - 22/12 19:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Bologna - 22/12 19:00 - SportTV 2",
+      "pubDate": "Mon, 22 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Nottingham Forest - 22/12 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Nottingham Forest - 22/12 20:00 - DAZN 1",
+      "pubDate": "Mon, 22 Dec 2025 20:00:00",
       "guid": ""
     }
   ]

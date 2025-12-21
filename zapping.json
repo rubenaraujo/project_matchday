@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Feyenoord x FC Twente - 21/12 13:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x FC Twente - 21/12 13:30 - DAZN 1",
-      "pubDate": "Sun, 21 Dec 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hearts x Rangers - 21/12 13:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hearts x Rangers - 21/12 13:30 - SportTV 6",
-      "pubDate": "Sun, 21 Dec 2025 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Monaco - 21/12 13:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Monaco - 21/12 13:45 - SportTV 4",
-      "pubDate": "Sun, 21 Dec 2025 13:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões x Marítimo - 21/12 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x Marítimo - 21/12 14:00 - SportTV +",
-      "pubDate": "Sun, 21 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Torino - 21/12 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Torino - 21/12 14:00 - SportTV 2",
-      "pubDate": "Sun, 21 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Mainz x FC St. Pauli - 21/12 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mainz x FC St. Pauli - 21/12 14:30 - DAZN 4",
@@ -313,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x St. Louis Blues (Hóquei no Gelo  Seniores) - 23/12 00:00 - SportTV 3",
       "pubDate": "Tue, 23 Dec 2025 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Indiana Pacers (Basket) - 23/12 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Indiana Pacers (Basket) - 23/12 00:30 - SportTV 1",
+      "pubDate": "Tue, 23 Dec 2025 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rep. Dem. Congo x Benin - 23/12 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rep. Dem. Congo x Benin - 23/12 12:30 - SportTV 1",
+      "pubDate": "Tue, 23 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal x Botswana - 23/12 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal x Botswana - 23/12 15:00 - SportTV 1",
+      "pubDate": "Tue, 23 Dec 2025 15:00:00",
       "guid": ""
     }
   ]

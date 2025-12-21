@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Mainz x FC St. Pauli - 21/12 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x FC St. Pauli - 21/12 14:30 - DAZN 4",
-      "pubDate": "Sun, 21 Dec 2025 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x USC Paredes - 21/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x USC Paredes - 21/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x S. João Ver - 21/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x S. João Ver - 21/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x Fafe - 21/12 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x Fafe - 21/12 15:00 - Canal11",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Lusitano GC - 21/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Lusitano GC - 21/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Belenenses - 21/12 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Belenenses - 21/12 15:00 - C11 Stream",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 21/12 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 21/12 15:00 - SportingTv",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nogueirense FC x Sousense - 21/12 15:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nogueirense FC x Sousense - 21/12 15:00 - Online",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Villarreal x Barcelona - 21/12 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Barcelona - 21/12 15:15 - DAZN 2",
@@ -299,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Senegal x Botswana - 23/12 15:00 - SportTV 1",
       "pubDate": "Tue, 23 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nigéria x Tanzânia - 23/12 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nigéria x Tanzânia - 23/12 17:30 - SportTV 4",
+      "pubDate": "Tue, 23 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Caldas SC x SC Braga - 23/12 18:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caldas SC x SC Braga - 23/12 18:45 - SportTV 2",
+      "pubDate": "Tue, 23 Dec 2025 18:45:00",
       "guid": ""
     }
   ]

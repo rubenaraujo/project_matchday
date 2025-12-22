@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Detroit Lions (Fut. Americano) x Pittsburgh Steelers (Fut. Americano) - 21/12 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Detroit Lions (Fut. Americano) x Pittsburgh Steelers (Fut. Americano) - 21/12 21:25 - DAZN 2",
-      "pubDate": "Sun, 21 Dec 2025 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Miami Heat (Basket) - 21/12 23:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Miami Heat (Basket) - 21/12 23:00 - SportTV 2",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Fiorentina - 27/12 11:30 - SportTV 1",
       "pubDate": "Sat, 27 Dec 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benin x Botswana - 27/12 12:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benin x Botswana - 27/12 12:30 - SportTV 7",
+      "pubDate": "Sat, 27 Dec 2025 12:30:00",
       "guid": ""
     }
   ]

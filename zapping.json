@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Fulham x Nottingham Forest - 22/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Nottingham Forest - 22/12 20:00 - DAZN 1",
-      "pubDate": "Mon, 22 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Egipto x Zimbabwe - 22/12 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Egipto x Zimbabwe - 22/12 20:00 - SportTV 3",
-      "pubDate": "Mon, 22 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Espanyol - 22/12 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Espanyol - 22/12 20:00 - DAZN 2",
-      "pubDate": "Mon, 22 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x FC Famalicão - 22/12 20:45 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x FC Famalicão - 22/12 20:45 - BTv",
@@ -313,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Cagliari - 27/12 14:00 - SportTV 1",
       "pubDate": "Sat, 27 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
+      "pubDate": "Sat, 27 Dec 2025 14:50:00",
       "guid": ""
     }
   ]

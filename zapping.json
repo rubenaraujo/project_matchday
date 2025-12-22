@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Baltimore Ravens (Fut. Americano) x New England Patriots (Fut. Americano) - 22/12 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Baltimore Ravens (Fut. Americano) x New England Patriots (Fut. Americano) - 22/12 01:20 - DAZN 1",
-      "pubDate": "Mon, 22 Dec 2025 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria (S23) x Sporting (S23) - 22/12 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria (S23) x Sporting (S23) - 22/12 11:00 - Canal11",
@@ -326,6 +319,13 @@
       "title": "Hibernian x Hearts - 27/12 12:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hibernian x Hearts - 27/12 12:30 - SportTV 3",
+      "pubDate": "Sat, 27 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nottingham Forest x Manchester City - 27/12 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nottingham Forest x Manchester City - 27/12 12:30 - DAZN 1",
       "pubDate": "Sat, 27 Dec 2025 12:30:00",
       "guid": ""
     }

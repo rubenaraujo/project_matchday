@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x FC Famalicão - 22/12 20:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x FC Famalicão - 22/12 20:45 - BTv",
-      "pubDate": "Mon, 22 Dec 2025 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x UD Oliveirense - 22/12 20:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x UD Oliveirense - 22/12 20:45 - SportTV 4",
-      "pubDate": "Mon, 22 Dec 2025 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x St. Louis Blues (Hóquei no Gelo  Seniores) - 23/12 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x St. Louis Blues (Hóquei no Gelo  Seniores) - 23/12 00:00 - SportTV 3",
@@ -299,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
       "pubDate": "Sat, 27 Dec 2025 14:50:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal x Rep. Dem. Congo - 27/12 15:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal x Rep. Dem. Congo - 27/12 15:00 - SportTV 7",
+      "pubDate": "Sat, 27 Dec 2025 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Livingston x Celtic - 27/12 15:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Livingston x Celtic - 27/12 15:00 - SportTV 4",
+      "pubDate": "Sat, 27 Dec 2025 15:00:00",
       "guid": ""
     }
   ]

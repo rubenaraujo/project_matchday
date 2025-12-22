@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Alverca x FC Porto - 22/12 18:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x FC Porto - 22/12 18:45 - SportTV 1",
-      "pubDate": "Mon, 22 Dec 2025 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Bologna - 22/12 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Bologna - 22/12 19:00 - SportTV 2",
-      "pubDate": "Mon, 22 Dec 2025 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fulham x Nottingham Forest - 22/12 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Nottingham Forest - 22/12 20:00 - DAZN 1",
@@ -312,6 +298,20 @@
       "title": "Lusitano GC x Fafe - 27/12 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitano GC x Fafe - 27/12 14:00 - Canal11",
+      "pubDate": "Sat, 27 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Como 1907 - 27/12 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Como 1907 - 27/12 14:00 - SportTV 6",
+      "pubDate": "Sat, 27 Dec 2025 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Cagliari - 27/12 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Cagliari - 27/12 14:00 - SportTV 1",
       "pubDate": "Sat, 27 Dec 2025 14:00:00",
       "guid": ""
     }

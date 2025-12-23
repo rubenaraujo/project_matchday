@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Arsenal x Crystal Palace - 23/12 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Crystal Palace - 23/12 20:00 - SportTV 3",
-      "pubDate": "Tue, 23 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC x Sporting - 23/12 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x Sporting - 23/12 20:45 - SportTV 1",
-      "pubDate": "Tue, 23 Dec 2025 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 24/12 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 24/12 00:00 - SportTV 3",
@@ -320,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão x Est. Amadora - 27/12 18:00 - SportTV 1",
       "pubDate": "Sat, 27 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Juventus - 27/12 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Juventus - 27/12 19:45 - SportTV 3",
+      "pubDate": "Sat, 27 Dec 2025 19:45:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Camarões x Gabão - 24/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Camarões x Gabão - 24/12 20:00 - SportTV 1",
-      "pubDate": "Wed, 24 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Cleveland Cavaliers (Basket) - 25/12 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Cleveland Cavaliers (Basket) - 25/12 17:00 - SportTV 1",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gabão x Moçambique - 28/12 12:30 - SportTV 7",
       "pubDate": "Sun, 28 Dec 2025 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eléctrico (Futsal) x Leões Porto Salvo (Futsal) - 28/12 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eléctrico (Futsal) x Leões Porto Salvo (Futsal) - 28/12 14:00 - Canal11",
+      "pubDate": "Sun, 28 Dec 2025 14:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Costa do Marfim x Moçambique - 24/12 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Costa do Marfim x Moçambique - 24/12 17:30 - SportTV 1",
-      "pubDate": "Wed, 24 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Camarões x Gabão - 24/12 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Camarões x Gabão - 24/12 20:00 - SportTV 1",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Hellas Verona - 28/12 11:30 - SportTV 2",
       "pubDate": "Sun, 28 Dec 2025 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gabão x Moçambique - 28/12 12:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gabão x Moçambique - 28/12 12:30 - SportTV 7",
+      "pubDate": "Sun, 28 Dec 2025 12:30:00",
       "guid": ""
     }
   ]

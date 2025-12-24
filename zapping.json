@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Phoenix Suns (Basket) x LA Lakers (Basket) - 24/12 02:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Phoenix Suns (Basket) x LA Lakers (Basket) - 24/12 02:00 - SportTV 2",
-      "pubDate": "Wed, 24 Dec 2025 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Burkina Faso x Guiné Equatorial - 24/12 12:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Burkina Faso x Guiné Equatorial - 24/12 12:30 - SportTV 1",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sacramento Kings (Basket) x Dallas Mavericks (Basket) - 27/12 22:00 - SportTV 2",
       "pubDate": "Sat, 27 Dec 2025 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Islanders (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 27/12 23:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Islanders (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 27/12 23:00 - SportTV 3",
+      "pubDate": "Sat, 27 Dec 2025 23:00:00",
       "guid": ""
     }
   ]

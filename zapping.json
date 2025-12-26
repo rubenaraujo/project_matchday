@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Marrocos x Mali - 26/12 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marrocos x Mali - 26/12 20:00 - SportTV 1",
-      "pubDate": "Fri, 26 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Newcastle - 26/12 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Newcastle - 26/12 20:00 - DAZN 1",
-      "pubDate": "Fri, 26 Dec 2025 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Parma x Fiorentina - 27/12 11:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Fiorentina - 27/12 11:30 - SportTV 1",
@@ -320,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal) x Rio Ave (Futsal) - 28/12 18:00 - Canal11",
       "pubDate": "Sun, 28 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Internazionale - 28/12 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Internazionale - 28/12 19:45 - SportTV 3",
+      "pubDate": "Sun, 28 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Costa do Marfim x Camarões - 28/12 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Costa do Marfim x Camarões - 28/12 20:00 - SportTV 7",
+      "pubDate": "Sun, 28 Dec 2025 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Rio Ave - 28/12 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Rio Ave - 28/12 20:30 - SportTV 2",
+      "pubDate": "Sun, 28 Dec 2025 20:30:00",
       "guid": ""
     }
   ]

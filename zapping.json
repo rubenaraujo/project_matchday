@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Kansas City Chiefs (Fut. Americano) x Denver Broncos (Fut. Americano) - 26/12 01:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kansas City Chiefs (Fut. Americano) x Denver Broncos (Fut. Americano) - 26/12 01:15 - DAZN 1",
-      "pubDate": "Fri, 26 Dec 2025 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Angola x Zimbabwe - 26/12 12:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angola x Zimbabwe - 26/12 12:30 - SportTV 1",
@@ -348,6 +341,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Fundão (Futsal) x SC Braga (Futsal) - 28/12 16:00 - C11 Stream",
       "pubDate": "Sun, 28 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Tottenham - 28/12 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Tottenham - 28/12 16:30 - DAZN 1",
+      "pubDate": "Sun, 28 Dec 2025 16:30:00",
       "guid": ""
     }
   ]

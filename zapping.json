@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Udinese x Lazio - 27/12 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Lazio - 27/12 17:00 - SportTV 2",
-      "pubDate": "Sat, 27 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Ittihad Jeddah x Al-Shabab - 27/12 17:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ittihad Jeddah x Al-Shabab - 27/12 17:30 - SportTV 3",
@@ -299,6 +292,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Preston North End - 29/12 19:45 - SportTV 4",
       "pubDate": "Mon, 29 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Genoa - 29/12 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Genoa - 29/12 19:45 - SportTV 2",
+      "pubDate": "Mon, 29 Dec 2025 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x AFS - 29/12 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x AFS - 29/12 20:15 - SportTV 1",
+      "pubDate": "Mon, 29 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Southampton - 29/12 20:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Southampton - 29/12 20:15 - SportTV 3",
+      "pubDate": "Mon, 29 Dec 2025 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "San Antonio Spurs (Basket) x Cleveland Cavaliers (Basket) - 30/12 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Antonio Spurs (Basket) x Cleveland Cavaliers (Basket) - 30/12 01:00 - SportTV 1",
+      "pubDate": "Tue, 30 Dec 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tanzânia x Tunísia - 30/12 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tanzânia x Tunísia - 30/12 16:00 - SportTV 3",
+      "pubDate": "Tue, 30 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Uganda x Nigéria - 30/12 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Uganda x Nigéria - 30/12 16:00 - SportTV 2",
+      "pubDate": "Tue, 30 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ettifaq x Al-Nassr - 30/12 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ettifaq x Al-Nassr - 30/12 17:30 - SportTV 1",
+      "pubDate": "Tue, 30 Dec 2025 17:30:00",
       "guid": ""
     }
   ]

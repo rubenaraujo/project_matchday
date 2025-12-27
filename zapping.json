@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Lusitano GC x Fafe - 27/12 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Fafe - 27/12 14:00 - Canal11",
-      "pubDate": "Sat, 27 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lecce x Como 1907 - 27/12 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Como 1907 - 27/12 14:00 - SportTV 6",
-      "pubDate": "Sat, 27 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Cagliari - 27/12 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Cagliari - 27/12 14:00 - SportTV 1",
-      "pubDate": "Sat, 27 Dec 2025 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
@@ -320,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portland Trail Blazers (Basket) x Boston Celtics (Basket) - 28/12 23:00 - SportTV 4",
       "pubDate": "Sun, 28 Dec 2025 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "San Francisco 49ers (Fut. Americano) x Chicago Bears (Fut. Americano) - 29/12 01:20 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Francisco 49ers (Fut. Americano) x Chicago Bears (Fut. Americano) - 29/12 01:20 - DAZN 1",
+      "pubDate": "Mon, 29 Dec 2025 01:20:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Akhdoud - 27/12 14:50 - SportTV 3",
-      "pubDate": "Sat, 27 Dec 2025 14:50:00",
-      "guid": ""
-    },
-    {
-      "title": "Senegal x Rep. Dem. Congo - 27/12 15:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Senegal x Rep. Dem. Congo - 27/12 15:00 - SportTV 7",
-      "pubDate": "Sat, 27 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Livingston x Celtic - 27/12 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Livingston x Celtic - 27/12 15:00 - SportTV 4",
-      "pubDate": "Sat, 27 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Brighton  Hove Albion - 27/12 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Brighton  Hove Albion - 27/12 15:00 - DAZN 1",
-      "pubDate": "Sat, 27 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Wolverhampton - 27/12 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Wolverhampton - 27/12 15:00 - DAZN 2",
-      "pubDate": "Sat, 27 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Fulham - 27/12 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Fulham - 27/12 15:00 - DAZN 3",
-      "pubDate": "Sat, 27 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Everton - 27/12 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Everton - 27/12 15:00 - DAZN 4",
-      "pubDate": "Sat, 27 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Udinese x Lazio - 27/12 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Lazio - 27/12 17:00 - SportTV 2",
@@ -306,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Francisco 49ers (Fut. Americano) x Chicago Bears (Fut. Americano) - 29/12 01:20 - DAZN 1",
       "pubDate": "Mon, 29 Dec 2025 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Angola x Egipto - 29/12 16:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angola x Egipto - 29/12 16:00 - SportTV 1",
+      "pubDate": "Mon, 29 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Zimbabwe x África do Sul - 29/12 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Zimbabwe x África do Sul - 29/12 16:00 - SportTV 2",
+      "pubDate": "Mon, 29 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x Ipswich Town - 29/12 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x Ipswich Town - 29/12 18:00 - SportTV 3",
+      "pubDate": "Mon, 29 Dec 2025 18:00:00",
       "guid": ""
     }
   ]

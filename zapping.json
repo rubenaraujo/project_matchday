@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Gabão x Moçambique - 28/12 12:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gabão x Moçambique - 28/12 12:30 - SportTV 7",
-      "pubDate": "Sun, 28 Dec 2025 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Eléctrico (Futsal) x Leões Porto Salvo (Futsal) - 28/12 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eléctrico (Futsal) x Leões Porto Salvo (Futsal) - 28/12 14:00 - Canal11",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Neom SC x Al-Ittihad Jeddah - 31/12 15:25 - SportTV 1",
       "pubDate": "Wed, 31 Dec 2025 15:25:00",
+      "guid": ""
+    },
+    {
+      "title": "Sudão x Burkina Faso - 31/12 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sudão x Burkina Faso - 31/12 16:00 - SportTV 3",
+      "pubDate": "Wed, 31 Dec 2025 16:00:00",
       "guid": ""
     }
   ]

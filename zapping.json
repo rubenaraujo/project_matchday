@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Islanders (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 27/12 23:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Islanders (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 27/12 23:00 - SportTV 3",
-      "pubDate": "Sat, 27 Dec 2025 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x Cleveland Cavaliers (Basket) - 28/12 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Cleveland Cavaliers (Basket) - 28/12 01:00 - SportTV 2",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Memphis Grizzlies (Basket) x Philadelphia 76ers (Basket) - 31/12 01:00 - SportTV 1",
       "pubDate": "Wed, 31 Dec 2025 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x Detroit Pistons (Basket) - 31/12 03:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x Detroit Pistons (Basket) - 31/12 03:30 - SportTV 1",
+      "pubDate": "Wed, 31 Dec 2025 03:30:00",
       "guid": ""
     }
   ]

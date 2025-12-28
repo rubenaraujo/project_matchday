@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Crystal Palace x Tottenham - 28/12 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Tottenham - 28/12 16:30 - DAZN 1",
-      "pubDate": "Sun, 28 Dec 2025 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Sassuolo - 28/12 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Sassuolo - 28/12 17:00 - SportTV 3",
-      "pubDate": "Sun, 28 Dec 2025 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Argélia x Burkina Faso - 28/12 17:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argélia x Burkina Faso - 28/12 17:30 - SportTV 7",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Phoenix Suns (Basket) - 31/12 20:30 - SportTV 1",
       "pubDate": "Wed, 31 Dec 2025 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Blackburn Rovers x Wrexham - 01/01 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Blackburn Rovers x Wrexham - 01/01 12:30 - SportTV 1",
+      "pubDate": "Thu, 01 Jan 2026 12:30:00",
       "guid": ""
     }
   ]

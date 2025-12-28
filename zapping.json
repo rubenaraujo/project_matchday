@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Guiné Equatorial x Sudão - 28/12 15:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Guiné Equatorial x Sudão - 28/12 15:00 - SportTV 7",
-      "pubDate": "Sun, 28 Dec 2025 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x Vitória SC - 28/12 15:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Vitória SC - 28/12 15:30 - SportTV 2",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Guiné Equatorial x Argélia - 31/12 16:00 - SportTV 2",
       "pubDate": "Wed, 31 Dec 2025 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Kholood x Al-Hilal - 31/12 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Kholood x Al-Hilal - 31/12 17:30 - SportTV 1",
+      "pubDate": "Wed, 31 Dec 2025 17:30:00",
       "guid": ""
     }
   ]

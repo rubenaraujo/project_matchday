@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Casa Pia AC x Vitória SC - 28/12 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Vitória SC - 28/12 15:30 - SportTV 2",
-      "pubDate": "Sun, 28 Dec 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Arouca x Gil Vicente - 28/12 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Gil Vicente - 28/12 15:30 - SportTV 4",
-      "pubDate": "Sun, 28 Dec 2025 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x SC Braga (Futsal) - 28/12 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x SC Braga (Futsal) - 28/12 16:00 - C11 Stream",
-      "pubDate": "Sun, 28 Dec 2025 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Basket Feminino) x Benfica (Basket Feminino) - 28/12 16:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Basket Feminino) x Benfica (Basket Feminino) - 28/12 16:00 - DAZN 3",
-      "pubDate": "Sun, 28 Dec 2025 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Crystal Palace x Tottenham - 28/12 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crystal Palace x Tottenham - 28/12 16:30 - DAZN 1",
@@ -313,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Kholood x Al-Hilal - 31/12 17:30 - SportTV 1",
       "pubDate": "Wed, 31 Dec 2025 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Charlotte Hornets (Basket) x Golden State Warriors (Basket) - 31/12 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Charlotte Hornets (Basket) x Golden State Warriors (Basket) - 31/12 18:00 - SportTV 4",
+      "pubDate": "Wed, 31 Dec 2025 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Moçambique x Camarões - 31/12 19:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moçambique x Camarões - 31/12 19:00 - SportTV 2",
+      "pubDate": "Wed, 31 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gabão x Costa do Marfim - 31/12 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gabão x Costa do Marfim - 31/12 19:00 - SportTV 3",
+      "pubDate": "Wed, 31 Dec 2025 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Phoenix Suns (Basket) - 31/12 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Phoenix Suns (Basket) - 31/12 20:30 - SportTV 1",
+      "pubDate": "Wed, 31 Dec 2025 20:30:00",
       "guid": ""
     }
   ]

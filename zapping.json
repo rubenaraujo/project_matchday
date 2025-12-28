@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Argélia x Burkina Faso - 28/12 17:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argélia x Burkina Faso - 28/12 17:30 - SportTV 7",
-      "pubDate": "Sun, 28 Dec 2025 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Benfica - 28/12 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Benfica - 28/12 18:00 - SportTV 1",
-      "pubDate": "Sun, 28 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Rio Ave (Futsal) - 28/12 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Rio Ave (Futsal) - 28/12 18:00 - Canal11",
-      "pubDate": "Sun, 28 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atalanta x Internazionale - 28/12 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atalanta x Internazionale - 28/12 19:45 - SportTV 3",
@@ -306,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Blackburn Rovers x Wrexham - 01/01 12:30 - SportTV 1",
       "pubDate": "Thu, 01 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Millwall - 01/01 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Millwall - 01/01 15:00 - SportTV 1",
+      "pubDate": "Thu, 01 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sheffield United x Leicester City - 01/01 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sheffield United x Leicester City - 01/01 17:30 - SportTV 1",
+      "pubDate": "Thu, 01 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Leeds United - 01/01 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Leeds United - 01/01 17:30 - DAZN 1",
+      "pubDate": "Thu, 01 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Fulham - 01/01 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Fulham - 01/01 17:30 - DAZN 2",
+      "pubDate": "Thu, 01 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

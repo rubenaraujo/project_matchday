@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Coventry City x Ipswich Town - 29/12 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coventry City x Ipswich Town - 29/12 18:00 - SportTV 3",
-      "pubDate": "Mon, 29 Dec 2025 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Zâmbia x Marrocos - 29/12 19:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Zâmbia x Marrocos - 29/12 19:00 - SportTV 6",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Nacional - 02/01 20:45 - SportTV 2",
       "pubDate": "Fri, 02 Jan 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Florida Panthers (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 03/01 01:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Florida Panthers (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 03/01 01:00 - SportTV 3",
+      "pubDate": "Sat, 03 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x UD Leiria - 03/01 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x UD Leiria - 03/01 11:00 - SportTV 1",
+      "pubDate": "Sat, 03 Jan 2026 11:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Wrexham x Preston North End - 29/12 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Preston North End - 29/12 19:45 - SportTV 4",
-      "pubDate": "Mon, 29 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Genoa - 29/12 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Genoa - 29/12 19:45 - SportTV 2",
-      "pubDate": "Mon, 29 Dec 2025 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x AFS - 29/12 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x AFS - 29/12 20:15 - SportTV 1",
@@ -327,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x UD Leiria - 03/01 11:00 - SportTV 1",
       "pubDate": "Sat, 03 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Udinese - 03/01 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Udinese - 03/01 11:30 - SportTV 2",
+      "pubDate": "Sat, 03 Jan 2026 11:30:00",
       "guid": ""
     }
   ]

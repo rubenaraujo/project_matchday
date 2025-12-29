@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x AFS - 29/12 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x AFS - 29/12 20:15 - SportTV 1",
-      "pubDate": "Mon, 29 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Birmingham City x Southampton - 29/12 20:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Birmingham City x Southampton - 29/12 20:15 - SportTV 3",
-      "pubDate": "Mon, 29 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "San Antonio Spurs (Basket) x Cleveland Cavaliers (Basket) - 30/12 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Cleveland Cavaliers (Basket) - 30/12 01:00 - SportTV 1",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Udinese - 03/01 11:30 - SportTV 2",
       "pubDate": "Sat, 03 Jan 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x Rangers - 03/01 12:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x Rangers - 03/01 12:30 - SportTV 3",
+      "pubDate": "Sat, 03 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Nottingham Forest - 03/01 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Nottingham Forest - 03/01 12:30 - DAZN 1",
+      "pubDate": "Sat, 03 Jan 2026 12:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "San Francisco 49ers (Fut. Americano) x Chicago Bears (Fut. Americano) - 29/12 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Francisco 49ers (Fut. Americano) x Chicago Bears (Fut. Americano) - 29/12 01:20 - DAZN 1",
-      "pubDate": "Mon, 29 Dec 2025 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Angola x Egipto - 29/12 16:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angola x Egipto - 29/12 16:00 - SportTV 1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x Getafe - 02/01 20:00 - DAZN 1",
       "pubDate": "Fri, 02 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x Nacional - 02/01 20:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x Nacional - 02/01 20:45 - SportTV 2",
+      "pubDate": "Fri, 02 Jan 2026 20:45:00",
       "guid": ""
     }
   ]

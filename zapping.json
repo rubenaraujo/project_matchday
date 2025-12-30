@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x Lusitânia de Lourosa - 30/12 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Lusitânia de Lourosa - 30/12 20:15 - SportTV 1",
-      "pubDate": "Tue, 30 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Wolverhampton - 30/12 20:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Wolverhampton - 30/12 20:15 - DAZN 1",
-      "pubDate": "Tue, 30 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Aston Villa - 30/12 20:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Aston Villa - 30/12 20:15 - DAZN 2",
-      "pubDate": "Tue, 30 Dec 2025 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Memphis Grizzlies (Basket) x Philadelphia 76ers (Basket) - 31/12 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Memphis Grizzlies (Basket) x Philadelphia 76ers (Basket) - 31/12 01:00 - SportTV 1",
@@ -306,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Athletic Bilbao - 03/01 15:15 - DAZN 2",
       "pubDate": "Sat, 03 Jan 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x FC Arouca - 03/01 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x FC Arouca - 03/01 15:30 - SportTV 1",
+      "pubDate": "Sat, 03 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Lyon - 03/01 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Lyon - 03/01 16:00 - SportTV 3",
+      "pubDate": "Sat, 03 Jan 2026 16:00:00",
       "guid": ""
     }
   ]

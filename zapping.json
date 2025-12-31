@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Cleveland Cavaliers (Basket) x Phoenix Suns (Basket) - 31/12 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Cavaliers (Basket) x Phoenix Suns (Basket) - 31/12 20:30 - SportTV 1",
-      "pubDate": "Wed, 31 Dec 2025 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Blackburn Rovers x Wrexham - 01/01 12:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Blackburn Rovers x Wrexham - 01/01 12:30 - SportTV 1",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Basket) x SC Braga (Basket) - 03/01 18:00 - PortoCanal",
       "pubDate": "Sat, 03 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 03/01 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 03/01 19:00 - C11 Stream",
+      "pubDate": "Sat, 03 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Povo Freixo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 03/01 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Povo Freixo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 03/01 19:00 - C11 Stream",
+      "pubDate": "Sat, 03 Jan 2026 19:00:00",
       "guid": ""
     }
   ]

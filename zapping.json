@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Southampton x Millwall - 01/01 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x Millwall - 01/01 15:00 - SportTV 1",
-      "pubDate": "Thu, 01 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sheffield United x Leicester City - 01/01 17:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sheffield United x Leicester City - 01/01 17:30 - SportTV 1",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mali x Tunísia - 03/01 19:00 - SportTV 7",
       "pubDate": "Sat, 03 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Roma - 03/01 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Roma - 03/01 19:45 - SportTV 6",
+      "pubDate": "Sat, 03 Jan 2026 19:45:00",
       "guid": ""
     }
   ]

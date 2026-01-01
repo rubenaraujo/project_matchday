@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Islanders (Hóquei no Gelo  Seniores) x Utah Mammoth (Hóquei no Gelo  Seniores) - 01/01 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Islanders (Hóquei no Gelo  Seniores) x Utah Mammoth (Hóquei no Gelo  Seniores) - 01/01 20:00 - SportTV 3",
-      "pubDate": "Thu, 01 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Detroit Pistons (Basket) x Miami Heat (Basket) - 02/01 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Detroit Pistons (Basket) x Miami Heat (Basket) - 02/01 00:00 - SportTV 1",
@@ -33,6 +26,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Panathinaikos (Basket) x Olympiacos (Basket) - 02/01 19:15 - SportTV 6",
       "pubDate": "Fri, 02 Jan 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Eibar x Mirandés - 02/01 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eibar x Mirandés - 02/01 19:30 - DAZN 2",
+      "pubDate": "Fri, 02 Jan 2026 19:30:00",
       "guid": ""
     },
     {

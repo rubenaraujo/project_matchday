@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Panathinaikos (Basket) x Olympiacos (Basket) - 02/01 19:15 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Panathinaikos (Basket) x Olympiacos (Basket) - 02/01 19:15 - SportTV 6",
-      "pubDate": "Fri, 02 Jan 2026 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Eibar x Mirandés - 02/01 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eibar x Mirandés - 02/01 19:30 - DAZN 2",
-      "pubDate": "Fri, 02 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cagliari x Milan - 02/01 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Milan - 02/01 19:45 - SportTV 3",
-      "pubDate": "Fri, 02 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Toulouse x Lens - 02/01 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Toulouse x Lens - 02/01 19:45 - SportTV 4",
-      "pubDate": "Fri, 02 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Getafe - 02/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Getafe - 02/01 20:00 - DAZN 1",
-      "pubDate": "Fri, 02 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x Nacional - 02/01 20:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Nacional - 02/01 20:45 - SportTV 2",
@@ -327,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Philadelphia 76ers (Basket) - 04/01 00:30 - SportTV 1",
       "pubDate": "Sun, 04 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Clippers (Basket) x Boston Celtics (Basket) - 04/01 03:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Clippers (Basket) x Boston Celtics (Basket) - 04/01 03:30 - SportTV 1",
+      "pubDate": "Sun, 04 Jan 2026 03:30:00",
       "guid": ""
     }
   ]

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Tondela x FC Arouca - 03/01 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x FC Arouca - 03/01 15:30 - SportTV 1",
-      "pubDate": "Sat, 03 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Lyon - 03/01 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Lyon - 03/01 16:00 - SportTV 3",
-      "pubDate": "Sat, 03 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Senegal x Sudão - 03/01 16:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Senegal x Sudão - 03/01 16:00 - SportTV 7",
-      "pubDate": "Sat, 03 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 03/01 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 03/01 17:00 - C11 Stream",
@@ -284,6 +263,27 @@
       "title": "Fafe x Varzim - 04/01 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x Varzim - 04/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 04 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "S. João Ver x Amarante FC - 04/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "S. João Ver x Amarante FC - 04/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 04 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x Académica OAF - 04/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x Académica OAF - 04/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 04 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitano GC x SC Covilhã - 04/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitano GC x SC Covilhã - 04/01 15:00 - C11 Stream",
       "pubDate": "Sun, 04 Jan 2026 15:00:00",
       "guid": ""
     }

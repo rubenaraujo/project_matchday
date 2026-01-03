@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Felgueiras x UD Oliveirense - 03/01 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras x UD Oliveirense - 03/01 14:00 - SportTV +",
-      "pubDate": "Sat, 03 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Pisa - 03/01 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Pisa - 03/01 14:00 - SportTV 2",
-      "pubDate": "Sat, 03 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Parma - 03/01 14:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Parma - 03/01 14:00 - SportTV 5",
-      "pubDate": "Sat, 03 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses x Amora FC - 03/01 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x Amora FC - 03/01 15:00 - Canal11",
@@ -313,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Manchester United - 04/01 12:30 - DAZN 1",
       "pubDate": "Sun, 04 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Levante - 04/01 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Levante - 04/01 13:00 - DAZN 2",
+      "pubDate": "Sun, 04 Jan 2026 13:00:00",
       "guid": ""
     }
   ]

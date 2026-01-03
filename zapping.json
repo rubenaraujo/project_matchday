@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Futsal Feijó (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 03/01 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 03/01 19:00 - C11 Stream",
-      "pubDate": "Sat, 03 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Povo Freixo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 03/01 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Povo Freixo (Futsal Feminino) x GD Árvore (Futsal Feminino) - 03/01 19:00 - C11 Stream",
-      "pubDate": "Sat, 03 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Mali x Tunísia - 03/01 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mali x Tunísia - 03/01 19:00 - SportTV 7",
@@ -257,6 +243,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave x Casa Pia AC - 04/01 15:30 - SportTV 2",
       "pubDate": "Sun, 04 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marrocos x Tanzânia - 04/01 16:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marrocos x Tanzânia - 04/01 16:00 - SportTV 7",
+      "pubDate": "Sun, 04 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Havre x Angers - 04/01 16:15 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Havre x Angers - 04/01 16:15 - SportTV 4",
+      "pubDate": "Sun, 04 Jan 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
+      "pubDate": "Sun, 04 Jan 2026 17:00:00",
       "guid": ""
     }
   ]

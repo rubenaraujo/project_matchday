@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Mali x Tunísia - 03/01 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mali x Tunísia - 03/01 19:00 - SportTV 7",
-      "pubDate": "Sat, 03 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Roma - 03/01 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Roma - 03/01 19:45 - SportTV 6",
-      "pubDate": "Sat, 03 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Futsal) x AD Fundão (Futsal) - 03/01 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Futsal) x AD Fundão (Futsal) - 03/01 20:00 - Canal11",
-      "pubDate": "Sat, 03 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Barcelona - 03/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Barcelona - 03/01 20:00 - DAZN 1",
-      "pubDate": "Sat, 03 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Rennes - 03/01 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Rennes - 03/01 20:05 - SportTV 3",
-      "pubDate": "Sat, 03 Jan 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "AFS x Moreirense - 03/01 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x Moreirense - 03/01 20:30 - SportTV 1",
@@ -264,6 +229,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
       "pubDate": "Sun, 04 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Braga (Hóquei) x HC Turquel (Hóquei) - 04/01 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Braga (Hóquei) x HC Turquel (Hóquei) - 04/01 17:00 - FPP TV",
+      "pubDate": "Sun, 04 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Damac FC x Al-Hilal - 04/01 17:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damac FC x Al-Hilal - 04/01 17:30 - SportTV 6",
+      "pubDate": "Sun, 04 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Chelsea - 04/01 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Chelsea - 04/01 17:30 - DAZN 1",
+      "pubDate": "Sun, 04 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Girona - 04/01 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Girona - 04/01 17:30 - DAZN 2",
+      "pubDate": "Sun, 04 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Real Oviedo - 04/01 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Real Oviedo - 04/01 17:30 - DAZN 3",
+      "pubDate": "Sun, 04 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x AD Sanjoanense - 04/01 17:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x AD Sanjoanense - 04/01 17:30 - C11 Stream",
+      "pubDate": "Sun, 04 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Feminino) x Torreense (Feminino) - 04/01 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Feminino) x Torreense (Feminino) - 04/01 17:30 - Canal11",
+      "pubDate": "Sun, 04 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal) x FC Famalicão (Futsal) - 04/01 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal) x FC Famalicão (Futsal) - 04/01 18:00 - C11 Stream",
+      "pubDate": "Sun, 04 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x FC Porto - 04/01 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x FC Porto - 04/01 18:00 - SportTV 1",
+      "pubDate": "Sun, 04 Jan 2026 18:00:00",
       "guid": ""
     }
   ]

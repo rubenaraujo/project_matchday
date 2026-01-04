@@ -1,86 +1,9 @@
 {
   "items": [
     {
-      "title": "Damac FC x Al-Hilal - 04/01 17:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Damac FC x Al-Hilal - 04/01 17:30 - SportTV 6",
-      "pubDate": "Sun, 04 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Chelsea - 04/01 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Chelsea - 04/01 17:30 - DAZN 1",
-      "pubDate": "Sun, 04 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Girona - 04/01 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Girona - 04/01 17:30 - DAZN 2",
-      "pubDate": "Sun, 04 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Alavés x Real Oviedo - 04/01 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Real Oviedo - 04/01 17:30 - DAZN 3",
-      "pubDate": "Sun, 04 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x AD Sanjoanense - 04/01 17:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x AD Sanjoanense - 04/01 17:30 - C11 Stream",
-      "pubDate": "Sun, 04 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Feminino) x Torreense (Feminino) - 04/01 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x Torreense (Feminino) - 04/01 17:30 - Canal11",
-      "pubDate": "Sun, 04 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x FC Famalicão (Futsal) - 04/01 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x FC Famalicão (Futsal) - 04/01 18:00 - C11 Stream",
-      "pubDate": "Sun, 04 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x FC Porto - 04/01 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x FC Porto - 04/01 18:00 - SportTV 1",
-      "pubDate": "Sun, 04 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "BC Barcelos (Basket Feminino) x GDESSA (Basket Feminino) - 04/01 18:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "BC Barcelos (Basket Feminino) x GDESSA (Basket Feminino) - 04/01 18:00 - ABola TV",
-      "pubDate": "Sun, 04 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CH Carvalhos (Hóquei) x OC Barcelos (Hóquei) - 04/01 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CH Carvalhos (Hóquei) x OC Barcelos (Hóquei) - 04/01 18:00 - FPP TV",
-      "pubDate": "Sun, 04 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x Juventude Pacense (Hóquei) - 04/01 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x Juventude Pacense (Hóquei) - 04/01 18:00 - FPP TV",
-      "pubDate": "Sun, 04 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x SC Tomar (Hóquei) - 04/01 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x SC Tomar (Hóquei) - 04/01 18:00 - FPP TV",
       "pubDate": "Sun, 04 Jan 2026 18:00:00",
       "guid": ""
     },
@@ -152,6 +75,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Póvoa (Hóquei) x FC Porto (Hóquei) - 04/01 20:30 - FPP TV",
       "pubDate": "Sun, 04 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Broncos (Fut. Americano) x Los Angeles Chargers (Fut. Americano) - 04/01 21:25 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Broncos (Fut. Americano) x Los Angeles Chargers (Fut. Americano) - 04/01 21:25 - DAZN 2",
+      "pubDate": "Sun, 04 Jan 2026 21:25:00",
       "guid": ""
     },
     {
@@ -292,6 +222,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x Athletic Bilbao - 07/01 19:00 - SportTV 3",
       "pubDate": "Wed, 07 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Fiorentina - 07/01 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Fiorentina - 07/01 19:45 - SportTV 6",
+      "pubDate": "Wed, 07 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Internazionale - 07/01 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Internazionale - 07/01 19:45 - SportTV 2",
+      "pubDate": "Wed, 07 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x SC Braga - 07/01 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x SC Braga - 07/01 20:00 - SportTV 1",
+      "pubDate": "Wed, 07 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

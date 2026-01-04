@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
-      "pubDate": "Sun, 04 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Braga (Hóquei) x HC Turquel (Hóquei) - 04/01 17:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Braga (Hóquei) x HC Turquel (Hóquei) - 04/01 17:00 - FPP TV",
-      "pubDate": "Sun, 04 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Damac FC x Al-Hilal - 04/01 17:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Damac FC x Al-Hilal - 04/01 17:30 - SportTV 6",
@@ -229,6 +215,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 06/01 00:30 - SportTV 3",
       "pubDate": "Tue, 06 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Como 1907 - 06/01 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Como 1907 - 06/01 14:00 - SportTV 2",
+      "pubDate": "Tue, 06 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argélia x Rep. Dem. Congo - 06/01 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argélia x Rep. Dem. Congo - 06/01 16:00 - SportTV 3",
+      "pubDate": "Tue, 06 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Roma - 06/01 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Roma - 06/01 17:00 - SportTV 2",
+      "pubDate": "Tue, 06 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Costa do Marfim x Burkina Faso - 06/01 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Costa do Marfim x Burkina Faso - 06/01 19:00 - SportTV 3",
+      "pubDate": "Tue, 06 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Juventus - 06/01 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Juventus - 06/01 19:45 - SportTV 2",
+      "pubDate": "Tue, 06 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Vitória SC - 06/01 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Vitória SC - 06/01 20:00 - SportTV 1",
+      "pubDate": "Tue, 06 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rangers x Aberdeen - 06/01 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rangers x Aberdeen - 06/01 20:00 - SportTV 7",
+      "pubDate": "Tue, 06 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turk Telekom (Basket) x Aquila Basket (Basket) - 07/01 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turk Telekom (Basket) x Aquila Basket (Basket) - 07/01 16:00 - SportTV 3",
+      "pubDate": "Wed, 07 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Atalanta - 07/01 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Atalanta - 07/01 17:30 - SportTV 4",
+      "pubDate": "Wed, 07 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Hellas Verona - 07/01 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Hellas Verona - 07/01 17:30 - SportTV 2",
+      "pubDate": "Wed, 07 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Athletic Bilbao - 07/01 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Athletic Bilbao - 07/01 19:00 - SportTV 3",
+      "pubDate": "Wed, 07 Jan 2026 19:00:00",
       "guid": ""
     }
   ]

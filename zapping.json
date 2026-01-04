@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Lazio x Napoli - 04/01 11:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Napoli - 04/01 11:30 - SportTV 2",
-      "pubDate": "Sun, 04 Jan 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Birmingham City x Coventry City - 04/01 12:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Birmingham City x Coventry City - 04/01 12:00 - SportTV 3",
-      "pubDate": "Sun, 04 Jan 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leeds United x Manchester United - 04/01 12:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Manchester United - 04/01 12:30 - DAZN 1",
@@ -39,6 +25,13 @@
       "title": "Marseille x Nantes - 04/01 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marseille x Nantes - 04/01 14:00 - SportTV 1",
+      "pubDate": "Sun, 04 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x Damaiense (Feminino) - 04/01 14:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x Damaiense (Feminino) - 04/01 14:00 - Online",
       "pubDate": "Sun, 04 Jan 2026 14:00:00",
       "guid": ""
     },
@@ -109,6 +102,13 @@
       "title": "Sporting (Basket Feminino) x Imortal (Basket Feminino) - 04/01 15:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket Feminino) x Imortal (Basket Feminino) - 04/01 15:00 - SportingTv",
+      "pubDate": "Sun, 04 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x SC Braga (Feminino) - 04/01 15:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x SC Braga (Feminino) - 04/01 15:00 - Online",
       "pubDate": "Sun, 04 Jan 2026 15:00:00",
       "guid": ""
     },
@@ -285,20 +285,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Sociedad x Atlético de Madrid - 04/01 20:00 - DAZN 1",
       "pubDate": "Sun, 04 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Cádiz - 04/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Cádiz - 04/01 20:00 - DAZN 3",
-      "pubDate": "Sun, 04 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brooklyn Nets (Basket) x Denver Nuggets (Basket) - 04/01 20:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brooklyn Nets (Basket) x Denver Nuggets (Basket) - 04/01 20:30 - SportTV 5",
-      "pubDate": "Sun, 04 Jan 2026 20:30:00",
       "guid": ""
     }
   ]

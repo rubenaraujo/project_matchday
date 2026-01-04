@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Fiorentina x Cremonese - 04/01 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Cremonese - 04/01 14:00 - SportTV 3",
-      "pubDate": "Sun, 04 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Nantes - 04/01 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Nantes - 04/01 14:00 - SportTV 1",
-      "pubDate": "Sun, 04 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Feminino) x Damaiense (Feminino) - 04/01 14:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Feminino) x Damaiense (Feminino) - 04/01 14:00 - Online",
-      "pubDate": "Sun, 04 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fafe x Varzim - 04/01 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x Varzim - 04/01 15:00 - C11 Stream",
@@ -313,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
       "pubDate": "Mon, 05 Jan 2026 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto x Benin - 05/01 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto x Benin - 05/01 16:00 - SportTV 2",
+      "pubDate": "Mon, 05 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x FC Porto - 05/01 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x FC Porto - 05/01 18:00 - BTv",
+      "pubDate": "Mon, 05 Jan 2026 18:00:00",
       "guid": ""
     }
   ]

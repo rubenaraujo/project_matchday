@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Leeds United x Manchester United - 04/01 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Manchester United - 04/01 12:30 - DAZN 1",
-      "pubDate": "Sun, 04 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Levante - 04/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Levante - 04/01 13:00 - DAZN 2",
-      "pubDate": "Sun, 04 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fiorentina x Cremonese - 04/01 14:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Cremonese - 04/01 14:00 - SportTV 3",
@@ -285,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Sociedad x Atlético de Madrid - 04/01 20:00 - DAZN 1",
       "pubDate": "Sun, 04 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo x Cádiz - 04/01 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x Cádiz - 04/01 20:00 - DAZN 3",
+      "pubDate": "Sun, 04 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brooklyn Nets (Basket) x Denver Nuggets (Basket) - 04/01 20:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brooklyn Nets (Basket) x Denver Nuggets (Basket) - 04/01 20:30 - SportTV 5",
+      "pubDate": "Sun, 04 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x FC Famalicão - 04/01 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x FC Famalicão - 04/01 20:30 - SportTV 2",
+      "pubDate": "Sun, 04 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x FC Porto (Hóquei) - 04/01 20:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x FC Porto (Hóquei) - 04/01 20:30 - FPP TV",
+      "pubDate": "Sun, 04 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Wizards (Basket) x Minnesota Timberwolves (Basket) - 04/01 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Wizards (Basket) x Minnesota Timberwolves (Basket) - 04/01 23:00 - SportTV 1",
+      "pubDate": "Sun, 04 Jan 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
+      "pubDate": "Mon, 05 Jan 2026 01:20:00",
       "guid": ""
     }
   ]

@@ -1,79 +1,9 @@
 {
   "items": [
     {
-      "title": "Fafe x Varzim - 04/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x Varzim - 04/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "S. João Ver x Amarante FC - 04/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x Amarante FC - 04/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x Académica OAF - 04/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x Académica OAF - 04/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x SC Covilhã - 04/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x SC Covilhã - 04/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fulham x Liverpool - 04/01 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Liverpool - 04/01 15:00 - DAZN 1",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Sunderland - 04/01 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Sunderland - 04/01 15:00 - DAZN 3",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x Sporting (Hóquei) - 04/01 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Sporting (Hóquei) - 04/01 15:00 - DAZN 4",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Feminino) x Vitória SC (Feminino) - 04/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x Vitória SC (Feminino) - 04/01 15:00 - Canal11",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Paços de Ferreira (Jun.A S19) - 04/01 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Paços de Ferreira (Jun.A S19) - 04/01 15:00 - PortoCanal",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket Feminino) x Imortal (Basket Feminino) - 04/01 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket Feminino) x Imortal (Basket Feminino) - 04/01 15:00 - SportingTv",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Feminino) x SC Braga (Feminino) - 04/01 15:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Feminino) x SC Braga (Feminino) - 04/01 15:00 - Online",
       "pubDate": "Sun, 04 Jan 2026 15:00:00",
       "guid": ""
     },
@@ -306,6 +236,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (B) x FC Porto - 05/01 18:00 - BTv",
       "pubDate": "Mon, 05 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nigéria x Moçambique - 05/01 19:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nigéria x Moçambique - 05/01 19:00 - SportTV 2",
+      "pubDate": "Mon, 05 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Futsal) x Benfica (Futsal) - 05/01 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Futsal) x Benfica (Futsal) - 05/01 20:00 - Canal11",
+      "pubDate": "Mon, 05 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

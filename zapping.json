@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Fulham x Liverpool - 04/01 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Liverpool - 04/01 15:00 - DAZN 1",
-      "pubDate": "Sun, 04 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Real Betis - 04/01 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Real Betis - 04/01 15:15 - DAZN 2",
-      "pubDate": "Sun, 04 Jan 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave x Casa Pia AC - 04/01 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x Casa Pia AC - 04/01 15:30 - SportTV 2",
-      "pubDate": "Sun, 04 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vila Caiz x Lixa - 04/01 15:30 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vila Caiz x Lixa - 04/01 15:30 - Online",
-      "pubDate": "Sun, 04 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marrocos x Tanzânia - 04/01 16:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marrocos x Tanzânia - 04/01 16:00 - SportTV 7",
-      "pubDate": "Sun, 04 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Le Havre x Angers - 04/01 16:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Le Havre x Angers - 04/01 16:15 - SportTV 4",
-      "pubDate": "Sun, 04 Jan 2026 16:15:00",
-      "guid": ""
-    },
-    {
       "title": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Torino - 04/01 17:00 - SportTV 3",
@@ -250,6 +208,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Quinta dos Lombos (Futsal) x Benfica (Futsal) - 05/01 20:00 - Canal11",
       "pubDate": "Mon, 05 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leicester City x West Bromwich - 05/01 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leicester City x West Bromwich - 05/01 20:00 - SportTV 3",
+      "pubDate": "Mon, 05 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Torreense - 05/01 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Torreense - 05/01 20:15 - SportTV 1",
+      "pubDate": "Mon, 05 Jan 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Ottawa Senators (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 06/01 00:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 06/01 00:30 - SportTV 3",
+      "pubDate": "Tue, 06 Jan 2026 00:30:00",
       "guid": ""
     }
   ]

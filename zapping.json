@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Denver Broncos (Fut. Americano) x Los Angeles Chargers (Fut. Americano) - 04/01 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Broncos (Fut. Americano) x Los Angeles Chargers (Fut. Americano) - 04/01 21:25 - DAZN 2",
-      "pubDate": "Sun, 04 Jan 2026 21:25:00",
-      "guid": ""
-    },
-    {
-      "title": "Washington Wizards (Basket) x Minnesota Timberwolves (Basket) - 04/01 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Wizards (Basket) x Minnesota Timberwolves (Basket) - 04/01 23:00 - SportTV 1",
-      "pubDate": "Sun, 04 Jan 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
@@ -348,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cádiz x Sporting Gijón - 09/01 19:30 - DAZN 3",
       "pubDate": "Fri, 09 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Real Sociedad - 09/01 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Real Sociedad - 09/01 20:00 - DAZN 2",
+      "pubDate": "Fri, 09 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

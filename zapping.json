@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (B) x FC Porto - 05/01 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x FC Porto - 05/01 18:00 - BTv",
-      "pubDate": "Mon, 05 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nigéria x Moçambique - 05/01 19:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nigéria x Moçambique - 05/01 19:00 - SportTV 2",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
       "pubDate": "Sat, 10 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Sunderland - 10/01 12:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Sunderland - 10/01 12:15 - SportTV 1",
+      "pubDate": "Sat, 10 Jan 2026 12:15:00",
       "guid": ""
     }
   ]

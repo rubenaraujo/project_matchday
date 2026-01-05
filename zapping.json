@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "title": "FC Vizela x Torreense - 05/01 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x Torreense - 05/01 20:15 - SportTV 1",
-      "pubDate": "Mon, 05 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Ottawa Senators (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 06/01 00:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 06/01 00:30 - SportTV 3",
+      "pubDate": "Tue, 06 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Chicago Bulls (Basket) - 06/01 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Chicago Bulls (Basket) - 06/01 00:30 - SportTV 1",
       "pubDate": "Tue, 06 Jan 2026 00:30:00",
       "guid": ""
     },
@@ -57,6 +57,13 @@
       "guid": ""
     },
     {
+      "title": "Mersin SK (Basket) x Le Mans Basket (Basket) - 06/01 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mersin SK (Basket) x Le Mans Basket (Basket) - 06/01 17:00 - SportTV 4",
+      "pubDate": "Tue, 06 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
       "title": "Costa do Marfim x Burkina Faso - 06/01 19:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Costa do Marfim x Burkina Faso - 06/01 19:00 - SportTV 3",
@@ -67,6 +74,13 @@
       "title": "Portugal (Futsal  S19) x Eslovénia (Futsal  S19) - 06/01 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal  S19) x Eslovénia (Futsal  S19) - 06/01 19:00 - Canal11",
+      "pubDate": "Tue, 06 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crvena Zvezda (Basket) x Valencia Basket (Basket) - 06/01 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crvena Zvezda (Basket) x Valencia Basket (Basket) - 06/01 19:00 - SportTV 6",
       "pubDate": "Tue, 06 Jan 2026 19:00:00",
       "guid": ""
     },
@@ -96,6 +110,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Ham x Nottingham Forest - 06/01 20:00 - DAZN 1",
       "pubDate": "Tue, 06 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New Orleans Pelicans (Basket) x LA Lakers (Basket) - 07/01 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New Orleans Pelicans (Basket) x LA Lakers (Basket) - 07/01 01:00 - SportTV 1",
+      "pubDate": "Wed, 07 Jan 2026 01:00:00",
       "guid": ""
     },
     {
@@ -131,6 +152,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Hellas Verona - 07/01 17:30 - SportTV 2",
       "pubDate": "Wed, 07 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CV Guaguas (Voleibol) x Umbria Volley Perugia (Voleibol) - 07/01 18:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CV Guaguas (Voleibol) x Umbria Volley Perugia (Voleibol) - 07/01 18:30 - SportTV 7",
+      "pubDate": "Wed, 07 Jan 2026 18:30:00",
       "guid": ""
     },
     {
@@ -197,6 +225,13 @@
       "guid": ""
     },
     {
+      "title": "Boston Celtics (Basket) x Denver Nuggets (Basket) - 08/01 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Denver Nuggets (Basket) - 08/01 00:00 - SportTV 1",
+      "pubDate": "Thu, 08 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
       "title": "Al-Hilal x Al-Hazm - 08/01 14:55 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Hilal x Al-Hazm - 08/01 14:55 - SportTV 1",
@@ -253,6 +288,13 @@
       "guid": ""
     },
     {
+      "title": "Minnesota Timberwolves (Basket) x Cleveland Cavaliers (Basket) - 09/01 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Minnesota Timberwolves (Basket) x Cleveland Cavaliers (Basket) - 09/01 01:00 - SportTV 1",
+      "pubDate": "Fri, 09 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
       "title": "Mali x Senegal - 09/01 16:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mali x Senegal - 09/01 16:00 - SportTV 2",
@@ -267,9 +309,16 @@
       "guid": ""
     },
     {
-      "title": "Winner 43 x Nigéria - 09/01 19:00 - SportTV 6",
+      "title": "Winner 43 x Nigéria - 09/01 19:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Winner 43 x Nigéria - 09/01 19:00 - SportTV 6",
+      "description": "Winner 43 x Nigéria - 09/01 19:00 - SportTV 2",
+      "pubDate": "Fri, 09 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Mans Basket (Basket) x Mersin SK (Basket) - 09/01 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Mans Basket (Basket) x Mersin SK (Basket) - 09/01 19:00 - SportTV 5",
       "pubDate": "Fri, 09 Jan 2026 19:00:00",
       "guid": ""
     },
@@ -278,55 +327,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
       "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Borussia Dortmund - 09/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Borussia Dortmund - 09/01 19:30 - DAZN 1",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Sporting Gijón - 09/01 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Sporting Gijón - 09/01 19:30 - DAZN 3",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Real Sociedad - 09/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Real Sociedad - 09/01 20:00 - DAZN 2",
-      "pubDate": "Fri, 09 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Eléctrico (Futsal) - 09/01 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Eléctrico (Futsal) - 09/01 21:00 - Canal11",
-      "pubDate": "Fri, 09 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
-      "pubDate": "Sat, 10 Jan 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Sunderland - 10/01 12:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Sunderland - 10/01 12:15 - SportTV 1",
-      "pubDate": "Sat, 10 Jan 2026 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Barbarense (Futsal) x Benfica (Futsal) - 10/01 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Barbarense (Futsal) x Benfica (Futsal) - 10/01 13:00 - Canal11",
-      "pubDate": "Sat, 10 Jan 2026 13:00:00",
       "guid": ""
     }
   ]

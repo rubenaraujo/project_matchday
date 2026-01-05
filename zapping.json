@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pittsburgh Steelers (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 05/01 01:20 - DAZN 1",
-      "pubDate": "Mon, 05 Jan 2026 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Egipto x Benin - 05/01 16:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Egipto x Benin - 05/01 16:00 - SportTV 2",
@@ -348,6 +341,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Eléctrico (Futsal) - 09/01 21:00 - Canal11",
       "pubDate": "Fri, 09 Jan 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
+      "pubDate": "Sat, 10 Jan 2026 11:00:00",
       "guid": ""
     }
   ]

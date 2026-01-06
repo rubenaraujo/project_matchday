@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x Vitória SC - 06/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Vitória SC - 06/01 20:00 - SportTV 1",
-      "pubDate": "Tue, 06 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "New Orleans Pelicans (Basket) x LA Lakers (Basket) - 07/01 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New Orleans Pelicans (Basket) x LA Lakers (Basket) - 07/01 01:00 - SportTV 1",
@@ -285,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Eléctrico (Futsal) - 09/01 21:00 - Canal11",
       "pubDate": "Fri, 09 Jan 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Toronto Raptors (Basket) - 10/01 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Toronto Raptors (Basket) - 10/01 00:00 - SportTV 1",
+      "pubDate": "Sat, 10 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.C S15) x Benfica (Jun.C S15) - 10/01 10:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.C S15) x Benfica (Jun.C S15) - 10/01 10:00 - SportingTv",
+      "pubDate": "Sat, 10 Jan 2026 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x SC Braga (Feminino) - 10/01 11:00 - Canal11",
+      "pubDate": "Sat, 10 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Sunderland - 10/01 12:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Sunderland - 10/01 12:15 - SportTV 1",
+      "pubDate": "Sat, 10 Jan 2026 12:15:00",
       "guid": ""
     }
   ]

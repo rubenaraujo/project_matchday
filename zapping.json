@@ -71,6 +71,20 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Voleibol) x Arcada Galati (Voleibol) - 06/01 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol) x Arcada Galati (Voleibol) - 06/01 19:00 - BTv",
+      "pubDate": "Tue, 06 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x Warta Zawiercie (Voleibol) - 06/01 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x Warta Zawiercie (Voleibol) - 06/01 19:30 - SportingTv",
+      "pubDate": "Tue, 06 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
       "title": "Sassuolo x Juventus - 06/01 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sassuolo x Juventus - 06/01 19:45 - SportTV 2",
@@ -267,9 +281,23 @@
       "guid": ""
     },
     {
+      "title": "Hockey Trissino (Hóquei) x FC Porto (Hóquei) - 08/01 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hockey Trissino (Hóquei) x FC Porto (Hóquei) - 08/01 19:45 - PortoCanal",
+      "pubDate": "Thu, 08 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Arsenal x Liverpool - 08/01 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Liverpool - 08/01 20:00 - DAZN 1",
+      "pubDate": "Thu, 08 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x AGIL Volley (Voleibol Feminino) - 08/01 20:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x AGIL Volley (Voleibol Feminino) - 08/01 20:00 - BTv",
       "pubDate": "Thu, 08 Jan 2026 20:00:00",
       "guid": ""
     },
@@ -278,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x Leixões - 08/01 20:15 - SportTV 6",
       "pubDate": "Thu, 08 Jan 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 08/01 20:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 08/01 20:30 - SportingTv",
+      "pubDate": "Thu, 08 Jan 2026 20:30:00",
       "guid": ""
     },
     {
@@ -313,41 +348,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Le Mans Basket (Basket) x Mersin SK (Basket) - 09/01 19:00 - SportTV 5",
       "pubDate": "Fri, 09 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Borussia Dortmund - 09/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Borussia Dortmund - 09/01 19:30 - DAZN 1",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Sporting Gijón - 09/01 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Sporting Gijón - 09/01 19:30 - DAZN 3",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Barcelona (Basket) x Partizan (Basket) - 09/01 19:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Basket) x Partizan (Basket) - 09/01 19:30 - SportTV 6",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Real Sociedad - 09/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Real Sociedad - 09/01 20:00 - DAZN 2",
-      "pubDate": "Fri, 09 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

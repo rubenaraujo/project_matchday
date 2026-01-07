@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Burnley x Manchester United - 07/01 20:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Manchester United - 07/01 20:15 - DAZN 1",
-      "pubDate": "Wed, 07 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Washington Capitals (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 08/01 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Capitals (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 08/01 00:00 - SportTV 3",
@@ -284,6 +277,20 @@
       "title": "Damaiense (Feminino) x Torreense (Feminino) - 10/01 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Damaiense (Feminino) x Torreense (Feminino) - 10/01 15:00 - C11 Stream",
+      "pubDate": "Sat, 10 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Feminino) x Rio Ave (Feminino) - 10/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x Rio Ave (Feminino) - 10/01 15:00 - Canal11",
+      "pubDate": "Sat, 10 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense x Trofense - 10/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense x Trofense - 10/01 15:00 - C11 Stream",
       "pubDate": "Sat, 10 Jan 2026 15:00:00",
       "guid": ""
     }

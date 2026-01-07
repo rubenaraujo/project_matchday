@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Barcelona x Athletic Bilbao - 07/01 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Athletic Bilbao - 07/01 19:00 - SportTV 3",
-      "pubDate": "Wed, 07 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Manchester City x Brighton  Hove Albion - 07/01 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Brighton  Hove Albion - 07/01 19:30 - DAZN 2",
@@ -319,6 +312,13 @@
       "title": "1. FC Union Berlin x Mainz - 10/01 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "1. FC Union Berlin x Mainz - 10/01 14:30 - DAZN 3",
+      "pubDate": "Sat, 10 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Hamburger SV - 10/01 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Hamburger SV - 10/01 14:30 - DAZN 4",
       "pubDate": "Sat, 10 Jan 2026 14:30:00",
       "guid": ""
     }

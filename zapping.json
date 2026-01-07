@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "CV Guaguas (Voleibol) x Umbria Volley Perugia (Voleibol) - 07/01 18:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CV Guaguas (Voleibol) x Umbria Volley Perugia (Voleibol) - 07/01 18:30 - SportTV 7",
-      "pubDate": "Wed, 07 Jan 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Brighton  Hove Albion - 07/01 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Brighton  Hove Albion - 07/01 19:30 - DAZN 2",
-      "pubDate": "Wed, 07 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Chelsea - 07/01 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Chelsea - 07/01 19:30 - DAZN 3",
-      "pubDate": "Wed, 07 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Aston Villa - 07/01 19:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Aston Villa - 07/01 19:30 - DAZN 4",
-      "pubDate": "Wed, 07 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Fiorentina - 07/01 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Fiorentina - 07/01 19:45 - SportTV 6",
-      "pubDate": "Wed, 07 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Internazionale - 07/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Internazionale - 07/01 19:45 - SportTV 2",
-      "pubDate": "Wed, 07 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x SC Braga - 07/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x SC Braga - 07/01 20:00 - SportTV 1",
-      "pubDate": "Wed, 07 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Burnley x Manchester United - 07/01 20:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Burnley x Manchester United - 07/01 20:15 - DAZN 1",
@@ -320,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Hamburger SV - 10/01 14:30 - DAZN 4",
       "pubDate": "Sat, 10 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia (Feminino) x Marítimo (Feminino) - 10/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia (Feminino) x Marítimo (Feminino) - 10/01 15:00 - C11 Stream",
+      "pubDate": "Sat, 10 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Damaiense (Feminino) x Torreense (Feminino) - 10/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damaiense (Feminino) x Torreense (Feminino) - 10/01 15:00 - C11 Stream",
+      "pubDate": "Sat, 10 Jan 2026 15:00:00",
       "guid": ""
     }
   ]

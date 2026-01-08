@@ -1,45 +1,10 @@
 {
   "items": [
     {
-      "title": "Milan x Genoa - 08/01 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Genoa - 08/01 19:45 - SportTV 3",
-      "pubDate": "Thu, 08 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hockey Trissino (Hóquei) x FC Porto (Hóquei) - 08/01 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hockey Trissino (Hóquei) x FC Porto (Hóquei) - 08/01 19:45 - PortoCanal",
-      "pubDate": "Thu, 08 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Liverpool - 08/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Liverpool - 08/01 20:00 - DAZN 1",
-      "pubDate": "Thu, 08 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Voleibol Feminino) x AGIL Volley (Voleibol Feminino) - 08/01 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol Feminino) x AGIL Volley (Voleibol Feminino) - 08/01 20:00 - BTv",
-      "pubDate": "Thu, 08 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lusitânia de Lourosa x Leixões - 08/01 20:15 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x Leixões - 08/01 20:15 - SportTV 6",
       "pubDate": "Thu, 08 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 08/01 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 08/01 20:30 - SportingTv",
-      "pubDate": "Thu, 08 Jan 2026 20:30:00",
       "guid": ""
     },
     {
@@ -313,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "US Avranches x Strasbourg - 10/01 17:00 - SportTV 4",
       "pubDate": "Sat, 10 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Sassuolo - 10/01 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Sassuolo - 10/01 17:00 - SportTV 2",
+      "pubDate": "Sat, 10 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Girona x Osasuna - 10/01 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Girona x Osasuna - 10/01 17:30 - DAZN 1",
+      "pubDate": "Sat, 10 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

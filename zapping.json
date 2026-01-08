@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Lusitânia de Lourosa x Leixões - 08/01 20:15 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x Leixões - 08/01 20:15 - SportTV 6",
-      "pubDate": "Thu, 08 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Timberwolves (Basket) x Cleveland Cavaliers (Basket) - 09/01 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x Cleveland Cavaliers (Basket) - 09/01 01:00 - SportTV 1",
@@ -291,6 +284,13 @@
       "title": "Girona x Osasuna - 10/01 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Girona x Osasuna - 10/01 17:30 - DAZN 1",
+      "pubDate": "Sat, 10 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x Stuttgart - 10/01 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x Stuttgart - 10/01 17:30 - DAZN 2",
       "pubDate": "Sat, 10 Jan 2026 17:30:00",
       "guid": ""
     }

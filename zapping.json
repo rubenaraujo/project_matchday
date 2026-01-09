@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Camarões x Marrocos - 09/01 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Camarões x Marrocos - 09/01 19:00 - SportTV 2",
-      "pubDate": "Fri, 09 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Elche - 10/01 20:00 - DAZN 1",
       "pubDate": "Sat, 10 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CP Esgueira (Basket) x FC Porto (Basket) - 10/01 21:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CP Esgueira (Basket) x FC Porto (Basket) - 10/01 21:00 - DAZN 2",
+      "pubDate": "Sat, 10 Jan 2026 21:00:00",
       "guid": ""
     }
   ]

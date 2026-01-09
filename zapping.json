@@ -22,9 +22,9 @@
       "guid": ""
     },
     {
-      "title": "Camarões x Marrocos - 09/01 19:00 - SportTV 6",
+      "title": "Camarões x Marrocos - 09/01 19:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Camarões x Marrocos - 09/01 19:00 - SportTV 6",
+      "description": "Camarões x Marrocos - 09/01 19:00 - SportTV 2",
       "pubDate": "Fri, 09 Jan 2026 19:00:00",
       "guid": ""
     },
@@ -134,13 +134,6 @@
       "guid": ""
     },
     {
-      "title": "US Orléans x Monaco - 10/01 14:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "US Orléans x Monaco - 10/01 14:30 - SportTV 5",
-      "pubDate": "Sat, 10 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC St. Pauli x RB Leipzig - 10/01 14:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC St. Pauli x RB Leipzig - 10/01 14:30 - DAZN 2",
@@ -158,6 +151,13 @@
       "title": "SC Freiburg x Hamburger SV - 10/01 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Hamburger SV - 10/01 14:30 - DAZN 4",
+      "pubDate": "Sat, 10 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "US Orléans x Monaco - 10/01 14:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "US Orléans x Monaco - 10/01 14:30 - SportTV 7",
       "pubDate": "Sat, 10 Jan 2026 14:30:00",
       "guid": ""
     },
@@ -246,9 +246,9 @@
       "guid": ""
     },
     {
-      "title": "Argélia x Nigéria - 10/01 16:00 - SportTV 2",
+      "title": "Argélia x Nigéria - 10/01 16:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Argélia x Nigéria - 10/01 16:00 - SportTV 2",
+      "description": "Argélia x Nigéria - 10/01 16:00 - SportTV 6",
       "pubDate": "Sat, 10 Jan 2026 16:00:00",
       "guid": ""
     },
@@ -302,16 +302,16 @@
       "guid": ""
     },
     {
-      "title": "Egipto x Costa do Marfim - 10/01 19:00 - SportTV 6",
+      "title": "PSV x Excelsior - 10/01 19:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Egipto x Costa do Marfim - 10/01 19:00 - SportTV 6",
+      "description": "PSV x Excelsior - 10/01 19:00 - DAZN 3",
       "pubDate": "Sat, 10 Jan 2026 19:00:00",
       "guid": ""
     },
     {
-      "title": "PSV x Excelsior - 10/01 19:00 - DAZN 3",
+      "title": "Egipto x Costa do Marfim - 10/01 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Excelsior - 10/01 19:00 - DAZN 3",
+      "description": "Egipto x Costa do Marfim - 10/01 19:00 - SportTV 7",
       "pubDate": "Sat, 10 Jan 2026 19:00:00",
       "guid": ""
     },
@@ -333,6 +333,13 @@
       "title": "Charlton Athletic x Chelsea - 10/01 20:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Charlton Athletic x Chelsea - 10/01 20:00 - SportTV 3",
+      "pubDate": "Sat, 10 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 10/01 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 10/01 20:00 - Canal11",
       "pubDate": "Sat, 10 Jan 2026 20:00:00",
       "guid": ""
     }

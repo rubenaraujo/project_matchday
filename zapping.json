@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Kholood x Al-Ittihad Jeddah - 09/01 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Kholood x Al-Ittihad Jeddah - 09/01 17:30 - SportTV 1",
-      "pubDate": "Fri, 09 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Camarões x Marrocos - 09/01 19:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Camarões x Marrocos - 09/01 19:00 - SportTV 2",
@@ -326,6 +319,13 @@
       "title": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 10/01 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 10/01 20:00 - Canal11",
+      "pubDate": "Sat, 10 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Elche - 10/01 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Elche - 10/01 20:00 - DAZN 1",
       "pubDate": "Sat, 10 Jan 2026 20:00:00",
       "guid": ""
     }

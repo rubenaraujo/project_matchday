@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Nottingham Forest - 09/01 19:30 - SportTV 3",
-      "pubDate": "Fri, 09 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x Imortal (Basket) - 09/01 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x Imortal (Basket) - 09/01 20:30 - SportingTv",
-      "pubDate": "Fri, 09 Jan 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Eléctrico (Futsal) - 09/01 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Eléctrico (Futsal) - 09/01 21:00 - Canal11",
-      "pubDate": "Fri, 09 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Toronto Raptors (Basket) - 10/01 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Toronto Raptors (Basket) - 10/01 00:00 - SportTV 1",
@@ -306,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Carolina Panthers (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 10/01 21:30 - DAZN 3",
       "pubDate": "Sat, 10 Jan 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x San Antonio Spurs (Basket) - 11/01 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x San Antonio Spurs (Basket) - 11/01 01:00 - SportTV 1",
+      "pubDate": "Sun, 11 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chicago Bears (Fut. Americano) x Green Bay Packers (Fut. Americano) - 11/01 01:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chicago Bears (Fut. Americano) x Green Bay Packers (Fut. Americano) - 11/01 01:00 - DAZN 1",
+      "pubDate": "Sun, 11 Jan 2026 01:00:00",
       "guid": ""
     }
   ]

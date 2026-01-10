@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Girona x Osasuna - 10/01 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Osasuna - 10/01 17:30 - DAZN 1",
-      "pubDate": "Sat, 10 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x Stuttgart - 10/01 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Stuttgart - 10/01 17:30 - DAZN 2",
-      "pubDate": "Sat, 10 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Aston Villa - 10/01 17:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Aston Villa - 10/01 17:45 - SportTV 3",
-      "pubDate": "Sat, 10 Jan 2026 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Bruins (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 10/01 18:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Bruins (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 10/01 18:00 - SportTV 5",
@@ -320,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
       "pubDate": "Sun, 11 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x CD Tondela - 11/01 18:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x CD Tondela - 11/01 18:00 - TVI",
+      "pubDate": "Sun, 11 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x Feirense - 11/01 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x Feirense - 11/01 18:00 - SportTV 1",
+      "pubDate": "Sun, 11 Jan 2026 18:00:00",
       "guid": ""
     }
   ]

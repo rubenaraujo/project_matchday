@@ -15,34 +15,6 @@
       "guid": ""
     },
     {
-      "title": "Newcastle x Bournemouth - 10/01 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Bournemouth - 10/01 15:00 - SportTV 4",
-      "pubDate": "Sat, 10 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x Benfica (Voleibol) - 10/01 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Benfica (Voleibol) - 10/01 15:00 - SportingTv",
-      "pubDate": "Sat, 10 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Alavés - 10/01 15:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Alavés - 10/01 15:15 - DAZN 1",
-      "pubDate": "Sat, 10 Jan 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Argélia x Nigéria - 10/01 16:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argélia x Nigéria - 10/01 16:00 - SportTV 6",
-      "pubDate": "Sat, 10 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Imortal (Basket Feminino) x Benfica (Basket Feminino) - 10/01 16:45 - FPBTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Imortal (Basket Feminino) x Benfica (Basket Feminino) - 10/01 16:45 - FPBTV",
@@ -257,6 +229,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dundee FC x Hearts - 11/01 14:00 - SportTV 4",
       "pubDate": "Sun, 11 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
+      "pubDate": "Sun, 11 Jan 2026 14:30:00",
       "guid": ""
     }
   ]

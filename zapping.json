@@ -1,24 +1,10 @@
 {
   "items": [
     {
-      "title": "Vitória SC x SC Braga - 10/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x SC Braga - 10/01 20:00 - SportTV 1",
-      "pubDate": "Sat, 10 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 10/01 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 10/01 20:00 - Canal11",
       "pubDate": "Sat, 10 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket) x FC Porto (Basket) - 10/01 21:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket) x FC Porto (Basket) - 10/01 21:00 - DAZN 2",
-      "pubDate": "Sat, 10 Jan 2026 21:00:00",
       "guid": ""
     },
     {
@@ -305,6 +291,20 @@
       "title": "U. Santarém x Atlético CP - 11/01 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x Atlético CP - 11/01 20:00 - Canal11",
+      "pubDate": "Sun, 11 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x New Orleans Pelicans (Basket) - 11/01 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x New Orleans Pelicans (Basket) - 11/01 20:00 - SportTV 7",
+      "pubDate": "Sun, 11 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Lyon - 11/01 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Lyon - 11/01 20:00 - SportTV 6",
       "pubDate": "Sun, 11 Jan 2026 20:00:00",
       "guid": ""
     }

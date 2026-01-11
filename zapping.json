@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rayo Vallecano x Mallorca - 11/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Mallorca - 11/01 13:00 - DAZN 2",
-      "pubDate": "Sun, 11 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Arsenal Maia (Futsal) x Rio Ave (Futsal) - 11/01 13:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal Maia (Futsal) x Rio Ave (Futsal) - 11/01 13:00 - Canal11",
@@ -299,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Celta de Vigo - 12/01 20:00 - DAZN 1",
       "pubDate": "Mon, 12 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Paris FC - 12/01 20:10 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Paris FC - 12/01 20:10 - SportTV 3",
+      "pubDate": "Mon, 12 Jan 2026 20:10:00",
+      "guid": ""
+    },
+    {
+      "title": "Detroit Red Wings (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 13/01 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Detroit Red Wings (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 13/01 00:00 - SportTV 3",
+      "pubDate": "Tue, 13 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Indiana Pacers (Basket) x Boston Celtics (Basket) - 13/01 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Indiana Pacers (Basket) x Boston Celtics (Basket) - 13/01 00:30 - SportTV 1",
+      "pubDate": "Tue, 13 Jan 2026 00:30:00",
       "guid": ""
     }
   ]

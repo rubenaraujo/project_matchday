@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester United x Brighton  Hove Albion - 11/01 16:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Brighton  Hove Albion - 11/01 16:30 - SportTV 2",
-      "pubDate": "Sun, 11 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Wolfsburg - 11/01 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Wolfsburg - 11/01 16:30 - DAZN 1",
-      "pubDate": "Sun, 11 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Aberdeen x Rangers - 11/01 16:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aberdeen x Rangers - 11/01 16:30 - SportTV 5",
-      "pubDate": "Sun, 11 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Lazio - 11/01 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Lazio - 11/01 17:00 - SportTV 3",
-      "pubDate": "Sun, 11 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nantes x Nice - 11/01 17:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nantes x Nice - 11/01 17:00 - SportTV 4",
@@ -271,6 +243,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Deportivo x Atlético de Madrid - 13/01 20:00 - SportTV 2",
       "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Manchester City - 13/01 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Manchester City - 13/01 20:00 - SportTV 1",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 14/01 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 14/01 01:00 - SportTV 1",
+      "pubDate": "Wed, 14 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Benfica (Feminino) - 14/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Benfica (Feminino) - 14/01 15:00 - Canal11",
+      "pubDate": "Wed, 14 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal x Egipto - 14/01 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal x Egipto - 14/01 17:00 - SportTV 7",
+      "pubDate": "Wed, 14 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Taawoun - 14/01 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Taawoun - 14/01 17:30 - SportTV 4",
+      "pubDate": "Wed, 14 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Parma - 14/01 17:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Parma - 14/01 17:30 - SportTV 3",
+      "pubDate": "Wed, 14 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

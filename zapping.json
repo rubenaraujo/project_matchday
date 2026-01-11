@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Chicago Bears (Fut. Americano) x Green Bay Packers (Fut. Americano) - 11/01 01:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chicago Bears (Fut. Americano) x Green Bay Packers (Fut. Americano) - 11/01 01:00 - DAZN 1",
-      "pubDate": "Sun, 11 Jan 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Racing Power FC (Feminino) x Sporting (Feminino) - 11/01 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Power FC (Feminino) x Sporting (Feminino) - 11/01 11:00 - Canal11",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Barnsley - 12/01 19:45 - SportTV 1",
       "pubDate": "Mon, 12 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Cremonese - 12/01 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Cremonese - 12/01 19:45 - SportTV 2",
+      "pubDate": "Mon, 12 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Celta de Vigo - 12/01 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Celta de Vigo - 12/01 20:00 - DAZN 1",
+      "pubDate": "Mon, 12 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

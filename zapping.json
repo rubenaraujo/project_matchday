@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Nantes x Nice - 11/01 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Nice - 11/01 17:00 - SportTV 4",
-      "pubDate": "Sun, 11 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
-      "pubDate": "Sun, 11 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x USC Paredes - 11/01 17:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x USC Paredes - 11/01 17:30 - C11 Stream",
-      "pubDate": "Sun, 11 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Moreirense x CD Tondela - 11/01 18:00 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x CD Tondela - 11/01 18:00 - TVI",
-      "pubDate": "Sun, 11 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Oliveirense x Feirense - 11/01 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x Feirense - 11/01 18:00 - SportTV 1",
@@ -46,13 +18,6 @@
       "title": "Sporting (Futsal  Jun.A S19) x Futsal Oeiras (Futsal  Jun.A S19) - 11/01 18:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal  Jun.A S19) x Futsal Oeiras (Futsal  Jun.A S19) - 11/01 18:00 - SportingTv",
-      "pubDate": "Sun, 11 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Voleibol) x Sporting (Voleibol) - 11/01 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Voleibol) x Sporting (Voleibol) - 11/01 18:00 - SportTV 6",
       "pubDate": "Sun, 11 Jan 2026 18:00:00",
       "guid": ""
     },
@@ -285,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Parma - 14/01 17:30 - SportTV 3",
       "pubDate": "Wed, 14 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x SC Braga - 14/01 18:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x SC Braga - 14/01 18:45 - SportTV 2",
+      "pubDate": "Wed, 14 Jan 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Lecce - 14/01 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Lecce - 14/01 19:45 - SportTV 5",
+      "pubDate": "Wed, 14 Jan 2026 19:45:00",
       "guid": ""
     }
   ]

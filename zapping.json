@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Arsenal Maia (Futsal) x Rio Ave (Futsal) - 11/01 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal Maia (Futsal) x Rio Ave (Futsal) - 11/01 13:00 - Canal11",
-      "pubDate": "Sun, 11 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
@@ -15,44 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Borussia M´gladbach x FC Augsburg - 11/01 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia M´gladbach x FC Augsburg - 11/01 14:30 - DAZN 3",
-      "pubDate": "Sun, 11 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x Varzim - 11/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x Varzim - 11/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 11 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x SC Braga - 11/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x SC Braga - 11/01 15:00 - Canal11",
-      "pubDate": "Sun, 11 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Covilhã x Académica OAF - 11/01 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Covilhã x Académica OAF - 11/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 11 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 11/01 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 11/01 15:00 - SportingTv",
-      "pubDate": "Sun, 11 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Rio Tinto x Sousense - 11/01 15:00 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Rio Tinto x Sousense - 11/01 15:00 - Youtube",
       "pubDate": "Sun, 11 Jan 2026 15:00:00",
       "guid": ""
     },
@@ -299,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
       "pubDate": "Tue, 13 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x Académico (S23) - 13/01 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Académico (S23) - 13/01 17:00 - Canal11",
+      "pubDate": "Tue, 13 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
+      "pubDate": "Tue, 13 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

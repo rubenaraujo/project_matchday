@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Orlando Magic (Basket) x New Orleans Pelicans (Basket) - 11/01 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Orlando Magic (Basket) x New Orleans Pelicans (Basket) - 11/01 20:00 - SportTV 7",
-      "pubDate": "Sun, 11 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense x UD Leiria - 11/01 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x UD Leiria - 11/01 20:15 - SportTV 1",
-      "pubDate": "Sun, 11 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia Eagles (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 11/01 21:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Eagles (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 11/01 21:30 - DAZN 2",
@@ -292,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Capitals (Hóquei no Gelo  Seniores) x San Jose Sharks (Hóquei no Gelo  Seniores) - 16/01 00:00 - SportTV 3",
       "pubDate": "Fri, 16 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Damaiense (Feminino) x Sporting (Feminino) - 16/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damaiense (Feminino) x Sporting (Feminino) - 16/01 15:00 - Canal11",
+      "pubDate": "Fri, 16 Jan 2026 15:00:00",
       "guid": ""
     }
   ]

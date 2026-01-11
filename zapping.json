@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Oliveirense x Feirense - 11/01 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense x Feirense - 11/01 18:00 - SportTV 1",
-      "pubDate": "Sun, 11 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Jacksonville Jaguars (Fut. Americano) x Buffalo Bills (Fut. Americano) - 11/01 18:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Jacksonville Jaguars (Fut. Americano) x Buffalo Bills (Fut. Americano) - 11/01 18:00 - DAZN 3",
@@ -19,13 +12,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal  Jun.A S19) x Futsal Oeiras (Futsal  Jun.A S19) - 11/01 18:00 - SportingTv",
       "pubDate": "Sun, 11 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Real Madrid - 11/01 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Real Madrid - 11/01 19:00 - SportTV 2",
-      "pubDate": "Sun, 11 Jan 2026 19:00:00",
       "guid": ""
     },
     {
@@ -264,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Lecce - 14/01 19:45 - SportTV 5",
       "pubDate": "Wed, 14 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Nigéria x Marrocos - 14/01 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nigéria x Marrocos - 14/01 20:00 - SportTV 7",
+      "pubDate": "Wed, 14 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Arsenal - 14/01 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Arsenal - 14/01 20:00 - SportTV 3",
+      "pubDate": "Wed, 14 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Albacete x Real Madrid - 14/01 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Albacete x Real Madrid - 14/01 20:00 - SportTV 6",
+      "pubDate": "Wed, 14 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Benfica - 14/01 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Benfica - 14/01 20:45 - RTP1",
+      "pubDate": "Wed, 14 Jan 2026 20:45:00",
       "guid": ""
     }
   ]

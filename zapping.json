@@ -1,44 +1,9 @@
 {
   "items": [
     {
-      "title": "Jacksonville Jaguars (Fut. Americano) x Buffalo Bills (Fut. Americano) - 11/01 18:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Jacksonville Jaguars (Fut. Americano) x Buffalo Bills (Fut. Americano) - 11/01 18:00 - DAZN 3",
-      "pubDate": "Sun, 11 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.A S19) x Futsal Oeiras (Futsal  Jun.A S19) - 11/01 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.A S19) x Futsal Oeiras (Futsal  Jun.A S19) - 11/01 18:00 - SportingTv",
-      "pubDate": "Sun, 11 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Napoli - 11/01 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Napoli - 11/01 19:45 - SportTV 3",
-      "pubDate": "Sun, 11 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x Atlético CP - 11/01 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Atlético CP - 11/01 20:00 - Canal11",
-      "pubDate": "Sun, 11 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x New Orleans Pelicans (Basket) - 11/01 20:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x New Orleans Pelicans (Basket) - 11/01 20:00 - SportTV 7",
-      "pubDate": "Sun, 11 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Lyon - 11/01 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Lyon - 11/01 20:00 - SportTV 6",
       "pubDate": "Sun, 11 Jan 2026 20:00:00",
       "guid": ""
     },
@@ -278,6 +243,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Benfica - 14/01 20:45 - RTP1",
       "pubDate": "Wed, 14 Jan 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Mavericks (Basket) x Denver Nuggets (Basket) - 15/01 02:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Mavericks (Basket) x Denver Nuggets (Basket) - 15/01 02:30 - SportTV 1",
+      "pubDate": "Thu, 15 Jan 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hellas Verona x Bologna - 15/01 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hellas Verona x Bologna - 15/01 17:30 - SportTV 1",
+      "pubDate": "Thu, 15 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
+      "pubDate": "Thu, 15 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
+      "pubDate": "Thu, 15 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
+      "pubDate": "Thu, 15 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Paços de Ferreira - 15/01 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Paços de Ferreira - 15/01 20:15 - SportTV 1",
+      "pubDate": "Thu, 15 Jan 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x San Jose Sharks (Hóquei no Gelo  Seniores) - 16/01 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x San Jose Sharks (Hóquei no Gelo  Seniores) - 16/01 00:00 - SportTV 3",
+      "pubDate": "Fri, 16 Jan 2026 00:00:00",
       "guid": ""
     }
   ]

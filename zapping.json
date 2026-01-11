@@ -8,41 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Telstar x Ajax - 11/01 13:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Telstar x Ajax - 11/01 13:30 - DAZN 1",
-      "pubDate": "Sun, 11 Jan 2026 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x Marítimo - 11/01 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x Marítimo - 11/01 14:00 - SportTV +",
-      "pubDate": "Sun, 11 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Milan - 11/01 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Milan - 11/01 14:00 - SportTV 2",
-      "pubDate": "Sun, 11 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portsmouth x Arsenal - 11/01 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portsmouth x Arsenal - 11/01 14:00 - SportTV 3",
-      "pubDate": "Sun, 11 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dundee FC x Hearts - 11/01 14:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dundee FC x Hearts - 11/01 14:00 - SportTV 4",
-      "pubDate": "Sun, 11 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
@@ -148,16 +113,16 @@
       "guid": ""
     },
     {
-      "title": "AD Marco 09 x USC Paredes - 11/01 17:30 - Canal11",
+      "title": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x USC Paredes - 11/01 17:30 - Canal11",
+      "description": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
       "pubDate": "Sun, 11 Jan 2026 17:30:00",
       "guid": ""
     },
     {
-      "title": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
+      "title": "AD Marco 09 x USC Paredes - 11/01 17:30 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Belenenses - 11/01 17:30 - Canal11",
+      "description": "AD Marco 09 x USC Paredes - 11/01 17:30 - C11 Stream",
       "pubDate": "Sun, 11 Jan 2026 17:30:00",
       "guid": ""
     },
@@ -313,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Indiana Pacers (Basket) x Boston Celtics (Basket) - 13/01 00:30 - SportTV 1",
       "pubDate": "Tue, 13 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Pittsburgh Steelers (Fut. Americano) x Houston Texans (Fut. Americano) - 13/01 01:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pittsburgh Steelers (Fut. Americano) x Houston Texans (Fut. Americano) - 13/01 01:00 - DAZN 1",
+      "pubDate": "Tue, 13 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (S23) x Leixões (S23) - 13/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (S23) x Leixões (S23) - 13/01 11:00 - Canal11",
+      "pubDate": "Tue, 13 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
+      "pubDate": "Tue, 13 Jan 2026 16:00:00",
       "guid": ""
     }
   ]

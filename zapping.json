@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Swansea City x West Bromwich - 11/01 14:30 - SportTV 5",
-      "pubDate": "Sun, 11 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Académica OAF - 11/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Académica OAF - 11/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 11 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Espanyol - 11/01 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Espanyol - 11/01 15:15 - DAZN 2",
-      "pubDate": "Sun, 11 Jan 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (B) x Sporting - 11/01 15:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (B) x Sporting - 11/01 15:30 - PortoCanal",
-      "pubDate": "Sun, 11 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Santa Clara - 11/01 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Santa Clara - 11/01 15:30 - SportTV 1",
-      "pubDate": "Sun, 11 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Manchester United x Brighton  Hove Albion - 11/01 16:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Brighton  Hove Albion - 11/01 16:30 - SportTV 2",
@@ -271,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
       "pubDate": "Tue, 13 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayeux FC x Marseille - 13/01 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayeux FC x Marseille - 13/01 20:00 - SportTV 7",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Torino - 13/01 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Torino - 13/01 20:00 - SportTV 3",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cultural Leonesa x Athletic Bilbao - 13/01 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cultural Leonesa x Athletic Bilbao - 13/01 20:00 - SportTV 6",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Osasuna - 13/01 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Osasuna - 13/01 20:00 - SportTV 5",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo x Atlético de Madrid - 13/01 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x Atlético de Madrid - 13/01 20:00 - SportTV 2",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

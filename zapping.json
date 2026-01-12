@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Liverpool x Barnsley - 12/01 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Barnsley - 12/01 19:45 - SportTV 1",
-      "pubDate": "Mon, 12 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Cremonese - 12/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Cremonese - 12/01 19:45 - SportTV 2",
-      "pubDate": "Mon, 12 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Celta de Vigo - 12/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Celta de Vigo - 12/01 20:00 - DAZN 1",
-      "pubDate": "Mon, 12 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Paris FC - 12/01 20:10 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Paris FC - 12/01 20:10 - SportTV 3",
-      "pubDate": "Mon, 12 Jan 2026 20:10:00",
-      "guid": ""
-    },
-    {
       "title": "Detroit Red Wings (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 13/01 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Detroit Red Wings (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 13/01 00:00 - SportTV 3",
@@ -306,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Bologna - 15/01 17:30 - SportTV 1",
       "pubDate": "Thu, 15 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Andebol) x Áustria (Andebol) - 15/01 19:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Andebol) x Áustria (Andebol) - 15/01 19:30 - RTP Play",
+      "pubDate": "Thu, 15 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
+      "pubDate": "Thu, 15 Jan 2026 19:30:00",
       "guid": ""
     }
   ]

@@ -71,6 +71,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (S23) x Académico (S23) - 13/01 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Académico (S23) - 13/01 15:00 - SportingTv",
+      "pubDate": "Tue, 13 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
@@ -78,9 +85,9 @@
       "guid": ""
     },
     {
-      "title": "Sporting (S23) x Académico (S23) - 13/01 17:00 - Canal11",
+      "title": "Budowlani Lódz (Voleibol Feminino) x Benfica (Voleibol Feminino) - 13/01 17:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (S23) x Académico (S23) - 13/01 17:00 - Canal11",
+      "description": "Budowlani Lódz (Voleibol Feminino) x Benfica (Voleibol Feminino) - 13/01 17:00 - BTv",
       "pubDate": "Tue, 13 Jan 2026 17:00:00",
       "guid": ""
     },
@@ -89,6 +96,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
       "pubDate": "Tue, 13 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Eintracht Frankfurt - 13/01 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Eintracht Frankfurt - 13/01 17:30 - DAZN 1",
+      "pubDate": "Tue, 13 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Werder Bremen - 13/01 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Werder Bremen - 13/01 19:30 - DAZN 1",
+      "pubDate": "Tue, 13 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hamburger SV x Bayer Leverkusen - 13/01 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hamburger SV x Bayer Leverkusen - 13/01 19:30 - DAZN 2",
+      "pubDate": "Tue, 13 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Mainz x 1. FC Heidenheim 1846 - 13/01 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mainz x 1. FC Heidenheim 1846 - 13/01 19:30 - DAZN 3",
+      "pubDate": "Tue, 13 Jan 2026 19:30:00",
       "guid": ""
     },
     {
@@ -134,6 +169,13 @@
       "guid": ""
     },
     {
+      "title": "FC Utrecht x FC Twente - 13/01 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Utrecht x FC Twente - 13/01 20:00 - DAZN 4",
+      "pubDate": "Tue, 13 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 14/01 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 14/01 01:00 - SportTV 1",
@@ -169,10 +211,45 @@
       "guid": ""
     },
     {
+      "title": "Wolfsburg x FC St. Pauli - 14/01 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolfsburg x FC St. Pauli - 14/01 17:30 - DAZN 1",
+      "pubDate": "Wed, 14 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Den Bosch x PSV - 14/01 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Den Bosch x PSV - 14/01 17:45 - DAZN 2",
+      "pubDate": "Wed, 14 Jan 2026 17:45:00",
+      "guid": ""
+    },
+    {
       "title": "Fafe x SC Braga - 14/01 18:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x SC Braga - 14/01 18:45 - SportTV 2",
       "pubDate": "Wed, 14 Jan 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x Galitos FC (Basket) - 14/01 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x Galitos FC (Basket) - 14/01 19:00 - BTv",
+      "pubDate": "Wed, 14 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Köln x Bayern München - 14/01 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Köln x Bayern München - 14/01 19:30 - DAZN 1",
+      "pubDate": "Wed, 14 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x SC Freiburg - 14/01 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x SC Freiburg - 14/01 19:30 - DAZN 2",
+      "pubDate": "Wed, 14 Jan 2026 19:30:00",
       "guid": ""
     },
     {
@@ -200,6 +277,13 @@
       "title": "Albacete x Real Madrid - 14/01 20:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Albacete x Real Madrid - 14/01 20:00 - SportTV 6",
+      "pubDate": "Wed, 14 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AZ Alkmaar x Ajax - 14/01 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AZ Alkmaar x Ajax - 14/01 20:00 - DAZN 3",
       "pubDate": "Wed, 14 Jan 2026 20:00:00",
       "guid": ""
     },
@@ -236,90 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Bologna - 15/01 17:30 - SportTV 1",
       "pubDate": "Thu, 15 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Alemanha (Andebol) x Áustria (Andebol) - 15/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Andebol) x Áustria (Andebol) - 15/01 19:30 - RTP Play",
-      "pubDate": "Thu, 15 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
-      "pubDate": "Thu, 15 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
-      "pubDate": "Thu, 15 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
-      "pubDate": "Thu, 15 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
-      "pubDate": "Thu, 15 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vizela x Paços de Ferreira - 15/01 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x Paços de Ferreira - 15/01 20:15 - SportTV 1",
-      "pubDate": "Thu, 15 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x San Jose Sharks (Hóquei no Gelo  Seniores) - 16/01 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x San Jose Sharks (Hóquei no Gelo  Seniores) - 16/01 00:00 - SportTV 3",
-      "pubDate": "Fri, 16 Jan 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Damaiense (Feminino) x Sporting (Feminino) - 16/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Damaiense (Feminino) x Sporting (Feminino) - 16/01 15:00 - Canal11",
-      "pubDate": "Fri, 16 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Andebol) x Roménia (Andebol) - 16/01 17:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol) x Roménia (Andebol) - 16/01 17:00 - RTP2",
-      "pubDate": "Fri, 16 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Islândia (Andebol) x Itália (Andebol) - 16/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Islândia (Andebol) x Itália (Andebol) - 16/01 17:00 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ittihad Jeddah x Al-Ettifaq - 16/01 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Ettifaq - 16/01 17:30 - SportTV 2",
-      "pubDate": "Fri, 16 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

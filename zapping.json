@@ -1,38 +1,10 @@
 {
   "items": [
     {
-      "title": "Borussia Dortmund x Werder Bremen - 13/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Werder Bremen - 13/01 19:30 - DAZN 1",
-      "pubDate": "Tue, 13 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Hamburger SV x Bayer Leverkusen - 13/01 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hamburger SV x Bayer Leverkusen - 13/01 19:30 - DAZN 2",
       "pubDate": "Tue, 13 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Mainz x 1. FC Heidenheim 1846 - 13/01 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x 1. FC Heidenheim 1846 - 13/01 19:30 - DAZN 3",
-      "pubDate": "Tue, 13 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayeux FC x Marseille - 13/01 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayeux FC x Marseille - 13/01 20:00 - SportTV 7",
-      "pubDate": "Tue, 13 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Torino - 13/01 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Torino - 13/01 20:00 - SportTV 3",
-      "pubDate": "Tue, 13 Jan 2026 20:00:00",
       "guid": ""
     },
     {
@@ -46,27 +18,6 @@
       "title": "Real Sociedad x Osasuna - 13/01 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Sociedad x Osasuna - 13/01 20:00 - SportTV 5",
-      "pubDate": "Tue, 13 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Atlético de Madrid - 13/01 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Atlético de Madrid - 13/01 20:00 - SportTV 2",
-      "pubDate": "Tue, 13 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Manchester City - 13/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Manchester City - 13/01 20:00 - SportTV 1",
-      "pubDate": "Tue, 13 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Utrecht x FC Twente - 13/01 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Utrecht x FC Twente - 13/01 20:00 - DAZN 4",
       "pubDate": "Tue, 13 Jan 2026 20:00:00",
       "guid": ""
     },
@@ -306,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ittihad Jeddah x Al-Ettifaq - 16/01 17:30 - SportTV 2",
       "pubDate": "Fri, 16 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fortuna Düsseldorf x Arminia Bielefeld - 16/01 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fortuna Düsseldorf x Arminia Bielefeld - 16/01 17:30 - DAZN 2",
+      "pubDate": "Fri, 16 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x UD Leiria - 16/01 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x UD Leiria - 16/01 18:00 - SportTV +",
+      "pubDate": "Fri, 16 Jan 2026 18:00:00",
       "guid": ""
     }
   ]

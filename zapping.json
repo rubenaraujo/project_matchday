@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
-      "pubDate": "Tue, 13 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x Eintracht Frankfurt - 13/01 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Eintracht Frankfurt - 13/01 17:30 - DAZN 1",
-      "pubDate": "Tue, 13 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia Dortmund x Werder Bremen - 13/01 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia Dortmund x Werder Bremen - 13/01 19:30 - DAZN 1",
@@ -305,6 +291,13 @@
       "title": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
+      "pubDate": "Fri, 16 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Islândia (Andebol) x Itália (Andebol) - 16/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Islândia (Andebol) x Itália (Andebol) - 16/01 17:00 - RTP Play",
       "pubDate": "Fri, 16 Jan 2026 17:00:00",
       "guid": ""
     }

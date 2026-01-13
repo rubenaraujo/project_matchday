@@ -29,13 +29,6 @@
       "guid": ""
     },
     {
-      "title": "Sporting (S23) x Académico (S23) - 13/01 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (S23) x Académico (S23) - 13/01 15:00 - SportingTv",
-      "pubDate": "Tue, 13 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
@@ -292,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
       "pubDate": "Thu, 15 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Augsburg x 1. FC Union Berlin - 15/01 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Augsburg x 1. FC Union Berlin - 15/01 19:30 - DAZN 1",
+      "pubDate": "Thu, 15 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
+      "pubDate": "Thu, 15 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
+      "pubDate": "Thu, 15 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
+      "pubDate": "Thu, 15 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bahçesehir Koleji (Basket) x Bàsquet Manresa (Basket) - 13/01 16:00 - SportTV 2",
-      "pubDate": "Tue, 13 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Budowlani Lódz (Voleibol Feminino) x Benfica (Voleibol Feminino) - 13/01 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Budowlani Lódz (Voleibol Feminino) x Benfica (Voleibol Feminino) - 13/01 17:00 - BTv",
-      "pubDate": "Tue, 13 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Damac FC x Al-Ittihad Jeddah - 13/01 17:30 - SportTV 1",
@@ -312,6 +298,13 @@
       "title": "Portugal (Andebol) x Roménia (Andebol) - 16/01 17:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol) x Roménia (Andebol) - 16/01 17:00 - RTP2",
+      "pubDate": "Fri, 16 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
       "pubDate": "Fri, 16 Jan 2026 17:00:00",
       "guid": ""
     }

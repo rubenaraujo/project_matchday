@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Senegal x Egipto - 14/01 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Senegal x Egipto - 14/01 17:00 - SportTV 7",
-      "pubDate": "Wed, 14 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Ahli Jeddah x Al-Taawoun - 14/01 17:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ahli Jeddah x Al-Taawoun - 14/01 17:30 - SportTV 4",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Lille - 16/01 20:00 - SportTV 3",
       "pubDate": "Fri, 16 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Bromwich x Middlesbrough - 16/01 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Bromwich x Middlesbrough - 16/01 20:00 - SportTV 6",
+      "pubDate": "Fri, 16 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Girona - 16/01 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Girona - 16/01 20:00 - DAZN 2",
+      "pubDate": "Fri, 16 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Casa Pia AC - 16/01 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Casa Pia AC - 16/01 20:15 - SportTV 1",
+      "pubDate": "Fri, 16 Jan 2026 20:15:00",
       "guid": ""
     }
   ]

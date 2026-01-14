@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Nigéria x Marrocos - 14/01 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nigéria x Marrocos - 14/01 20:00 - SportTV 7",
-      "pubDate": "Wed, 14 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Benfica - 14/01 20:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Benfica - 14/01 20:45 - RTP1",
-      "pubDate": "Wed, 14 Jan 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Dallas Mavericks (Basket) x Denver Nuggets (Basket) - 15/01 02:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x Denver Nuggets (Basket) - 15/01 02:30 - SportTV 1",
@@ -271,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.B S17) x SC Braga (Jun.B S17) - 17/01 11:00 - PortoCanal",
       "pubDate": "Sat, 17 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.B S17) x Académica OAF (Jun.B S17) - 17/01 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.B S17) x Académica OAF (Jun.B S17) - 17/01 11:00 - SportingTv",
+      "pubDate": "Sat, 17 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x Leicester City - 17/01 12:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x Leicester City - 17/01 12:30 - SportTV 4",
+      "pubDate": "Sat, 17 Jan 2026 12:30:00",
       "guid": ""
     }
   ]

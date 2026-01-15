@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Alemanha (Andebol) x Áustria (Andebol) - 15/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Andebol) x Áustria (Andebol) - 15/01 19:30 - RTP Play",
-      "pubDate": "Thu, 15 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega (Andebol) x Ucrânia (Andebol) - 15/01 19:30 - RTP Play",
-      "pubDate": "Thu, 15 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Augsburg x 1. FC Union Berlin - 15/01 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Augsburg x 1. FC Union Berlin - 15/01 19:30 - DAZN 1",
@@ -327,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x HC Braga (Hóquei) - 17/01 15:00 - FPP TV",
       "pubDate": "Sat, 17 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Athletic Bilbao - 17/01 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Athletic Bilbao - 17/01 15:15 - DAZN 2",
+      "pubDate": "Sat, 17 Jan 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Nacional - 17/01 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Nacional - 17/01 15:30 - SportTV 1",
+      "pubDate": "Sat, 17 Jan 2026 15:30:00",
       "guid": ""
     }
   ]

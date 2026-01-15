@@ -1,30 +1,9 @@
 {
   "items": [
     {
-      "title": "FC Augsburg x 1. FC Union Berlin - 15/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x 1. FC Union Berlin - 15/01 19:30 - DAZN 1",
-      "pubDate": "Thu, 15 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Milan - 15/01 19:45 - SportTV 2",
-      "pubDate": "Thu, 15 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Santander x Barcelona - 15/01 20:00 - SportTV 3",
-      "pubDate": "Thu, 15 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burgos CF x Valencia - 15/01 20:00 - SportTV 6",
       "pubDate": "Thu, 15 Jan 2026 20:00:00",
       "guid": ""
     },
@@ -327,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x Nacional - 17/01 15:30 - SportTV 1",
       "pubDate": "Sat, 17 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Auxerre - 17/01 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Auxerre - 17/01 16:00 - SportTV 3",
+      "pubDate": "Sat, 17 Jan 2026 16:00:00",
       "guid": ""
     }
   ]

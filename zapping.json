@@ -190,13 +190,6 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Jun.B S17) x Académica OAF (Jun.B S17) - 17/01 11:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.B S17) x Académica OAF (Jun.B S17) - 17/01 11:00 - SportingTv",
-      "pubDate": "Sat, 17 Jan 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Coventry City x Leicester City - 17/01 12:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Coventry City x Leicester City - 17/01 12:30 - SportTV 4",
@@ -299,6 +292,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Auxerre - 17/01 16:00 - SportTV 3",
       "pubDate": "Sat, 17 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Gazisehir Gaziantep - 17/01 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Gazisehir Gaziantep - 17/01 17:00 - SportTV 7",
+      "pubDate": "Sat, 17 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Sassuolo - 17/01 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Sassuolo - 17/01 17:00 - SportTV 2",
+      "pubDate": "Sat, 17 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria (Andebol) x Espanha (Andebol) - 17/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria (Andebol) x Espanha (Andebol) - 17/01 17:00 - RTP Play",
+      "pubDate": "Sat, 17 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Croácia (Andebol) x Geórgia (Andebol) - 17/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Croácia (Andebol) x Geórgia (Andebol) - 17/01 17:00 - RTP Play",
+      "pubDate": "Sat, 17 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ucrânia (Andebol) x França (Andebol) - 17/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ucrânia (Andebol) x França (Andebol) - 17/01 17:00 - RTP Play",
+      "pubDate": "Sat, 17 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Shabab - 17/01 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Shabab - 17/01 17:30 - SportTV 4",
+      "pubDate": "Sat, 17 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nottingham Forest x Arsenal - 17/01 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nottingham Forest x Arsenal - 17/01 17:30 - DAZN 1",
+      "pubDate": "Sat, 17 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

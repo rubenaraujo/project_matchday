@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Dinamarca (Andebol) x Macedónia do Norte (Andebol) - 16/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca (Andebol) x Macedónia do Norte (Andebol) - 16/01 19:30 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hungria (Andebol) x Polónia (Andebol) - 16/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria (Andebol) x Polónia (Andebol) - 16/01 19:30 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Ilhas Faroé (Andebol) x Suíça (Andebol) - 16/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ilhas Faroé (Andebol) x Suíça (Andebol) - 16/01 19:30 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Werder Bremen x Eintracht Frankfurt - 16/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Werder Bremen x Eintracht Frankfurt - 16/01 19:30 - DAZN 1",
-      "pubDate": "Fri, 16 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Atalanta - 16/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Atalanta - 16/01 19:45 - SportTV 2",
-      "pubDate": "Fri, 16 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid (Basket) x FC Barcelona (Basket) - 16/01 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Basket) x FC Barcelona (Basket) - 16/01 19:45 - SportTV 7",
-      "pubDate": "Fri, 16 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Lille - 16/01 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Lille - 16/01 20:00 - SportTV 3",
-      "pubDate": "Fri, 16 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "West Bromwich x Middlesbrough - 16/01 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Bromwich x Middlesbrough - 16/01 20:00 - SportTV 6",
-      "pubDate": "Fri, 16 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Girona - 16/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Girona - 16/01 20:00 - DAZN 2",
-      "pubDate": "Fri, 16 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting x Casa Pia AC - 16/01 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Casa Pia AC - 16/01 20:15 - SportTV 1",
@@ -292,6 +229,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toulouse x Nice - 17/01 18:00 - SportTV 3",
       "pubDate": "Sat, 17 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x FC Arouca - 17/01 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x FC Arouca - 17/01 18:00 - SportTV 6",
+      "pubDate": "Sat, 17 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Moreirense - 17/01 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Moreirense - 17/01 18:00 - SportTV 1",
+      "pubDate": "Sat, 17 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x AD Valongo (Hóquei) - 17/01 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x AD Valongo (Hóquei) - 17/01 18:00 - FPP TV",
+      "pubDate": "Sat, 17 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Riba d´Ave (Hóquei) x CD Póvoa (Hóquei) - 17/01 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba d´Ave (Hóquei) x CD Póvoa (Hóquei) - 17/01 18:30 - FPP TV",
+      "pubDate": "Sat, 17 Jan 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x AD Sanjoanense - 17/01 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x AD Sanjoanense - 17/01 19:00 - Canal11",
+      "pubDate": "Sat, 17 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest Bretagne (Andebol Feminino) x Ikast Handbold (Andebol Feminino) - 17/01 19:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest Bretagne (Andebol Feminino) x Ikast Handbold (Andebol Feminino) - 17/01 19:00 - SportTV 7",
+      "pubDate": "Sat, 17 Jan 2026 19:00:00",
       "guid": ""
     }
   ]

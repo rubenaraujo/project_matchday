@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Andebol) x Roménia (Andebol) - 16/01 17:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol) x Roménia (Andebol) - 16/01 17:00 - RTP2",
-      "pubDate": "Fri, 16 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Andebol) x Montenegro (Andebol) - 16/01 17:00 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Islândia (Andebol) x Itália (Andebol) - 16/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Islândia (Andebol) x Itália (Andebol) - 16/01 17:00 - RTP Play",
-      "pubDate": "Fri, 16 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Ittihad Jeddah x Al-Ettifaq - 16/01 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ittihad Jeddah x Al-Ettifaq - 16/01 17:30 - SportTV 2",
@@ -333,6 +312,13 @@
       "title": "Osasuna x Real Oviedo - 17/01 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Real Oviedo - 17/01 17:30 - DAZN 2",
+      "pubDate": "Sat, 17 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x Bayern München - 17/01 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x Bayern München - 17/01 17:30 - DAZN 3",
       "pubDate": "Sat, 17 Jan 2026 17:30:00",
       "guid": ""
     }

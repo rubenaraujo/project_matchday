@@ -8,48 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Chéquia (Andebol) x Noruega (Andebol) - 17/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chéquia (Andebol) x Noruega (Andebol) - 17/01 19:30 - RTP Play",
-      "pubDate": "Sat, 17 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sérvia (Andebol) x Alemanha (Andebol) - 17/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sérvia (Andebol) x Alemanha (Andebol) - 17/01 19:30 - RTP Play",
-      "pubDate": "Sat, 17 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Suécia (Andebol) x Países Baixos (Andebol) - 17/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suécia (Andebol) x Países Baixos (Andebol) - 17/01 19:30 - RTP Play",
-      "pubDate": "Sat, 17 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hertha BSC x Schalke 04 - 17/01 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hertha BSC x Schalke 04 - 17/01 19:30 - DAZN 3",
-      "pubDate": "Sat, 17 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cagliari x Juventus - 17/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Juventus - 17/01 19:45 - SportTV 2",
-      "pubDate": "Sat, 17 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Villarreal - 17/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Villarreal - 17/01 20:00 - DAZN 1",
-      "pubDate": "Sat, 17 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Angers x Marseille - 17/01 20:05 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angers x Marseille - 17/01 20:05 - SportTV 3",
@@ -243,6 +201,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Feminino) x Benfica (Feminino) - 18/01 16:00 - Canal11",
       "pubDate": "Sun, 18 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PV Colégio Efanor (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 18/01 16:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PV Colégio Efanor (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 18/01 16:00 - ABola TV",
+      "pubDate": "Sun, 18 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Paris FC - 18/01 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Paris FC - 18/01 16:15 - SportTV 3",
+      "pubDate": "Sun, 18 Jan 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Everton - 18/01 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Everton - 18/01 16:30 - DAZN 1",
+      "pubDate": "Sun, 18 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Augsburg x SC Freiburg - 18/01 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Augsburg x SC Freiburg - 18/01 16:30 - DAZN 3",
+      "pubDate": "Sun, 18 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Macedónia do Norte (Andebol) x Portugal (Andebol) - 18/01 17:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Macedónia do Norte (Andebol) x Portugal (Andebol) - 18/01 17:00 - RTP2",
+      "pubDate": "Sun, 18 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Roma - 18/01 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Roma - 18/01 17:00 - SportTV 4",
+      "pubDate": "Sun, 18 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Montenegro (Andebol) x Ilhas Faroé (Andebol) - 18/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Montenegro (Andebol) x Ilhas Faroé (Andebol) - 18/01 17:00 - RTP Play",
+      "pubDate": "Sun, 18 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Polónia (Andebol) x Islândia (Andebol) - 18/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Polónia (Andebol) x Islândia (Andebol) - 18/01 17:00 - RTP Play",
+      "pubDate": "Sun, 18 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alanyaspor x Fenerbahçe - 18/01 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alanyaspor x Fenerbahçe - 18/01 17:00 - SportTV 5",
+      "pubDate": "Sun, 18 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Amora FC - 18/01 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Amora FC - 18/01 17:00 - C11 Stream",
+      "pubDate": "Sun, 18 Jan 2026 17:00:00",
       "guid": ""
     }
   ]

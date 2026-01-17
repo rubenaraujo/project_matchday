@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray x Gazisehir Gaziantep - 17/01 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Gazisehir Gaziantep - 17/01 17:00 - SportTV 7",
-      "pubDate": "Sat, 17 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Sassuolo - 17/01 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Sassuolo - 17/01 17:00 - SportTV 2",
-      "pubDate": "Sat, 17 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Áustria (Andebol) x Espanha (Andebol) - 17/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Áustria (Andebol) x Espanha (Andebol) - 17/01 17:00 - RTP Play",
-      "pubDate": "Sat, 17 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Croácia (Andebol) x Geórgia (Andebol) - 17/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Croácia (Andebol) x Geórgia (Andebol) - 17/01 17:00 - RTP Play",
-      "pubDate": "Sat, 17 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ucrânia (Andebol) x França (Andebol) - 17/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia (Andebol) x França (Andebol) - 17/01 17:00 - RTP Play",
-      "pubDate": "Sat, 17 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Nassr x Al-Shabab - 17/01 17:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Al-Shabab - 17/01 17:30 - SportTV 4",
@@ -60,13 +25,6 @@
       "title": "RB Leipzig x Bayern München - 17/01 17:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "RB Leipzig x Bayern München - 17/01 17:30 - DAZN 3",
-      "pubDate": "Sat, 17 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude Pacense (Hóquei) x AD Sanjoanense (Hóquei) - 17/01 17:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude Pacense (Hóquei) x AD Sanjoanense (Hóquei) - 17/01 17:30 - FPP TV",
       "pubDate": "Sat, 17 Jan 2026 17:30:00",
       "guid": ""
     },
@@ -264,6 +222,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Getafe x Valencia - 18/01 13:00 - DAZN 2",
       "pubDate": "Sun, 18 Jan 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitânia de Lourosa x Marítimo - 18/01 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitânia de Lourosa x Marítimo - 18/01 14:00 - SportTV +",
+      "pubDate": "Sun, 18 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Metz - 18/01 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Metz - 18/01 14:00 - SportTV 3",
+      "pubDate": "Sun, 18 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolverhampton x Newcastle - 18/01 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolverhampton x Newcastle - 18/01 14:00 - DAZN 1",
+      "pubDate": "Sun, 18 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Rio Ave (Feminino) - 18/01 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Rio Ave (Feminino) - 18/01 14:00 - Canal11",
+      "pubDate": "Sun, 18 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Fiorentina - 18/01 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Fiorentina - 18/01 14:00 - SportTV 2",
+      "pubDate": "Sun, 18 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x 1. FC Union Berlin - 18/01 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x 1. FC Union Berlin - 18/01 14:30 - DAZN 3",
+      "pubDate": "Sun, 18 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (B) x Fafe - 18/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (B) x Fafe - 18/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 18 Jan 2026 15:00:00",
       "guid": ""
     }
   ]

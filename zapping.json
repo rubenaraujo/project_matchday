@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia Dortmund x FC St. Pauli - 17/01 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x FC St. Pauli - 17/01 14:30 - DAZN 3",
-      "pubDate": "Sat, 17 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (B) x S. João Ver - 17/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x S. João Ver - 17/01 15:00 - C11 Stream",
-      "pubDate": "Sat, 17 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Atlético CP - 17/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Atlético CP - 17/01 15:00 - C11 Stream",
-      "pubDate": "Sat, 17 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x Caldas SC - 17/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Caldas SC - 17/01 15:00 - C11 Stream",
-      "pubDate": "Sat, 17 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Burnley - 17/01 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Burnley - 17/01 15:00 - DAZN 1",
-      "pubDate": "Sat, 17 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x West Ham - 17/01 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x West Ham - 17/01 15:00 - DAZN 4",
-      "pubDate": "Sat, 17 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x HC Braga (Hóquei) - 17/01 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x HC Braga (Hóquei) - 17/01 15:00 - FPP TV",
-      "pubDate": "Sat, 17 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Mallorca x Athletic Bilbao - 17/01 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mallorca x Athletic Bilbao - 17/01 15:15 - DAZN 2",
@@ -299,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x FC Porto (Feminino) - 18/01 11:00 - Canal11",
       "pubDate": "Sun, 18 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Genoa - 18/01 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Genoa - 18/01 11:30 - SportTV 2",
+      "pubDate": "Sun, 18 Jan 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Basket Feminino) x União Sportiva (Basket Feminino) - 18/01 11:30 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Basket Feminino) x União Sportiva (Basket Feminino) - 18/01 11:30 - ABola TV",
+      "pubDate": "Sun, 18 Jan 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CAB Madeira (Basket Feminino) x Benfica (Basket Feminino) - 18/01 11:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CAB Madeira (Basket Feminino) x Benfica (Basket Feminino) - 18/01 11:45 - DAZN 1",
+      "pubDate": "Sun, 18 Jan 2026 11:45:00",
       "guid": ""
     }
   ]

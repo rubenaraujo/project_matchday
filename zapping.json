@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Nassr x Al-Shabab - 17/01 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Shabab - 17/01 17:30 - SportTV 4",
-      "pubDate": "Sat, 17 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Arsenal - 17/01 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Arsenal - 17/01 17:30 - DAZN 1",
-      "pubDate": "Sat, 17 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Osasuna x Real Oviedo - 17/01 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Real Oviedo - 17/01 17:30 - DAZN 2",
-      "pubDate": "Sat, 17 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "RB Leipzig x Bayern München - 17/01 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RB Leipzig x Bayern München - 17/01 17:30 - DAZN 3",
-      "pubDate": "Sat, 17 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x GD Chaves - 17/01 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x GD Chaves - 17/01 18:00 - BTv",
-      "pubDate": "Sat, 17 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Toulouse x Nice - 17/01 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Toulouse x Nice - 17/01 18:00 - SportTV 3",
-      "pubDate": "Sat, 17 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x FC Arouca - 17/01 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x FC Arouca - 17/01 18:00 - SportTV 6",
-      "pubDate": "Sat, 17 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x Moreirense - 17/01 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Moreirense - 17/01 18:00 - SportTV 1",
-      "pubDate": "Sat, 17 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x AD Valongo (Hóquei) - 17/01 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x AD Valongo (Hóquei) - 17/01 18:00 - FPP TV",
-      "pubDate": "Sat, 17 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Riba d´Ave (Hóquei) x CD Póvoa (Hóquei) - 17/01 18:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Riba d´Ave (Hóquei) x CD Póvoa (Hóquei) - 17/01 18:30 - FPP TV",
@@ -270,6 +207,27 @@
       "title": "Vitória SC (B) x Fafe - 18/01 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (B) x Fafe - 18/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 18 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x AD Marco 09 - 18/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x AD Marco 09 - 18/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 18 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x Amarante FC - 18/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x Amarante FC - 18/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 18 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 18/01 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 18/01 15:00 - SportingTv",
       "pubDate": "Sun, 18 Jan 2026 15:00:00",
       "guid": ""
     }

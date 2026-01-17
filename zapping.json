@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Coventry City x Leicester City - 17/01 12:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coventry City x Leicester City - 17/01 12:30 - SportTV 4",
-      "pubDate": "Sat, 17 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Manchester City - 17/01 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Manchester City - 17/01 12:30 - DAZN 1",
-      "pubDate": "Sat, 17 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Levante - 17/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Levante - 17/01 13:00 - DAZN 2",
-      "pubDate": "Sat, 17 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Penafiel x Portimonense - 17/01 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x Portimonense - 17/01 14:00 - SportTV +",
@@ -299,6 +278,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x 1º Dezembro - 17/01 21:00 - Canal11",
       "pubDate": "Sat, 17 Jan 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Turquel (Hóquei) x CH Carvalhos (Hóquei) - 17/01 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Turquel (Hóquei) x CH Carvalhos (Hóquei) - 17/01 21:00 - FPP TV",
+      "pubDate": "Sat, 17 Jan 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Broncos (Fut. Americano) x Buffalo Bills (Fut. Americano) - 17/01 21:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Broncos (Fut. Americano) x Buffalo Bills (Fut. Americano) - 17/01 21:30 - DAZN 2",
+      "pubDate": "Sat, 17 Jan 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlanta Hawks (Basket) x Boston Celtics (Basket) - 18/01 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlanta Hawks (Basket) x Boston Celtics (Basket) - 18/01 00:30 - SportTV 1",
+      "pubDate": "Sun, 18 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Seattle Seahawks (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 18/01 01:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Seattle Seahawks (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 18/01 01:00 - DAZN 1",
+      "pubDate": "Sun, 18 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x FC Porto (Feminino) - 18/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x FC Porto (Feminino) - 18/01 11:00 - Canal11",
+      "pubDate": "Sun, 18 Jan 2026 11:00:00",
       "guid": ""
     }
   ]

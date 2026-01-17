@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Mallorca x Athletic Bilbao - 17/01 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Athletic Bilbao - 17/01 15:15 - DAZN 2",
-      "pubDate": "Sat, 17 Jan 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Nacional - 17/01 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Nacional - 17/01 15:30 - SportTV 1",
-      "pubDate": "Sat, 17 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Auxerre - 17/01 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Auxerre - 17/01 16:00 - SportTV 3",
-      "pubDate": "Sat, 17 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Galatasaray x Gazisehir Gaziantep - 17/01 17:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Gazisehir Gaziantep - 17/01 17:00 - SportTV 7",
@@ -271,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CAB Madeira (Basket Feminino) x Benfica (Basket Feminino) - 18/01 11:45 - DAZN 1",
       "pubDate": "Sun, 18 Jan 2026 11:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Kaiserslautern x Hannover 96 - 18/01 12:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kaiserslautern x Hannover 96 - 18/01 12:30 - DAZN 3",
+      "pubDate": "Sun, 18 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Valencia - 18/01 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Valencia - 18/01 13:00 - DAZN 2",
+      "pubDate": "Sun, 18 Jan 2026 13:00:00",
       "guid": ""
     }
   ]

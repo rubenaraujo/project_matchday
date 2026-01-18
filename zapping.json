@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Kaiserslautern x Hannover 96 - 18/01 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kaiserslautern x Hannover 96 - 18/01 12:30 - DAZN 3",
-      "pubDate": "Sun, 18 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Valencia - 18/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Valencia - 18/01 13:00 - DAZN 2",
-      "pubDate": "Sun, 18 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lusitânia de Lourosa x Marítimo - 18/01 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x Marítimo - 18/01 14:00 - SportTV +",
@@ -319,6 +305,13 @@
       "title": "Áustria (Andebol) x Sérvia (Andebol) - 19/01 17:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Áustria (Andebol) x Sérvia (Andebol) - 19/01 17:00 - RTP Play",
+      "pubDate": "Mon, 19 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos (Andebol) x Croácia (Andebol) - 19/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos (Andebol) x Croácia (Andebol) - 19/01 17:00 - RTP Play",
       "pubDate": "Mon, 19 Jan 2026 17:00:00",
       "guid": ""
     }

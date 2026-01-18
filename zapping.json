@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Seattle Seahawks (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 18/01 01:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Seattle Seahawks (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 18/01 01:00 - DAZN 1",
-      "pubDate": "Sun, 18 Jan 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo (Feminino) x FC Porto (Feminino) - 18/01 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x FC Porto (Feminino) - 18/01 11:00 - Canal11",
@@ -341,6 +334,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x Portimonense (S23) - 19/01 13:30 - Canal11",
       "pubDate": "Mon, 19 Jan 2026 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x SC Braga (S23) - 19/01 15:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x SC Braga (S23) - 19/01 15:30 - Canal11",
+      "pubDate": "Mon, 19 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria (Andebol) x Sérvia (Andebol) - 19/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria (Andebol) x Sérvia (Andebol) - 19/01 17:00 - RTP Play",
+      "pubDate": "Mon, 19 Jan 2026 17:00:00",
       "guid": ""
     }
   ]

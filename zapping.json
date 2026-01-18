@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Lusitânia de Lourosa x Marítimo - 18/01 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x Marítimo - 18/01 14:00 - SportTV +",
-      "pubDate": "Sun, 18 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Metz - 18/01 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Metz - 18/01 14:00 - SportTV 3",
-      "pubDate": "Sun, 18 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Newcastle - 18/01 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Newcastle - 18/01 14:00 - DAZN 1",
-      "pubDate": "Sun, 18 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Feminino) x Rio Ave (Feminino) - 18/01 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Feminino) x Rio Ave (Feminino) - 18/01 14:00 - Canal11",
-      "pubDate": "Sun, 18 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Fiorentina - 18/01 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Fiorentina - 18/01 14:00 - SportTV 2",
-      "pubDate": "Sun, 18 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x 1. FC Union Berlin - 18/01 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x 1. FC Union Berlin - 18/01 14:30 - DAZN 3",
@@ -313,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Países Baixos (Andebol) x Croácia (Andebol) - 19/01 17:00 - RTP Play",
       "pubDate": "Mon, 19 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia (Andebol) x Ucrânia (Andebol) - 19/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia (Andebol) x Ucrânia (Andebol) - 19/01 17:00 - RTP Play",
+      "pubDate": "Mon, 19 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Hellas Verona - 19/01 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Hellas Verona - 19/01 17:30 - SportTV 2",
+      "pubDate": "Mon, 19 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x FC Porto - 19/01 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x FC Porto - 19/01 18:00 - SportTV +",
+      "pubDate": "Mon, 19 Jan 2026 18:00:00",
       "guid": ""
     }
   ]

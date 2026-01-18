@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "Itália (Andebol) x Hungria (Andebol) - 18/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Andebol) x Hungria (Andebol) - 18/01 19:30 - RTP Play",
-      "pubDate": "Sun, 18 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roménia (Andebol) x Dinamarca (Andebol) - 18/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roménia (Andebol) x Dinamarca (Andebol) - 18/01 19:30 - RTP Play",
-      "pubDate": "Sun, 18 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Suíça (Andebol) x Eslovénia (Andebol) - 18/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça (Andebol) x Eslovénia (Andebol) - 18/01 19:30 - RTP Play",
-      "pubDate": "Sun, 18 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Lecce - 18/01 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Lecce - 18/01 19:45 - SportTV 4",
-      "pubDate": "Sun, 18 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Brest - 18/01 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Brest - 18/01 19:45 - SportTV 6",
-      "pubDate": "Sun, 18 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Real Sociedad x Barcelona - 18/01 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Sociedad x Barcelona - 18/01 20:00 - DAZN 1",
-      "pubDate": "Sun, 18 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Córdoba x Málaga - 18/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Córdoba x Málaga - 18/01 20:00 - DAZN 3",
       "pubDate": "Sun, 18 Jan 2026 20:00:00",
       "guid": ""
     },
@@ -313,6 +271,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Arsenal - 20/01 20:00 - DAZN 2",
       "pubDate": "Tue, 20 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Borussia Dortmund - 20/01 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Borussia Dortmund - 20/01 20:00 - DAZN 3",
+      "pubDate": "Tue, 20 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Kobenhavn x Napoli - 20/01 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Kobenhavn x Napoli - 20/01 20:00 - DAZN 4",
+      "pubDate": "Tue, 20 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x San Antonio Spurs (Basket) - 21/01 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x San Antonio Spurs (Basket) - 21/01 01:00 - SportTV 1",
+      "pubDate": "Wed, 21 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x LA Lakers (Basket) - 21/01 03:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x LA Lakers (Basket) - 21/01 03:00 - SportTV 2",
+      "pubDate": "Wed, 21 Jan 2026 03:00:00",
       "guid": ""
     }
   ]

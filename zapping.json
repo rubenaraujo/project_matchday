@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético de Madrid x Alavés - 18/01 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Alavés - 18/01 15:15 - DAZN 2",
-      "pubDate": "Sun, 18 Jan 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x FC Famalicão - 18/01 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x FC Famalicão - 18/01 15:30 - SportTV 1",
-      "pubDate": "Sun, 18 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Aliados Lordelo x Aliança de Gandra - 18/01 15:30 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aliados Lordelo x Aliança de Gandra - 18/01 15:30 - Online",
@@ -22,23 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Feyenoord x Sparta Rotterdam - 18/01 15:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Sparta Rotterdam - 18/01 15:45 - DAZN 4",
-      "pubDate": "Sun, 18 Jan 2026 15:45:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense (Feminino) x Benfica (Feminino) - 18/01 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Feminino) x Benfica (Feminino) - 18/01 16:00 - Canal11",
-      "pubDate": "Sun, 18 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PV Colégio Efanor (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 18/01 16:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PV Colégio Efanor (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 18/01 16:00 - ABola TV",
       "pubDate": "Sun, 18 Jan 2026 16:00:00",
       "guid": ""
     },
@@ -278,6 +250,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x Milwaukee Bucks (Basket) - 19/01 18:00 - SportTV 3",
       "pubDate": "Mon, 19 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Andebol) x Espanha (Andebol) - 19/01 19:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Andebol) x Espanha (Andebol) - 19/01 19:30 - RTP Play",
+      "pubDate": "Mon, 19 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Andebol) x Noruega (Andebol) - 19/01 19:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Andebol) x Noruega (Andebol) - 19/01 19:30 - RTP Play",
+      "pubDate": "Mon, 19 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Geórgia (Andebol) x Suécia (Andebol) - 19/01 19:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Geórgia (Andebol) x Suécia (Andebol) - 19/01 19:30 - RTP Play",
+      "pubDate": "Mon, 19 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Como 1907 - 19/01 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Como 1907 - 19/01 19:45 - SportTV 2",
+      "pubDate": "Mon, 19 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brighton  Hove Albion x Bournemouth - 19/01 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brighton  Hove Albion x Bournemouth - 19/01 20:00 - DAZN 1",
+      "pubDate": "Mon, 19 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

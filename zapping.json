@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Stuttgart x 1. FC Union Berlin - 18/01 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x 1. FC Union Berlin - 18/01 14:30 - DAZN 3",
-      "pubDate": "Sun, 18 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x Fafe - 18/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x Fafe - 18/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 18 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x AD Marco 09 - 18/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x AD Marco 09 - 18/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 18 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x Amarante FC - 18/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x Amarante FC - 18/01 15:00 - C11 Stream",
-      "pubDate": "Sun, 18 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 18/01 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 18/01 15:00 - SportingTv",
-      "pubDate": "Sun, 18 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético de Madrid x Alavés - 18/01 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Alavés - 18/01 15:15 - DAZN 2",
@@ -298,6 +263,20 @@
       "title": "Feirense x FC Porto - 19/01 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x FC Porto - 19/01 18:00 - SportTV +",
+      "pubDate": "Mon, 19 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Torreense - 19/01 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Torreense - 19/01 18:00 - SportingTv",
+      "pubDate": "Mon, 19 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlanta Hawks (Basket) x Milwaukee Bucks (Basket) - 19/01 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlanta Hawks (Basket) x Milwaukee Bucks (Basket) - 19/01 18:00 - SportTV 3",
       "pubDate": "Mon, 19 Jan 2026 18:00:00",
       "guid": ""
     }

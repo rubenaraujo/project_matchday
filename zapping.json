@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Aliados Lordelo x Aliança de Gandra - 18/01 15:30 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aliados Lordelo x Aliança de Gandra - 18/01 15:30 - Online",
-      "pubDate": "Sun, 18 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Neom SC x Al-Hilal - 18/01 17:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Neom SC x Al-Hilal - 18/01 17:30 - SportTV 7",
-      "pubDate": "Sun, 18 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Rayo Vallecano - 18/01 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Rayo Vallecano - 18/01 17:30 - DAZN 2",
-      "pubDate": "Sun, 18 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x SC Braga - 18/01 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x SC Braga - 18/01 18:00 - SportTV 2",
-      "pubDate": "Sun, 18 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Bósnia (Futsal) - 18/01 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Bósnia (Futsal) - 18/01 18:00 - Canal11",
-      "pubDate": "Sun, 18 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Senegal x Marrocos - 18/01 19:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Senegal x Marrocos - 18/01 19:00 - SportTV 3",
@@ -250,6 +215,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente (S23) x Rio Ave (S23) - 20/01 11:00 - Canal11",
       "pubDate": "Tue, 20 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x Benfica (S23) - 20/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x Benfica (S23) - 20/01 15:00 - Canal11",
+      "pubDate": "Tue, 20 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kairat x Club Brugge - 20/01 15:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kairat x Club Brugge - 20/01 15:30 - DAZN 1",
+      "pubDate": "Tue, 20 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Macedónia do Norte (Andebol) x Roménia (Andebol) - 20/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Macedónia do Norte (Andebol) x Roménia (Andebol) - 20/01 17:00 - RTP Play",
+      "pubDate": "Tue, 20 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Montenegro (Andebol) x Suíça (Andebol) - 20/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Montenegro (Andebol) x Suíça (Andebol) - 20/01 17:00 - RTP Play",
+      "pubDate": "Tue, 20 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Polónia (Andebol) x Itália (Andebol) - 20/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Polónia (Andebol) x Itália (Andebol) - 20/01 17:00 - RTP Play",
+      "pubDate": "Tue, 20 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Khaleej - 20/01 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Khaleej - 20/01 17:30 - SportTV 1",
+      "pubDate": "Tue, 20 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

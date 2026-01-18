@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Denver Broncos (Fut. Americano) x Buffalo Bills (Fut. Americano) - 17/01 21:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Broncos (Fut. Americano) x Buffalo Bills (Fut. Americano) - 17/01 21:30 - DAZN 2",
-      "pubDate": "Sat, 17 Jan 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Atlanta Hawks (Basket) x Boston Celtics (Basket) - 18/01 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x Boston Celtics (Basket) - 18/01 00:30 - SportTV 1",
@@ -327,6 +320,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New England Patriots (Fut. Americano) x Houston Texans (Fut. Americano) - 18/01 20:00 - DAZN 2",
       "pubDate": "Sun, 18 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x FC Porto - 18/01 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x FC Porto - 18/01 20:30 - SportTV 1",
+      "pubDate": "Sun, 18 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Chicago Bears (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 18/01 23:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chicago Bears (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 18/01 23:30 - DAZN 2",
+      "pubDate": "Sun, 18 Jan 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x New Orleans Pelicans (Basket) - 19/01 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x New Orleans Pelicans (Basket) - 19/01 00:00 - SportTV 1",
+      "pubDate": "Mon, 19 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia (S23) x Portimonense (S23) - 19/01 13:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Portimonense (S23) - 19/01 13:30 - Canal11",
+      "pubDate": "Mon, 19 Jan 2026 13:30:00",
       "guid": ""
     }
   ]

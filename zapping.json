@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Chicago Bears (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 18/01 23:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chicago Bears (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 18/01 23:30 - DAZN 2",
-      "pubDate": "Sun, 18 Jan 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Estoril Praia (S23) x Portimonense (S23) - 19/01 13:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x Portimonense (S23) - 19/01 13:30 - Canal11",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stoke City x Middlesbrough - 21/01 20:00 - SportTV 2",
       "pubDate": "Wed, 21 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 22/01 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 22/01 00:00 - SportTV 2",
+      "pubDate": "Thu, 22 Jan 2026 00:00:00",
       "guid": ""
     }
   ]

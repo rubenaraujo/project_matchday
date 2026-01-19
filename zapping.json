@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Alemanha (Andebol) x Espanha (Andebol) - 19/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Andebol) x Espanha (Andebol) - 19/01 19:30 - RTP Play",
-      "pubDate": "Mon, 19 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Andebol) x Noruega (Andebol) - 19/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Andebol) x Noruega (Andebol) - 19/01 19:30 - RTP Play",
-      "pubDate": "Mon, 19 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Geórgia (Andebol) x Suécia (Andebol) - 19/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Geórgia (Andebol) x Suécia (Andebol) - 19/01 19:30 - RTP Play",
-      "pubDate": "Mon, 19 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Como 1907 - 19/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Como 1907 - 19/01 19:45 - SportTV 2",
-      "pubDate": "Mon, 19 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Bournemouth - 19/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Bournemouth - 19/01 20:00 - DAZN 1",
-      "pubDate": "Mon, 19 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Sevilla - 19/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Sevilla - 19/01 20:00 - DAZN 2",
-      "pubDate": "Mon, 19 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Est. Amadora x Estoril Praia - 19/01 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora x Estoril Praia - 19/01 20:15 - SportTV 1",
@@ -320,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Slavia Praha x Barcelona - 21/01 20:00 - DAZN 2",
       "pubDate": "Wed, 21 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Union St. Gilloise - 21/01 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Union St. Gilloise - 21/01 20:00 - DAZN 3",
+      "pubDate": "Wed, 21 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Pafos FC - 21/01 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Pafos FC - 21/01 20:00 - DAZN 4",
+      "pubDate": "Wed, 21 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 22/01 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 22/01 00:00 - SportTV 2",
+      "pubDate": "Thu, 22 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Indiana Pacers (Basket) - 22/01 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Indiana Pacers (Basket) - 22/01 00:30 - SportTV 1",
+      "pubDate": "Thu, 22 Jan 2026 00:30:00",
       "guid": ""
     }
   ]

@@ -232,16 +232,16 @@
       "guid": ""
     },
     {
-      "title": "Suécia (Andebol) x Croácia (Andebol) - 21/01 19:30 - RTP Play",
+      "title": "Sporting (Basket) x Bilbao Basket (Basket) - 21/01 19:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Suécia (Andebol) x Croácia (Andebol) - 21/01 19:30 - RTP Play",
+      "description": "Sporting (Basket) x Bilbao Basket (Basket) - 21/01 19:30 - SportingTv",
       "pubDate": "Wed, 21 Jan 2026 19:30:00",
       "guid": ""
     },
     {
-      "title": "Sporting (Basket) x Bilbao Basket (Basket) - 21/01 19:30 - SportingTv",
+      "title": "Suécia (Andebol) x Croácia (Andebol) - 21/01 19:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x Bilbao Basket (Basket) - 21/01 19:30 - SportingTv",
+      "description": "Suécia (Andebol) x Croácia (Andebol) - 21/01 19:30 - RTP2",
       "pubDate": "Wed, 21 Jan 2026 19:30:00",
       "guid": ""
     },
@@ -299,6 +299,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Indiana Pacers (Basket) - 22/01 00:30 - SportTV 1",
       "pubDate": "Thu, 22 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Arménia (Futsal) x Ucrânia (Futsal) - 22/01 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arménia (Futsal) x Ucrânia (Futsal) - 22/01 15:00 - SportTV 1",
+      "pubDate": "Thu, 22 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray (Voleibol) x LKPS Lublin (Voleibol) - 22/01 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray (Voleibol) x LKPS Lublin (Voleibol) - 22/01 17:00 - SportTV 3",
+      "pubDate": "Thu, 22 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Qadisiyah x Al-Ittihad Jeddah - 22/01 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Qadisiyah x Al-Ittihad Jeddah - 22/01 17:30 - SportTV 1",
+      "pubDate": "Thu, 22 Jan 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Plzen x FC Porto - 22/01 17:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Plzen x FC Porto - 22/01 17:45 - SportTV 5",
+      "pubDate": "Thu, 22 Jan 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Aston Villa - 22/01 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Aston Villa - 22/01 17:45 - DAZN 2",
+      "pubDate": "Thu, 22 Jan 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Young Boys x Lyon - 22/01 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Young Boys x Lyon - 22/01 17:45 - DAZN 3",
+      "pubDate": "Thu, 22 Jan 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Celtic - 22/01 17:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Celtic - 22/01 17:45 - DAZN 4",
+      "pubDate": "Thu, 22 Jan 2026 17:45:00",
       "guid": ""
     }
   ]

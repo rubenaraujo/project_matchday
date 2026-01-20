@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "title": "Dinamarca (Andebol) x Portugal (Andebol) - 20/01 19:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca (Andebol) x Portugal (Andebol) - 20/01 19:30 - RTP2",
-      "pubDate": "Tue, 20 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Barcelona (Basket) x Dubai Basketball (Basket) - 20/01 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Basket) x Dubai Basketball (Basket) - 20/01 19:30 - SportTV 3",
-      "pubDate": "Tue, 20 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Andebol) x Ilhas Faroé (Andebol) - 20/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Andebol) x Ilhas Faroé (Andebol) - 20/01 19:30 - RTP Play",
-      "pubDate": "Tue, 20 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hungria (Andebol) x Islândia (Andebol) - 20/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria (Andebol) x Islândia (Andebol) - 20/01 19:30 - RTP Play",
-      "pubDate": "Tue, 20 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x PSG - 20/01 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x PSG - 20/01 20:00 - SportTV 5",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Leicester City - 20/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Leicester City - 20/01 20:00 - SportTV 1",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Monaco - 20/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Monaco - 20/01 20:00 - DAZN 1",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Arsenal - 20/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Arsenal - 20/01 20:00 - DAZN 2",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Borussia Dortmund - 20/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Borussia Dortmund - 20/01 20:00 - DAZN 3",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Kobenhavn x Napoli - 20/01 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Kobenhavn x Napoli - 20/01 20:00 - DAZN 4",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos x Bayer Leverkusen - 20/01 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos x Bayer Leverkusen - 20/01 20:00 - DAZN",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Ajax - 20/01 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Ajax - 20/01 20:00 - DAZN",
-      "pubDate": "Tue, 20 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x San Antonio Spurs (Basket) - 21/01 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x San Antonio Spurs (Basket) - 21/01 01:00 - SportTV 1",
@@ -326,6 +242,20 @@
       "title": "SC Braga x Nottingham Forest - 22/01 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Nottingham Forest - 22/01 20:00 - DAZN 1",
+      "pubDate": "Thu, 22 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Stuttgart - 22/01 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Stuttgart - 22/01 20:00 - DAZN 2",
+      "pubDate": "Thu, 22 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Lille - 22/01 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Lille - 22/01 20:00 - DAZN 3",
       "pubDate": "Thu, 22 Jan 2026 20:00:00",
       "guid": ""
     }

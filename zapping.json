@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Voleibol) x Altekma SK (Voleibol) - 21/01 19:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol) x Altekma SK (Voleibol) - 21/01 19:00 - BTv",
-      "pubDate": "Wed, 21 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x Bilbao Basket (Basket) - 21/01 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x Bilbao Basket (Basket) - 21/01 19:30 - SportingTv",
-      "pubDate": "Wed, 21 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Benfica - 21/01 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Benfica - 21/01 20:00 - SportTV 5",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stoke City x Middlesbrough - 21/01 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Middlesbrough - 21/01 20:00 - SportTV 2",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Liverpool - 21/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Liverpool - 21/01 20:00 - DAZN 1",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Slavia Praha x Barcelona - 21/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Slavia Praha x Barcelona - 21/01 20:00 - DAZN 2",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Union St. Gilloise - 21/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Union St. Gilloise - 21/01 20:00 - DAZN 3",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Pafos FC - 21/01 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Pafos FC - 21/01 20:00 - DAZN 4",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Athletic Bilbao - 21/01 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Athletic Bilbao - 21/01 20:00 - DAZN",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x PSV - 21/01 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x PSV - 21/01 20:00 - DAZN",
-      "pubDate": "Wed, 21 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 22/01 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toronto Maple Leafs (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 22/01 00:00 - SportTV 2",
@@ -211,17 +141,10 @@
       "guid": ""
     },
     {
-      "title": "Islândia (Andebol) x Croácia (Andebol) - 23/01 00:00 - RTP Play",
+      "title": "Islândia (Andebol) x Croácia (Andebol) - 23/01 14:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Islândia (Andebol) x Croácia (Andebol) - 23/01 00:00 - RTP Play",
-      "pubDate": "Fri, 23 Jan 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Andebol) x Suécia (Andebol) - 23/01 00:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Andebol) x Suécia (Andebol) - 23/01 00:00 - RTP Play",
-      "pubDate": "Fri, 23 Jan 2026 00:00:00",
+      "description": "Islândia (Andebol) x Croácia (Andebol) - 23/01 14:30 - RTP Play",
+      "pubDate": "Fri, 23 Jan 2026 14:30:00",
       "guid": ""
     },
     {
@@ -274,6 +197,13 @@
       "guid": ""
     },
     {
+      "title": "Eslovénia (Andebol) x Suécia (Andebol) - 23/01 19:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Andebol) x Suécia (Andebol) - 23/01 19:30 - RTP Play",
+      "pubDate": "Fri, 23 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
       "title": "Internazionale x Pisa - 23/01 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Pisa - 23/01 19:45 - SportTV 2",
@@ -306,6 +236,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Philadelphia Flyers (Hóquei no Gelo  Seniores) - 24/01 02:00 - SportTV 3",
       "pubDate": "Sat, 24 Jan 2026 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Lusitânia de Lourosa - 24/01 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Lusitânia de Lourosa - 24/01 11:00 - SportTV 1",
+      "pubDate": "Sat, 24 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Karlsruher SC x Hertha BSC - 24/01 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Karlsruher SC x Hertha BSC - 24/01 12:00 - DAZN 3",
+      "pubDate": "Sat, 24 Jan 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Millwall x Charlton Athletic - 24/01 12:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Millwall x Charlton Athletic - 24/01 12:30 - SportTV 3",
+      "pubDate": "Sat, 24 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Sunderland - 24/01 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Sunderland - 24/01 12:30 - DAZN 1",
+      "pubDate": "Sat, 24 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Osasuna - 24/01 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Osasuna - 24/01 13:00 - DAZN 2",
+      "pubDate": "Sat, 24 Jan 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (Futsal) x Portugal (Futsal) - 24/01 13:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (Futsal) x Portugal (Futsal) - 24/01 13:30 - SportTV 1",
+      "pubDate": "Sat, 24 Jan 2026 13:30:00",
       "guid": ""
     }
   ]

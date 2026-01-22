@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "França (Andebol) x Dinamarca (Andebol) - 22/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Andebol) x Dinamarca (Andebol) - 22/01 19:30 - RTP Play",
-      "pubDate": "Thu, 22 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid (Basket) x AS Monaco (Basket) - 22/01 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Basket) x AS Monaco (Basket) - 22/01 19:45 - SportTV 3",
-      "pubDate": "Thu, 22 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Nottingham Forest - 22/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Nottingham Forest - 22/01 20:00 - DAZN 1",
-      "pubDate": "Thu, 22 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Stuttgart - 22/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Stuttgart - 22/01 20:00 - DAZN 2",
-      "pubDate": "Thu, 22 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Lille - 22/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Lille - 22/01 20:00 - DAZN 3",
-      "pubDate": "Thu, 22 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rangers x Ludogorets Razgrad - 22/01 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rangers x Ludogorets Razgrad - 22/01 20:00 - DAZN 4",
-      "pubDate": "Thu, 22 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Hóquei) x Barcelona (Hóquei) - 22/01 20:30 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x Barcelona (Hóquei) - 22/01 20:30 - PortoCanal",
-      "pubDate": "Thu, 22 Jan 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x HC Liceo (Hóquei) - 22/01 20:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x HC Liceo (Hóquei) - 22/01 20:30 - BTv",
       "pubDate": "Thu, 22 Jan 2026 20:30:00",
       "guid": ""
     },
@@ -306,6 +257,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x Benfica - 24/01 15:30 - SportTV 6",
       "pubDate": "Sat, 24 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Lorient - 24/01 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Lorient - 24/01 16:00 - SportTV 3",
+      "pubDate": "Sat, 24 Jan 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hungria (Futsal) x Polónia (Futsal) - 24/01 16:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hungria (Futsal) x Polónia (Futsal) - 24/01 16:30 - SportTV 5",
+      "pubDate": "Sat, 24 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest Bretagne (Andebol Feminino) x Odense HB (Andebol Feminino) - 24/01 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest Bretagne (Andebol Feminino) x Odense HB (Andebol Feminino) - 24/01 17:00 - SportTV 5",
+      "pubDate": "Sat, 24 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Cagliari - 24/01 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Cagliari - 24/01 17:00 - SportTV 2",
+      "pubDate": "Sat, 24 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Neom SC x Al-Ahli Jeddah - 24/01 17:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Neom SC x Al-Ahli Jeddah - 24/01 17:30 - SportTV 7",
+      "pubDate": "Sat, 24 Jan 2026 17:30:00",
       "guid": ""
     }
   ]

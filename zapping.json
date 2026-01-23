@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Auxerre x PSG - 23/01 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x PSG - 23/01 19:00 - SportTV 3",
-      "pubDate": "Fri, 23 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Futsal) x Espanha (Futsal) - 23/01 19:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Futsal) x Espanha (Futsal) - 23/01 19:30 - SportTV 4",
-      "pubDate": "Fri, 23 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC St. Pauli x Hamburger SV - 23/01 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC St. Pauli x Hamburger SV - 23/01 19:30 - DAZN 1",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco da Gama (Basket) x FC Porto (Basket) - 24/01 18:30 - DAZN 4",
       "pubDate": "Sat, 24 Jan 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x Stuart Massamá (Hóquei Feminino) - 24/01 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x Stuart Massamá (Hóquei Feminino) - 24/01 19:00 - BTv",
+      "pubDate": "Sat, 24 Jan 2026 19:00:00",
       "guid": ""
     }
   ]

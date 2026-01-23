@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "FC St. Pauli x Hamburger SV - 23/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x Hamburger SV - 23/01 19:30 - DAZN 1",
-      "pubDate": "Fri, 23 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Andebol) x Suécia (Andebol) - 23/01 19:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Andebol) x Suécia (Andebol) - 23/01 19:30 - RTP2",
-      "pubDate": "Fri, 23 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Pisa - 23/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Pisa - 23/01 19:45 - SportTV 2",
-      "pubDate": "Fri, 23 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Elche - 23/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Elche - 23/01 20:00 - DAZN 2",
-      "pubDate": "Fri, 23 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x AFS - 23/01 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x AFS - 23/01 20:15 - SportTV 1",
@@ -306,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei Feminino) x Stuart Massamá (Hóquei Feminino) - 24/01 19:00 - BTv",
       "pubDate": "Sat, 24 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
+      "pubDate": "Sat, 24 Jan 2026 19:45:00",
       "guid": ""
     }
   ]

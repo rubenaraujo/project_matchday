@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Bielorrússia (Futsal) x Bélgica (Futsal) - 23/01 16:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bielorrússia (Futsal) x Bélgica (Futsal) - 23/01 16:30 - SportTV 1",
-      "pubDate": "Fri, 23 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Suíça (Andebol) x Hungria (Andebol) - 23/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça (Andebol) x Hungria (Andebol) - 23/01 17:00 - RTP Play",
-      "pubDate": "Fri, 23 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Darmstadt 98 x FC Nürnberg - 23/01 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Darmstadt 98 x FC Nürnberg - 23/01 17:30 - DAZN 2",
@@ -334,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Árvore (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 24/01 18:00 - C11 Stream",
       "pubDate": "Sat, 24 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vasco da Gama (Basket) x FC Porto (Basket) - 24/01 18:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vasco da Gama (Basket) x FC Porto (Basket) - 24/01 18:30 - DAZN 4",
+      "pubDate": "Sat, 24 Jan 2026 18:30:00",
       "guid": ""
     }
   ]

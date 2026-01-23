@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Casa Pia AC x AFS - 23/01 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x AFS - 23/01 20:15 - SportTV 1",
-      "pubDate": "Fri, 23 Jan 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Philadelphia Flyers (Hóquei no Gelo  Seniores) - 24/01 02:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Philadelphia Flyers (Hóquei no Gelo  Seniores) - 24/01 02:00 - SportTV 3",
@@ -285,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
       "pubDate": "Sat, 24 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Barracas Central x River Plate - 24/01 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barracas Central x River Plate - 24/01 20:00 - SportTV 4",
+      "pubDate": "Sat, 24 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

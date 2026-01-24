@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia x Vitória SC - 24/01 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Vitória SC - 24/01 20:30 - SportTV 2",
-      "pubDate": "Sat, 24 Jan 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Clube dos Galitos (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 24/01 21:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Clube dos Galitos (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 24/01 21:00 - DAZN 2",
-      "pubDate": "Sat, 24 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Belgrano - 25/01 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Belgrano - 25/01 01:00 - SportTV 2",
@@ -271,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Manchester United - 25/01 16:30 - DAZN 1",
       "pubDate": "Sun, 25 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x FC Köln - 25/01 16:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x FC Köln - 25/01 16:30 - DAZN 4",
+      "pubDate": "Sun, 25 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Napoli - 25/01 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Napoli - 25/01 17:00 - SportTV 2",
+      "pubDate": "Sun, 25 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Islândia (Andebol) x Suécia (Andebol) - 25/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Islândia (Andebol) x Suécia (Andebol) - 25/01 17:00 - RTP Play",
+      "pubDate": "Sun, 25 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Goztepe - 25/01 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Goztepe - 25/01 17:00 - SportTV 6",
+      "pubDate": "Sun, 25 Jan 2026 17:00:00",
       "guid": ""
     }
   ]

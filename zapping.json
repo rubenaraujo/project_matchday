@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Bayern München x FC Augsburg - 24/01 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x FC Augsburg - 24/01 14:30 - DAZN 3",
-      "pubDate": "Sat, 24 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Feminino) x Sporting (Feminino) - 24/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x Sporting (Feminino) - 24/01 15:00 - C11 Stream",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Valadares Gaia (Feminino) x Torreense (Feminino) - 24/01 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valadares Gaia (Feminino) x Torreense (Feminino) - 24/01 15:00 - C11 Stream",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x SC Covilhã - 24/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x SC Covilhã - 24/01 15:00 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Académica OAF - 24/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Académica OAF - 24/01 15:00 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x Lusitano GC - 24/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x Lusitano GC - 24/01 15:00 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x Belenenses - 24/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Belenenses - 24/01 15:00 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x CD Mafra - 24/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x CD Mafra - 24/01 15:00 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Wolverhampton - 24/01 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Wolverhampton - 24/01 15:00 - DAZN 1",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Tottenham - 24/01 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Tottenham - 24/01 15:00 - DAZN 4",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (HóqueiB) x GRF Murches (Hóquei) - 24/01 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (HóqueiB) x GRF Murches (Hóquei) - 24/01 15:00 - BTv",
-      "pubDate": "Sat, 24 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Valencia x Espanyol - 24/01 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Espanyol - 24/01 15:15 - DAZN 2",
@@ -271,6 +194,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x LA Lakers (Basket) - 25/01 01:30 - SportTV 3",
       "pubDate": "Sun, 25 Jan 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Power FC (Feminino) x Benfica (Feminino) - 25/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Power FC (Feminino) x Benfica (Feminino) - 25/01 11:00 - Canal11",
+      "pubDate": "Sun, 25 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Damaiense (Feminino) x SC Braga (Feminino) - 25/01 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damaiense (Feminino) x SC Braga (Feminino) - 25/01 11:00 - C11 Stream",
+      "pubDate": "Sun, 25 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Rio Ave (Feminino) - 25/01 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Rio Ave (Feminino) - 25/01 11:00 - C11 Stream",
+      "pubDate": "Sun, 25 Jan 2026 11:00:00",
       "guid": ""
     }
   ]

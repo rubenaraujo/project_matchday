@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
-      "pubDate": "Sat, 24 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Barracas Central x River Plate - 24/01 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barracas Central x River Plate - 24/01 20:00 - SportTV 4",
-      "pubDate": "Sat, 24 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Povo Freixo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 24/01 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Povo Freixo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 24/01 20:00 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Real Madrid - 24/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Real Madrid - 24/01 20:00 - DAZN 1",
-      "pubDate": "Sat, 24 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Lens - 24/01 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Lens - 24/01 20:05 - SportTV 3",
-      "pubDate": "Sat, 24 Jan 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Estoril Praia x Vitória SC - 24/01 20:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia x Vitória SC - 24/01 20:30 - SportTV 2",
@@ -243,6 +208,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hearts x Celtic - 25/01 15:00 - SportTV 4",
       "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket Feminino) x Imortal (Basket Feminino) - 25/01 15:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket Feminino) x Imortal (Basket Feminino) - 25/01 15:00 - ABola TV",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 25/01 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 25/01 15:00 - C11 Stream",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Real Oviedo - 25/01 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Real Oviedo - 25/01 15:15 - DAZN 2",
+      "pubDate": "Sun, 25 Jan 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x Rio Ave - 25/01 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x Rio Ave - 25/01 15:30 - SportTV 1",
+      "pubDate": "Sun, 25 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x FC Penafiel - 25/01 15:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x FC Penafiel - 25/01 15:30 - SportTV 7",
+      "pubDate": "Sun, 25 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Avintes x FC Foz - 25/01 15:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Avintes x FC Foz - 25/01 15:30 - Online",
+      "pubDate": "Sun, 25 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia x Oliv. Douro - 25/01 15:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia x Oliv. Douro - 25/01 15:30 - Online",
+      "pubDate": "Sun, 25 Jan 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz x Lyon - 25/01 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz x Lyon - 25/01 16:15 - SportTV 3",
+      "pubDate": "Sun, 25 Jan 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Manchester United - 25/01 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Manchester United - 25/01 16:30 - DAZN 1",
+      "pubDate": "Sun, 25 Jan 2026 16:30:00",
       "guid": ""
     }
   ]

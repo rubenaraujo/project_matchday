@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "West Ham x Sunderland - 24/01 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Sunderland - 24/01 12:30 - DAZN 1",
-      "pubDate": "Sat, 24 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Millwall x Charlton Athletic - 24/01 12:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Millwall x Charlton Athletic - 24/01 12:30 - SportTV 7",
-      "pubDate": "Sat, 24 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Osasuna - 24/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Osasuna - 24/01 13:00 - DAZN 2",
-      "pubDate": "Sat, 24 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (Futsal) x Portugal (Futsal) - 24/01 13:30 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Futsal) x Portugal (Futsal) - 24/01 13:30 - RTP1",
@@ -306,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 24/01 22:30 - SportTV 3",
       "pubDate": "Sat, 24 Jan 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Belgrano - 25/01 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Belgrano - 25/01 01:00 - SportTV 2",
+      "pubDate": "Sun, 25 Jan 2026 01:00:00",
       "guid": ""
     }
   ]

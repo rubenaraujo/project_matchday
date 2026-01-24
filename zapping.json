@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 24/01 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 24/01 17:30 - Canal11",
-      "pubDate": "Sat, 24 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "New York Islanders (Hóquei no Gelo  Seniores) x Buffalo Sabres (Hóquei no Gelo  Seniores) - 24/01 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Islanders (Hóquei no Gelo  Seniores) x Buffalo Sabres (Hóquei no Gelo  Seniores) - 24/01 18:00 - SportTV 6",
-      "pubDate": "Sat, 24 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Árvore (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 24/01 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Árvore (Futsal Feminino) x Águias Santa Marta (Futsal Feminino) - 24/01 18:00 - C11 Stream",
-      "pubDate": "Sat, 24 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vasco da Gama (Basket) x FC Porto (Basket) - 24/01 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco da Gama (Basket) x FC Porto (Basket) - 24/01 18:30 - DAZN 4",
-      "pubDate": "Sat, 24 Jan 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei Feminino) x Stuart Massamá (Hóquei Feminino) - 24/01 19:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei Feminino) x Stuart Massamá (Hóquei Feminino) - 24/01 19:00 - BTv",
-      "pubDate": "Sat, 24 Jan 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lecce x Lazio - 24/01 19:45 - SportTV 7",
@@ -82,13 +47,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Clube dos Galitos (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 24/01 21:00 - DAZN 2",
       "pubDate": "Sat, 24 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 24/01 22:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 24/01 22:30 - SportTV 3",
-      "pubDate": "Sat, 24 Jan 2026 22:30:00",
       "guid": ""
     },
     {
@@ -256,6 +214,34 @@
       "title": "S. João Ver x USC Paredes - 25/01 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "S. João Ver x USC Paredes - 25/01 15:00 - Canal11",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x SC Braga - 25/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x SC Braga - 25/01 15:00 - Canal11",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ucrânia (Futsal) x Lituânia (Futsal) - 25/01 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ucrânia (Futsal) x Lituânia (Futsal) - 25/01 15:00 - SportTV 5",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Futsal) x Letónia (Futsal) - 25/01 15:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Futsal) x Letónia (Futsal) - 25/01 15:00 - SportTV 6",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hearts x Celtic - 25/01 15:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hearts x Celtic - 25/01 15:00 - SportTV 4",
       "pubDate": "Sun, 25 Jan 2026 15:00:00",
       "guid": ""
     }

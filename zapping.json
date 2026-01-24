@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Hungria (Futsal) x Polónia (Futsal) - 24/01 16:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria (Futsal) x Polónia (Futsal) - 24/01 16:30 - SportTV 5",
-      "pubDate": "Sat, 24 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Brest Bretagne (Andebol Feminino) x Odense HB (Andebol Feminino) - 24/01 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brest Bretagne (Andebol Feminino) x Odense HB (Andebol Feminino) - 24/01 17:00 - SportTV 5",
-      "pubDate": "Sat, 24 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Cagliari - 24/01 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Cagliari - 24/01 17:00 - SportTV 2",
-      "pubDate": "Sat, 24 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Neom SC x Al-Ahli Jeddah - 24/01 17:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Neom SC x Al-Ahli Jeddah - 24/01 17:30 - SportTV 7",
@@ -208,6 +187,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Jun.B S17B) x Santa Clara (Jun.B S17) - 25/01 11:00 - BTv",
       "pubDate": "Sun, 25 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Cremonese - 25/01 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Cremonese - 25/01 11:30 - SportTV 2",
+      "pubDate": "Sun, 25 Jan 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Croácia (Futsal) x Geórgia (Futsal) - 25/01 12:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Croácia (Futsal) x Geórgia (Futsal) - 25/01 12:00 - SportTV 6",
+      "pubDate": "Sun, 25 Jan 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arménia (Futsal) x Chéquia (Futsal) - 25/01 12:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arménia (Futsal) x Chéquia (Futsal) - 25/01 12:00 - SportTV 7",
+      "pubDate": "Sun, 25 Jan 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Kaiserslautern - 25/01 12:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Kaiserslautern - 25/01 12:30 - DAZN 4",
+      "pubDate": "Sun, 25 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Mallorca - 25/01 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Mallorca - 25/01 13:00 - DAZN 2",
+      "pubDate": "Sun, 25 Jan 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Farense - 25/01 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Farense - 25/01 14:00 - SportTV +",
+      "pubDate": "Sun, 25 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Nice - 25/01 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Nice - 25/01 14:00 - SportTV 3",
+      "pubDate": "Sun, 25 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Parma - 25/01 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Parma - 25/01 14:00 - SportTV 2",
+      "pubDate": "Sun, 25 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Chelsea - 25/01 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Chelsea - 25/01 14:00 - DAZN 1",
+      "pubDate": "Sun, 25 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Aston Villa - 25/01 14:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Aston Villa - 25/01 14:00 - DAZN 3",
+      "pubDate": "Sun, 25 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia M´gladbach x Stuttgart - 25/01 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia M´gladbach x Stuttgart - 25/01 14:30 - DAZN 4",
+      "pubDate": "Sun, 25 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia (Andebol) x Hungria (Andebol) - 25/01 14:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Andebol) x Hungria (Andebol) - 25/01 14:30 - RTP Play",
+      "pubDate": "Sun, 25 Jan 2026 14:30:00",
       "guid": ""
     }
   ]

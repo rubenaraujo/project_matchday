@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Jun.B S17B) x Santa Clara (Jun.B S17) - 25/01 11:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.B S17B) x Santa Clara (Jun.B S17) - 25/01 11:00 - BTv",
-      "pubDate": "Sun, 25 Jan 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Schalke 04 x Kaiserslautern - 25/01 12:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Schalke 04 x Kaiserslautern - 25/01 12:30 - DAZN 4",
-      "pubDate": "Sun, 25 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Mallorca - 25/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Mallorca - 25/01 13:00 - DAZN 2",
-      "pubDate": "Sun, 25 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense x Farense - 25/01 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Farense - 25/01 14:00 - SportTV +",
@@ -292,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Roma x Milan - 25/01 19:45 - SportTV 2",
       "pubDate": "Sun, 25 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Atlético CP (Futsal Feminino) - 25/01 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Atlético CP (Futsal Feminino) - 25/01 20:00 - Canal11",
+      "pubDate": "Sun, 25 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Real Betis - 25/01 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Real Betis - 25/01 20:00 - DAZN 1",
+      "pubDate": "Sun, 25 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Broncos (Fut. Americano) x New England Patriots (Fut. Americano) - 25/01 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Broncos (Fut. Americano) x New England Patriots (Fut. Americano) - 25/01 20:00 - DAZN 2",
+      "pubDate": "Sun, 25 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x FC Alverca - 25/01 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x FC Alverca - 25/01 20:30 - SportTV 1",
+      "pubDate": "Sun, 25 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Memphis Grizzlies (Basket) x Denver Nuggets (Basket) - 25/01 20:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Memphis Grizzlies (Basket) x Denver Nuggets (Basket) - 25/01 20:30 - SportTV 6",
+      "pubDate": "Sun, 25 Jan 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Deportivo Riestra - 25/01 21:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Deportivo Riestra - 25/01 21:30 - SportTV 4",
+      "pubDate": "Sun, 25 Jan 2026 21:30:00",
       "guid": ""
     }
   ]

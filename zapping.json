@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x Farense - 25/01 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Farense - 25/01 14:00 - SportTV +",
-      "pubDate": "Sun, 25 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nantes x Nice - 25/01 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Nice - 25/01 14:00 - SportTV 3",
-      "pubDate": "Sun, 25 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Parma - 25/01 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Parma - 25/01 14:00 - SportTV 2",
-      "pubDate": "Sun, 25 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Chelsea - 25/01 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Chelsea - 25/01 14:00 - DAZN 1",
-      "pubDate": "Sun, 25 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Aston Villa - 25/01 14:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Aston Villa - 25/01 14:00 - DAZN 3",
-      "pubDate": "Sun, 25 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia M´gladbach x Stuttgart - 25/01 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x Stuttgart - 25/01 14:30 - DAZN 4",
@@ -313,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Deportivo Riestra - 25/01 21:30 - SportTV 4",
       "pubDate": "Sun, 25 Jan 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 25/01 23:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 25/01 23:30 - DAZN 1",
+      "pubDate": "Sun, 25 Jan 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Milwaukee Bucks (Basket) x Dallas Mavericks (Basket) - 26/01 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milwaukee Bucks (Basket) x Dallas Mavericks (Basket) - 26/01 00:00 - SportTV 1",
+      "pubDate": "Mon, 26 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
+      "pubDate": "Mon, 26 Jan 2026 14:30:00",
       "guid": ""
     }
   ]

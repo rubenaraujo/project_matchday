@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia M´gladbach x Stuttgart - 25/01 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia M´gladbach x Stuttgart - 25/01 14:30 - DAZN 4",
-      "pubDate": "Sun, 25 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Andebol) x Hungria (Andebol) - 25/01 14:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Andebol) x Hungria (Andebol) - 25/01 14:30 - RTP Play",
-      "pubDate": "Sun, 25 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x Vitória SC - 25/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x Vitória SC - 25/01 15:00 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x Varzim - 25/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x Varzim - 25/01 15:00 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x Trofense - 25/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x Trofense - 25/01 15:00 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "S. João Ver x USC Paredes - 25/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x USC Paredes - 25/01 15:00 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x SC Braga - 25/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x SC Braga - 25/01 15:00 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ucrânia (Futsal) x Lituânia (Futsal) - 25/01 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia (Futsal) x Lituânia (Futsal) - 25/01 15:00 - SportTV 5",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Futsal) x Letónia (Futsal) - 25/01 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Futsal) x Letónia (Futsal) - 25/01 15:00 - SportTV 6",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hearts x Celtic - 25/01 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hearts x Celtic - 25/01 15:00 - SportTV 4",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket Feminino) x Imortal (Basket Feminino) - 25/01 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket Feminino) x Imortal (Basket Feminino) - 25/01 15:00 - ABola TV",
-      "pubDate": "Sun, 25 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leões Porto Salvo (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 25/01 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 25/01 15:00 - C11 Stream",
@@ -299,6 +222,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
       "pubDate": "Mon, 26 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bielorrússia (Futsal) x Espanha (Futsal) - 26/01 16:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bielorrússia (Futsal) x Espanha (Futsal) - 26/01 16:30 - SportTV 2",
+      "pubDate": "Mon, 26 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Andebol) x França (Andebol) - 26/01 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Andebol) x França (Andebol) - 26/01 17:00 - RTP Play",
+      "pubDate": "Mon, 26 Jan 2026 17:00:00",
       "guid": ""
     }
   ]

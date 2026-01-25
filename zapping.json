@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Islândia (Andebol) x Suécia (Andebol) - 25/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Islândia (Andebol) x Suécia (Andebol) - 25/01 17:00 - RTP Play",
-      "pubDate": "Sun, 25 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Riyadh x Al-Hilal - 25/01 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Riyadh x Al-Hilal - 25/01 17:30 - SportTV 4",
-      "pubDate": "Sun, 25 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rebordosa AC x U. Lamas - 25/01 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rebordosa AC x U. Lamas - 25/01 17:30 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Celta de Vigo - 25/01 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Celta de Vigo - 25/01 17:30 - DAZN 2",
-      "pubDate": "Sun, 25 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x CD Tondela - 25/01 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x CD Tondela - 25/01 18:00 - SportTV 1",
-      "pubDate": "Sun, 25 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Est. Amadora - 25/01 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Est. Amadora - 25/01 18:00 - BTv",
-      "pubDate": "Sun, 25 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x Benfica (Hóquei) - 25/01 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x Benfica (Hóquei) - 25/01 18:00 - FPP TV",
-      "pubDate": "Sun, 25 Jan 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "CH Carvalhos (Hóquei) x FC Porto (Hóquei) - 25/01 19:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CH Carvalhos (Hóquei) x FC Porto (Hóquei) - 25/01 19:00 - PortoCanal",
@@ -271,6 +222,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Como 1907 - 27/01 20:00 - SportTV 2",
       "pubDate": "Tue, 27 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Bruins (Hóquei no Gelo  Seniores) x Nashville Predators (Hóquei no Gelo  Seniores) - 28/01 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Bruins (Hóquei no Gelo  Seniores) x Nashville Predators (Hóquei no Gelo  Seniores) - 28/01 00:00 - SportTV 3",
+      "pubDate": "Wed, 28 Jan 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x Milwaukee Bucks (Basket) - 28/01 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x Milwaukee Bucks (Basket) - 28/01 01:00 - SportTV 1",
+      "pubDate": "Wed, 28 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newell´s Old Boys x Independiente - 28/01 01:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newell´s Old Boys x Independiente - 28/01 01:15 - SportTV 2",
+      "pubDate": "Wed, 28 Jan 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia (Andebol) x Islândia (Andebol) - 28/01 14:30 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Andebol) x Islândia (Andebol) - 28/01 14:30 - RTP Play",
+      "pubDate": "Wed, 28 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Andebol) x Portugal (Andebol) - 28/01 14:30 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Andebol) x Portugal (Andebol) - 28/01 14:30 - RTP1",
+      "pubDate": "Wed, 28 Jan 2026 14:30:00",
       "guid": ""
     }
   ]

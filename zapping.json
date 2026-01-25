@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Futsal Feijó (Futsal Feminino) x Atlético CP (Futsal Feminino) - 25/01 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Atlético CP (Futsal Feminino) - 25/01 20:00 - Canal11",
-      "pubDate": "Sun, 25 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Denver Broncos (Fut. Americano) x New England Patriots (Fut. Americano) - 25/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Broncos (Fut. Americano) x New England Patriots (Fut. Americano) - 25/01 20:00 - DAZN 2",
-      "pubDate": "Sun, 25 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x FC Alverca - 25/01 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x FC Alverca - 25/01 20:30 - SportTV 1",
-      "pubDate": "Sun, 25 Jan 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Memphis Grizzlies (Basket) x Denver Nuggets (Basket) - 25/01 20:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Memphis Grizzlies (Basket) x Denver Nuggets (Basket) - 25/01 20:30 - SportTV 6",
@@ -299,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
       "pubDate": "Wed, 28 Jan 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Atlanta Hawks (Basket) - 29/01 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Atlanta Hawks (Basket) - 29/01 00:30 - SportTV 1",
+      "pubDate": "Thu, 29 Jan 2026 00:30:00",
       "guid": ""
     }
   ]

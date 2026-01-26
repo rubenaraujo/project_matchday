@@ -197,13 +197,6 @@
       "guid": ""
     },
     {
-      "title": "Newell´s Old Boys x Independiente - 28/01 01:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newell´s Old Boys x Independiente - 28/01 01:15 - SportTV 2",
-      "pubDate": "Wed, 28 Jan 2026 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Altekma SK (Voleibol) x Benfica (Voleibol) - 28/01 14:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Altekma SK (Voleibol) x Benfica (Voleibol) - 28/01 14:00 - BTv",
@@ -295,13 +288,6 @@
       "guid": ""
     },
     {
-      "title": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 5",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "PSG x Newcastle - 28/01 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Newcastle - 28/01 20:00 - DAZN 1",
@@ -327,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x FC Kobenhavn - 28/01 20:00 - DAZN 4",
       "pubDate": "Wed, 28 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
+      "pubDate": "Wed, 28 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
+      "pubDate": "Wed, 28 Jan 2026 23:00:00",
       "guid": ""
     }
   ]

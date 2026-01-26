@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 25/01 23:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Seattle Seahawks (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 25/01 23:30 - DAZN 1",
-      "pubDate": "Sun, 25 Jan 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Milwaukee Bucks (Basket) x Dallas Mavericks (Basket) - 26/01 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milwaukee Bucks (Basket) x Dallas Mavericks (Basket) - 26/01 00:00 - SportTV 1",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Go Ahead Eagles x SC Braga - 29/01 20:00 - DAZN 1",
       "pubDate": "Thu, 29 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 30/01 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 30/01 00:00 - SportTV 2",
+      "pubDate": "Fri, 30 Jan 2026 00:00:00",
       "guid": ""
     }
   ]

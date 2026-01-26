@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense (S23) x Leixões (S23) - 26/01 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (S23) x Leixões (S23) - 26/01 11:00 - Canal11",
-      "pubDate": "Mon, 26 Jan 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
@@ -148,6 +141,13 @@
       "guid": ""
     },
     {
+      "title": "Aquila Basket (Basket) x Besiktas (Basket) - 27/01 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aquila Basket (Basket) x Besiktas (Basket) - 27/01 19:00 - SportTV 3",
+      "pubDate": "Tue, 27 Jan 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "Polónia (Futsal) x Itália (Futsal) - 27/01 19:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia (Futsal) x Itália (Futsal) - 27/01 19:30 - SportTV 1",
@@ -194,6 +194,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia 76ers (Basket) x Milwaukee Bucks (Basket) - 28/01 01:00 - SportTV 1",
       "pubDate": "Wed, 28 Jan 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newell´s Old Boys x Independiente - 28/01 01:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newell´s Old Boys x Independiente - 28/01 01:15 - SportTV 2",
+      "pubDate": "Wed, 28 Jan 2026 01:15:00",
       "guid": ""
     },
     {
@@ -267,6 +274,27 @@
       "guid": ""
     },
     {
+      "title": "Joventut Badalona (Basket) x Unicaja (Basket) - 28/01 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Joventut Badalona (Basket) x Unicaja (Basket) - 28/01 18:00 - SportTV 6",
+      "pubDate": "Wed, 28 Jan 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lituânia (Futsal) x Arménia (Futsal) - 28/01 18:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lituânia (Futsal) x Arménia (Futsal) - 28/01 18:30 - SportTV 3",
+      "pubDate": "Wed, 28 Jan 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia (Futsal) x Ucrânia (Futsal) - 28/01 18:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia (Futsal) x Ucrânia (Futsal) - 28/01 18:30 - SportTV 2",
+      "pubDate": "Wed, 28 Jan 2026 18:30:00",
+      "guid": ""
+    },
+    {
       "title": "Suíça (Andebol) x Suécia (Andebol) - 28/01 19:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça (Andebol) x Suécia (Andebol) - 28/01 19:30 - RTP Play",
@@ -313,20 +341,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x FC Kobenhavn - 28/01 20:00 - DAZN 4",
       "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
-      "pubDate": "Wed, 28 Jan 2026 23:00:00",
       "guid": ""
     }
   ]

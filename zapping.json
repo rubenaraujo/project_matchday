@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha (Andebol) x França (Andebol) - 26/01 17:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Andebol) x França (Andebol) - 26/01 17:00 - RTP Play",
-      "pubDate": "Mon, 26 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eyupspor x Besiktas - 26/01 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eyupspor x Besiktas - 26/01 17:00 - SportTV 3",
-      "pubDate": "Mon, 26 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Nassr x Al-Taawoun - 26/01 17:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Al-Taawoun - 26/01 17:30 - SportTV 1",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x FC Kobenhavn - 28/01 20:00 - DAZN 4",
       "pubDate": "Wed, 28 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
+      "pubDate": "Wed, 28 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
+      "pubDate": "Wed, 28 Jan 2026 23:00:00",
       "guid": ""
     }
   ]

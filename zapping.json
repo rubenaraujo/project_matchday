@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Bélgica (Futsal) x Eslovénia (Futsal) - 26/01 19:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica (Futsal) x Eslovénia (Futsal) - 26/01 19:30 - SportTV 2",
-      "pubDate": "Mon, 26 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Udinese - 26/01 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Udinese - 26/01 19:45 - SportTV 3",
-      "pubDate": "Mon, 26 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Norwich City x Coventry City - 26/01 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Norwich City x Coventry City - 26/01 20:00 - SportTV 6",
-      "pubDate": "Mon, 26 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Leeds United - 26/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Leeds United - 26/01 20:00 - DAZN 1",
-      "pubDate": "Mon, 26 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Getafe - 26/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Getafe - 26/01 20:00 - DAZN 2",
-      "pubDate": "Mon, 26 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Gil Vicente - 26/01 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Gil Vicente - 26/01 20:15 - SportTV 1",
@@ -320,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x FC Vizela (S23) - 29/01 13:30 - Canal11",
       "pubDate": "Thu, 29 Jan 2026 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Futsal) x Bélgica (Futsal) - 29/01 16:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Futsal) x Bélgica (Futsal) - 29/01 16:30 - SportTV 1",
+      "pubDate": "Thu, 29 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia (Futsal) x Bielorrússia (Futsal) - 29/01 16:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia (Futsal) x Bielorrússia (Futsal) - 29/01 16:30 - SportTV 2",
+      "pubDate": "Thu, 29 Jan 2026 16:30:00",
       "guid": ""
     }
   ]

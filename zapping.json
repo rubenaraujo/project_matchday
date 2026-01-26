@@ -1,10 +1,24 @@
 {
   "items": [
     {
+      "title": "Torreense (S23) x Leixões (S23) - 26/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (S23) x Leixões (S23) - 26/01 11:00 - Canal11",
+      "pubDate": "Mon, 26 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol) x Noruega (Andebol) - 26/01 14:30 - RTP1",
       "pubDate": "Mon, 26 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (S23) x Sporting (S23) - 26/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (S23) x Sporting (S23) - 26/01 15:00 - Canal11",
+      "pubDate": "Mon, 26 Jan 2026 15:00:00",
       "guid": ""
     },
     {
@@ -99,10 +113,24 @@
       "guid": ""
     },
     {
+      "title": "Benfica (S23) x Santa Clara (S23) - 27/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Santa Clara (S23) - 27/01 11:00 - Canal11",
+      "pubDate": "Tue, 27 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Suíça (Andebol) x Islândia (Andebol) - 27/01 14:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça (Andebol) x Islândia (Andebol) - 27/01 14:30 - RTP Play",
       "pubDate": "Tue, 27 Jan 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S17) x Japão (Feminino S17) - 27/01 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S17) x Japão (Feminino S17) - 27/01 15:00 - Canal11",
+      "pubDate": "Tue, 27 Jan 2026 15:00:00",
       "guid": ""
     },
     {
@@ -176,6 +204,13 @@
       "guid": ""
     },
     {
+      "title": "Altekma SK (Voleibol) x Benfica (Voleibol) - 28/01 14:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Altekma SK (Voleibol) x Benfica (Voleibol) - 28/01 14:00 - BTv",
+      "pubDate": "Wed, 28 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
       "title": "Eslovénia (Andebol) x Islândia (Andebol) - 28/01 14:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eslovénia (Andebol) x Islândia (Andebol) - 28/01 14:30 - RTP Play",
@@ -214,6 +249,20 @@
       "title": "Alemanha (Andebol) x França (Andebol) - 28/01 17:00 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Andebol) x França (Andebol) - 28/01 17:00 - RTP Play",
+      "pubDate": "Wed, 28 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino S19) x Finlândia (Futsal Feminino S19) - 28/01 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino S19) x Finlândia (Futsal Feminino S19) - 28/01 17:00 - Canal11",
+      "pubDate": "Wed, 28 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Warta Zawiercie (Voleibol) x Sporting (Voleibol) - 28/01 17:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Warta Zawiercie (Voleibol) x Sporting (Voleibol) - 28/01 17:00 - SportingTv",
       "pubDate": "Wed, 28 Jan 2026 17:00:00",
       "guid": ""
     },
@@ -278,62 +327,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x FC Kobenhavn - 28/01 20:00 - DAZN 4",
       "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Club x Rosario Central - 28/01 21:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Rosario Central - 28/01 21:00 - SportTV 4",
-      "pubDate": "Wed, 28 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
-      "pubDate": "Wed, 28 Jan 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Atlanta Hawks (Basket) - 29/01 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Atlanta Hawks (Basket) - 29/01 00:30 - SportTV 1",
-      "pubDate": "Thu, 29 Jan 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Estudiantes x Boca Juniors - 29/01 01:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estudiantes x Boca Juniors - 29/01 01:15 - SportTV 1",
-      "pubDate": "Thu, 29 Jan 2026 01:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Futsal) x Bélgica (Futsal) - 29/01 16:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal) x Bélgica (Futsal) - 29/01 16:30 - SportTV 1",
-      "pubDate": "Thu, 29 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia (Futsal) x Bielorrússia (Futsal) - 29/01 16:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia (Futsal) x Bielorrússia (Futsal) - 29/01 16:30 - SportTV 2",
-      "pubDate": "Thu, 29 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Qadisiyah x Al-Hilal - 29/01 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Qadisiyah x Al-Hilal - 29/01 17:30 - SportTV 3",
-      "pubDate": "Thu, 29 Jan 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos (Basket) x FC Barcelona (Basket) - 29/01 19:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x FC Barcelona (Basket) - 29/01 19:15 - SportTV 4",
-      "pubDate": "Thu, 29 Jan 2026 19:15:00",
       "guid": ""
     }
   ]

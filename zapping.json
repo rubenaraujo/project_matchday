@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Lituânia (Futsal) x Arménia (Futsal) - 28/01 18:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lituânia (Futsal) x Arménia (Futsal) - 28/01 18:30 - SportTV 3",
-      "pubDate": "Wed, 28 Jan 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chéquia (Futsal) x Ucrânia (Futsal) - 28/01 18:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chéquia (Futsal) x Ucrânia (Futsal) - 28/01 18:30 - SportTV 2",
-      "pubDate": "Wed, 28 Jan 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Suíça (Andebol) x Suécia (Andebol) - 28/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça (Andebol) x Suécia (Andebol) - 28/01 19:30 - RTP Play",
-      "pubDate": "Wed, 28 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca (Andebol) x Noruega (Andebol) - 28/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca (Andebol) x Noruega (Andebol) - 28/01 19:30 - RTP Play",
-      "pubDate": "Wed, 28 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x Real Madrid - 28/01 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Real Madrid - 28/01 20:00 - SportTV 5",
@@ -306,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Sacramento Kings (Basket) - 31/01 00:30 - SportTV 1",
       "pubDate": "Sat, 31 Jan 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x Torreense (S23) - 31/01 10:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Torreense (S23) - 31/01 10:30 - SportingTv",
+      "pubDate": "Sat, 31 Jan 2026 10:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x Benfica (S23) - 31/01 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Benfica (S23) - 31/01 11:00 - Canal11",
+      "pubDate": "Sat, 31 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras x GD Chaves - 31/01 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras x GD Chaves - 31/01 11:00 - SportTV 1",
+      "pubDate": "Sat, 31 Jan 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "VfL Bochum x Schalke 04 - 31/01 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "VfL Bochum x Schalke 04 - 31/01 12:00 - DAZN 1",
+      "pubDate": "Sat, 31 Jan 2026 12:00:00",
       "guid": ""
     }
   ]

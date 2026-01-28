@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Philadelphia 76ers (Basket) x Milwaukee Bucks (Basket) - 28/01 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia 76ers (Basket) x Milwaukee Bucks (Basket) - 28/01 01:00 - SportTV 1",
-      "pubDate": "Wed, 28 Jan 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Altekma SK (Voleibol) x Benfica (Voleibol) - 28/01 14:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Altekma SK (Voleibol) x Benfica (Voleibol) - 28/01 14:00 - BTv",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Köln x Wolfsburg - 30/01 19:30 - DAZN 1",
       "pubDate": "Fri, 30 Jan 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Le Havre - 30/01 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Le Havre - 30/01 19:45 - SportTV 3",
+      "pubDate": "Fri, 30 Jan 2026 19:45:00",
       "guid": ""
     }
   ]

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Real Madrid - 28/01 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Real Madrid - 28/01 20:00 - SportTV 5",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Newcastle - 28/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Newcastle - 28/01 20:00 - DAZN 1",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Chelsea - 28/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Chelsea - 28/01 20:00 - DAZN 2",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Galatasaray - 28/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Galatasaray - 28/01 20:00 - DAZN 3",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x FC Kobenhavn - 28/01 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x FC Kobenhavn - 28/01 20:00 - DAZN 4",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Sporting - 28/01 20:00 - SportTV 1",
-      "pubDate": "Wed, 28 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "HC Braga (Hóquei) x Riba d´Ave (Hóquei) - 28/01 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Braga (Hóquei) x Riba d´Ave (Hóquei) - 28/01 21:00 - FPP TV",
@@ -306,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "VfL Bochum x Schalke 04 - 31/01 12:00 - DAZN 1",
       "pubDate": "Sat, 31 Jan 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stoke City x Southampton - 31/01 12:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stoke City x Southampton - 31/01 12:30 - SportTV 2",
+      "pubDate": "Sat, 31 Jan 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Oviedo x Girona - 31/01 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Oviedo x Girona - 31/01 13:00 - DAZN 2",
+      "pubDate": "Sat, 31 Jan 2026 13:00:00",
       "guid": ""
     }
   ]

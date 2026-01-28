@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "HC Braga (Hóquei) x Riba d´Ave (Hóquei) - 28/01 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Braga (Hóquei) x Riba d´Ave (Hóquei) - 28/01 21:00 - FPP TV",
-      "pubDate": "Wed, 28 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x Juventude Pacense (Hóquei) - 28/01 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x Juventude Pacense (Hóquei) - 28/01 21:00 - FPP TV",
-      "pubDate": "Wed, 28 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x SC Tomar (Hóquei) - 28/01 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x SC Tomar (Hóquei) - 28/01 21:00 - FPP TV",
-      "pubDate": "Wed, 28 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x Sporting (Hóquei) - 28/01 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x Sporting (Hóquei) - 28/01 21:00 - FPP TV",
-      "pubDate": "Wed, 28 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Gimnasia - 28/01 23:00 - SportTV 1",
@@ -278,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Girona - 31/01 13:00 - DAZN 2",
       "pubDate": "Sat, 31 Jan 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Sassuolo - 31/01 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Sassuolo - 31/01 14:00 - SportTV 6",
+      "pubDate": "Sat, 31 Jan 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x Torreense - 31/01 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x Torreense - 31/01 14:00 - SportTV +",
+      "pubDate": "Sat, 31 Jan 2026 14:00:00",
       "guid": ""
     }
   ]

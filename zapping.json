@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estudiantes x Boca Juniors - 29/01 01:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estudiantes x Boca Juniors - 29/01 01:15 - SportTV 1",
-      "pubDate": "Thu, 29 Jan 2026 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Estoril Praia (S23) x FC Vizela (S23) - 29/01 13:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x FC Vizela (S23) - 29/01 13:30 - Canal11",
@@ -340,6 +333,13 @@
       "title": "Napoli x Fiorentina - 31/01 17:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Fiorentina - 31/01 17:00 - SportTV 6",
+      "pubDate": "Sat, 31 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Konyaspor - 31/01 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Konyaspor - 31/01 17:00 - SportTV 7",
       "pubDate": "Sat, 31 Jan 2026 17:00:00",
       "guid": ""
     }

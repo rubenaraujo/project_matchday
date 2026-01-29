@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Atlanta Hawks (Basket) - 29/01 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Atlanta Hawks (Basket) - 29/01 00:30 - SportTV 2",
-      "pubDate": "Thu, 29 Jan 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Estudiantes x Boca Juniors - 29/01 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estudiantes x Boca Juniors - 29/01 01:15 - SportTV 1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galitos FC (Basket) x CP Esgueira (Basket) - 31/01 16:30 - ABola TV",
       "pubDate": "Sat, 31 Jan 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Fiorentina - 31/01 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Fiorentina - 31/01 17:00 - SportTV 6",
+      "pubDate": "Sat, 31 Jan 2026 17:00:00",
       "guid": ""
     }
   ]

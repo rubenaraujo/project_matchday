@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Olympiacos (Basket) x FC Barcelona (Basket) - 29/01 19:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x FC Barcelona (Basket) - 29/01 19:15 - SportTV 4",
-      "pubDate": "Thu, 29 Jan 2026 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália (Futsal) x Hungria (Futsal) - 29/01 19:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Futsal) x Hungria (Futsal) - 29/01 19:30 - SportTV 2",
-      "pubDate": "Thu, 29 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Polónia (Futsal) - 29/01 19:30 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Polónia (Futsal) - 29/01 19:30 - RTP1",
-      "pubDate": "Thu, 29 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Rangers - 29/01 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Rangers - 29/01 20:00 - SportTV 5",
-      "pubDate": "Thu, 29 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Go Ahead Eagles x SC Braga - 29/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Go Ahead Eagles x SC Braga - 29/01 20:00 - DAZN 1",
-      "pubDate": "Thu, 29 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Red Bull Salzburg - 29/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Red Bull Salzburg - 29/01 20:00 - DAZN 2",
-      "pubDate": "Thu, 29 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Ferencváros - 29/01 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Ferencváros - 29/01 20:00 - DAZN 3",
-      "pubDate": "Thu, 29 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x PAOK - 29/01 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x PAOK - 29/01 20:00 - DAZN 4",
-      "pubDate": "Thu, 29 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Voleibol Feminino) x Fenerbahçe (Voleibol Feminino) - 29/01 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol Feminino) x Fenerbahçe (Voleibol Feminino) - 29/01 20:00 - BTv",
-      "pubDate": "Thu, 29 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 30/01 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Winnipeg Jets (Hóquei no Gelo  Seniores) - 30/01 00:00 - SportTV 2",
@@ -333,6 +270,13 @@
       "title": "Besiktas x Konyaspor - 31/01 17:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Besiktas x Konyaspor - 31/01 17:00 - SportTV 7",
+      "pubDate": "Sat, 31 Jan 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Palau i Plegamans (Hóquei Feminino) x Benfica (Hóquei Feminino) - 31/01 17:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Palau i Plegamans (Hóquei Feminino) x Benfica (Hóquei Feminino) - 31/01 17:00 - BTv",
       "pubDate": "Sat, 31 Jan 2026 17:00:00",
       "guid": ""
     }

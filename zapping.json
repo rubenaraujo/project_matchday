@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Köln x Wolfsburg - 30/01 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x Wolfsburg - 30/01 19:30 - DAZN 1",
-      "pubDate": "Fri, 30 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca (Andebol) x Islândia (Andebol) - 30/01 19:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca (Andebol) x Islândia (Andebol) - 30/01 19:30 - RTP Play",
-      "pubDate": "Fri, 30 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Le Havre - 30/01 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Le Havre - 30/01 19:45 - SportTV 3",
-      "pubDate": "Fri, 30 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Genoa - 30/01 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Genoa - 30/01 19:45 - SportTV 2",
-      "pubDate": "Fri, 30 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bristol City x Derby County - 30/01 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bristol City x Derby County - 30/01 20:00 - SportTV 4",
-      "pubDate": "Fri, 30 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Alavés - 30/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Alavés - 30/01 20:00 - DAZN 2",
-      "pubDate": "Fri, 30 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Luzia (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 30/01 20:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 30/01 20:30 - Canal11",
@@ -306,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Hellas Verona - 31/01 19:45 - SportTV 6",
       "pubDate": "Sat, 31 Jan 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Newcastle - 31/01 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Newcastle - 31/01 20:00 - DAZN 1",
+      "pubDate": "Sat, 31 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Barcelona - 31/01 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Barcelona - 31/01 20:00 - DAZN 2",
+      "pubDate": "Sat, 31 Jan 2026 20:00:00",
       "guid": ""
     }
   ]

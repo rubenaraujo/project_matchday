@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Luzia (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 30/01 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 30/01 20:30 - Canal11",
-      "pubDate": "Fri, 30 Jan 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC x Moreirense - 30/01 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x Moreirense - 30/01 20:45 - SportTV 1",
-      "pubDate": "Fri, 30 Jan 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket Feminino) x Benfica (Basket Feminino) - 30/01 21:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket Feminino) x Benfica (Basket Feminino) - 30/01 21:00 - DAZN 3",
-      "pubDate": "Fri, 30 Jan 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Sacramento Kings (Basket) - 31/01 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Sacramento Kings (Basket) - 31/01 00:30 - SportTV 1",
@@ -277,6 +256,13 @@
       "title": "Elche x Barcelona - 31/01 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche x Barcelona - 31/01 20:00 - DAZN 2",
+      "pubDate": "Sat, 31 Jan 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee United x Hearts - 31/01 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee United x Hearts - 31/01 20:00 - SportTV 7",
       "pubDate": "Sat, 31 Jan 2026 20:00:00",
       "guid": ""
     }

@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "Eintracht Frankfurt x Bayer Leverkusen - 31/01 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Bayer Leverkusen - 31/01 14:30 - DAZN 3",
-      "pubDate": "Sat, 31 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Quinta dos Lombos (Basket Feminino) x BC Barcelos (Basket Feminino) - 31/01 14:30 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Basket Feminino) x BC Barcelos (Basket Feminino) - 31/01 14:30 - ABola TV",
-      "pubDate": "Sat, 31 Jan 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "França (Futsal) x Ucrânia (Futsal) - 31/01 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (Futsal) x Ucrânia (Futsal) - 31/01 15:00 - SportTV 2",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portsmouth x West Bromwich - 31/01 15:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portsmouth x West Bromwich - 31/01 15:00 - SportTV 7",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Arsenal - 31/01 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Arsenal - 31/01 15:00 - DAZN 1",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Everton - 31/01 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Everton - 31/01 15:00 - DAZN 4",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Feminino) x Racing Power FC (Feminino) - 31/01 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x Racing Power FC (Feminino) - 31/01 15:00 - Canal11",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 31/01 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 31/01 15:00 - PortoCanal",
       "pubDate": "Sat, 31 Jan 2026 15:00:00",
       "guid": ""
     },
@@ -278,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 01/02 01:30 - SportTV 2",
       "pubDate": "Sun, 01 Feb 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente (Jun.A S19) x FC Famalicão (Jun.A S19) - 01/02 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente (Jun.A S19) x FC Famalicão (Jun.A S19) - 01/02 11:00 - Canal11",
+      "pubDate": "Sun, 01 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x UD Oliveirense - 01/02 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x UD Oliveirense - 01/02 11:00 - SportingTv",
+      "pubDate": "Sun, 01 Feb 2026 11:00:00",
       "guid": ""
     }
   ]

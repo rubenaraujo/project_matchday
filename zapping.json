@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Galitos FC (Basket) x CP Esgueira (Basket) - 31/01 16:30 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galitos FC (Basket) x CP Esgueira (Basket) - 31/01 16:30 - ABola TV",
-      "pubDate": "Sat, 31 Jan 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Fiorentina - 31/01 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Fiorentina - 31/01 17:00 - SportTV 6",
-      "pubDate": "Sat, 31 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Konyaspor - 31/01 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Konyaspor - 31/01 17:00 - SportTV 7",
-      "pubDate": "Sat, 31 Jan 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 31/01 17:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 31/01 17:30 - SportTV 4",
@@ -222,6 +201,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Excelsior x Ajax - 01/02 11:15 - DAZN 1",
       "pubDate": "Sun, 01 Feb 2026 11:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Lecce - 01/02 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Lecce - 01/02 11:30 - SportTV 2",
+      "pubDate": "Sun, 01 Feb 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Rayo Vallecano - 01/02 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Rayo Vallecano - 01/02 13:00 - DAZN 2",
+      "pubDate": "Sun, 01 Feb 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x Feyenoord - 01/02 13:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x Feyenoord - 01/02 13:30 - DAZN 4",
+      "pubDate": "Sun, 01 Feb 2026 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Lille - 01/02 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Lille - 01/02 14:00 - SportTV 3",
+      "pubDate": "Sun, 01 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hibernian x Rangers - 01/02 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hibernian x Rangers - 01/02 14:00 - SportTV 6",
+      "pubDate": "Sun, 01 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Atalanta - 01/02 14:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Atalanta - 01/02 14:00 - SportTV 4",
+      "pubDate": "Sun, 01 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x Fulham - 01/02 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x Fulham - 01/02 14:00 - DAZN 1",
+      "pubDate": "Sun, 01 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Brentford - 01/02 14:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Brentford - 01/02 14:00 - DAZN 3",
+      "pubDate": "Sun, 01 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x Marítimo - 01/02 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x Marítimo - 01/02 14:00 - SportTV +",
+      "pubDate": "Sun, 01 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Islândia (Andebol) x Croácia (Andebol) - 01/02 14:15 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Islândia (Andebol) x Croácia (Andebol) - 01/02 14:15 - RTP Play",
+      "pubDate": "Sun, 01 Feb 2026 14:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Novasemente (Futsal Feminino) - 01/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Novasemente (Futsal Feminino) - 01/02 15:00 - Canal11",
+      "pubDate": "Sun, 01 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Basket) x UD Oliveirense (Basket) - 01/02 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x UD Oliveirense (Basket) - 01/02 15:00 - PortoCanal",
+      "pubDate": "Sun, 01 Feb 2026 15:00:00",
       "guid": ""
     }
   ]

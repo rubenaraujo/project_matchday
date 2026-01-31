@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Pisa x Sassuolo - 31/01 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Sassuolo - 31/01 14:00 - SportTV 6",
-      "pubDate": "Sat, 31 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico x Torreense - 31/01 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico x Torreense - 31/01 14:00 - SportTV +",
-      "pubDate": "Sat, 31 Jan 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Eintracht Frankfurt x Bayer Leverkusen - 31/01 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eintracht Frankfurt x Bayer Leverkusen - 31/01 14:30 - DAZN 3",
@@ -285,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 31/01 21:30 - PortoCanal",
       "pubDate": "Sat, 31 Jan 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 01/02 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 01/02 01:30 - SportTV 2",
+      "pubDate": "Sun, 01 Feb 2026 01:30:00",
       "guid": ""
     }
   ]

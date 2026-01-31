@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Stoke City x Southampton - 31/01 12:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Southampton - 31/01 12:30 - SportTV 2",
-      "pubDate": "Sat, 31 Jan 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Girona - 31/01 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Girona - 31/01 13:00 - DAZN 2",
-      "pubDate": "Sat, 31 Jan 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Pisa x Sassuolo - 31/01 14:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pisa x Sassuolo - 31/01 14:00 - SportTV 6",
@@ -292,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Turquel (Hóquei) x Benfica (Hóquei) - 31/01 21:00 - FPP TV",
       "pubDate": "Sat, 31 Jan 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 31/01 21:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 31/01 21:30 - PortoCanal",
+      "pubDate": "Sat, 31 Jan 2026 21:30:00",
       "guid": ""
     }
   ]

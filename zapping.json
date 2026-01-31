@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "França (Futsal) x Ucrânia (Futsal) - 31/01 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Futsal) x Ucrânia (Futsal) - 31/01 15:00 - SportTV 2",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket) x Sporting (Basket) - 31/01 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket) x Sporting (Basket) - 31/01 15:00 - BTv",
-      "pubDate": "Sat, 31 Jan 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Osasuna x Villarreal - 31/01 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Villarreal - 31/01 15:15 - DAZN 2",
-      "pubDate": "Sat, 31 Jan 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x Estoril Praia - 31/01 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Estoril Praia - 31/01 15:30 - SportTV 1",
-      "pubDate": "Sat, 31 Jan 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Marseille - 31/01 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Marseille - 31/01 16:00 - SportTV 3",
-      "pubDate": "Sat, 31 Jan 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Galitos FC (Basket) x CP Esgueira (Basket) - 31/01 16:30 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galitos FC (Basket) x CP Esgueira (Basket) - 31/01 16:30 - ABola TV",
@@ -243,6 +208,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (B) x UD Oliveirense - 01/02 11:00 - SportingTv",
       "pubDate": "Sun, 01 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.A S19) x Santa Clara (Jun.A S19) - 01/02 11:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.A S19) x Santa Clara (Jun.A S19) - 01/02 11:00 - BTv",
+      "pubDate": "Sun, 01 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Excelsior x Ajax - 01/02 11:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Excelsior x Ajax - 01/02 11:15 - DAZN 1",
+      "pubDate": "Sun, 01 Feb 2026 11:15:00",
       "guid": ""
     }
   ]

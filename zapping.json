@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal Feminino) x GD Árvore (Futsal Feminino) - 31/01 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x GD Árvore (Futsal Feminino) - 31/01 19:30 - Canal11",
-      "pubDate": "Sat, 31 Jan 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cagliari x Hellas Verona - 31/01 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Hellas Verona - 31/01 19:45 - SportTV 6",
-      "pubDate": "Sat, 31 Jan 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Newcastle - 31/01 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Newcastle - 31/01 20:00 - DAZN 1",
-      "pubDate": "Sat, 31 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Barcelona - 31/01 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Barcelona - 31/01 20:00 - DAZN 2",
-      "pubDate": "Sat, 31 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dundee United x Hearts - 31/01 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dundee United x Hearts - 31/01 20:00 - SportTV 7",
-      "pubDate": "Sat, 31 Jan 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Rennes - 31/01 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Rennes - 31/01 20:05 - SportTV 3",
-      "pubDate": "Sat, 31 Jan 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "FC Alverca x Est. Amadora - 31/01 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Alverca x Est. Amadora - 31/01 20:30 - SportTV 1",
@@ -229,6 +187,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x FC Famalicão - 01/02 15:30 - SportTV 1",
       "pubDate": "Sun, 01 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x Brest - 01/02 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x Brest - 01/02 16:15 - SportTV 3",
+      "pubDate": "Sun, 01 Feb 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Manchester City - 01/02 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Manchester City - 01/02 16:30 - DAZN 1",
+      "pubDate": "Sun, 01 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x 1. FC Heidenheim 1846 - 01/02 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x 1. FC Heidenheim 1846 - 01/02 16:30 - DAZN 3",
+      "pubDate": "Sun, 01 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Internazionale - 01/02 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Internazionale - 01/02 17:00 - SportTV 4",
+      "pubDate": "Sun, 01 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Kayserispor - 01/02 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Kayserispor - 01/02 17:00 - SportTV 5",
+      "pubDate": "Sun, 01 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 01/02 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 01/02 17:00 - Canal11",
+      "pubDate": "Sun, 01 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 01/02 17:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket Feminino) x Sporting (Basket Feminino) - 01/02 17:00 - BTv",
+      "pubDate": "Sun, 01 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca (Andebol) x Alemanha (Andebol) - 01/02 17:00 - RTP Play",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca (Andebol) x Alemanha (Andebol) - 01/02 17:00 - RTP Play",
+      "pubDate": "Sun, 01 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ittihad Jeddah x Al-Najma - 01/02 17:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ittihad Jeddah x Al-Najma - 01/02 17:30 - SportTV 7",
+      "pubDate": "Sun, 01 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Celta de Vigo - 01/02 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Celta de Vigo - 01/02 17:30 - DAZN 2",
+      "pubDate": "Sun, 01 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Nacional - 01/02 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Nacional - 01/02 18:00 - SportTV 2",
+      "pubDate": "Sun, 01 Feb 2026 18:00:00",
       "guid": ""
     }
   ]

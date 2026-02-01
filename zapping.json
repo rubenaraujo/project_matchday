@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Tondela x Benfica - 01/02 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Benfica - 01/02 20:30 - SportTV 1",
-      "pubDate": "Sun, 01 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Milwaukee Bucks (Basket) - 01/02 20:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Milwaukee Bucks (Basket) - 01/02 20:30 - SportTV 6",
-      "pubDate": "Sun, 01 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Newell´s Old Boys - 01/02 22:15 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Newell´s Old Boys - 01/02 22:15 - SportTV 2",
@@ -264,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Akhdoud x Al-Hilal - 05/02 17:30 - SportTV 1",
       "pubDate": "Thu, 05 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hapoel Tel Aviv (Basket) x Valencia Basket (Basket) - 05/02 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hapoel Tel Aviv (Basket) x Valencia Basket (Basket) - 05/02 19:00 - SportTV 5",
+      "pubDate": "Thu, 05 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Monaco - 05/02 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Monaco - 05/02 20:00 - SportTV 4",
+      "pubDate": "Thu, 05 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Juventus - 05/02 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Juventus - 05/02 20:00 - SportTV 2",
+      "pubDate": "Thu, 05 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

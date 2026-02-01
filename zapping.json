@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Voleibol) x São Mamede (Voleibol) - 01/02 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x São Mamede (Voleibol) - 01/02 18:00 - SportingTv",
-      "pubDate": "Sun, 01 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 01/02 18:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 01/02 18:30 - PortoCanal",
-      "pubDate": "Sun, 01 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Futsal) x Itália (Futsal) - 01/02 18:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal) x Itália (Futsal) - 01/02 18:30 - SportTV 6",
-      "pubDate": "Sun, 01 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 01/02 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 01/02 19:00 - Canal11",
@@ -257,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lorient x Paris FC - 04/02 19:30 - SportTV 5",
       "pubDate": "Wed, 04 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Newcastle - 04/02 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Newcastle - 04/02 20:00 - SportTV 2",
+      "pubDate": "Wed, 04 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Torino - 04/02 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Torino - 04/02 20:00 - SportTV 4",
+      "pubDate": "Wed, 04 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aberdeen x Celtic - 04/02 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aberdeen x Celtic - 04/02 20:00 - SportTV 7",
+      "pubDate": "Wed, 04 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Athletic Bilbao - 04/02 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Athletic Bilbao - 04/02 20:00 - SportTV 3",
+      "pubDate": "Wed, 04 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x Torreense - 04/02 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x Torreense - 04/02 20:15 - SportTV 1",
+      "pubDate": "Wed, 04 Feb 2026 20:15:00",
       "guid": ""
     }
   ]

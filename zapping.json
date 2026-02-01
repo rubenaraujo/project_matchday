@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Islândia (Andebol) x Croácia (Andebol) - 01/02 14:15 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Islândia (Andebol) x Croácia (Andebol) - 01/02 14:15 - RTP Play",
-      "pubDate": "Sun, 01 Feb 2026 14:15:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal Feminino) x Novasemente (Futsal Feminino) - 01/02 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Novasemente (Futsal Feminino) - 01/02 15:00 - Canal11",
@@ -15,37 +8,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Basket) x UD Oliveirense (Basket) - 01/02 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x UD Oliveirense (Basket) - 01/02 15:00 - PortoCanal",
-      "pubDate": "Sun, 01 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Voleibol Feminino) x São Mamede (Voleibol Feminino) - 01/02 15:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol Feminino) x São Mamede (Voleibol Feminino) - 01/02 15:00 - SportingTv",
-      "pubDate": "Sun, 01 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Voleibol Feminino) x Clube K (Voleibol Feminino) - 01/02 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol Feminino) x Clube K (Voleibol Feminino) - 01/02 15:00 - BTv",
-      "pubDate": "Sun, 01 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nogueirense FC x Aliança de Gandra - 01/02 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nogueirense FC x Aliança de Gandra - 01/02 15:00 - ABola TV",
-      "pubDate": "Sun, 01 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Bélgica (Futsal) - 01/02 15:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Bélgica (Futsal) - 01/02 15:00 - SportTV +",
       "pubDate": "Sun, 01 Feb 2026 15:00:00",
       "guid": ""
     },
@@ -278,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mallorca x Sevilla - 02/02 20:00 - DAZN 2",
       "pubDate": "Mon, 02 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x FC Porto - 02/02 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x FC Porto - 02/02 20:45 - SportTV 1",
+      "pubDate": "Mon, 02 Feb 2026 20:45:00",
       "guid": ""
     }
   ]

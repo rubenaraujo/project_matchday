@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Madrid x Rayo Vallecano - 01/02 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Rayo Vallecano - 01/02 13:00 - DAZN 2",
-      "pubDate": "Sun, 01 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x Feyenoord - 01/02 13:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Feyenoord - 01/02 13:30 - DAZN 4",
-      "pubDate": "Sun, 01 Feb 2026 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Lille - 01/02 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Lille - 01/02 14:00 - SportTV 3",
-      "pubDate": "Sun, 01 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hibernian x Rangers - 01/02 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hibernian x Rangers - 01/02 14:00 - SportTV 6",
-      "pubDate": "Sun, 01 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Atalanta - 01/02 14:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Atalanta - 01/02 14:00 - SportTV 4",
-      "pubDate": "Sun, 01 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Fulham - 01/02 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Fulham - 01/02 14:00 - DAZN 1",
-      "pubDate": "Sun, 01 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Brentford - 01/02 14:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Brentford - 01/02 14:00 - DAZN 3",
-      "pubDate": "Sun, 01 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Marítimo - 01/02 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Marítimo - 01/02 14:00 - SportTV +",
-      "pubDate": "Sun, 01 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Islândia (Andebol) x Croácia (Andebol) - 01/02 14:15 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Islândia (Andebol) x Croácia (Andebol) - 01/02 14:15 - RTP Play",
@@ -320,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Roma - 02/02 19:45 - SportTV 4",
       "pubDate": "Mon, 02 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Burnley - 02/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Burnley - 02/02 20:00 - DAZN 1",
+      "pubDate": "Mon, 02 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Sevilla - 02/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Sevilla - 02/02 20:00 - DAZN 2",
+      "pubDate": "Mon, 02 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

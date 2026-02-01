@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Ittihad Jeddah x Al-Najma - 01/02 17:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Najma - 01/02 17:30 - SportTV 7",
-      "pubDate": "Sun, 01 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Celta de Vigo - 01/02 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Celta de Vigo - 01/02 17:30 - DAZN 2",
-      "pubDate": "Sun, 01 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Nacional - 01/02 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Nacional - 01/02 18:00 - SportTV 2",
-      "pubDate": "Sun, 01 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Voleibol) x São Mamede (Voleibol) - 01/02 18:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol) x São Mamede (Voleibol) - 01/02 18:00 - SportingTv",
@@ -257,6 +236,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Winner QF3 x Croácia (Futsal) - 04/02 15:00 - SportTV 1",
       "pubDate": "Wed, 04 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas (Basket) x Turk Telekom (Basket) - 04/02 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas (Basket) x Turk Telekom (Basket) - 04/02 17:00 - SportTV 4",
+      "pubDate": "Wed, 04 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Futsal) x Winner QF2 - 04/02 18:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Futsal) x Winner QF2 - 04/02 18:30 - SportTV 6",
+      "pubDate": "Wed, 04 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lorient x Paris FC - 04/02 19:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lorient x Paris FC - 04/02 19:30 - SportTV 5",
+      "pubDate": "Wed, 04 Feb 2026 19:30:00",
       "guid": ""
     }
   ]

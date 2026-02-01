@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 01/02 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 01/02 19:00 - Canal11",
-      "pubDate": "Sun, 01 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x PSG - 01/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x PSG - 01/02 19:45 - SportTV 3",
-      "pubDate": "Sun, 01 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Juventus - 01/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Juventus - 01/02 19:45 - SportTV 4",
-      "pubDate": "Sun, 01 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Real Sociedad - 01/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Real Sociedad - 01/02 20:00 - DAZN 1",
-      "pubDate": "Sun, 01 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Granada x Racing Santander - 01/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Granada x Racing Santander - 01/02 20:00 - DAZN 2",
-      "pubDate": "Sun, 01 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "CD Tondela x Benfica - 01/02 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Tondela x Benfica - 01/02 20:30 - SportTV 1",
@@ -197,6 +162,20 @@
       "guid": ""
     },
     {
+      "title": "Espanha (Futsal) x Croácia (Futsal) - 04/02 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Futsal) x Croácia (Futsal) - 04/02 00:00 - SportTV 1",
+      "pubDate": "Wed, 04 Feb 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "França (Futsal) x Portugal (Futsal) - 04/02 00:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França (Futsal) x Portugal (Futsal) - 04/02 00:30 - SportTV 6",
+      "pubDate": "Wed, 04 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
       "title": "Dallas Mavericks (Basket) x Boston Celtics (Basket) - 04/02 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x Boston Celtics (Basket) - 04/02 01:00 - SportTV 1",
@@ -211,24 +190,10 @@
       "guid": ""
     },
     {
-      "title": "Winner QF3 x Croácia (Futsal) - 04/02 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Winner QF3 x Croácia (Futsal) - 04/02 15:00 - SportTV 1",
-      "pubDate": "Wed, 04 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Besiktas (Basket) x Turk Telekom (Basket) - 04/02 17:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Besiktas (Basket) x Turk Telekom (Basket) - 04/02 17:00 - SportTV 4",
       "pubDate": "Wed, 04 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Futsal) x Winner QF2 - 04/02 18:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Futsal) x Winner QF2 - 04/02 18:30 - SportTV 6",
-      "pubDate": "Wed, 04 Feb 2026 18:30:00",
       "guid": ""
     },
     {
@@ -271,6 +236,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x Torreense - 04/02 20:15 - SportTV 1",
       "pubDate": "Wed, 04 Feb 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Platense x Argentino Monte Maíz - 05/02 00:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Platense x Argentino Monte Maíz - 05/02 00:15 - SportTV 2",
+      "pubDate": "Thu, 05 Feb 2026 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
+      "pubDate": "Thu, 05 Feb 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 05/02 02:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 05/02 02:30 - SportTV 2",
+      "pubDate": "Thu, 05 Feb 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Akhdoud x Al-Hilal - 05/02 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Akhdoud x Al-Hilal - 05/02 17:30 - SportTV 1",
+      "pubDate": "Thu, 05 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

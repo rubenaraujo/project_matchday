@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 31/01 21:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 31/01 21:30 - PortoCanal",
-      "pubDate": "Sat, 31 Jan 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 01/02 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Dallas Mavericks (Basket) - 01/02 01:30 - SportTV 2",
@@ -271,6 +264,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 01/02 19:00 - Canal11",
       "pubDate": "Sun, 01 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x PSG - 01/02 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x PSG - 01/02 19:45 - SportTV 3",
+      "pubDate": "Sun, 01 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Juventus - 01/02 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Juventus - 01/02 19:45 - SportTV 4",
+      "pubDate": "Sun, 01 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Real Sociedad - 01/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Real Sociedad - 01/02 20:00 - DAZN 1",
+      "pubDate": "Sun, 01 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Granada x Racing Santander - 01/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Granada x Racing Santander - 01/02 20:00 - DAZN 2",
+      "pubDate": "Sun, 01 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Benfica - 01/02 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Benfica - 01/02 20:30 - SportTV 1",
+      "pubDate": "Sun, 01 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Milwaukee Bucks (Basket) - 01/02 20:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Milwaukee Bucks (Basket) - 01/02 20:30 - SportTV 6",
+      "pubDate": "Sun, 01 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Newell´s Old Boys - 01/02 22:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Newell´s Old Boys - 01/02 22:15 - SportTV 2",
+      "pubDate": "Sun, 01 Feb 2026 22:15:00",
       "guid": ""
     }
   ]

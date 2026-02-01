@@ -15,20 +15,6 @@
       "guid": ""
     },
     {
-      "title": "Real Betis x Valencia - 01/02 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Valencia - 01/02 15:15 - DAZN 2",
-      "pubDate": "Sun, 01 Feb 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x FC Famalicão - 01/02 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x FC Famalicão - 01/02 15:30 - SportTV 1",
-      "pubDate": "Sun, 01 Feb 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Nice x Brest - 01/02 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nice x Brest - 01/02 16:15 - SportTV 3",
@@ -250,6 +236,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x FC Porto - 02/02 20:45 - SportTV 1",
       "pubDate": "Mon, 02 Feb 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Tigre x Racing Club - 02/02 22:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tigre x Racing Club - 02/02 22:45 - SportTV 2",
+      "pubDate": "Mon, 02 Feb 2026 22:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x New York Islanders (Hóquei no Gelo  Seniores) - 03/02 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x New York Islanders (Hóquei no Gelo  Seniores) - 03/02 00:00 - SportTV 3",
+      "pubDate": "Tue, 03 Feb 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Clippers (Basket) x Philadelphia 76ers (Basket) - 03/02 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Clippers (Basket) x Philadelphia 76ers (Basket) - 03/02 03:00 - SportTV 1",
+      "pubDate": "Tue, 03 Feb 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tofas SK (Basket) x AEK (Basket) - 03/02 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tofas SK (Basket) x AEK (Basket) - 03/02 17:00 - SportTV 6",
+      "pubDate": "Tue, 03 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Panathinaikos (Basket) x Real Madrid (Basket) - 03/02 19:15 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Panathinaikos (Basket) x Real Madrid (Basket) - 03/02 19:15 - SportTV 6",
+      "pubDate": "Tue, 03 Feb 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Milan - 03/02 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Milan - 03/02 19:45 - SportTV 2",
+      "pubDate": "Tue, 03 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Chelsea - 03/02 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Chelsea - 03/02 20:00 - SportTV 1",
+      "pubDate": "Tue, 03 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

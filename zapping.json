@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Knicks (Basket) x LA Lakers (Basket) - 02/02 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Knicks (Basket) x LA Lakers (Basket) - 02/02 00:00 - SportTV 1",
-      "pubDate": "Mon, 02 Feb 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rosario Central x River Plate - 02/02 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x River Plate - 02/02 00:30 - SportTV 2",
-      "pubDate": "Mon, 02 Feb 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Riyadh x Al-Nassr - 02/02 15:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Riyadh x Al-Nassr - 02/02 15:15 - SportTV 1",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Pisa - 06/02 19:45 - SportTV 2",
       "pubDate": "Fri, 06 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Charlton Athletic x QPR - 06/02 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Charlton Athletic x QPR - 06/02 20:00 - SportTV 5",
+      "pubDate": "Fri, 06 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

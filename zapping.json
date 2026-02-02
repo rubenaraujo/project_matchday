@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Newell´s Old Boys - 01/02 22:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Newell´s Old Boys - 01/02 22:15 - SportTV 2",
-      "pubDate": "Sun, 01 Feb 2026 22:15:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x LA Lakers (Basket) - 02/02 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x LA Lakers (Basket) - 02/02 00:00 - SportTV 1",
@@ -271,6 +264,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atalanta x Juventus - 05/02 20:00 - SportTV 2",
       "pubDate": "Thu, 05 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Atlético de Madrid - 05/02 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Atlético de Madrid - 05/02 20:00 - SportTV 3",
+      "pubDate": "Thu, 05 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x AFS - 05/02 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x AFS - 05/02 20:45 - RTP1",
+      "pubDate": "Thu, 05 Feb 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 06/02 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 06/02 00:00 - SportTV 2",
+      "pubDate": "Fri, 06 Feb 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Ittihad Jeddah - 06/02 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Ittihad Jeddah - 06/02 17:30 - SportTV 1",
+      "pubDate": "Fri, 06 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (B) x Académico - 06/02 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x Académico - 06/02 18:00 - PortoCanal",
+      "pubDate": "Fri, 06 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz x Lille - 06/02 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz x Lille - 06/02 19:45 - SportTV 4",
+      "pubDate": "Fri, 06 Feb 2026 19:45:00",
       "guid": ""
     }
   ]

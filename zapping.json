@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Kocaelispor x Fenerbahçe - 02/02 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kocaelispor x Fenerbahçe - 02/02 17:00 - SportTV 4",
-      "pubDate": "Mon, 02 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Al-Ahli Jeddah - 02/02 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Ahli Jeddah - 02/02 17:30 - SportTV 1",
-      "pubDate": "Mon, 02 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x SC Braga - 02/02 18:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x SC Braga - 02/02 18:45 - SportTV 2",
-      "pubDate": "Mon, 02 Feb 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Udinese x Roma - 02/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Roma - 02/02 19:45 - SportTV 4",
-      "pubDate": "Mon, 02 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Burnley - 02/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Burnley - 02/02 20:00 - DAZN 1",
-      "pubDate": "Mon, 02 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Sevilla - 02/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Sevilla - 02/02 20:00 - DAZN 2",
-      "pubDate": "Mon, 02 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x FC Porto - 02/02 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x FC Porto - 02/02 20:45 - SportTV 1",
-      "pubDate": "Mon, 02 Feb 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Tigre x Racing Club - 02/02 22:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tigre x Racing Club - 02/02 22:45 - SportTV 2",
@@ -306,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Platense x Argentino Monte Maíz - 05/02 00:15 - SportTV 2",
       "pubDate": "Thu, 05 Feb 2026 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
+      "pubDate": "Thu, 05 Feb 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 05/02 02:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 05/02 02:30 - SportTV 2",
+      "pubDate": "Thu, 05 Feb 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Akhdoud x Al-Hilal - 05/02 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Akhdoud x Al-Hilal - 05/02 17:30 - SportTV 1",
+      "pubDate": "Thu, 05 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 05/02 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 05/02 18:30 - SportingTv",
+      "pubDate": "Thu, 05 Feb 2026 18:30:00",
       "guid": ""
     }
   ]

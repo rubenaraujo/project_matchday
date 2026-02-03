@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Tofas SK (Basket) x AEK (Basket) - 03/02 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tofas SK (Basket) x AEK (Basket) - 03/02 17:00 - SportTV 6",
-      "pubDate": "Tue, 03 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea (Jun.A S19) x PSV (Jun.A S19) - 03/02 17:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea (Jun.A S19) x PSV (Jun.A S19) - 03/02 17:00 - DAZN 2",
-      "pubDate": "Tue, 03 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "AZ Alkmaar x FC Twente - 03/02 19:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AZ Alkmaar x FC Twente - 03/02 19:00 - DAZN 3",
@@ -299,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atalanta x Juventus - 05/02 20:00 - SportTV 2",
       "pubDate": "Thu, 05 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Atlético de Madrid - 05/02 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Atlético de Madrid - 05/02 20:00 - SportTV 3",
+      "pubDate": "Thu, 05 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x AFS - 05/02 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x AFS - 05/02 20:45 - RTP1",
+      "pubDate": "Thu, 05 Feb 2026 20:45:00",
       "guid": ""
     }
   ]

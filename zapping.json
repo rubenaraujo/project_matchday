@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "AZ Alkmaar x FC Twente - 03/02 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x FC Twente - 03/02 19:00 - DAZN 3",
-      "pubDate": "Tue, 03 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (HóqueiB) x AA Espinho (Hóquei) - 03/02 21:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (HóqueiB) x AA Espinho (Hóquei) - 03/02 21:30 - PortoCanal",
-      "pubDate": "Tue, 03 Feb 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Dallas Mavericks (Basket) x Boston Celtics (Basket) - 04/02 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x Boston Celtics (Basket) - 04/02 01:00 - SportTV 1",
@@ -257,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Coritiba - 06/02 00:30 - Canal11",
       "pubDate": "Fri, 06 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S16) x México (Feminino S16) - 06/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S16) x México (Feminino S16) - 06/02 15:00 - Canal11",
+      "pubDate": "Fri, 06 Feb 2026 15:00:00",
       "guid": ""
     }
   ]

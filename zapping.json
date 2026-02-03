@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Tigre x Racing Club - 02/02 22:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tigre x Racing Club - 02/02 22:45 - SportTV 2",
-      "pubDate": "Mon, 02 Feb 2026 22:45:00",
-      "guid": ""
-    },
-    {
       "title": "Washington Capitals (Hóquei no Gelo  Seniores) x New York Islanders (Hóquei no Gelo  Seniores) - 03/02 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Capitals (Hóquei no Gelo  Seniores) x New York Islanders (Hóquei no Gelo  Seniores) - 03/02 00:00 - SportTV 3",
@@ -285,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 05/02 18:30 - SportingTv",
       "pubDate": "Thu, 05 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hapoel Tel Aviv (Basket) x Valencia Basket (Basket) - 05/02 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hapoel Tel Aviv (Basket) x Valencia Basket (Basket) - 05/02 19:00 - SportTV 5",
+      "pubDate": "Thu, 05 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Telstar x Go Ahead Eagles - 05/02 19:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Telstar x Go Ahead Eagles - 05/02 19:00 - DAZN 1",
+      "pubDate": "Thu, 05 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona (Hóquei) x FC Porto (Hóquei) - 05/02 19:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona (Hóquei) x FC Porto (Hóquei) - 05/02 19:30 - PortoCanal",
+      "pubDate": "Thu, 05 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Monaco - 05/02 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Monaco - 05/02 20:00 - SportTV 4",
+      "pubDate": "Thu, 05 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x New York Islanders (Hóquei no Gelo  Seniores) - 03/02 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x New York Islanders (Hóquei no Gelo  Seniores) - 03/02 00:00 - SportTV 3",
-      "pubDate": "Tue, 03 Feb 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "LA Clippers (Basket) x Philadelphia 76ers (Basket) - 03/02 03:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Clippers (Basket) x Philadelphia 76ers (Basket) - 03/02 03:00 - SportTV 1",
@@ -305,6 +298,13 @@
       "title": "Strasbourg x Monaco - 05/02 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Strasbourg x Monaco - 05/02 20:00 - SportTV 4",
+      "pubDate": "Thu, 05 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Juventus - 05/02 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Juventus - 05/02 20:00 - SportTV 2",
       "pubDate": "Thu, 05 Feb 2026 20:00:00",
       "guid": ""
     }

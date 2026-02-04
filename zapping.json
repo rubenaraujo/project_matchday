@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Feminino S16) x Países Baixos (Feminino S16) - 04/02 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S16) x Países Baixos (Feminino S16) - 04/02 16:00 - Canal11",
-      "pubDate": "Wed, 04 Feb 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas (Basket) x Turk Telekom (Basket) - 04/02 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas (Basket) x Turk Telekom (Basket) - 04/02 17:00 - SportTV 4",
-      "pubDate": "Wed, 04 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga (Feminino) x Benfica (Feminino) - 04/02 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Feminino) x Benfica (Feminino) - 04/02 19:00 - Canal11",
@@ -299,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x FC Felgueiras - 07/02 11:00 - SportTV 1",
       "pubDate": "Sat, 07 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Jun.A S19) x Benfica (Jun.A S19) - 07/02 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Jun.A S19) x Benfica (Jun.A S19) - 07/02 11:00 - Canal11",
+      "pubDate": "Sat, 07 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.B S17) x Real SC (Jun.B S17) - 07/02 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x Real SC (Jun.B S17) - 07/02 11:00 - PortoCanal",
+      "pubDate": "Sat, 07 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Derby County x Ipswich Town - 07/02 12:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derby County x Ipswich Town - 07/02 12:00 - SportTV 2",
+      "pubDate": "Sat, 07 Feb 2026 12:00:00",
       "guid": ""
     }
   ]

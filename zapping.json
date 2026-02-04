@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Fafe x Torreense - 04/02 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x Torreense - 04/02 20:15 - SportTV 1",
-      "pubDate": "Wed, 04 Feb 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Santos x São Paulo - 04/02 23:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santos x São Paulo - 04/02 23:00 - Canal11",
@@ -264,6 +257,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Tottenham - 07/02 12:30 - DAZN 1",
       "pubDate": "Sat, 07 Feb 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Real Oviedo - 07/02 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Real Oviedo - 07/02 13:00 - DAZN 2",
+      "pubDate": "Sat, 07 Feb 2026 13:00:00",
       "guid": ""
     }
   ]

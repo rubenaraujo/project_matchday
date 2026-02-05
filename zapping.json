@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
-      "pubDate": "Thu, 05 Feb 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 05/02 02:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 05/02 02:30 - SportTV 2",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x FC Vizela - 07/02 15:30 - SportTV 2",
       "pubDate": "Sat, 07 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Rennes - 07/02 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Rennes - 07/02 16:00 - SportTV 3",
+      "pubDate": "Sat, 07 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Napoli - 07/02 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Napoli - 07/02 17:00 - SportTV 4",
+      "pubDate": "Sat, 07 Feb 2026 17:00:00",
       "guid": ""
     }
   ]

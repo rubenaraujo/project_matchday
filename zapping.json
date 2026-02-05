@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Platense x Argentino Monte Maíz - 05/02 00:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Platense x Argentino Monte Maíz - 05/02 00:15 - SportTV 2",
-      "pubDate": "Thu, 05 Feb 2026 00:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Palmeiras x Vitória - 05/02 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Vitória - 05/02 00:30 - Canal11",
-      "pubDate": "Thu, 05 Feb 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Boston Celtics (Basket) - 05/02 01:00 - SportTV 1",
@@ -326,6 +312,20 @@
       "title": "Est. Amadora x Santa Clara - 07/02 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora x Santa Clara - 07/02 15:30 - SportTV 1",
+      "pubDate": "Sat, 07 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x Gil Vicente - 07/02 15:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x Gil Vicente - 07/02 15:30 - V+",
+      "pubDate": "Sat, 07 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x FC Vizela - 07/02 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x FC Vizela - 07/02 15:30 - SportTV 2",
       "pubDate": "Sat, 07 Feb 2026 15:30:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x AFS - 05/02 20:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x AFS - 05/02 20:45 - RTP1",
-      "pubDate": "Thu, 05 Feb 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Cruzeiro x Coritiba - 06/02 00:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Coritiba - 06/02 00:30 - Canal11",
@@ -306,6 +299,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brest x Lorient - 07/02 18:00 - SportTV 3",
       "pubDate": "Sat, 07 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Feirense - 07/02 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Feirense - 07/02 18:00 - SportTV +",
+      "pubDate": "Sat, 07 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Sporting (Andebol) - 07/02 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Sporting (Andebol) - 07/02 18:00 - PortoCanal",
+      "pubDate": "Sat, 07 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 07/02 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 07/02 18:30 - SportingTv",
+      "pubDate": "Sat, 07 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal) x Espanha (Futsal) - 07/02 18:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal) x Espanha (Futsal) - 07/02 18:30 - SportTV +",
+      "pubDate": "Sat, 07 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Voleibol) x Benfica (Voleibol) - 07/02 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Voleibol) x Benfica (Voleibol) - 07/02 19:00 - SportTV 6",
+      "pubDate": "Sat, 07 Feb 2026 19:00:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "1. FC Union Berlin x Eintracht Frankfurt - 06/02 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x Eintracht Frankfurt - 06/02 19:30 - DAZN 3",
-      "pubDate": "Fri, 06 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Metz x Lille - 06/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Metz x Lille - 06/02 19:45 - SportTV 4",
-      "pubDate": "Fri, 06 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Pisa - 06/02 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Pisa - 06/02 19:45 - SportTV 2",
-      "pubDate": "Fri, 06 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Charlton Athletic x QPR - 06/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Charlton Athletic x QPR - 06/02 20:00 - SportTV 5",
-      "pubDate": "Fri, 06 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Vitória SC - 06/02 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Vitória SC - 06/02 20:00 - Canal11",
-      "pubDate": "Fri, 06 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Nottingham Forest - 06/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Nottingham Forest - 06/02 20:00 - DAZN 1",
-      "pubDate": "Fri, 06 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Osasuna - 06/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Osasuna - 06/02 20:00 - DAZN 2",
-      "pubDate": "Fri, 06 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "GD Chaves x FC Penafiel - 06/02 20:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x FC Penafiel - 06/02 20:15 - SportTV 1",
@@ -334,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cádiz x Almería - 07/02 20:00 - DAZN 2",
       "pubDate": "Sat, 07 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nantes x Lyon - 07/02 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nantes x Lyon - 07/02 20:05 - SportTV 3",
+      "pubDate": "Sat, 07 Feb 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Vitória SC - 07/02 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Vitória SC - 07/02 20:30 - SportTV 1",
+      "pubDate": "Sat, 07 Feb 2026 20:30:00",
       "guid": ""
     }
   ]

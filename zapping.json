@@ -1,65 +1,9 @@
 {
   "items": [
     {
-      "title": "Rayo Vallecano x Real Oviedo - 07/02 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Real Oviedo - 07/02 13:00 - DAZN 2",
-      "pubDate": "Sat, 07 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolfsburg x Borussia Dortmund - 07/02 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x Borussia Dortmund - 07/02 14:30 - DAZN 4",
-      "pubDate": "Sat, 07 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Futsal) x Croácia (Futsal) - 07/02 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Futsal) x Croácia (Futsal) - 07/02 15:00 - SportTV 4",
-      "pubDate": "Sat, 07 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Varzim x Amarante FC - 07/02 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x Amarante FC - 07/02 15:00 - Canal11",
-      "pubDate": "Sat, 07 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Sunderland - 07/02 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Sunderland - 07/02 15:00 - DAZN 1",
-      "pubDate": "Sat, 07 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Chelsea - 07/02 15:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Chelsea - 07/02 15:00 - DAZN 3",
-      "pubDate": "Sat, 07 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Imortal (Basket) x Benfica (Basket) - 07/02 15:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Imortal (Basket) x Benfica (Basket) - 07/02 15:00 - ABola TV",
-      "pubDate": "Sat, 07 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x FC Porto (Basket) - 07/02 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x FC Porto (Basket) - 07/02 15:00 - SportingTv",
-      "pubDate": "Sat, 07 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket Feminino) x CP Esgueira (Basket Feminino) - 07/02 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket Feminino) x CP Esgueira (Basket Feminino) - 07/02 15:00 - BTv",
       "pubDate": "Sat, 07 Feb 2026 15:00:00",
       "guid": ""
     },
@@ -313,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Getafe - 08/02 13:00 - DAZN 2",
       "pubDate": "Sun, 08 Feb 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AZ Alkmaar x Ajax - 08/02 13:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AZ Alkmaar x Ajax - 08/02 13:30 - DAZN 4",
+      "pubDate": "Sun, 08 Feb 2026 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x Monaco - 08/02 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x Monaco - 08/02 14:00 - SportTV 3",
+      "pubDate": "Sun, 08 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Udinese - 08/02 14:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Udinese - 08/02 14:00 - SportTV 7",
+      "pubDate": "Sun, 08 Feb 2026 14:00:00",
       "guid": ""
     }
   ]

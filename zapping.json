@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Marítimo x Farense - 07/02 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x Farense - 07/02 14:00 - SportTV +",
-      "pubDate": "Sat, 07 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wolfsburg x Borussia Dortmund - 07/02 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolfsburg x Borussia Dortmund - 07/02 14:30 - DAZN 4",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Swansea City x Sheffield Wed. - 08/02 12:00 - SportTV 4",
       "pubDate": "Sun, 08 Feb 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Getafe - 08/02 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Getafe - 08/02 13:00 - DAZN 2",
+      "pubDate": "Sun, 08 Feb 2026 13:00:00",
       "guid": ""
     }
   ]

@@ -1,66 +1,10 @@
 {
   "items": [
     {
-      "title": "Belenenses x Trofense - 07/02 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Trofense - 07/02 17:30 - Canal11",
-      "pubDate": "Sat, 07 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Brentford - 07/02 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Brentford - 07/02 17:30 - DAZN 1",
-      "pubDate": "Sat, 07 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Sevilla x Girona - 07/02 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Girona - 07/02 17:30 - DAZN 2",
       "pubDate": "Sat, 07 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia M´gladbach x Bayer Leverkusen - 07/02 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia M´gladbach x Bayer Leverkusen - 07/02 17:30 - DAZN 3",
-      "pubDate": "Sat, 07 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Estoril Praia x CD Tondela - 07/02 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x CD Tondela - 07/02 18:00 - SportTV 1",
-      "pubDate": "Sat, 07 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brest x Lorient - 07/02 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brest x Lorient - 07/02 18:00 - SportTV 3",
-      "pubDate": "Sat, 07 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões x Feirense - 07/02 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x Feirense - 07/02 18:00 - SportTV +",
-      "pubDate": "Sat, 07 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x Sporting (Andebol) - 07/02 18:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Sporting (Andebol) - 07/02 18:00 - PortoCanal",
-      "pubDate": "Sat, 07 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 07/02 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 07/02 18:30 - SportingTv",
-      "pubDate": "Sat, 07 Feb 2026 18:30:00",
       "guid": ""
     },
     {
@@ -292,6 +236,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x CD Póvoa (Hóquei) - 08/02 15:00 - FPP TV",
       "pubDate": "Sun, 08 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
+      "pubDate": "Sun, 08 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Levante - 08/02 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Levante - 08/02 15:15 - DAZN 2",
+      "pubDate": "Sun, 08 Feb 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x Casa Pia AC - 08/02 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x Casa Pia AC - 08/02 15:30 - SportTV 1",
+      "pubDate": "Sun, 08 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x UD Leiria - 08/02 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x UD Leiria - 08/02 15:30 - SportTV 2",
+      "pubDate": "Sun, 08 Feb 2026 15:30:00",
       "guid": ""
     }
   ]

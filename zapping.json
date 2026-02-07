@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Sevilla x Girona - 07/02 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Girona - 07/02 17:30 - DAZN 2",
-      "pubDate": "Sat, 07 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "U. Santarém x CD Mafra - 07/02 19:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x CD Mafra - 07/02 19:30 - Canal11",
       "pubDate": "Sat, 07 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Darmstadt 98 x Kaiserslautern - 07/02 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Darmstadt 98 x Kaiserslautern - 07/02 19:30 - DAZN 3",
-      "pubDate": "Sat, 07 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Torino - 07/02 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Torino - 07/02 19:45 - SportTV 5",
-      "pubDate": "Sat, 07 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Elche - 07/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Elche - 07/02 20:00 - DAZN 1",
-      "pubDate": "Sat, 07 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Almería - 07/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Almería - 07/02 20:00 - DAZN 2",
-      "pubDate": "Sat, 07 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nantes x Lyon - 07/02 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nantes x Lyon - 07/02 20:05 - SportTV 3",
-      "pubDate": "Sat, 07 Feb 2026 20:05:00",
       "guid": ""
     },
     {
@@ -257,6 +215,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Groningen x PSV - 08/02 15:45 - DAZN 4",
       "pubDate": "Sun, 08 Feb 2026 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.C S15) x FC Porto (Jun.C S15) - 08/02 16:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.C S15) x FC Porto (Jun.C S15) - 08/02 16:00 - SportingTv",
+      "pubDate": "Sun, 08 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Havre x Strasbourg - 08/02 16:15 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Havre x Strasbourg - 08/02 16:15 - SportTV +",
+      "pubDate": "Sun, 08 Feb 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Manchester City - 08/02 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Manchester City - 08/02 16:30 - DAZN 1",
+      "pubDate": "Sun, 08 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x TSG Hoffenheim - 08/02 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x TSG Hoffenheim - 08/02 16:30 - DAZN 3",
+      "pubDate": "Sun, 08 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Internazionale - 08/02 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Internazionale - 08/02 17:00 - SportTV 3",
+      "pubDate": "Sun, 08 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Alanyaspor - 08/02 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Alanyaspor - 08/02 17:00 - SportTV 5",
+      "pubDate": "Sun, 08 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PV Colégio Efanor (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/02 17:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PV Colégio Efanor (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/02 17:00 - ABola TV",
+      "pubDate": "Sun, 08 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Feminino) x Vitória SC (Feminino) - 08/02 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x Vitória SC (Feminino) - 08/02 17:30 - Canal11",
+      "pubDate": "Sun, 08 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

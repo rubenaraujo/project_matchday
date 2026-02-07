@@ -8,20 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Portugal (Futsal) x Espanha (Futsal) - 07/02 18:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Espanha (Futsal) - 07/02 18:30 - SportTV +",
-      "pubDate": "Sat, 07 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Voleibol) x Benfica (Voleibol) - 07/02 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Voleibol) x Benfica (Voleibol) - 07/02 19:00 - SportTV 6",
-      "pubDate": "Sat, 07 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "U. Santarém x CD Mafra - 07/02 19:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x CD Mafra - 07/02 19:30 - Canal11",
@@ -264,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x UD Leiria - 08/02 15:30 - SportTV 2",
       "pubDate": "Sun, 08 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Groningen x PSV - 08/02 15:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Groningen x PSV - 08/02 15:45 - DAZN 4",
+      "pubDate": "Sun, 08 Feb 2026 15:45:00",
       "guid": ""
     }
   ]

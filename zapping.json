@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
-      "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Le Havre x Strasbourg - 08/02 16:15 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Le Havre x Strasbourg - 08/02 16:15 - SportTV +",
-      "pubDate": "Sun, 08 Feb 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Manchester City - 08/02 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Manchester City - 08/02 16:30 - DAZN 1",
-      "pubDate": "Sun, 08 Feb 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x TSG Hoffenheim - 08/02 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x TSG Hoffenheim - 08/02 16:30 - DAZN 3",
-      "pubDate": "Sun, 08 Feb 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Internazionale - 08/02 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Internazionale - 08/02 17:00 - SportTV 3",
-      "pubDate": "Sun, 08 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Alanyaspor - 08/02 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Alanyaspor - 08/02 17:00 - SportTV 5",
-      "pubDate": "Sun, 08 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "PV Colégio Efanor (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/02 17:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PV Colégio Efanor (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/02 17:00 - ABola TV",
@@ -243,6 +201,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hearts x Hibernian - 10/02 20:00 - SportTV 5",
       "pubDate": "Tue, 10 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Sporting - 10/02 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Sporting - 10/02 20:15 - SportTV 1",
+      "pubDate": "Tue, 10 Feb 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x LA Clippers (Basket) - 11/02 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x LA Clippers (Basket) - 11/02 01:00 - SportTV 1",
+      "pubDate": "Wed, 11 Feb 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arkadag x Al-Nassr - 11/02 13:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arkadag x Al-Nassr - 11/02 13:45 - Canal11",
+      "pubDate": "Wed, 11 Feb 2026 13:45:00",
+      "guid": ""
+    },
+    {
+      "title": "KK Buducnost (Basket) x JL Bourg-en-Bresse (Basket) - 11/02 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "KK Buducnost (Basket) x JL Bourg-en-Bresse (Basket) - 11/02 18:00 - SportTV 4",
+      "pubDate": "Wed, 11 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Futsal Feminino S23) x Portugal (Futsal Feminino S23) - 11/02 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Futsal Feminino S23) x Portugal (Futsal Feminino S23) - 11/02 19:30 - Canal11",
+      "pubDate": "Wed, 11 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Motherwell x Rangers - 11/02 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Motherwell x Rangers - 11/02 20:00 - SportTV 2",
+      "pubDate": "Wed, 11 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Lazio - 11/02 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Lazio - 11/02 20:00 - SportTV 1",
+      "pubDate": "Wed, 11 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Sportivo Belgrano - 11/02 22:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Sportivo Belgrano - 11/02 22:00 - SportTV 2",
+      "pubDate": "Wed, 11 Feb 2026 22:00:00",
       "guid": ""
     }
   ]

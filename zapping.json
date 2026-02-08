@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x New York Knicks (Basket) - 08/02 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x New York Knicks (Basket) - 08/02 17:30 - SportTV 4",
-      "pubDate": "Sun, 08 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "PSG x Marseille - 08/02 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Marseille - 08/02 19:45 - SportTV 3",
@@ -278,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 12/02 20:00 - Canal11",
       "pubDate": "Thu, 12 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
+      "pubDate": "Thu, 12 Feb 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
+      "pubDate": "Fri, 13 Feb 2026 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Internacional x Palmeiras - 13/02 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internacional x Palmeiras - 13/02 00:30 - Canal11",
+      "pubDate": "Fri, 13 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
+      "pubDate": "Fri, 13 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Áustria (S18) - 13/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Áustria (S18) - 13/02 15:00 - Canal11",
+      "pubDate": "Fri, 13 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Ettifaq - 13/02 15:25 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Ettifaq - 13/02 15:25 - SportTV 1",
+      "pubDate": "Fri, 13 Feb 2026 15:25:00",
       "guid": ""
     }
   ]

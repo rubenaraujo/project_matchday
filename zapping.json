@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "AZ Alkmaar x Ajax - 08/02 13:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x Ajax - 08/02 13:30 - DAZN 4",
-      "pubDate": "Sun, 08 Feb 2026 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x Monaco - 08/02 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x Monaco - 08/02 14:00 - SportTV 3",
-      "pubDate": "Sun, 08 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lecce x Udinese - 08/02 14:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Udinese - 08/02 14:00 - SportTV 7",
-      "pubDate": "Sun, 08 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caykur Rizespor x Galatasaray - 08/02 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caykur Rizespor x Galatasaray - 08/02 14:00 - SportTV 6",
-      "pubDate": "Sun, 08 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Crystal Palace - 08/02 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Crystal Palace - 08/02 14:00 - DAZN 1",
-      "pubDate": "Sun, 08 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Köln x RB Leipzig - 08/02 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Köln x RB Leipzig - 08/02 14:30 - DAZN 3",
-      "pubDate": "Sun, 08 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x AD Valongo (Hóquei) - 08/02 14:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x AD Valongo (Hóquei) - 08/02 14:30 - FPP TV",
       "pubDate": "Sun, 08 Feb 2026 14:30:00",
       "guid": ""
     },
@@ -89,6 +47,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
       "pubDate": "Sun, 08 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cádiz x Almería - 08/02 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cádiz x Almería - 08/02 15:15 - DAZN 2",
+      "pubDate": "Sun, 08 Feb 2026 15:15:00",
       "guid": ""
     },
     {
@@ -299,6 +264,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Sporting - 09/02 20:45 - SportTV 1",
       "pubDate": "Mon, 09 Feb 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x Milwaukee Bucks (Basket) - 10/02 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x Milwaukee Bucks (Basket) - 10/02 00:30 - SportTV 1",
+      "pubDate": "Tue, 10 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x Oklahoma City Thunder (Basket) - 10/02 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x Oklahoma City Thunder (Basket) - 10/02 03:00 - SportTV 1",
+      "pubDate": "Tue, 10 Feb 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Áustria (S18) - 10/02 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Áustria (S18) - 10/02 11:00 - Canal11",
+      "pubDate": "Tue, 10 Feb 2026 11:00:00",
       "guid": ""
     }
   ]

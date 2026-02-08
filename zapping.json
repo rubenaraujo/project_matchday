@@ -1,30 +1,9 @@
 {
   "items": [
     {
-      "title": "PSG x Marseille - 08/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Marseille - 08/02 19:45 - SportTV 3",
-      "pubDate": "Sun, 08 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Lazio - 08/02 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Lazio - 08/02 19:45 - SportTV 2",
-      "pubDate": "Sun, 08 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Timberwolves (Basket) x LA Clippers (Basket) - 08/02 20:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x LA Clippers (Basket) - 08/02 20:00 - SportTV 4",
-      "pubDate": "Sun, 08 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia x Real Madrid - 08/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Real Madrid - 08/02 20:00 - DAZN 1",
       "pubDate": "Sun, 08 Feb 2026 20:00:00",
       "guid": ""
     },
@@ -313,6 +292,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Hilal x Al-Ettifaq - 13/02 15:25 - SportTV 1",
       "pubDate": "Fri, 13 Feb 2026 15:25:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
+      "pubDate": "Fri, 13 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x PSG - 13/02 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x PSG - 13/02 18:00 - SportTV 3",
+      "pubDate": "Fri, 13 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
+      "pubDate": "Fri, 13 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
+      "pubDate": "Fri, 13 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Milan - 13/02 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Milan - 13/02 19:45 - SportTV 4",
+      "pubDate": "Fri, 13 Feb 2026 19:45:00",
       "guid": ""
     }
   ]

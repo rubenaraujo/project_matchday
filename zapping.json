@@ -1,59 +1,10 @@
 {
   "items": [
     {
-      "title": "FC Köln x RB Leipzig - 08/02 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x RB Leipzig - 08/02 14:30 - DAZN 3",
-      "pubDate": "Sun, 08 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (Feminino) x Racing Power FC (Feminino) - 08/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (Feminino) x Racing Power FC (Feminino) - 08/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Feminino) x Valadares Gaia (Feminino) - 08/02 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Feminino) x Valadares Gaia (Feminino) - 08/02 15:00 - Canal11",
-      "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Marítimo (Feminino) - 08/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Marítimo (Feminino) - 08/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x HC Turquel (Hóquei) - 08/02 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x HC Turquel (Hóquei) - 08/02 15:00 - FPP TV",
-      "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x CD Póvoa (Hóquei) - 08/02 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x CD Póvoa (Hóquei) - 08/02 15:00 - FPP TV",
-      "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CSM Bucuresti (Andebol Feminino) x Brest Bretagne (Andebol Feminino) - 08/02 15:00 - SportTV 5",
       "pubDate": "Sun, 08 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Almería - 08/02 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Almería - 08/02 15:15 - DAZN 2",
-      "pubDate": "Sun, 08 Feb 2026 15:15:00",
       "guid": ""
     },
     {
@@ -285,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S18) x Áustria (S18) - 10/02 11:00 - Canal11",
       "pubDate": "Tue, 10 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara (S23) x FC Famalicão (S23) - 10/02 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x FC Famalicão (S23) - 10/02 13:00 - Canal11",
+      "pubDate": "Tue, 10 Feb 2026 13:00:00",
       "guid": ""
     }
   ]

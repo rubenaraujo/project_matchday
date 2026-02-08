@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Tigre - 07/02 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Tigre - 07/02 23:00 - SportTV 2",
-      "pubDate": "Sat, 07 Feb 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x Golden State Warriors (Basket) - 08/02 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Golden State Warriors (Basket) - 08/02 01:30 - SportTV 2",
@@ -299,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vélez Sarsfield x Boca Juniors - 09/02 01:15 - SportTV 1",
       "pubDate": "Mon, 09 Feb 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Feminino S16) x Portugal (Feminino S16) - 09/02 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Feminino S16) x Portugal (Feminino S16) - 09/02 14:00 - Canal11",
+      "pubDate": "Mon, 09 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Gençlerbirligi - 09/02 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Gençlerbirligi - 09/02 17:00 - SportTV 2",
+      "pubDate": "Mon, 09 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Cremonese - 09/02 17:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Cremonese - 09/02 17:30 - SportTV 3",
+      "pubDate": "Mon, 09 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

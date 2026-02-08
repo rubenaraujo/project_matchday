@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "U. Santarém x CD Mafra - 07/02 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x CD Mafra - 07/02 19:30 - Canal11",
-      "pubDate": "Sat, 07 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Almería - 07/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Almería - 07/02 20:00 - DAZN 2",
-      "pubDate": "Sat, 07 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Oklahoma City Thunder (Basket) x Houston Rockets (Basket) - 07/02 20:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x Houston Rockets (Basket) - 07/02 20:30 - SportTV 4",
-      "pubDate": "Sat, 07 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Clube dos Galitos (Basket Feminino) x Imortal (Basket Feminino) - 07/02 21:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Clube dos Galitos (Basket Feminino) x Imortal (Basket Feminino) - 07/02 21:00 - ABola TV",
-      "pubDate": "Sat, 07 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal Feminino) x Sporting (Futsal Feminino) - 07/02 21:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal Feminino) x Sporting (Futsal Feminino) - 07/02 21:30 - Canal11",
-      "pubDate": "Sat, 07 Feb 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Tigre - 07/02 23:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Tigre - 07/02 23:00 - SportTV 2",
@@ -285,6 +250,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Rio Ave - 08/02 18:00 - SportTV 1",
       "pubDate": "Sun, 08 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Marseille - 08/02 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Marseille - 08/02 19:45 - SportTV 3",
+      "pubDate": "Sun, 08 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Lazio - 08/02 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Lazio - 08/02 19:45 - SportTV 2",
+      "pubDate": "Sun, 08 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Minnesota Timberwolves (Basket) x LA Clippers (Basket) - 08/02 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Minnesota Timberwolves (Basket) x LA Clippers (Basket) - 08/02 20:00 - SportTV 4",
+      "pubDate": "Sun, 08 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Real Madrid - 08/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Real Madrid - 08/02 20:00 - DAZN 1",
+      "pubDate": "Sun, 08 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x FC Alverca - 08/02 20:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x FC Alverca - 08/02 20:30 - BTv",
+      "pubDate": "Sun, 08 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Seattle Seahawks (Fut. Americano) x New England Patriots (Fut. Americano) - 08/02 23:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Seattle Seahawks (Fut. Americano) x New England Patriots (Fut. Americano) - 08/02 23:30 - DAZN 1",
+      "pubDate": "Sun, 08 Feb 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vélez Sarsfield x Boca Juniors - 09/02 01:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vélez Sarsfield x Boca Juniors - 09/02 01:15 - SportTV 1",
+      "pubDate": "Mon, 09 Feb 2026 01:15:00",
       "guid": ""
     }
   ]

@@ -29,10 +29,17 @@
       "guid": ""
     },
     {
-      "title": "FC Famalicão x AFS - 09/02 18:45 - SportTV 5",
+      "title": "FC Famalicão x AFS - 09/02 18:45 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x AFS - 09/02 18:45 - SportTV 5",
+      "description": "FC Famalicão x AFS - 09/02 18:45 - SportTV 7",
       "pubDate": "Mon, 09 Feb 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Mirandés - 09/02 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Mirandés - 09/02 19:30 - DAZN 2",
+      "pubDate": "Mon, 09 Feb 2026 19:30:00",
       "guid": ""
     },
     {
@@ -106,6 +113,34 @@
       "guid": ""
     },
     {
+      "title": "Chelsea x Leeds United - 10/02 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Leeds United - 10/02 19:30 - DAZN 2",
+      "pubDate": "Tue, 10 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Newcastle - 10/02 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Newcastle - 10/02 19:30 - DAZN 3",
+      "pubDate": "Tue, 10 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x SVG Luneburg (Voleibol) - 10/02 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x SVG Luneburg (Voleibol) - 10/02 19:30 - SportingTv",
+      "pubDate": "Tue, 10 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hertha BSC x SC Freiburg - 10/02 19:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hertha BSC x SC Freiburg - 10/02 19:45 - DAZN 4",
+      "pubDate": "Tue, 10 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Napoli x Como 1907 - 10/02 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Como 1907 - 10/02 20:00 - SportTV 2",
@@ -124,6 +159,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x Sporting - 10/02 20:15 - SportTV 1",
       "pubDate": "Tue, 10 Feb 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Manchester United - 10/02 20:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Manchester United - 10/02 20:15 - DAZN 1",
+      "pubDate": "Tue, 10 Feb 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x FC Porto (Andebol) - 10/02 21:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x FC Porto (Andebol) - 10/02 21:00 - PortoCanal",
+      "pubDate": "Tue, 10 Feb 2026 21:00:00",
       "guid": ""
     },
     {
@@ -155,17 +204,80 @@
       "guid": ""
     },
     {
-      "title": "Motherwell x Rangers - 11/02 20:00 - SportTV 2",
+      "title": "Manchester City x Fulham - 11/02 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Motherwell x Rangers - 11/02 20:00 - SportTV 2",
+      "description": "Manchester City x Fulham - 11/02 19:30 - DAZN 1",
+      "pubDate": "Wed, 11 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Brighton  Hove Albion - 11/02 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Brighton  Hove Albion - 11/02 19:30 - DAZN 3",
+      "pubDate": "Wed, 11 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x BK Prievidza (Basket) - 11/02 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x BK Prievidza (Basket) - 11/02 19:30 - SportingTv",
+      "pubDate": "Wed, 11 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x RB Leipzig - 11/02 19:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x RB Leipzig - 11/02 19:45 - DAZN 4",
+      "pubDate": "Wed, 11 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Feminino) x Hammarby (Feminino) - 11/02 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Feminino) x Hammarby (Feminino) - 11/02 19:45 - SportTV 1",
+      "pubDate": "Wed, 11 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Águas Santas (Andebol) x Benfica (Andebol) - 11/02 20:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águas Santas (Andebol) x Benfica (Andebol) - 11/02 20:00 - ABola TV",
       "pubDate": "Wed, 11 Feb 2026 20:00:00",
       "guid": ""
     },
     {
-      "title": "Bologna x Lazio - 11/02 20:00 - SportTV 1",
+      "title": "Bologna x Lazio - 11/02 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Lazio - 11/02 20:00 - SportTV 1",
+      "description": "Bologna x Lazio - 11/02 20:00 - SportTV 2",
       "pubDate": "Wed, 11 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Real Sociedad - 11/02 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Real Sociedad - 11/02 20:00 - SportTV 4",
+      "pubDate": "Wed, 11 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Motherwell x Rangers - 11/02 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Motherwell x Rangers - 11/02 20:00 - SportTV 5",
+      "pubDate": "Wed, 11 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Liverpool - 11/02 20:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Liverpool - 11/02 20:15 - DAZN 2",
+      "pubDate": "Wed, 11 Feb 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 11/02 21:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 11/02 21:30 - DAZN 3",
+      "pubDate": "Wed, 11 Feb 2026 21:30:00",
       "guid": ""
     },
     {
@@ -225,115 +337,17 @@
       "guid": ""
     },
     {
-      "title": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
+      "title": "Brentford x Arsenal - 12/02 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
-      "pubDate": "Thu, 12 Feb 2026 23:00:00",
+      "description": "Brentford x Arsenal - 12/02 20:00 - DAZN 1",
+      "pubDate": "Thu, 12 Feb 2026 20:00:00",
       "guid": ""
     },
     {
-      "title": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
+      "title": "Atlético de Madrid x Barcelona - 12/02 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
-      "pubDate": "Fri, 13 Feb 2026 00:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Internacional x Palmeiras - 13/02 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internacional x Palmeiras - 13/02 00:30 - Canal11",
-      "pubDate": "Fri, 13 Feb 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
-      "pubDate": "Fri, 13 Feb 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S18) x Áustria (S18) - 13/02 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S18) x Áustria (S18) - 13/02 15:00 - Canal11",
-      "pubDate": "Fri, 13 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Al-Ettifaq - 13/02 15:25 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Ettifaq - 13/02 15:25 - SportTV 1",
-      "pubDate": "Fri, 13 Feb 2026 15:25:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
-      "pubDate": "Fri, 13 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x PSG - 13/02 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x PSG - 13/02 18:00 - SportTV 3",
-      "pubDate": "Fri, 13 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
-      "pubDate": "Fri, 13 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
-      "pubDate": "Fri, 13 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Milan - 13/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Milan - 13/02 19:45 - SportTV 4",
-      "pubDate": "Fri, 13 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Nantes - 13/02 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Nantes - 13/02 20:05 - SportTV 3",
-      "pubDate": "Fri, 13 Feb 2026 20:05:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
-      "pubDate": "Fri, 13 Feb 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal Maia (Futsal) x Valpaços Futsal (Futsal) - 13/02 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal Maia (Futsal) x Valpaços Futsal (Futsal) - 13/02 21:00 - Canal11",
-      "pubDate": "Fri, 13 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
-      "pubDate": "Fri, 13 Feb 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x GD Chaves - 14/02 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x GD Chaves - 14/02 11:00 - SportTV 1",
-      "pubDate": "Sat, 14 Feb 2026 11:00:00",
+      "description": "Atlético de Madrid x Barcelona - 12/02 20:00 - SportTV 1",
+      "pubDate": "Thu, 12 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

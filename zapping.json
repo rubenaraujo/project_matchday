@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Famalicão x AFS - 09/02 18:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x AFS - 09/02 18:45 - SportTV 7",
-      "pubDate": "Mon, 09 Feb 2026 18:45:00",
-      "guid": ""
-    },
-    {
       "title": "Racing Santander x Mirandés - 09/02 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Santander x Mirandés - 09/02 19:30 - DAZN 2",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chéquia (Hóquei no Gelo  Seniores) x Canadá (Hóquei no Gelo  Seniores) - 12/02 15:40 - EuroSport2",
       "pubDate": "Thu, 12 Feb 2026 15:40:00",
+      "guid": ""
+    },
+    {
+      "title": "Halkbank SK (Voleibol) x LKPS Lublin (Voleibol) - 12/02 16:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Halkbank SK (Voleibol) x LKPS Lublin (Voleibol) - 12/02 16:30 - SportTV 2",
+      "pubDate": "Thu, 12 Feb 2026 16:30:00",
       "guid": ""
     }
   ]

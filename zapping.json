@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Seattle Seahawks (Fut. Americano) x New England Patriots (Fut. Americano) - 08/02 23:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Seattle Seahawks (Fut. Americano) x New England Patriots (Fut. Americano) - 08/02 23:30 - DAZN 1",
-      "pubDate": "Sun, 08 Feb 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Alemanha (Feminino S16) x Portugal (Feminino S16) - 09/02 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Feminino S16) x Portugal (Feminino S16) - 09/02 14:00 - Canal11",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal Maia (Futsal) x Valpaços Futsal (Futsal) - 13/02 21:00 - Canal11",
       "pubDate": "Fri, 13 Feb 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
+      "pubDate": "Fri, 13 Feb 2026 23:00:00",
       "guid": ""
     }
   ]

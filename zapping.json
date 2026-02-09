@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Racing Santander x Mirandés - 09/02 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Santander x Mirandés - 09/02 19:30 - DAZN 2",
-      "pubDate": "Mon, 09 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Cagliari - 09/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Cagliari - 09/02 19:45 - SportTV 3",
-      "pubDate": "Mon, 09 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Espanyol - 09/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Espanyol - 09/02 20:00 - DAZN 1",
-      "pubDate": "Mon, 09 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Sporting - 09/02 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Sporting - 09/02 20:45 - SportTV 1",
@@ -313,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Halkbank SK (Voleibol) x LKPS Lublin (Voleibol) - 12/02 16:30 - SportTV 2",
       "pubDate": "Thu, 12 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Crvena Zvezda (Basket) - 12/02 19:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Crvena Zvezda (Basket) - 12/02 19:15 - SportTV 2",
+      "pubDate": "Thu, 12 Feb 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 12/02 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 12/02 20:00 - Canal11",
+      "pubDate": "Thu, 12 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

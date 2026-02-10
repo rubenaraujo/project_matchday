@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Clara (S23) x FC Famalicão (S23) - 10/02 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara (S23) x FC Famalicão (S23) - 10/02 13:00 - Canal11",
-      "pubDate": "Tue, 10 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões (S23) x Sporting (S23) - 10/02 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x Sporting (S23) - 10/02 16:00 - Canal11",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
       "pubDate": "Fri, 13 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Áustria (S18) - 13/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Áustria (S18) - 13/02 15:00 - Canal11",
+      "pubDate": "Fri, 13 Feb 2026 15:00:00",
       "guid": ""
     }
   ]

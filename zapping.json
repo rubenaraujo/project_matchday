@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Hertha BSC x SC Freiburg - 10/02 19:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hertha BSC x SC Freiburg - 10/02 19:45 - DAZN 4",
-      "pubDate": "Tue, 10 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x LA Clippers (Basket) - 11/02 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x LA Clippers (Basket) - 11/02 01:00 - SportTV 1",
@@ -271,6 +264,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
       "pubDate": "Fri, 13 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x PSG - 13/02 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x PSG - 13/02 18:00 - SportTV 3",
+      "pubDate": "Fri, 13 Feb 2026 18:00:00",
       "guid": ""
     }
   ]

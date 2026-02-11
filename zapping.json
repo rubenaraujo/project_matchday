@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha (Futsal Feminino S23) x Portugal (Futsal Feminino S23) - 10/02 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal Feminino S23) x Portugal (Futsal Feminino S23) - 10/02 19:30 - Canal11",
-      "pubDate": "Tue, 10 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x LA Clippers (Basket) - 11/02 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x LA Clippers (Basket) - 11/02 01:00 - SportTV 1",
@@ -271,6 +264,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rennes x PSG - 13/02 18:00 - SportTV 3",
       "pubDate": "Fri, 13 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
+      "pubDate": "Fri, 13 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Volendam x PSV - 13/02 19:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Volendam x PSV - 13/02 19:00 - DAZN 3",
+      "pubDate": "Fri, 13 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Mainz - 13/02 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Mainz - 13/02 19:30 - DAZN 1",
+      "pubDate": "Fri, 13 Feb 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
+      "pubDate": "Fri, 13 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Milan - 13/02 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Milan - 13/02 19:45 - SportTV 4",
+      "pubDate": "Fri, 13 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Osasuna - 13/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Osasuna - 13/02 20:00 - DAZN 2",
+      "pubDate": "Fri, 13 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Nantes - 13/02 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Nantes - 13/02 20:05 - SportTV 3",
+      "pubDate": "Fri, 13 Feb 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Vitória SC (Andebol) - 13/02 20:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Vitória SC (Andebol) - 13/02 20:30 - PortoCanal",
+      "pubDate": "Fri, 13 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
+      "pubDate": "Fri, 13 Feb 2026 20:45:00",
       "guid": ""
     }
   ]

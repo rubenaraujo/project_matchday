@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester City x Fulham - 11/02 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Fulham - 11/02 19:30 - DAZN 1",
-      "pubDate": "Wed, 11 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Brighton  Hove Albion - 11/02 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Brighton  Hove Albion - 11/02 19:30 - DAZN 3",
-      "pubDate": "Wed, 11 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x BK Prievidza (Basket) - 11/02 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x BK Prievidza (Basket) - 11/02 19:30 - SportingTv",
-      "pubDate": "Wed, 11 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x RB Leipzig - 11/02 19:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x RB Leipzig - 11/02 19:45 - DAZN 4",
-      "pubDate": "Wed, 11 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Feminino) x Hammarby (Feminino) - 11/02 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x Hammarby (Feminino) - 11/02 19:45 - SportTV 1",
-      "pubDate": "Wed, 11 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Águas Santas (Andebol) x Benfica (Andebol) - 11/02 20:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águas Santas (Andebol) x Benfica (Andebol) - 11/02 20:00 - ABola TV",
-      "pubDate": "Wed, 11 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Lazio - 11/02 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Lazio - 11/02 20:00 - SportTV 2",
-      "pubDate": "Wed, 11 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Real Sociedad - 11/02 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Real Sociedad - 11/02 20:00 - SportTV 4",
-      "pubDate": "Wed, 11 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Motherwell x Rangers - 11/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Motherwell x Rangers - 11/02 20:00 - SportTV 5",
-      "pubDate": "Wed, 11 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Liverpool - 11/02 20:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Liverpool - 11/02 20:15 - DAZN 2",
-      "pubDate": "Wed, 11 Feb 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Póvoa AC (Andebol) x Belenenses (Andebol) - 11/02 21:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x Belenenses (Andebol) - 11/02 21:00 - AndebolTV",
@@ -313,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
       "pubDate": "Fri, 13 Feb 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal  Jun.A S19) x Belenenses (Futsal  Jun.A S19) - 13/02 21:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal  Jun.A S19) x Belenenses (Futsal  Jun.A S19) - 13/02 21:30 - SportingTv",
+      "pubDate": "Fri, 13 Feb 2026 21:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "KK Buducnost (Basket) x JL Bourg-en-Bresse (Basket) - 11/02 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "KK Buducnost (Basket) x JL Bourg-en-Bresse (Basket) - 11/02 18:00 - SportTV 4",
-      "pubDate": "Wed, 11 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Futsal Feminino S23) x Portugal (Futsal Feminino S23) - 11/02 19:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Futsal Feminino S23) x Portugal (Futsal Feminino S23) - 11/02 19:30 - Canal11",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal Maia (Futsal) x Valpaços Futsal (Futsal) - 13/02 20:30 - Canal11",
       "pubDate": "Fri, 13 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
+      "pubDate": "Fri, 13 Feb 2026 20:45:00",
       "guid": ""
     }
   ]

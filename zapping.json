@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Chicago Bulls (Basket) - 12/02 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Chicago Bulls (Basket) - 12/02 00:30 - SportTV 1",
-      "pubDate": "Thu, 12 Feb 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Golden State Warriors (Basket) x San Antonio Spurs (Basket) - 12/02 03:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Golden State Warriors (Basket) x San Antonio Spurs (Basket) - 12/02 03:00 - SportTV 1",
@@ -312,6 +305,20 @@
       "title": "Sporting (Voleibol) x Clube K (Voleibol) - 14/02 15:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol) x Clube K (Voleibol) - 14/02 15:00 - SportingTv",
+      "pubDate": "Sat, 14 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ABC (Andebol) x Águas Santas (Andebol) - 14/02 15:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ABC (Andebol) x Águas Santas (Andebol) - 14/02 15:00 - ABola TV",
+      "pubDate": "Sat, 14 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense x S. João Ver - 14/02 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense x S. João Ver - 14/02 15:00 - C11 Stream",
       "pubDate": "Sat, 14 Feb 2026 15:00:00",
       "guid": ""
     }

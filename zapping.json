@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
-      "pubDate": "Fri, 13 Feb 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.A S19) x Belenenses (Futsal  Jun.A S19) - 13/02 21:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.A S19) x Belenenses (Futsal  Jun.A S19) - 13/02 21:30 - SportingTv",
-      "pubDate": "Fri, 13 Feb 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
@@ -257,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Brest - 14/02 18:00 - SportTV 3",
       "pubDate": "Sat, 14 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Gaia (Andebol) x Arsenal da Devesa (Andebol) - 14/02 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Gaia (Andebol) x Arsenal da Devesa (Andebol) - 14/02 18:00 - AndebolTV",
+      "pubDate": "Sat, 14 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CA Queluz (Basket) x CP Esgueira (Basket) - 14/02 18:45 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CA Queluz (Basket) x CP Esgueira (Basket) - 14/02 18:45 - ABola TV",
+      "pubDate": "Sat, 14 Feb 2026 18:45:00",
       "guid": ""
     }
   ]

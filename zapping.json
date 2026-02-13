@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
-      "pubDate": "Fri, 13 Feb 2026 00:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Internacional x Palmeiras - 13/02 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internacional x Palmeiras - 13/02 00:30 - Canal11",
-      "pubDate": "Fri, 13 Feb 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S17) x Espanha (S17) - 13/02 11:00 - Canal11",
@@ -326,6 +312,13 @@
       "title": "Sevilla x Alavés - 14/02 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla x Alavés - 14/02 17:30 - DAZN 1",
+      "pubDate": "Sat, 14 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x FC Köln - 14/02 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x FC Köln - 14/02 17:30 - DAZN 2",
       "pubDate": "Sat, 14 Feb 2026 17:30:00",
       "guid": ""
     }

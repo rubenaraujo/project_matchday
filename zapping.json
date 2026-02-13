@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Fayha - 13/02 17:30 - SportTV 2",
-      "pubDate": "Fri, 13 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x PSG - 13/02 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x PSG - 13/02 18:00 - SportTV 3",
-      "pubDate": "Fri, 13 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Benfica - 13/02 18:30 - SportTV 1",
@@ -319,6 +305,13 @@
       "title": "Vitória SC x Est. Amadora - 14/02 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x Est. Amadora - 14/02 18:00 - SportTV 1",
+      "pubDate": "Sat, 14 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x FC Felgueiras - 14/02 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x FC Felgueiras - 14/02 18:00 - BTv",
       "pubDate": "Sat, 14 Feb 2026 18:00:00",
       "guid": ""
     }

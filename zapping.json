@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia Dortmund x Mainz - 13/02 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Mainz - 13/02 19:30 - DAZN 1",
-      "pubDate": "Fri, 13 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hull City x Chelsea - 13/02 19:45 - SportTV 6",
-      "pubDate": "Fri, 13 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Milan - 13/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Milan - 13/02 19:45 - SportTV 4",
-      "pubDate": "Fri, 13 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Osasuna - 13/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Osasuna - 13/02 20:00 - DAZN 2",
-      "pubDate": "Fri, 13 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Nantes - 13/02 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Nantes - 13/02 20:05 - SportTV 3",
-      "pubDate": "Fri, 13 Feb 2026 20:05:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x Vitória SC (Andebol) - 13/02 20:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Vitória SC (Andebol) - 13/02 20:30 - PortoCanal",
-      "pubDate": "Fri, 13 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal Maia (Futsal) x Valpaços Futsal (Futsal) - 13/02 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal Maia (Futsal) x Valpaços Futsal (Futsal) - 13/02 20:30 - Canal11",
-      "pubDate": "Fri, 13 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Tondela x FC Alverca - 13/02 20:45 - SportTV 2",
@@ -298,6 +249,13 @@
       "title": "Benfica (B) x FC Felgueiras - 14/02 18:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (B) x FC Felgueiras - 14/02 18:00 - BTv",
+      "pubDate": "Sat, 14 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Brest - 14/02 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Brest - 14/02 18:00 - SportTV 3",
       "pubDate": "Sat, 14 Feb 2026 18:00:00",
       "guid": ""
     }

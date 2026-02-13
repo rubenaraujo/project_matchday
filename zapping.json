@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 12/02 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Futsal) x Torreense (Futsal) - 12/02 20:00 - Canal11",
-      "pubDate": "Thu, 12 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
@@ -306,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trabzonspor x Fenerbahçe - 14/02 17:00 - SportTV 6",
       "pubDate": "Sat, 14 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x U. Santarém - 14/02 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x U. Santarém - 14/02 17:00 - Canal11",
+      "pubDate": "Sat, 14 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x Vitória SC (Basket) - 14/02 17:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x Vitória SC (Basket) - 14/02 17:00 - DAZN 3",
+      "pubDate": "Sat, 14 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Povo Freixo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 14/02 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Povo Freixo (Futsal Feminino) x Atlético CP (Futsal Feminino) - 14/02 17:00 - C11 Stream",
+      "pubDate": "Sat, 14 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Fateh x Al-Nassr - 14/02 17:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Fateh x Al-Nassr - 14/02 17:30 - SportTV 5",
+      "pubDate": "Sat, 14 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

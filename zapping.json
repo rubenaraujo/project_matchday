@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Red Bull Bragantino - 12/02 23:00 - Canal11",
-      "pubDate": "Thu, 12 Feb 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentinos Juniors x River Plate - 13/02 00:15 - SportTV 2",
@@ -326,6 +319,13 @@
       "title": "Al-Fateh x Al-Nassr - 14/02 17:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Fateh x Al-Nassr - 14/02 17:30 - SportTV 5",
+      "pubDate": "Sat, 14 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Alavés - 14/02 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Alavés - 14/02 17:30 - DAZN 1",
       "pubDate": "Sat, 14 Feb 2026 17:30:00",
       "guid": ""
     }

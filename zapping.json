@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "CA Queluz (Basket) x CP Esgueira (Basket) - 14/02 18:45 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CA Queluz (Basket) x CP Esgueira (Basket) - 14/02 18:45 - ABola TV",
-      "pubDate": "Sat, 14 Feb 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 14/02 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 14/02 19:00 - Canal11",
-      "pubDate": "Sat, 14 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Juventus - 14/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Juventus - 14/02 19:45 - SportTV 4",
-      "pubDate": "Sat, 14 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Brighton  Hove Albion - 14/02 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Brighton  Hove Albion - 14/02 20:00 - SportTV 2",
-      "pubDate": "Sat, 14 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Real Sociedad - 14/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Real Sociedad - 14/02 20:00 - DAZN 1",
-      "pubDate": "Sat, 14 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Lens - 14/02 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Lens - 14/02 20:05 - SportTV 3",
-      "pubDate": "Sat, 14 Feb 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Gil Vicente x SC Braga - 14/02 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x SC Braga - 14/02 20:30 - SportTV 1",
@@ -243,6 +201,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Voleibol) x Clube K (Voleibol) - 15/02 16:00 - BTv",
       "pubDate": "Sun, 15 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rangers x Hearts - 15/02 16:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rangers x Hearts - 15/02 16:30 - SportTV 6",
+      "pubDate": "Sun, 15 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Wigan Athletic - 15/02 16:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Wigan Athletic - 15/02 16:30 - SportTV 2",
+      "pubDate": "Sun, 15 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x Wolfsburg - 15/02 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x Wolfsburg - 15/02 16:30 - DAZN 2",
+      "pubDate": "Sun, 15 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Bologna - 15/02 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Bologna - 15/02 17:00 - SportTV 4",
+      "pubDate": "Sun, 15 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Basaksehir x Besiktas - 15/02 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Basaksehir x Besiktas - 15/02 17:00 - SportTV 5",
+      "pubDate": "Sun, 15 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x Varzim - 15/02 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x Varzim - 15/02 17:00 - Canal11",
+      "pubDate": "Sun, 15 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (Voleibol Feminino) x Benfica (Voleibol Feminino) - 15/02 17:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (Voleibol Feminino) x Benfica (Voleibol Feminino) - 15/02 17:00 - ABola TV",
+      "pubDate": "Sun, 15 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Valencia - 15/02 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Valencia - 15/02 17:30 - DAZN 1",
+      "pubDate": "Sun, 15 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Estoril Praia - 15/02 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Estoril Praia - 15/02 18:00 - SportTV 3",
+      "pubDate": "Sun, 15 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x FC Porto - 15/02 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x FC Porto - 15/02 18:00 - SportTV +",
+      "pubDate": "Sun, 15 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
+      "pubDate": "Sun, 15 Feb 2026 18:00:00",
       "guid": ""
     }
   ]

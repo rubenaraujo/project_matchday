@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente x Lanús - 13/02 23:00 - SportTV 1",
-      "pubDate": "Fri, 13 Feb 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Feirense x GD Chaves - 14/02 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x GD Chaves - 14/02 11:00 - SportTV 1",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x SC Braga - 14/02 20:30 - SportTV 1",
       "pubDate": "Sat, 14 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GDESSA (Basket Feminino) x Benfica (Basket Feminino) - 14/02 20:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GDESSA (Basket Feminino) x Benfica (Basket Feminino) - 14/02 20:30 - DAZN 2",
+      "pubDate": "Sat, 14 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Árvore (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/02 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Árvore (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/02 21:00 - Canal11",
+      "pubDate": "Sat, 14 Feb 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Póvoa AC (Andebol) - 14/02 21:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Póvoa AC (Andebol) - 14/02 21:00 - SportingTv",
+      "pubDate": "Sat, 14 Feb 2026 21:00:00",
       "guid": ""
     }
   ]

@@ -15,13 +15,6 @@
       "guid": ""
     },
     {
-      "title": "Ajax x Fortuna Sittard - 14/02 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Fortuna Sittard - 14/02 19:00 - DAZN 3",
-      "pubDate": "Sat, 14 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Internazionale x Juventus - 14/02 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Juventus - 14/02 19:45 - SportTV 4",
@@ -222,6 +215,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nacional x FC Porto - 15/02 15:30 - SportTV 1",
       "pubDate": "Sun, 15 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Canadá (Hóquei no Gelo  Seniores) x França (Hóquei no Gelo  Seniores) - 15/02 15:40 - EuroSport2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Canadá (Hóquei no Gelo  Seniores) x França (Hóquei no Gelo  Seniores) - 15/02 15:40 - EuroSport2",
+      "pubDate": "Sun, 15 Feb 2026 15:40:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Basket) x Bàsquet Manresa (Basket) - 15/02 16:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Basket) x Bàsquet Manresa (Basket) - 15/02 16:00 - DAZN 3",
+      "pubDate": "Sun, 15 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 15/02 16:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 15/02 16:00 - PortoCanal",
+      "pubDate": "Sun, 15 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol) x Clube K (Voleibol) - 15/02 16:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol) x Clube K (Voleibol) - 15/02 16:00 - BTv",
+      "pubDate": "Sun, 15 Feb 2026 16:00:00",
       "guid": ""
     }
   ]

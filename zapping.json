@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Werder Bremen x Bayern München - 14/02 14:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Werder Bremen x Bayern München - 14/02 14:30 - DAZN 2",
-      "pubDate": "Sat, 14 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x FC St. Pauli - 14/02 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x FC St. Pauli - 14/02 14:30 - DAZN 3",
-      "pubDate": "Sat, 14 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x Borussia M´gladbach - 14/02 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Borussia M´gladbach - 14/02 14:30 - DAZN 4",
-      "pubDate": "Sat, 14 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Benfica (Feminino) - 14/02 14:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Benfica (Feminino) - 14/02 14:30 - Canal11",
-      "pubDate": "Sat, 14 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Salford City - 14/02 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Salford City - 14/02 15:00 - SportTV 6",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x Atl. Ouriense (Feminino) - 14/02 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x Atl. Ouriense (Feminino) - 14/02 15:00 - PortoCanal",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x Clube K (Voleibol) - 14/02 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Clube K (Voleibol) - 14/02 15:00 - SportingTv",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "ABC (Andebol) x Águas Santas (Andebol) - 14/02 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ABC (Andebol) x Águas Santas (Andebol) - 14/02 15:00 - ABola TV",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x S. João Ver - 14/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x S. João Ver - 14/02 15:00 - C11 Stream",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x Marítimo (Andebol) - 14/02 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x Marítimo (Andebol) - 14/02 15:00 - BTv",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses (Andebol) x Artística de Avanca (Andebol) - 14/02 15:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses (Andebol) x Artística de Avanca (Andebol) - 14/02 15:00 - AndebolTV",
@@ -299,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (B) x Belenenses - 15/02 11:00 - Canal11",
       "pubDate": "Sun, 15 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Sassuolo - 15/02 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Sassuolo - 15/02 11:30 - SportTV 2",
+      "pubDate": "Sun, 15 Feb 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 15/02 11:30 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 15/02 11:30 - ABola TV",
+      "pubDate": "Sun, 15 Feb 2026 11:30:00",
       "guid": ""
     }
   ]

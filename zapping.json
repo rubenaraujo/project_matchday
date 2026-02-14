@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Burton Albion x West Ham - 14/02 12:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burton Albion x West Ham - 14/02 12:15 - SportTV 2",
-      "pubDate": "Sat, 14 Feb 2026 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Celta de Vigo - 14/02 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Celta de Vigo - 14/02 13:00 - DAZN 1",
-      "pubDate": "Sat, 14 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académico x UD Oliveirense - 14/02 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico x UD Oliveirense - 14/02 14:00 - SportTV +",
@@ -299,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 14/02 21:00 - BTv",
       "pubDate": "Sat, 14 Feb 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Torreense - 15/02 11:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Torreense - 15/02 11:00 - SportTV 6",
+      "pubDate": "Sun, 15 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Marítimo - 15/02 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Marítimo - 15/02 11:00 - SportTV 1",
+      "pubDate": "Sun, 15 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Portimonense - 15/02 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Portimonense - 15/02 11:00 - SportingTv",
+      "pubDate": "Sun, 15 Feb 2026 11:00:00",
       "guid": ""
     }
   ]

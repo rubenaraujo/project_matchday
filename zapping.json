@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses (Andebol) x Artística de Avanca (Andebol) - 14/02 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x Artística de Avanca (Andebol) - 14/02 15:00 - AndebolTV",
-      "pubDate": "Sat, 14 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x FC Arouca - 14/02 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x FC Arouca - 14/02 15:30 - SportTV 1",
-      "pubDate": "Sat, 14 Feb 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense x Leixões - 14/02 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense x Leixões - 14/02 15:30 - SportTV 2",
-      "pubDate": "Sat, 14 Feb 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Strasbourg - 14/02 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Strasbourg - 14/02 16:00 - SportTV 3",
-      "pubDate": "Sat, 14 Feb 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Trabzonspor x Fenerbahçe - 14/02 17:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trabzonspor x Fenerbahçe - 14/02 17:00 - SportTV 6",
@@ -243,6 +215,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 15/02 11:30 - ABola TV",
       "pubDate": "Sun, 15 Feb 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Leeds United - 15/02 12:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Leeds United - 15/02 12:00 - SportTV 3",
+      "pubDate": "Sun, 15 Feb 2026 12:00:00",
       "guid": ""
     }
   ]

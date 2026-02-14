@@ -1,37 +1,9 @@
 {
   "items": [
     {
-      "title": "Gil Vicente x SC Braga - 14/02 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x SC Braga - 14/02 20:30 - SportTV 1",
-      "pubDate": "Sat, 14 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "GDESSA (Basket Feminino) x Benfica (Basket Feminino) - 14/02 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GDESSA (Basket Feminino) x Benfica (Basket Feminino) - 14/02 20:30 - DAZN 2",
-      "pubDate": "Sat, 14 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "GD Árvore (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/02 21:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Árvore (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/02 21:00 - Canal11",
-      "pubDate": "Sat, 14 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Póvoa AC (Andebol) - 14/02 21:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Póvoa AC (Andebol) - 14/02 21:00 - SportingTv",
-      "pubDate": "Sat, 14 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 14/02 21:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 14/02 21:00 - BTv",
       "pubDate": "Sat, 14 Feb 2026 21:00:00",
       "guid": ""
     },
@@ -278,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
       "pubDate": "Sun, 15 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x SC Braga - 15/02 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x SC Braga - 15/02 19:00 - Canal11",
+      "pubDate": "Sun, 15 Feb 2026 19:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Birmingham City x Leeds United - 15/02 12:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Birmingham City x Leeds United - 15/02 12:00 - SportTV 3",
-      "pubDate": "Sun, 15 Feb 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Athletic Bilbao - 15/02 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Athletic Bilbao - 15/02 13:00 - DAZN 1",
-      "pubDate": "Sun, 15 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Grimsby Town x Wolverhampton - 15/02 13:30 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grimsby Town x Wolverhampton - 15/02 13:30 - SportTV +",
@@ -278,6 +264,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1º Classificado x 2º Classificado - 16/02 00:10 - SportTV 2",
       "pubDate": "Mon, 16 Feb 2026 00:10:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara (S23) x Leixões (S23) - 16/02 12:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x Leixões (S23) - 16/02 12:00 - Canal11",
+      "pubDate": "Mon, 16 Feb 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x Lusitânia de Lourosa - 16/02 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x Lusitânia de Lourosa - 16/02 18:00 - SportTV +",
+      "pubDate": "Mon, 16 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Lecce - 16/02 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Lecce - 16/02 19:45 - SportTV 2",
+      "pubDate": "Mon, 16 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x Middlesbrough - 16/02 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x Middlesbrough - 16/02 20:00 - SportTV 3",
+      "pubDate": "Mon, 16 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

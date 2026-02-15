@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Leões Porto Salvo (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 15/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 15/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 15 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sousense x Lousada - 15/02 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sousense x Lousada - 15/02 15:00 - ABola TV",
-      "pubDate": "Sun, 15 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x FC Porto - 15/02 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x FC Porto - 15/02 15:30 - SportTV 1",
-      "pubDate": "Sun, 15 Feb 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Canadá (Hóquei no Gelo  Seniores) x França (Hóquei no Gelo  Seniores) - 15/02 15:40 - EuroSport2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Canadá (Hóquei no Gelo  Seniores) x França (Hóquei no Gelo  Seniores) - 15/02 15:40 - EuroSport2",
@@ -264,6 +243,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Juventus - 17/02 17:45 - DAZN 1",
       "pubDate": "Tue, 17 Feb 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x RK Vardar (Andebol) - 17/02 17:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x RK Vardar (Andebol) - 17/02 17:45 - BTv",
+      "pubDate": "Tue, 17 Feb 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Skanderborg AGF (Andebol) - 17/02 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Skanderborg AGF (Andebol) - 17/02 19:45 - PortoCanal",
+      "pubDate": "Tue, 17 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Real Madrid - 17/02 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Real Madrid - 17/02 20:00 - SportTV 5",
+      "pubDate": "Tue, 17 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x PSG - 17/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x PSG - 17/02 20:00 - DAZN 1",
+      "pubDate": "Tue, 17 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

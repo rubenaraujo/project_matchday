@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "GD Árvore (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/02 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Árvore (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 14/02 21:00 - Canal11",
-      "pubDate": "Sat, 14 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Paços de Ferreira x Torreense - 15/02 11:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x Torreense - 15/02 11:00 - SportTV 6",
@@ -257,6 +250,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fafe x SC Braga - 15/02 19:00 - Canal11",
       "pubDate": "Sun, 15 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Roma - 15/02 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Roma - 15/02 19:45 - SportTV 2",
+      "pubDate": "Sun, 15 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Nice - 15/02 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Nice - 15/02 19:45 - SportTV 6",
+      "pubDate": "Sun, 15 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Real Betis - 15/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Real Betis - 15/02 20:00 - DAZN 1",
+      "pubDate": "Sun, 15 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Castellón x Deportivo - 15/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Castellón x Deportivo - 15/02 20:00 - DAZN 2",
+      "pubDate": "Sun, 15 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x FC Famalicão - 15/02 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x FC Famalicão - 15/02 20:30 - SportTV 1",
+      "pubDate": "Sun, 15 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "USA Stars (Basket) x Team World (Basket) - 15/02 22:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USA Stars (Basket) x Team World (Basket) - 15/02 22:00 - SportTV 2",
+      "pubDate": "Sun, 15 Feb 2026 22:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
-      "pubDate": "Sun, 15 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x SC Braga - 15/02 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x SC Braga - 15/02 19:00 - Canal11",
-      "pubDate": "Sun, 15 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Napoli x Roma - 15/02 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Roma - 15/02 19:45 - SportTV 2",
@@ -264,6 +250,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Club Brugge x Atlético de Madrid - 18/02 20:00 - DAZN 1",
       "pubDate": "Wed, 18 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bodo/Glimt x Internazionale - 18/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bodo/Glimt x Internazionale - 18/02 20:00 - DAZN 2",
+      "pubDate": "Wed, 18 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 18/02 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 18/02 20:30 - Canal11",
+      "pubDate": "Wed, 18 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x CRIAR-T (Hóquei Feminino) - 18/02 21:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x CRIAR-T (Hóquei Feminino) - 18/02 21:00 - BTv",
+      "pubDate": "Wed, 18 Feb 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional Potosí x Botafogo - 19/02 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional Potosí x Botafogo - 19/02 00:30 - SportTV 1",
+      "pubDate": "Thu, 19 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gamba Osaka x Pohang Steelers - 19/02 10:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gamba Osaka x Pohang Steelers - 19/02 10:00 - Canal11",
+      "pubDate": "Thu, 19 Feb 2026 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora (S23) x Marítimo (S23) - 19/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora (S23) x Marítimo (S23) - 19/02 15:00 - Canal11",
+      "pubDate": "Thu, 19 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x Portimonense (S23) - 19/02 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x Portimonense (S23) - 19/02 17:30 - Canal11",
+      "pubDate": "Thu, 19 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 15/02 16:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 15/02 16:00 - PortoCanal",
-      "pubDate": "Sun, 15 Feb 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões (Voleibol Feminino) x Benfica (Voleibol Feminino) - 15/02 17:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (Voleibol Feminino) x Benfica (Voleibol Feminino) - 15/02 17:00 - ABola TV",
-      "pubDate": "Sun, 15 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Valencia - 15/02 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Valencia - 15/02 17:30 - DAZN 1",
-      "pubDate": "Sun, 15 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x Estoril Praia - 15/02 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Estoril Praia - 15/02 18:00 - SportTV 3",
-      "pubDate": "Sun, 15 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria x FC Porto - 15/02 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x FC Porto - 15/02 18:00 - SportTV +",
-      "pubDate": "Sun, 15 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Unicaja (Basket) x Real Madrid (Basket) - 15/02 18:00 - DAZN 3",
@@ -250,6 +215,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pick Szeged (Andebol) x Barcelona (Andebol) - 18/02 17:45 - SportTV 3",
       "pubDate": "Wed, 18 Feb 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Qarabag x Newcastle - 18/02 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Qarabag x Newcastle - 18/02 17:45 - DAZN 1",
+      "pubDate": "Wed, 18 Feb 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Hammarby (Feminino) x Sporting (Feminino) - 18/02 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hammarby (Feminino) x Sporting (Feminino) - 18/02 18:00 - SportTV 1",
+      "pubDate": "Wed, 18 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Arkadag - 18/02 18:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Arkadag - 18/02 18:15 - Canal11",
+      "pubDate": "Wed, 18 Feb 2026 18:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Berlin Recycling Volleys (Voleibol) x Umbria Volley Perugia (Voleibol) - 18/02 18:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Berlin Recycling Volleys (Voleibol) x Umbria Volley Perugia (Voleibol) - 18/02 18:30 - SportTV 4",
+      "pubDate": "Wed, 18 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Como 1907 - 18/02 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Como 1907 - 18/02 19:45 - SportTV 3",
+      "pubDate": "Wed, 18 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos x Bayer Leverkusen - 18/02 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos x Bayer Leverkusen - 18/02 20:00 - SportTV 5",
+      "pubDate": "Wed, 18 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Club Brugge x Atlético de Madrid - 18/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Club Brugge x Atlético de Madrid - 18/02 20:00 - DAZN 1",
+      "pubDate": "Wed, 18 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

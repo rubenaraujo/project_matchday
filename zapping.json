@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "USA Stripes (Basket) x Derrotado USA Stars/Team World - 15/02 23:25 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USA Stripes (Basket) x Derrotado USA Stars/Team World - 15/02 23:25 - SportTV 2",
-      "pubDate": "Sun, 15 Feb 2026 23:25:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Classificado x 2º Classificado - 16/02 00:10 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Classificado x 2º Classificado - 16/02 00:10 - SportTV 2",
-      "pubDate": "Mon, 16 Feb 2026 00:10:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Clara (S23) x Leixões (S23) - 16/02 12:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara (S23) x Leixões (S23) - 16/02 12:00 - Canal11",
@@ -281,6 +267,13 @@
       "guid": ""
     },
     {
+      "title": "Torreense (S23) x FC Famalicão (S23) - 20/02 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (S23) x FC Famalicão (S23) - 20/02 14:00 - Canal11",
+      "pubDate": "Fri, 20 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal (S15) x Espanha (S15) - 20/02 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S15) x Espanha (S15) - 20/02 16:00 - Canal11",
@@ -341,6 +334,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Racing Club - 20/02 23:00 - SportTV 1",
       "pubDate": "Fri, 20 Feb 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Talleres - 21/02 01:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Talleres - 21/02 01:15 - SportTV 1",
+      "pubDate": "Sat, 21 Feb 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x Racing Power FC (Feminino) - 21/02 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x Racing Power FC (Feminino) - 21/02 11:00 - C11 Stream",
+      "pubDate": "Sat, 21 Feb 2026 11:00:00",
       "guid": ""
     }
   ]

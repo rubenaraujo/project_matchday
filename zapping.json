@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray x Juventus - 17/02 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Juventus - 17/02 17:45 - DAZN 1",
-      "pubDate": "Tue, 17 Feb 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "CH Carvalhos (Hóquei) x SC Tomar (Hóquei) - 17/02 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CH Carvalhos (Hóquei) x SC Tomar (Hóquei) - 17/02 18:00 - FPP TV",
-      "pubDate": "Tue, 17 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x AD Valongo (Hóquei) - 17/02 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x AD Valongo (Hóquei) - 17/02 18:30 - FPP TV",
-      "pubDate": "Tue, 17 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Andebol) x Skanderborg AGF (Andebol) - 17/02 19:45 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Skanderborg AGF (Andebol) - 17/02 19:45 - PortoCanal",
@@ -292,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ludogorets Razgrad x Ferencváros - 19/02 20:00 - DAZN 4",
       "pubDate": "Thu, 19 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x Benfica (Futsal) - 19/02 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x Benfica (Futsal) - 19/02 20:30 - Canal11",
+      "pubDate": "Thu, 19 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lanús x Flamengo - 20/02 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lanús x Flamengo - 20/02 00:30 - SportTV 1",
+      "pubDate": "Fri, 20 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x SC Braga (S23) - 20/02 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x SC Braga (S23) - 20/02 11:00 - Canal11",
+      "pubDate": "Fri, 20 Feb 2026 11:00:00",
       "guid": ""
     }
   ]

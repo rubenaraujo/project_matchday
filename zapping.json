@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 17/02 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 17/02 20:00 - Canal11",
-      "pubDate": "Tue, 17 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x UD Oliveirense (Hóquei) - 17/02 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x UD Oliveirense (Hóquei) - 17/02 21:00 - FPP TV",
-      "pubDate": "Tue, 17 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Turquel (Hóquei) x Riba d´Ave (Hóquei) - 17/02 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x Riba d´Ave (Hóquei) - 17/02 21:00 - FPP TV",
-      "pubDate": "Tue, 17 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Ciudad De Bolívar - 18/02 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Ciudad De Bolívar - 18/02 01:00 - SportTV 1",
@@ -292,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x Ovarense Basquetebol (Basket) - 20/02 19:00 - BTv",
       "pubDate": "Fri, 20 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal) x Quinta dos Lombos (Futsal) - 20/02 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal) x Quinta dos Lombos (Futsal) - 20/02 19:30 - Canal11",
+      "pubDate": "Fri, 20 Feb 2026 19:30:00",
       "guid": ""
     }
   ]

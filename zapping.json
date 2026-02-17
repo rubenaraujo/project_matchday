@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Andebol) x Skanderborg AGF (Andebol) - 17/02 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Skanderborg AGF (Andebol) - 17/02 19:45 - PortoCanal",
-      "pubDate": "Tue, 17 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Real Madrid - 17/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Real Madrid - 17/02 20:00 - SportTV 5",
-      "pubDate": "Tue, 17 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x PSG - 17/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x PSG - 17/02 20:00 - DAZN 1",
-      "pubDate": "Tue, 17 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund x Atalanta - 17/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Atalanta - 17/02 20:00 - DAZN 2",
-      "pubDate": "Tue, 17 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Blackpool x Mansfield Town - 17/02 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Blackpool x Mansfield Town - 17/02 20:00 - SportTV 1",
-      "pubDate": "Tue, 17 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 17/02 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 17/02 20:00 - Canal11",
@@ -299,6 +264,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (S23) x FC Famalicão (S23) - 20/02 14:00 - Canal11",
       "pubDate": "Fri, 20 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S15) x Espanha (S15) - 20/02 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S15) x Espanha (S15) - 20/02 16:00 - Canal11",
+      "pubDate": "Fri, 20 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "VfL Bochum x FC Nürnberg - 20/02 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "VfL Bochum x FC Nürnberg - 20/02 17:30 - DAZN 1",
+      "pubDate": "Fri, 20 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x FC Vizela - 20/02 18:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x FC Vizela - 20/02 18:45 - SportTV +",
+      "pubDate": "Fri, 20 Feb 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x Ovarense Basquetebol (Basket) - 20/02 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x Ovarense Basquetebol (Basket) - 20/02 19:00 - BTv",
+      "pubDate": "Fri, 20 Feb 2026 19:00:00",
       "guid": ""
     }
   ]

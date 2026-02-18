@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Voleibol) x Asseco Resovia (Voleibol) - 18/02 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Asseco Resovia (Voleibol) - 18/02 19:30 - SportingTv",
-      "pubDate": "Wed, 18 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Como 1907 - 18/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Como 1907 - 18/02 19:45 - SportTV 3",
-      "pubDate": "Wed, 18 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Olympiacos x Bayer Leverkusen - 18/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos x Bayer Leverkusen - 18/02 20:00 - SportTV 5",
-      "pubDate": "Wed, 18 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Club Brugge x Atlético de Madrid - 18/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Club Brugge x Atlético de Madrid - 18/02 20:00 - DAZN 1",
-      "pubDate": "Wed, 18 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bodo/Glimt x Internazionale - 18/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bodo/Glimt x Internazionale - 18/02 20:00 - DAZN 2",
-      "pubDate": "Wed, 18 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Arsenal - 18/02 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Arsenal - 18/02 20:00 - DAZN 3",
-      "pubDate": "Wed, 18 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 18/02 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 18/02 20:00 - DAZN 4",
-      "pubDate": "Wed, 18 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 18/02 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 18/02 20:30 - Canal11",
-      "pubDate": "Wed, 18 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Hóquei Feminino) x CRIAR-T (Hóquei Feminino) - 18/02 21:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei Feminino) x CRIAR-T (Hóquei Feminino) - 18/02 21:00 - BTv",
@@ -306,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Benfica - 21/02 11:00 - SportTV 1",
       "pubDate": "Sat, 21 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x Vitória SC - 21/02 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x Vitória SC - 21/02 11:00 - Canal11",
+      "pubDate": "Sat, 21 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 21/02 11:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 21/02 11:00 - BTv",
+      "pubDate": "Sat, 21 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Darmstadt 98 x Fortuna Düsseldorf - 21/02 12:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Darmstadt 98 x Fortuna Düsseldorf - 21/02 12:00 - DAZN 2",
+      "pubDate": "Sat, 21 Feb 2026 12:00:00",
       "guid": ""
     }
   ]

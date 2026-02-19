@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "HBC Nantes (Andebol) x Sporting (Andebol) - 19/02 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HBC Nantes (Andebol) x Sporting (Andebol) - 19/02 19:45 - SportingTv",
-      "pubDate": "Thu, 19 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Celtic x Stuttgart - 19/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Stuttgart - 19/02 20:00 - SportTV 5",
-      "pubDate": "Thu, 19 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Crvena Zvezda - 19/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Crvena Zvezda - 19/02 20:00 - DAZN 1",
-      "pubDate": "Thu, 19 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Panathinaikos x Viktoria Plze#328; - 19/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Panathinaikos x Viktoria Plze#328; - 19/02 20:00 - DAZN 2",
-      "pubDate": "Thu, 19 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Jagiellonia Bialystok x Fiorentina - 19/02 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Jagiellonia Bialystok x Fiorentina - 19/02 20:00 - DAZN 3",
-      "pubDate": "Thu, 19 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ludogorets Razgrad x Ferencváros - 19/02 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ludogorets Razgrad x Ferencváros - 19/02 20:00 - DAZN 4",
-      "pubDate": "Thu, 19 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Benfica (Futsal) - 19/02 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Benfica (Futsal) - 19/02 20:30 - Canal11",
-      "pubDate": "Thu, 19 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lanús x Flamengo - 20/02 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lanús x Flamengo - 20/02 00:30 - SportTV 1",
@@ -299,6 +250,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - SportingTv",
       "pubDate": "Sat, 21 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.A S19) x FC Porto (Jun.A S19) - 21/02 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.A S19) x FC Porto (Jun.A S19) - 21/02 15:00 - BTv",
+      "pubDate": "Sat, 21 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Rayo Vallecano - 21/02 15:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Rayo Vallecano - 21/02 15:15 - DAZN 1",
+      "pubDate": "Sat, 21 Feb 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Santa Clara - 21/02 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Santa Clara - 21/02 15:30 - SportTV 1",
+      "pubDate": "Sat, 21 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Nacional - 21/02 15:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Nacional - 21/02 15:30 - SportTV 4",
+      "pubDate": "Sat, 21 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Monaco - 21/02 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Monaco - 21/02 16:00 - SportTV 3",
+      "pubDate": "Sat, 21 Feb 2026 16:00:00",
       "guid": ""
     }
   ]

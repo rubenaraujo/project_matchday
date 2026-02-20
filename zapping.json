@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Mainz x Hamburger SV - 20/02 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x Hamburger SV - 20/02 19:30 - DAZN 2",
-      "pubDate": "Fri, 20 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Brest x Marseille - 20/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brest x Marseille - 20/02 19:45 - SportTV 3",
-      "pubDate": "Fri, 20 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Hellas Verona - 20/02 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Hellas Verona - 20/02 19:45 - SportTV 2",
-      "pubDate": "Fri, 20 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Elche - 20/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Elche - 20/02 20:00 - DAZN 1",
-      "pubDate": "Fri, 20 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Andebol) x ABC (Andebol) - 20/02 20:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Andebol) x ABC (Andebol) - 20/02 20:00 - AndebolTV",
-      "pubDate": "Fri, 20 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Estados Unidos (Hóquei no Gelo  Seniores) x Eslováquia (Hóquei no Gelo  Seniores) - 20/02 20:10 - EuroSport1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estados Unidos (Hóquei no Gelo  Seniores) x Eslováquia (Hóquei no Gelo  Seniores) - 20/02 20:10 - EuroSport1",
@@ -319,6 +284,13 @@
       "title": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 21/02 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 21/02 18:00 - C11 Stream",
+      "pubDate": "Sat, 21 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x AFS - 21/02 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x AFS - 21/02 18:00 - BTv",
       "pubDate": "Sat, 21 Feb 2026 18:00:00",
       "guid": ""
     }

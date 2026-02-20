@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Estados Unidos (Hóquei no Gelo  Seniores) x Eslováquia (Hóquei no Gelo  Seniores) - 20/02 20:10 - EuroSport1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estados Unidos (Hóquei no Gelo  Seniores) x Eslováquia (Hóquei no Gelo  Seniores) - 20/02 20:10 - EuroSport1",
-      "pubDate": "Fri, 20 Feb 2026 20:10:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x CD Tondela - 20/02 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x CD Tondela - 20/02 20:45 - SportTV 1",
-      "pubDate": "Fri, 20 Feb 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Eléctrico (Futsal) x SC Braga (Futsal) - 20/02 21:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x SC Braga (Futsal) - 20/02 21:00 - C11 Stream",
-      "pubDate": "Fri, 20 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Racing Club - 20/02 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Racing Club - 20/02 23:00 - SportTV 1",
@@ -291,6 +270,20 @@
       "title": "Benfica x AFS - 21/02 18:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x AFS - 21/02 18:00 - BTv",
+      "pubDate": "Sat, 21 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x UD Leiria - 21/02 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x UD Leiria - 21/02 18:00 - SportTV 1",
+      "pubDate": "Sat, 21 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toulouse x Paris FC - 21/02 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toulouse x Paris FC - 21/02 18:00 - SportTV 3",
       "pubDate": "Sat, 21 Feb 2026 18:00:00",
       "guid": ""
     }

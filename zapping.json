@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "VfL Bochum x FC Nürnberg - 20/02 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "VfL Bochum x FC Nürnberg - 20/02 17:30 - DAZN 1",
-      "pubDate": "Fri, 20 Feb 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões x FC Vizela - 20/02 18:45 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x FC Vizela - 20/02 18:45 - SportTV +",
@@ -333,6 +326,20 @@
       "title": "Moreirense x Sporting - 21/02 18:00 - TVI",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense x Sporting - 21/02 18:00 - TVI",
+      "pubDate": "Sat, 21 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 21/02 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 21/02 18:00 - C11 Stream",
+      "pubDate": "Sat, 21 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 21/02 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 21/02 18:00 - C11 Stream",
       "pubDate": "Sat, 21 Feb 2026 18:00:00",
       "guid": ""
     }

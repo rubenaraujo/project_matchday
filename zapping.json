@@ -232,9 +232,9 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - SportingTv",
+      "title": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - SportingTv",
+      "description": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - FPP TV",
       "pubDate": "Sat, 21 Feb 2026 15:00:00",
       "guid": ""
     },
@@ -302,6 +302,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Hóquei) x AD Sanjoanense (Hóquei) - 21/02 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x AD Sanjoanense (Hóquei) - 21/02 17:00 - FPP TV",
+      "pubDate": "Sat, 21 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
       "title": "Varzim x Trofense - 21/02 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Varzim x Trofense - 21/02 17:30 - Canal11",
@@ -330,17 +337,10 @@
       "guid": ""
     },
     {
-      "title": "Moreirense x Sporting - 21/02 18:00 - TVI",
+      "title": "Juventude Pacense (Hóquei) x HC Turquel (Hóquei) - 21/02 17:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x Sporting - 21/02 18:00 - TVI",
-      "pubDate": "Sat, 21 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Futsal Feijó (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 21/02 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 21/02 18:00 - C11 Stream",
-      "pubDate": "Sat, 21 Feb 2026 18:00:00",
+      "description": "Juventude Pacense (Hóquei) x HC Turquel (Hóquei) - 21/02 17:30 - FPP TV",
+      "pubDate": "Sat, 21 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Eslováquia (Hóquei no Gelo  Seniores) x Finlândia (Hóquei no Gelo  Seniores) - 21/02 19:40 - EuroSport1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslováquia (Hóquei no Gelo  Seniores) x Finlândia (Hóquei no Gelo  Seniores) - 21/02 19:40 - EuroSport1",
-      "pubDate": "Sat, 21 Feb 2026 19:40:00",
-      "guid": ""
-    },
-    {
-      "title": "Cagliari x Lazio - 21/02 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Lazio - 21/02 19:45 - SportTV 6",
-      "pubDate": "Sat, 21 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x Académica OAF - 21/02 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Académica OAF - 21/02 20:00 - Canal11",
-      "pubDate": "Sat, 21 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Newcastle - 21/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Newcastle - 21/02 20:00 - DAZN 1",
-      "pubDate": "Sat, 21 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Espanyol - 21/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Espanyol - 21/02 20:00 - DAZN 2",
-      "pubDate": "Sat, 21 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x NEC - 21/02 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x NEC - 21/02 20:00 - DAZN 3",
-      "pubDate": "Sat, 21 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal da Devesa (Andebol) x Benfica (Andebol) - 21/02 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal da Devesa (Andebol) x Benfica (Andebol) - 21/02 20:00 - BTv",
-      "pubDate": "Sat, 21 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Metz - 21/02 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Metz - 21/02 20:05 - SportTV 3",
-      "pubDate": "Sat, 21 Feb 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
@@ -201,6 +145,111 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Metz Handball (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 22/02 15:00 - SportTV 6",
       "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x AD Sanjoanense - 22/02 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x AD Sanjoanense - 22/02 15:00 - C11 Stream",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (B) x AD Marco 09 - 22/02 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (B) x AD Marco 09 - 22/02 15:00 - C11 Stream",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitano GC x Amora FC - 22/02 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitano GC x Amora FC - 22/02 15:00 - C11 Stream",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1º Dezembro x Atlético CP - 22/02 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1º Dezembro x Atlético CP - 22/02 15:00 - C11 Stream",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Livingston x Rangers - 22/02 15:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Livingston x Rangers - 22/02 15:00 - SportTV 4",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x CA Madalena (Voleibol) - 22/02 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x CA Madalena (Voleibol) - 22/02 15:00 - SportingTv",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x Sporting (Voleibol Feminino) - 22/02 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x Sporting (Voleibol Feminino) - 22/02 15:00 - BTv",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boavista SAD x SC Rio Tinto - 22/02 15:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boavista SAD x SC Rio Tinto - 22/02 15:00 - ABola TV",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Levante - 22/02 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Levante - 22/02 15:15 - DAZN 2",
+      "pubDate": "Sun, 22 Feb 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Académico - 22/02 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Académico - 22/02 15:30 - SportTV 1",
+      "pubDate": "Sun, 22 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Covilhã x Caldas SC - 22/02 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Covilhã x Caldas SC - 22/02 16:00 - C11 Stream",
+      "pubDate": "Sun, 22 Feb 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x Lille - 22/02 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x Lille - 22/02 16:15 - SportTV 3",
+      "pubDate": "Sun, 22 Feb 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x FC Lorient - 22/02 16:15 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x FC Lorient - 22/02 16:15 - SportTV +",
+      "pubDate": "Sun, 22 Feb 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Arsenal - 22/02 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Arsenal - 22/02 16:30 - DAZN 1",
+      "pubDate": "Sun, 22 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC St. Pauli x Werder Bremen - 22/02 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC St. Pauli x Werder Bremen - 22/02 16:30 - DAZN 3",
+      "pubDate": "Sun, 22 Feb 2026 16:30:00",
       "guid": ""
     }
   ]

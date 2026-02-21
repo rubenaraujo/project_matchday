@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético CP (Futsal Feminino) x Novasemente (Futsal Feminino) - 21/02 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP (Futsal Feminino) x Novasemente (Futsal Feminino) - 21/02 17:00 - C11 Stream",
-      "pubDate": "Sat, 21 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Futsal Feijó (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 21/02 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Casa Povo Freixo (Futsal Feminino) - 21/02 18:00 - C11 Stream",
-      "pubDate": "Sat, 21 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 21/02 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 21/02 18:00 - C11 Stream",
-      "pubDate": "Sat, 21 Feb 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Águas Santas (Andebol) x FC Porto (Andebol) - 21/02 18:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águas Santas (Andebol) x FC Porto (Andebol) - 21/02 18:30 - PortoCanal",
-      "pubDate": "Sat, 21 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 21/02 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 21/02 18:30 - SportingTv",
-      "pubDate": "Sat, 21 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Belenenses (Andebol) - 21/02 18:30 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Belenenses (Andebol) - 21/02 18:30 - ABola TV",
-      "pubDate": "Sat, 21 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x CD Póvoa (Hóquei) - 21/02 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x CD Póvoa (Hóquei) - 21/02 18:30 - FPP TV",
-      "pubDate": "Sat, 21 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x OC Barcelos (Hóquei) - 21/02 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x OC Barcelos (Hóquei) - 21/02 19:00 - DAZN 4",
-      "pubDate": "Sat, 21 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Hazm - 21/02 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Hazm - 21/02 19:00 - SportTV 4",
-      "pubDate": "Sat, 21 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Eslováquia (Hóquei no Gelo  Seniores) x Finlândia (Hóquei no Gelo  Seniores) - 21/02 19:40 - EuroSport1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Eslováquia (Hóquei no Gelo  Seniores) x Finlândia (Hóquei no Gelo  Seniores) - 21/02 19:40 - EuroSport1",
@@ -236,6 +173,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sunderland x Fulham - 22/02 14:00 - DAZN 4",
       "pubDate": "Sun, 22 Feb 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Borussia M´gladbach - 22/02 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Borussia M´gladbach - 22/02 14:30 - DAZN 3",
+      "pubDate": "Sun, 22 Feb 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia (Feminino) x Sporting (Feminino) - 22/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia (Feminino) x Sporting (Feminino) - 22/02 15:00 - Canal11",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x SC Braga (Feminino) - 22/02 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x SC Braga (Feminino) - 22/02 15:00 - C11 Stream",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz Handball (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 22/02 15:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz Handball (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 22/02 15:00 - SportTV 6",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00",
       "guid": ""
     }
   ]

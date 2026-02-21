@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Racing Club - 20/02 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Racing Club - 20/02 23:00 - SportTV 1",
-      "pubDate": "Fri, 20 Feb 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Talleres - 21/02 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Talleres - 21/02 01:15 - SportTV 1",
@@ -319,6 +312,20 @@
       "title": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 21/02 18:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 21/02 18:30 - SportingTv",
+      "pubDate": "Sat, 21 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Andebol) x Belenenses (Andebol) - 21/02 18:30 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x Belenenses (Andebol) - 21/02 18:30 - ABola TV",
+      "pubDate": "Sat, 21 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Valongo (Hóquei) x CD Póvoa (Hóquei) - 21/02 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Valongo (Hóquei) x CD Póvoa (Hóquei) - 21/02 18:30 - FPP TV",
       "pubDate": "Sat, 21 Feb 2026 18:30:00",
       "guid": ""
     }

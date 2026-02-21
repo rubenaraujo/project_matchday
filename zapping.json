@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "West Bromwich x Coventry City - 21/02 12:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Bromwich x Coventry City - 21/02 12:30 - SportTV 4",
-      "pubDate": "Sat, 21 Feb 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Real Oviedo - 21/02 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Real Oviedo - 21/02 13:00 - DAZN 1",
-      "pubDate": "Sat, 21 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo x Sporting - 21/02 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo x Sporting - 21/02 14:00 - SportTV +",
@@ -306,6 +292,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Lazio - 21/02 19:45 - SportTV 6",
       "pubDate": "Sat, 21 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x Académica OAF - 21/02 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x Académica OAF - 21/02 20:00 - Canal11",
+      "pubDate": "Sat, 21 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Newcastle - 21/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Newcastle - 21/02 20:00 - DAZN 1",
+      "pubDate": "Sat, 21 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Espanyol - 21/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Espanyol - 21/02 20:00 - DAZN 2",
+      "pubDate": "Sat, 21 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x NEC - 21/02 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x NEC - 21/02 20:00 - DAZN 3",
+      "pubDate": "Sat, 21 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

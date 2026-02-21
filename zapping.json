@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Juventus x Como 1907 - 21/02 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Como 1907 - 21/02 14:00 - SportTV 2",
-      "pubDate": "Sat, 21 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Eintracht Frankfurt - 21/02 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Eintracht Frankfurt - 21/02 14:30 - DAZN 3",
-      "pubDate": "Sat, 21 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Rio Ave (Feminino) - 21/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Rio Ave (Feminino) - 21/02 15:00 - C11 Stream",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x CD Mafra - 21/02 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x CD Mafra - 21/02 15:00 - Canal11",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "S. João Ver x Fafe - 21/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x Fafe - 21/02 15:00 - C11 Stream",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Southampton x Charlton Athletic - 21/02 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x Charlton Athletic - 21/02 15:00 - SportTV 6",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Leeds United - 21/02 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Leeds United - 21/02 15:00 - DAZN 2",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Burnley - 21/02 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Burnley - 21/02 15:00 - DAZN 4",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x CH Carvalhos (Hóquei) - 21/02 15:00 - FPP TV",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Jun.A S19) x FC Porto (Jun.A S19) - 21/02 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.A S19) x FC Porto (Jun.A S19) - 21/02 15:00 - BTv",
-      "pubDate": "Sat, 21 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Betis x Rayo Vallecano - 21/02 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Rayo Vallecano - 21/02 15:15 - DAZN 1",
@@ -320,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal da Devesa (Andebol) x Benfica (Andebol) - 21/02 20:00 - BTv",
       "pubDate": "Sat, 21 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Metz - 21/02 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Metz - 21/02 20:05 - SportTV 3",
+      "pubDate": "Sat, 21 Feb 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
+      "pubDate": "Sat, 21 Feb 2026 20:30:00",
       "guid": ""
     }
   ]

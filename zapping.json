@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
-      "pubDate": "Sat, 21 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (HóqueiB) x Sporting (Hóquei) - 21/02 21:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (HóqueiB) x Sporting (Hóquei) - 21/02 21:00 - BTv",
-      "pubDate": "Sat, 21 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "CP Esgueira (Basket) x SC Braga (Basket) - 21/02 21:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CP Esgueira (Basket) x SC Braga (Basket) - 21/02 21:30 - DAZN 4",
@@ -250,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC St. Pauli x Werder Bremen - 22/02 16:30 - DAZN 3",
       "pubDate": "Sun, 22 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Parma - 22/02 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Parma - 22/02 17:00 - SportTV 4",
+      "pubDate": "Sun, 22 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Riba d´Ave (Hóquei) x FC Porto (Hóquei) - 22/02 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba d´Ave (Hóquei) x FC Porto (Hóquei) - 22/02 17:00 - FPP TV",
+      "pubDate": "Sun, 22 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Goztepe - 22/02 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Goztepe - 22/02 17:00 - SportTV 5",
+      "pubDate": "Sun, 22 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ADCR Caxinas Poça Barca (Futsal) x Rio Ave (Futsal) - 22/02 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ADCR Caxinas Poça Barca (Futsal) x Rio Ave (Futsal) - 22/02 17:30 - Canal11",
+      "pubDate": "Sun, 22 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Mallorca - 22/02 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Mallorca - 22/02 17:30 - DAZN 2",
+      "pubDate": "Sun, 22 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

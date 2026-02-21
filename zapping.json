@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo x Sporting - 21/02 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x Sporting - 21/02 14:00 - SportTV +",
-      "pubDate": "Sat, 21 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Juventus x Como 1907 - 21/02 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Como 1907 - 21/02 14:00 - SportTV 2",
@@ -319,6 +312,13 @@
       "title": "Ajax x NEC - 21/02 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x NEC - 21/02 20:00 - DAZN 3",
+      "pubDate": "Sat, 21 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal da Devesa (Andebol) x Benfica (Andebol) - 21/02 20:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal da Devesa (Andebol) x Benfica (Andebol) - 21/02 20:00 - BTv",
       "pubDate": "Sat, 21 Feb 2026 20:00:00",
       "guid": ""
     }

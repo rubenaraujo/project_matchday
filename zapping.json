@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "FC Alverca x Santa Clara - 21/02 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Santa Clara - 21/02 15:30 - SportTV 1",
-      "pubDate": "Sat, 21 Feb 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Arouca x Nacional - 21/02 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Nacional - 21/02 15:30 - SportTV 4",
-      "pubDate": "Sat, 21 Feb 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Monaco - 21/02 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Monaco - 21/02 16:00 - SportTV 3",
-      "pubDate": "Sat, 21 Feb 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Galitos FC (Basket) x FC Porto (Basket) - 21/02 16:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galitos FC (Basket) x FC Porto (Basket) - 21/02 16:00 - RTP2",
@@ -264,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Vitória SC - 21/02 20:30 - SportTV 1",
       "pubDate": "Sat, 21 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (HóqueiB) x Sporting (Hóquei) - 21/02 21:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (HóqueiB) x Sporting (Hóquei) - 21/02 21:00 - BTv",
+      "pubDate": "Sat, 21 Feb 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CP Esgueira (Basket) x SC Braga (Basket) - 21/02 21:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CP Esgueira (Basket) x SC Braga (Basket) - 21/02 21:30 - DAZN 4",
+      "pubDate": "Sat, 21 Feb 2026 21:30:00",
       "guid": ""
     }
   ]

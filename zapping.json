@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "1. FC Heidenheim 1846 x Stuttgart - 22/02 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Heidenheim 1846 x Stuttgart - 22/02 18:30 - DAZN 3",
-      "pubDate": "Sun, 22 Feb 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (FutsalB) x JOMA (Futsal) - 22/02 19:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (FutsalB) x JOMA (Futsal) - 22/02 19:00 - BTv",
-      "pubDate": "Sun, 22 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Strasbourg x Lyon - 22/02 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Strasbourg x Lyon - 22/02 19:45 - SportTV 3",
@@ -250,6 +236,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x Académico (S23) - 25/02 11:00 - Canal11",
       "pubDate": "Wed, 25 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (S23) x Torreense (S23) - 25/02 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (S23) x Torreense (S23) - 25/02 15:00 - Canal11",
+      "pubDate": "Wed, 25 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal  S17) x Ucrânia (Futsal  S17) - 25/02 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal  S17) x Ucrânia (Futsal  S17) - 25/02 17:00 - Canal11",
+      "pubDate": "Wed, 25 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Borussia Dortmund - 25/02 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Borussia Dortmund - 25/02 17:45 - DAZN 1",
+      "pubDate": "Wed, 25 Feb 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Benfica - 25/02 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Benfica - 25/02 20:00 - SportTV 5",
+      "pubDate": "Wed, 25 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gimnasia x Rosario Central - 25/02 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gimnasia x Rosario Central - 25/02 20:00 - SportTV 3",
+      "pubDate": "Wed, 25 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stoke City x Oxford United - 25/02 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stoke City x Oxford United - 25/02 20:00 - SportTV 2",
+      "pubDate": "Wed, 25 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Monaco - 25/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Monaco - 25/02 20:00 - DAZN 1",
+      "pubDate": "Wed, 25 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
+      "pubDate": "Wed, 25 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

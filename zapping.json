@@ -1,72 +1,9 @@
 {
   "items": [
     {
-      "title": "SC Freiburg x Borussia M´gladbach - 22/02 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x Borussia M´gladbach - 22/02 14:30 - DAZN 3",
-      "pubDate": "Sun, 22 Feb 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Valadares Gaia (Feminino) x Sporting (Feminino) - 22/02 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valadares Gaia (Feminino) x Sporting (Feminino) - 22/02 15:00 - Canal11",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Feminino) x SC Braga (Feminino) - 22/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Feminino) x SC Braga (Feminino) - 22/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Metz Handball (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 22/02 15:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Metz Handball (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 22/02 15:00 - SportTV 6",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x AD Sanjoanense - 22/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x AD Sanjoanense - 22/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (B) x AD Marco 09 - 22/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x AD Marco 09 - 22/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x Amora FC - 22/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Amora FC - 22/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x Atlético CP - 22/02 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x Atlético CP - 22/02 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Livingston x Rangers - 22/02 15:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Livingston x Rangers - 22/02 15:00 - SportTV 4",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x CA Madalena (Voleibol) - 22/02 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x CA Madalena (Voleibol) - 22/02 15:00 - SportingTv",
       "pubDate": "Sun, 22 Feb 2026 15:00:00",
       "guid": ""
     },
@@ -285,6 +222,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Pisa - 23/02 17:30 - SportTV 2",
       "pubDate": "Mon, 23 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Qadisiyah x Al-Ettifaq - 23/02 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Qadisiyah x Al-Ettifaq - 23/02 19:00 - SportTV 3",
+      "pubDate": "Mon, 23 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Udinese - 23/02 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Udinese - 23/02 19:45 - SportTV 2",
+      "pubDate": "Mon, 23 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Manchester United - 23/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Manchester United - 23/02 20:00 - DAZN 1",
+      "pubDate": "Mon, 23 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

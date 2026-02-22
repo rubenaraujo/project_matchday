@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Damaiense (Feminino) x Benfica (Feminino) - 22/02 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Damaiense (Feminino) x Benfica (Feminino) - 22/02 11:00 - Canal11",
-      "pubDate": "Sun, 22 Feb 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Felgueiras x FC Penafiel - 22/02 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras x FC Penafiel - 22/02 11:00 - SportTV 1",
-      "pubDate": "Sun, 22 Feb 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.B S17) x FC Porto (Jun.B S17) - 22/02 11:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.B S17) x FC Porto (Jun.B S17) - 22/02 11:00 - SportingTv",
-      "pubDate": "Sun, 22 Feb 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Genoa x Torino - 22/02 11:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genoa x Torino - 22/02 11:30 - SportTV 2",
@@ -218,6 +197,13 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Basket) x Sporting (Basket) - 22/02 16:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x Sporting (Basket) - 22/02 16:30 - RTP2",
+      "pubDate": "Sun, 22 Feb 2026 16:30:00",
+      "guid": ""
+    },
+    {
       "title": "Milan x Parma - 22/02 17:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Parma - 22/02 17:00 - SportTV 4",
@@ -225,16 +211,16 @@
       "guid": ""
     },
     {
-      "title": "Riba d´Ave (Hóquei) x FC Porto (Hóquei) - 22/02 17:00 - FPP TV",
+      "title": "Besiktas x Goztepe - 22/02 17:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Riba d´Ave (Hóquei) x FC Porto (Hóquei) - 22/02 17:00 - FPP TV",
+      "description": "Besiktas x Goztepe - 22/02 17:00 - SportTV 5",
       "pubDate": "Sun, 22 Feb 2026 17:00:00",
       "guid": ""
     },
     {
-      "title": "Besiktas x Goztepe - 22/02 17:00 - SportTV 5",
+      "title": "Riba d´Ave (Hóquei) x FC Porto (Hóquei) - 22/02 17:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Goztepe - 22/02 17:00 - SportTV 5",
+      "description": "Riba d´Ave (Hóquei) x FC Porto (Hóquei) - 22/02 17:00 - PortoCanal",
       "pubDate": "Sun, 22 Feb 2026 17:00:00",
       "guid": ""
     },
@@ -334,13 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Golden State Warriors (Basket) x Denver Nuggets (Basket) - 22/02 20:30 - SportTV 2",
       "pubDate": "Sun, 22 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vélez Sarsfield x River Plate - 22/02 22:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vélez Sarsfield x River Plate - 22/02 22:15 - SportTV 5",
-      "pubDate": "Sun, 22 Feb 2026 22:15:00",
       "guid": ""
     }
   ]

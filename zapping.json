@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "CP Esgueira (Basket) x SC Braga (Basket) - 21/02 21:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket) x SC Braga (Basket) - 21/02 21:30 - DAZN 4",
-      "pubDate": "Sat, 21 Feb 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Phoenix Suns (Basket) x Orlando Magic (Basket) - 21/02 22:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Phoenix Suns (Basket) x Orlando Magic (Basket) - 21/02 22:00 - SportTV 6",
@@ -271,6 +264,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celta de Vigo x Mallorca - 22/02 17:30 - DAZN 2",
       "pubDate": "Sun, 22 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Gil Vicente - 22/02 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Gil Vicente - 22/02 18:00 - SportTV 2",
+      "pubDate": "Sun, 22 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitânia de Lourosa x Feirense - 22/02 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitânia de Lourosa x Feirense - 22/02 18:00 - SportTV 6",
+      "pubDate": "Sun, 22 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x Sporting (Andebol) - 22/02 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x Sporting (Andebol) - 22/02 18:00 - SportingTv",
+      "pubDate": "Sun, 22 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Heidenheim 1846 x Stuttgart - 22/02 18:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Heidenheim 1846 x Stuttgart - 22/02 18:30 - DAZN 3",
+      "pubDate": "Sun, 22 Feb 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (FutsalB) x JOMA (Futsal) - 22/02 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (FutsalB) x JOMA (Futsal) - 22/02 19:00 - BTv",
+      "pubDate": "Sun, 22 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Lyon - 22/02 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Lyon - 22/02 19:45 - SportTV 3",
+      "pubDate": "Sun, 22 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Cremonese - 22/02 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Cremonese - 22/02 19:45 - SportTV 7",
+      "pubDate": "Sun, 22 Feb 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 22/02 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 22/02 20:00 - Canal11",
+      "pubDate": "Sun, 22 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal x Valencia - 22/02 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal x Valencia - 22/02 20:00 - DAZN 1",
+      "pubDate": "Sun, 22 Feb 2026 20:00:00",
       "guid": ""
     }
   ]

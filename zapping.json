@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Canadá (Hóquei no Gelo  Seniores) x Estados Unidos (Hóquei no Gelo  Seniores) - 22/02 13:10 - EuroSport1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Canadá (Hóquei no Gelo  Seniores) x Estados Unidos (Hóquei no Gelo  Seniores) - 22/02 13:10 - EuroSport1",
-      "pubDate": "Sun, 22 Feb 2026 13:10:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x Farense - 22/02 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x Farense - 22/02 14:00 - SportTV +",
-      "pubDate": "Sun, 22 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Rennes - 22/02 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Rennes - 22/02 14:00 - SportTV 3",
-      "pubDate": "Sun, 22 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Napoli - 22/02 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Napoli - 22/02 14:00 - SportTV 2",
-      "pubDate": "Sun, 22 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Liverpool - 22/02 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Liverpool - 22/02 14:00 - DAZN 1",
-      "pubDate": "Sun, 22 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Fulham - 22/02 14:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Fulham - 22/02 14:00 - DAZN 4",
-      "pubDate": "Sun, 22 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Freiburg x Borussia M´gladbach - 22/02 14:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Borussia M´gladbach - 22/02 14:30 - DAZN 3",
@@ -320,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fenerbahçe x Kasimpasa - 23/02 17:00 - SportTV 1",
       "pubDate": "Mon, 23 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Pisa - 23/02 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Pisa - 23/02 17:30 - SportTV 2",
+      "pubDate": "Mon, 23 Feb 2026 17:30:00",
       "guid": ""
     }
   ]

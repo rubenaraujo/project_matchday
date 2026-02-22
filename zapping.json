@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Phoenix Suns (Basket) x Orlando Magic (Basket) - 21/02 22:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Phoenix Suns (Basket) x Orlando Magic (Basket) - 21/02 22:00 - SportTV 6",
-      "pubDate": "Sat, 21 Feb 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Houston Rockets (Basket) - 22/02 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Houston Rockets (Basket) - 22/02 01:30 - SportTV 2",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Valencia - 22/02 20:00 - DAZN 1",
       "pubDate": "Sun, 22 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Málaga x Albacete - 22/02 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Málaga x Albacete - 22/02 20:00 - DAZN 2",
+      "pubDate": "Sun, 22 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Rio Ave - 22/02 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Rio Ave - 22/02 20:30 - SportTV 1",
+      "pubDate": "Sun, 22 Feb 2026 20:30:00",
       "guid": ""
     }
   ]

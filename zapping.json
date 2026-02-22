@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Paderborn 07 x Hertha BSC - 22/02 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Paderborn 07 x Hertha BSC - 22/02 12:30 - DAZN 3",
-      "pubDate": "Sun, 22 Feb 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Sevilla - 22/02 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Sevilla - 22/02 13:00 - DAZN 2",
-      "pubDate": "Sun, 22 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Canadá (Hóquei no Gelo  Seniores) x Estados Unidos (Hóquei no Gelo  Seniores) - 22/02 13:10 - EuroSport1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Canadá (Hóquei no Gelo  Seniores) x Estados Unidos (Hóquei no Gelo  Seniores) - 22/02 13:10 - EuroSport1",
@@ -313,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Golden State Warriors (Basket) x Denver Nuggets (Basket) - 22/02 20:30 - SportTV 2",
       "pubDate": "Sun, 22 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vélez Sarsfield x River Plate - 22/02 22:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vélez Sarsfield x River Plate - 22/02 22:15 - SportTV 5",
+      "pubDate": "Sun, 22 Feb 2026 22:15:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x Boston Celtics (Basket) - 22/02 23:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x Boston Celtics (Basket) - 22/02 23:30 - SportTV 2",
+      "pubDate": "Sun, 22 Feb 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Kasimpasa - 23/02 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Kasimpasa - 23/02 17:00 - SportTV 1",
+      "pubDate": "Mon, 23 Feb 2026 17:00:00",
       "guid": ""
     }
   ]

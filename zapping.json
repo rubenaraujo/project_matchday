@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Strasbourg x Lyon - 22/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Lyon - 22/02 19:45 - SportTV 3",
-      "pubDate": "Sun, 22 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Cremonese - 22/02 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Cremonese - 22/02 19:45 - SportTV 7",
-      "pubDate": "Sun, 22 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 22/02 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 22/02 20:00 - Canal11",
-      "pubDate": "Sun, 22 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Valencia - 22/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Valencia - 22/02 20:00 - DAZN 1",
-      "pubDate": "Sun, 22 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Málaga x Albacete - 22/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Málaga x Albacete - 22/02 20:00 - DAZN 2",
-      "pubDate": "Sun, 22 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x Rio Ave - 22/02 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Rio Ave - 22/02 20:30 - SportTV 1",
@@ -292,6 +257,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
       "pubDate": "Wed, 25 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aliados Lordelo x Aliança de Gandra - 25/02 21:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aliados Lordelo x Aliança de Gandra - 25/02 21:00 - Online",
+      "pubDate": "Wed, 25 Feb 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Detroit Pistons (Basket) x Oklahoma City Thunder (Basket) - 26/02 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Detroit Pistons (Basket) x Oklahoma City Thunder (Basket) - 26/02 00:00 - SportTV 1",
+      "pubDate": "Thu, 26 Feb 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Botafogo x Nacional Potosí - 26/02 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Botafogo x Nacional Potosí - 26/02 00:30 - SportTV 1",
+      "pubDate": "Thu, 26 Feb 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Boston Celtics (Basket) - 26/02 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Boston Celtics (Basket) - 26/02 03:00 - SportTV 1",
+      "pubDate": "Thu, 26 Feb 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Riyadh x Al-Ahli Jeddah - 26/02 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Riyadh x Al-Ahli Jeddah - 26/02 19:00 - SportTV 1",
+      "pubDate": "Thu, 26 Feb 2026 19:00:00",
       "guid": ""
     }
   ]

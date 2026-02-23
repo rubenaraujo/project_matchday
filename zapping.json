@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "LA Lakers (Basket) x Boston Celtics (Basket) - 22/02 23:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x Boston Celtics (Basket) - 22/02 23:30 - SportTV 2",
-      "pubDate": "Sun, 22 Feb 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Fenerbahçe x Kasimpasa - 23/02 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fenerbahçe x Kasimpasa - 23/02 17:00 - SportTV 1",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x CD Mafra - 27/02 19:00 - Canal11",
       "pubDate": "Fri, 27 Feb 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Lens - 27/02 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Lens - 27/02 19:45 - SportTV 4",
+      "pubDate": "Fri, 27 Feb 2026 19:45:00",
       "guid": ""
     }
   ]

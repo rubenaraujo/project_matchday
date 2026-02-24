@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Internazionale (Jun.A S19) x Real Betis (Jun.A S19) - 24/02 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale (Jun.A S19) x Real Betis (Jun.A S19) - 24/02 13:00 - DAZN 1",
-      "pubDate": "Tue, 24 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Est. Amadora (S23) x Estoril Praia (S23) - 24/02 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora (S23) x Estoril Praia (S23) - 24/02 15:00 - Canal11",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santos x Vasco - 26/02 22:00 - Canal11",
       "pubDate": "Thu, 26 Feb 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Banfield - 26/02 22:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Banfield - 26/02 22:30 - SportTV 2",
+      "pubDate": "Thu, 26 Feb 2026 22:30:00",
       "guid": ""
     }
   ]

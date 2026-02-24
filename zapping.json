@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Est. Amadora (S23) x Estoril Praia (S23) - 24/02 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora (S23) x Estoril Praia (S23) - 24/02 15:00 - Canal11",
-      "pubDate": "Tue, 24 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt (Jun.A S19) x Sporting (Jun.A S19) - 24/02 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt (Jun.A S19) x Sporting (Jun.A S19) - 24/02 15:00 - DAZN 1",
-      "pubDate": "Tue, 24 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Futsal  S17) x Ucrânia (Futsal  S17) - 24/02 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal  S17) x Ucrânia (Futsal  S17) - 24/02 17:00 - Canal11",
@@ -327,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Banfield - 26/02 22:30 - SportTV 2",
       "pubDate": "Thu, 26 Feb 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/02 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/02 00:00 - SportTV 3",
+      "pubDate": "Fri, 27 Feb 2026 00:00:00",
       "guid": ""
     }
   ]

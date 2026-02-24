@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "CB Granollers (Andebol) x FC Porto (Andebol) - 24/02 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CB Granollers (Andebol) x FC Porto (Andebol) - 24/02 19:45 - PortoCanal",
-      "pubDate": "Tue, 24 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Southampton x QPR - 24/02 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x QPR - 24/02 20:00 - SportTV 2",
-      "pubDate": "Tue, 24 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (S23) x FC Vizela (S23) - 24/02 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x FC Vizela (S23) - 24/02 20:00 - Canal11",
-      "pubDate": "Tue, 24 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Bodo/Glimt - 24/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Bodo/Glimt - 24/02 20:00 - SportTV 5",
-      "pubDate": "Tue, 24 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x Olympiacos - 24/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Olympiacos - 24/02 20:00 - DAZN 1",
-      "pubDate": "Tue, 24 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Qarabag - 24/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Qarabag - 24/02 20:00 - DAZN 2",
-      "pubDate": "Tue, 24 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Gimnasia y Esgrima de Chivilcoy - 25/02 00:15 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Gimnasia y Esgrima de Chivilcoy - 25/02 00:15 - SportTV 2",
@@ -313,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dynamo Dresden x Darmstadt 98 - 27/02 17:30 - DAZN 1",
       "pubDate": "Fri, 27 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x FC Arouca - 27/02 18:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x FC Arouca - 27/02 18:45 - SportTV 2",
+      "pubDate": "Fri, 27 Feb 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Shabab x Al-Hilal - 27/02 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Shabab x Al-Hilal - 27/02 19:00 - SportTV 6",
+      "pubDate": "Fri, 27 Feb 2026 19:00:00",
       "guid": ""
     }
   ]

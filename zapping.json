@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Phoenix Suns (Basket) x Boston Celtics (Basket) - 25/02 02:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Phoenix Suns (Basket) x Boston Celtics (Basket) - 25/02 02:00 - SportTV 1",
-      "pubDate": "Wed, 25 Feb 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões (S23) x Académico (S23) - 25/02 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x Académico (S23) - 25/02 11:00 - Canal11",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Levante x Alavés - 27/02 20:00 - DAZN 2",
       "pubDate": "Fri, 27 Feb 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Estoril Praia - 27/02 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Estoril Praia - 27/02 20:45 - SportTV 1",
+      "pubDate": "Fri, 27 Feb 2026 20:45:00",
       "guid": ""
     }
   ]

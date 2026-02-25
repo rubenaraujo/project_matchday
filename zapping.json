@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
-      "pubDate": "Wed, 25 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aliados Lordelo x Aliança de Gandra - 25/02 21:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aliados Lordelo x Aliança de Gandra - 25/02 21:00 - Online",
-      "pubDate": "Wed, 25 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cruzeiro x Corinthians - 25/02 23:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Corinthians - 25/02 23:00 - Canal11",
@@ -306,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bournemouth x Sunderland - 28/02 12:30 - DAZN 1",
       "pubDate": "Sat, 28 Feb 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 5",
+      "pubDate": "Sat, 28 Feb 2026 13:00:00",
       "guid": ""
     }
   ]

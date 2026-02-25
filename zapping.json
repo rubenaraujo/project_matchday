@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Najma x Al-Nassr - 25/02 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Najma x Al-Nassr - 25/02 19:00 - SportTV 1",
-      "pubDate": "Wed, 25 Feb 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Benfica - 25/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Benfica - 25/02 20:00 - SportTV 5",
-      "pubDate": "Wed, 25 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gimnasia x Rosario Central - 25/02 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gimnasia x Rosario Central - 25/02 20:00 - SportTV 3",
-      "pubDate": "Wed, 25 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stoke City x Oxford United - 25/02 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Oxford United - 25/02 20:00 - SportTV 2",
-      "pubDate": "Wed, 25 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Monaco - 25/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Monaco - 25/02 20:00 - DAZN 1",
-      "pubDate": "Wed, 25 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventus x Galatasaray - 25/02 20:00 - DAZN 2",
@@ -320,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente (Jun.A S19) x Benfica (Jun.A S19) - 28/02 11:00 - Canal11",
       "pubDate": "Sat, 28 Feb 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kaiserslautern x SC Paderborn 07 - 28/02 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kaiserslautern x SC Paderborn 07 - 28/02 12:00 - DAZN 3",
+      "pubDate": "Sat, 28 Feb 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leicester City x Norwich City - 28/02 12:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leicester City x Norwich City - 28/02 12:30 - SportTV 3",
+      "pubDate": "Sat, 28 Feb 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bournemouth x Sunderland - 28/02 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bournemouth x Sunderland - 28/02 12:30 - DAZN 1",
+      "pubDate": "Sat, 28 Feb 2026 12:30:00",
       "guid": ""
     }
   ]

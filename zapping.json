@@ -1,51 +1,9 @@
 {
   "items": [
     {
-      "title": "Real Madrid (Basket) x Bayern München (Basket) - 26/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Basket) x Bayern München (Basket) - 26/02 19:45 - SportTV 3",
-      "pubDate": "Thu, 26 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Aalborg (Andebol) - 26/02 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Aalborg (Andebol) - 26/02 19:45 - SportingTv",
-      "pubDate": "Thu, 26 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Fenerbahçe - 26/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Fenerbahçe - 26/02 20:00 - SportTV 5",
-      "pubDate": "Thu, 26 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Genk x Dinamo Zagreb - 26/02 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genk x Dinamo Zagreb - 26/02 20:00 - DAZN 1",
-      "pubDate": "Thu, 26 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x PAOK - 26/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x PAOK - 26/02 20:00 - DAZN 2",
-      "pubDate": "Thu, 26 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Zrinjski Mostar - 26/02 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Zrinjski Mostar - 26/02 20:00 - DAZN 3",
-      "pubDate": "Thu, 26 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AZ Alkmaar x FC Noah - 26/02 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x FC Noah - 26/02 20:00 - DAZN 4",
       "pubDate": "Thu, 26 Feb 2026 20:00:00",
       "guid": ""
     },
@@ -299,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Marítimo (Andebol) - 28/02 15:00 - PortoCanal",
       "pubDate": "Sat, 28 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ABC (Andebol) x Benfica (Andebol) - 28/02 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ABC (Andebol) x Benfica (Andebol) - 28/02 15:00 - BTv",
+      "pubDate": "Sat, 28 Feb 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Villarreal - 28/02 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Villarreal - 28/02 15:15 - DAZN 2",
+      "pubDate": "Sat, 28 Feb 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Est. Amadora - 28/02 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Est. Amadora - 28/02 15:30 - SportTV 1",
+      "pubDate": "Sat, 28 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x GD Chaves - 28/02 15:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x GD Chaves - 28/02 15:30 - SportTV 7",
+      "pubDate": "Sat, 28 Feb 2026 15:30:00",
       "guid": ""
     }
   ]

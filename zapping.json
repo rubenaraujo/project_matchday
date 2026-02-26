@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Genk x Dinamo Zagreb - 26/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genk x Dinamo Zagreb - 26/02 20:00 - DAZN 1",
-      "pubDate": "Thu, 26 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x Sporting (Hóquei) - 26/02 20:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Sporting (Hóquei) - 26/02 20:30 - BTv",
-      "pubDate": "Thu, 26 Feb 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Santos x Vasco - 26/02 22:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santos x Vasco - 26/02 22:00 - Canal11",
@@ -285,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela x GD Chaves - 28/02 15:30 - SportTV 7",
       "pubDate": "Sat, 28 Feb 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Toulouse - 28/02 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Toulouse - 28/02 16:00 - SportTV 3",
+      "pubDate": "Sat, 28 Feb 2026 16:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/02 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/02 00:00 - SportTV 3",
-      "pubDate": "Fri, 27 Feb 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Flamengo x Lanús - 27/02 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Flamengo x Lanús - 27/02 00:30 - SportTV 1",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mallorca x Real Sociedad - 28/02 17:30 - DAZN 3",
       "pubDate": "Sat, 28 Feb 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Heracles Almelo x PSV - 28/02 17:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Heracles Almelo x PSV - 28/02 17:45 - DAZN 4",
+      "pubDate": "Sat, 28 Feb 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x SC Braga - 28/02 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x SC Braga - 28/02 18:00 - SportTV 1",
+      "pubDate": "Sat, 28 Feb 2026 18:00:00",
       "guid": ""
     }
   ]

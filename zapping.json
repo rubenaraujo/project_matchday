@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x Estoril Praia - 27/02 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Estoril Praia - 27/02 20:45 - SportTV 1",
-      "pubDate": "Fri, 27 Feb 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x FC Famalicão (Futsal) - 27/02 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x FC Famalicão (Futsal) - 27/02 21:00 - Canal11",
-      "pubDate": "Fri, 27 Feb 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Washington Capitals (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 28/02 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Capitals (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 28/02 00:00 - SportTV 3",
@@ -64,16 +50,16 @@
       "guid": ""
     },
     {
-      "title": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 5",
+      "title": "Rayo Vallecano x Athletic Bilbao - 28/02 13:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 5",
+      "description": "Rayo Vallecano x Athletic Bilbao - 28/02 13:00 - DAZN 2",
       "pubDate": "Sat, 28 Feb 2026 13:00:00",
       "guid": ""
     },
     {
-      "title": "Rayo Vallecano x Athletic Bilbao - 28/02 13:00 - DAZN 2",
+      "title": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Athletic Bilbao - 28/02 13:00 - DAZN 2",
+      "description": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 4",
       "pubDate": "Sat, 28 Feb 2026 13:00:00",
       "guid": ""
     },
@@ -204,13 +190,6 @@
       "guid": ""
     },
     {
-      "title": "Galatasaray x Alanyaspor - 28/02 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Alanyaspor - 28/02 17:00 - SportTV 5",
-      "pubDate": "Sat, 28 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hellas Verona x Napoli - 28/02 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Napoli - 28/02 17:00 - SportTV 2",
@@ -221,6 +200,13 @@
       "title": "Académica OAF x U. Santarém - 28/02 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x U. Santarém - 28/02 17:00 - Canal11",
+      "pubDate": "Sat, 28 Feb 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Alanyaspor - 28/02 17:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Alanyaspor - 28/02 17:00 - SportTV +",
       "pubDate": "Sat, 28 Feb 2026 17:00:00",
       "guid": ""
     },
@@ -278,6 +264,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x Portimonense - 28/02 18:00 - SportTV 6",
       "pubDate": "Sat, 28 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Braga (Hóquei) x AD Valongo (Hóquei) - 28/02 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Braga (Hóquei) x AD Valongo (Hóquei) - 28/02 18:00 - FPP TV",
+      "pubDate": "Sat, 28 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Póvoa AC (Andebol) x Arsenal da Devesa (Andebol) - 28/02 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Póvoa AC (Andebol) x Arsenal da Devesa (Andebol) - 28/02 18:00 - AndebolTV",
+      "pubDate": "Sat, 28 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x AD Sanjoanense (Hóquei) - 28/02 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x AD Sanjoanense (Hóquei) - 28/02 18:30 - FPP TV",
+      "pubDate": "Sat, 28 Feb 2026 18:30:00",
       "guid": ""
     }
   ]

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Augsburg x FC Köln - 27/02 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x FC Köln - 27/02 19:30 - DAZN 3",
-      "pubDate": "Fri, 27 Feb 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Lens - 27/02 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Lens - 27/02 19:45 - SportTV 4",
-      "pubDate": "Fri, 27 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Cagliari - 27/02 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Cagliari - 27/02 19:45 - SportTV 3",
-      "pubDate": "Fri, 27 Feb 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bristol City x Watford - 27/02 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bristol City x Watford - 27/02 20:00 - SportTV 5",
-      "pubDate": "Fri, 27 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolverhampton x Aston Villa - 27/02 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Aston Villa - 27/02 20:00 - DAZN 1",
-      "pubDate": "Fri, 27 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Alavés - 27/02 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Alavés - 27/02 20:00 - DAZN 2",
-      "pubDate": "Fri, 27 Feb 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting x Estoril Praia - 27/02 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Estoril Praia - 27/02 20:45 - SportTV 1",
@@ -312,6 +270,13 @@
       "title": "Monaco x Angers - 28/02 18:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Monaco x Angers - 28/02 18:00 - SportTV 3",
+      "pubDate": "Sat, 28 Feb 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x Portimonense - 28/02 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x Portimonense - 28/02 18:00 - SportTV 6",
       "pubDate": "Sat, 28 Feb 2026 18:00:00",
       "guid": ""
     }

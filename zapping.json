@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Andebol) x Marítimo (Andebol) - 28/02 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Marítimo (Andebol) - 28/02 15:00 - PortoCanal",
-      "pubDate": "Sat, 28 Feb 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 28/02 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferreira do Zêzere (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 28/02 17:00 - C11 Stream",
-      "pubDate": "Sat, 28 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Napoli - 28/02 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Napoli - 28/02 17:00 - SportTV 2",
-      "pubDate": "Sat, 28 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x U. Santarém - 28/02 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x U. Santarém - 28/02 17:00 - Canal11",
-      "pubDate": "Sat, 28 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Alanyaspor - 28/02 17:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Alanyaspor - 28/02 17:00 - SportTV +",
-      "pubDate": "Sat, 28 Feb 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "New York Rangers (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 28/02 17:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Rangers (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 28/02 17:30 - SportTV 6",
@@ -236,6 +201,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Zwolle x Ajax - 01/03 11:15 - DAZN 1",
       "pubDate": "Sun, 01 Mar 2026 11:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Milan - 01/03 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Milan - 01/03 11:30 - SportTV 2",
+      "pubDate": "Sun, 01 Mar 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal  Jun.C S15) x Leões Porto Salvo (Futsal  Jun.C S15) - 01/03 11:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal  Jun.C S15) x Leões Porto Salvo (Futsal  Jun.C S15) - 01/03 11:30 - SportingTv",
+      "pubDate": "Sun, 01 Mar 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.B S17) x Sporting (Jun.B S17) - 01/03 11:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.B S17) x Sporting (Jun.B S17) - 01/03 11:30 - BTv",
+      "pubDate": "Sun, 01 Mar 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Basket Feminino) x GDESSA (Basket Feminino) - 01/03 11:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Basket Feminino) x GDESSA (Basket Feminino) - 01/03 11:45 - DAZN 3",
+      "pubDate": "Sun, 01 Mar 2026 11:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rangers x Celtic - 01/03 12:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rangers x Celtic - 01/03 12:00 - SportTV 6",
+      "pubDate": "Sun, 01 Mar 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Elche x Espanyol - 01/03 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Elche x Espanyol - 01/03 13:00 - DAZN 2",
+      "pubDate": "Sun, 01 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x Marítimo - 01/03 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x Marítimo - 01/03 14:00 - SportTV +",
+      "pubDate": "Sun, 01 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Nice - 01/03 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Nice - 01/03 14:00 - SportTV 3",
+      "pubDate": "Sun, 01 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Atalanta - 01/03 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Atalanta - 01/03 14:00 - SportTV 2",
+      "pubDate": "Sun, 01 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x Crystal Palace - 01/03 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x Crystal Palace - 01/03 14:00 - DAZN 1",
+      "pubDate": "Sun, 01 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Tottenham - 01/03 14:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Tottenham - 01/03 14:00 - DAZN 3",
+      "pubDate": "Sun, 01 Mar 2026 14:00:00",
       "guid": ""
     }
   ]

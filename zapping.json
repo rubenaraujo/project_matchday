@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Leicester City x Norwich City - 28/02 12:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leicester City x Norwich City - 28/02 12:30 - SportTV 3",
-      "pubDate": "Sat, 28 Feb 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Sunderland - 28/02 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Sunderland - 28/02 12:30 - DAZN 1",
-      "pubDate": "Sat, 28 Feb 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Athletic Bilbao - 28/02 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Athletic Bilbao - 28/02 13:00 - DAZN 2",
-      "pubDate": "Sat, 28 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kocaelispor x Besiktas - 28/02 13:00 - SportTV 4",
-      "pubDate": "Sat, 28 Feb 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense x FC Porto - 28/02 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x FC Porto - 28/02 14:00 - SportTV +",
@@ -313,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Le Havre x PSG - 28/02 20:05 - SportTV 3",
       "pubDate": "Sat, 28 Feb 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x FC Alverca - 28/02 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x FC Alverca - 28/02 20:30 - SportTV 1",
+      "pubDate": "Sat, 28 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal  Jun.B S17) x Leões Porto Salvo (Futsal  Jun.B S17) - 28/02 20:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal  Jun.B S17) x Leões Porto Salvo (Futsal  Jun.B S17) - 28/02 20:30 - BTv",
+      "pubDate": "Sat, 28 Feb 2026 20:30:00",
       "guid": ""
     }
   ]

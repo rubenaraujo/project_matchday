@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x FC Porto - 28/02 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x FC Porto - 28/02 14:00 - SportTV +",
-      "pubDate": "Sat, 28 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Lecce - 28/02 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Lecce - 28/02 14:00 - SportTV 2",
-      "pubDate": "Sat, 28 Feb 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bayer Leverkusen x Mainz - 28/02 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayer Leverkusen x Mainz - 28/02 14:30 - DAZN 4",
@@ -299,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal  Jun.B S17) x Leões Porto Salvo (Futsal  Jun.B S17) - 28/02 20:30 - BTv",
       "pubDate": "Sat, 28 Feb 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Gimnasia Mendoza - 28/02 20:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Gimnasia Mendoza - 28/02 20:45 - SportTV 6",
+      "pubDate": "Sat, 28 Feb 2026 20:45:00",
       "guid": ""
     }
   ]

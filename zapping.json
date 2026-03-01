@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Marseille x Lyon - 01/03 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Lyon - 01/03 19:45 - SportTV 3",
-      "pubDate": "Sun, 01 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Juventus - 01/03 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Juventus - 01/03 19:45 - SportTV 2",
-      "pubDate": "Sun, 01 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Newell´s Old Boys x Rosario Central - 01/03 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newell´s Old Boys x Rosario Central - 01/03 20:00 - SportTV 7",
-      "pubDate": "Sun, 01 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 01/03 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 01/03 20:00 - Canal11",
-      "pubDate": "Sun, 01 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Celta de Vigo - 01/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Celta de Vigo - 01/03 20:00 - DAZN 1",
-      "pubDate": "Sun, 01 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave x FC Famalicão - 01/03 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave x FC Famalicão - 01/03 20:30 - SportTV 1",
@@ -278,6 +243,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Atalanta - 04/03 20:00 - SportTV 2",
       "pubDate": "Wed, 04 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Athletic Bilbao - 04/03 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Athletic Bilbao - 04/03 20:00 - SportTV 1",
+      "pubDate": "Wed, 04 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x CD Póvoa (Hóquei) - 04/03 20:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x CD Póvoa (Hóquei) - 04/03 20:30 - BTv",
+      "pubDate": "Wed, 04 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lanús x Boca Juniors - 05/03 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lanús x Boca Juniors - 05/03 00:00 - SportTV 1",
+      "pubDate": "Thu, 05 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Knicks (Basket) x Oklahoma City Thunder (Basket) - 05/03 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Knicks (Basket) x Oklahoma City Thunder (Basket) - 05/03 00:00 - SportTV 2",
+      "pubDate": "Thu, 05 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bangkok United x Tampines Rovers - 05/03 12:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bangkok United x Tampines Rovers - 05/03 12:15 - Canal11",
+      "pubDate": "Thu, 05 Mar 2026 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S23) x Chéquia (Feminino S23) - 05/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S23) x Chéquia (Feminino S23) - 05/03 16:00 - Canal11",
+      "pubDate": "Thu, 05 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Kholood x Al-Qadisiyah - 05/03 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Kholood x Al-Qadisiyah - 05/03 17:30 - SportTV 1",
+      "pubDate": "Thu, 05 Mar 2026 17:30:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Valencia x Osasuna - 01/03 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Osasuna - 01/03 15:15 - DAZN 2",
-      "pubDate": "Sun, 01 Mar 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Santa Clara - 01/03 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Santa Clara - 01/03 15:30 - SportTV 1",
-      "pubDate": "Sun, 01 Mar 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Paços de Ferreira x UD Oliveirense - 01/03 15:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x UD Oliveirense - 01/03 15:30 - SportTV 6",
-      "pubDate": "Sun, 01 Mar 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hungria (Feminino S17) x Portugal (Feminino S17) - 01/03 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria (Feminino S17) x Portugal (Feminino S17) - 01/03 16:00 - Canal11",
-      "pubDate": "Sun, 01 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Jun.C S15B) x Portimonense (Jun.C S15) - 01/03 16:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Jun.C S15B) x Portimonense (Jun.C S15) - 01/03 16:00 - BTv",
@@ -257,6 +229,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Rivadavia x River Plate - 03/03 00:30 - SportTV 1",
       "pubDate": "Tue, 03 Mar 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Milwaukee Bucks (Basket) x Boston Celtics (Basket) - 03/03 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milwaukee Bucks (Basket) x Boston Celtics (Basket) - 03/03 00:30 - SportTV 2",
+      "pubDate": "Tue, 03 Mar 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x LA Clippers (Basket) - 03/03 03:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x LA Clippers (Basket) - 03/03 03:00 - SportTV 2",
+      "pubDate": "Tue, 03 Mar 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (S23) x Estoril Praia (S23) - 03/03 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (S23) x Estoril Praia (S23) - 03/03 13:00 - Canal11",
+      "pubDate": "Tue, 03 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (S23) x Académico (S23) - 03/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (S23) x Académico (S23) - 03/03 15:00 - Canal11",
+      "pubDate": "Tue, 03 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino) x Finlândia (Feminino) - 03/03 18:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino) x Finlândia (Feminino) - 03/03 18:45 - Canal11",
+      "pubDate": "Tue, 03 Mar 2026 18:45:00",
       "guid": ""
     }
   ]

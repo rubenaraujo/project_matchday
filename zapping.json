@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Knicks (Basket) x San Antonio Spurs (Basket) - 01/03 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Knicks (Basket) x San Antonio Spurs (Basket) - 01/03 18:00 - SportTV 6",
-      "pubDate": "Sun, 01 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hamburger SV x RB Leipzig - 01/03 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hamburger SV x RB Leipzig - 01/03 18:30 - DAZN 4",
-      "pubDate": "Sun, 01 Mar 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Riba d´Ave (Hóquei) x Benfica (Hóquei) - 01/03 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Riba d´Ave (Hóquei) x Benfica (Hóquei) - 01/03 18:30 - FPP TV",
-      "pubDate": "Sun, 01 Mar 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x Sporting (Hóquei) - 01/03 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Sporting (Hóquei) - 01/03 19:00 - DAZN 3",
-      "pubDate": "Sun, 01 Mar 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Marseille x Lyon - 01/03 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marseille x Lyon - 01/03 19:45 - SportTV 3",
@@ -264,6 +236,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al Wasl x Al-Nassr - 04/03 18:15 - Canal11",
       "pubDate": "Wed, 04 Mar 2026 18:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Ilhas Faroé (Andebol Feminino) x Portugal (Andebol Feminino) - 04/03 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ilhas Faroé (Andebol Feminino) x Portugal (Andebol Feminino) - 04/03 19:00 - RTP2",
+      "pubDate": "Wed, 04 Mar 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Lorient x Nice - 04/03 19:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Lorient x Nice - 04/03 19:30 - SportTV 5",
+      "pubDate": "Wed, 04 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x CD Mafra - 04/03 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x CD Mafra - 04/03 20:00 - Canal11",
+      "pubDate": "Wed, 04 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Toulouse - 04/03 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Toulouse - 04/03 20:00 - SportTV 3",
+      "pubDate": "Wed, 04 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aberdeen x Celtic - 04/03 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aberdeen x Celtic - 04/03 20:00 - SportTV 4",
+      "pubDate": "Wed, 04 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Atalanta - 04/03 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Atalanta - 04/03 20:00 - SportTV 2",
+      "pubDate": "Wed, 04 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

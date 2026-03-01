@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Futsal  Jun.C S15) x Leões Porto Salvo (Futsal  Jun.C S15) - 01/03 11:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.C S15) x Leões Porto Salvo (Futsal  Jun.C S15) - 01/03 11:30 - SportingTv",
-      "pubDate": "Sun, 01 Mar 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Espanyol - 01/03 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Espanyol - 01/03 13:00 - DAZN 2",
-      "pubDate": "Sun, 01 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académico x Marítimo - 01/03 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico x Marítimo - 01/03 14:00 - SportTV +",
@@ -285,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 02/03 01:00 - SportTV 1",
       "pubDate": "Mon, 02 Mar 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x FC Vizela (S23) - 02/03 11:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x FC Vizela (S23) - 02/03 11:30 - Canal11",
+      "pubDate": "Mon, 02 Mar 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S19) x Chéquia (Feminino S19) - 02/03 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S19) x Chéquia (Feminino S19) - 02/03 17:00 - Canal11",
+      "pubDate": "Mon, 02 Mar 2026 17:00:00",
       "guid": ""
     }
   ]

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Stuttgart x Wolfsburg - 01/03 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Wolfsburg - 01/03 14:30 - DAZN 4",
-      "pubDate": "Sun, 01 Mar 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x S. João Ver - 01/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x S. João Ver - 01/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 01 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x AD Sanjoanense - 01/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x AD Sanjoanense - 01/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 01 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (B) x USC Paredes - 01/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x USC Paredes - 01/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 01 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x UD Leiria (Jun.A S19) - 01/03 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x UD Leiria (Jun.A S19) - 01/03 15:00 - PortoCanal",
-      "pubDate": "Sun, 01 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Vitória SC (Andebol) - 01/03 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Vitória SC (Andebol) - 01/03 15:00 - SportingTv",
-      "pubDate": "Sun, 01 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Valencia x Osasuna - 01/03 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Osasuna - 01/03 15:15 - DAZN 2",
@@ -292,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x Benfica - 02/03 20:15 - SportTV 1",
       "pubDate": "Mon, 02 Mar 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Independiente Rivadavia x River Plate - 03/03 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente Rivadavia x River Plate - 03/03 00:30 - SportTV 1",
+      "pubDate": "Tue, 03 Mar 2026 00:30:00",
       "guid": ""
     }
   ]

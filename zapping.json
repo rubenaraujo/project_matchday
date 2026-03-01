@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Académico x Marítimo - 01/03 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico x Marítimo - 01/03 14:00 - SportTV +",
-      "pubDate": "Sun, 01 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Nice - 01/03 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Nice - 01/03 14:00 - SportTV 3",
-      "pubDate": "Sun, 01 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Atalanta - 01/03 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Atalanta - 01/03 14:00 - SportTV 2",
-      "pubDate": "Sun, 01 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Crystal Palace - 01/03 14:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Crystal Palace - 01/03 14:00 - DAZN 1",
-      "pubDate": "Sun, 01 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Tottenham - 01/03 14:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Tottenham - 01/03 14:00 - DAZN 3",
-      "pubDate": "Sun, 01 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x Wolfsburg - 01/03 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Wolfsburg - 01/03 14:30 - DAZN 4",
@@ -285,6 +250,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S19) x Chéquia (Feminino S19) - 02/03 17:00 - Canal11",
       "pubDate": "Mon, 02 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Bologna - 02/03 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Bologna - 02/03 17:30 - SportTV 2",
+      "pubDate": "Mon, 02 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x FC Felgueiras - 02/03 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x FC Felgueiras - 02/03 18:00 - SportTV +",
+      "pubDate": "Mon, 02 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Fiorentina - 02/03 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Fiorentina - 02/03 19:45 - SportTV 2",
+      "pubDate": "Mon, 02 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Middlesbrough - 02/03 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Middlesbrough - 02/03 20:00 - SportTV 3",
+      "pubDate": "Mon, 02 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Getafe - 02/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Getafe - 02/03 20:00 - DAZN 1",
+      "pubDate": "Mon, 02 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Benfica - 02/03 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Benfica - 02/03 20:15 - SportTV 1",
+      "pubDate": "Mon, 02 Mar 2026 20:15:00",
       "guid": ""
     }
   ]

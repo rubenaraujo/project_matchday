@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Jun.C S15B) x Portimonense (Jun.C S15) - 01/03 16:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.C S15B) x Portimonense (Jun.C S15) - 01/03 16:00 - BTv",
-      "pubDate": "Sun, 01 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Nantes - 01/03 16:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Nantes - 01/03 16:15 - SportTV 3",
-      "pubDate": "Sun, 01 Mar 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Chelsea - 01/03 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Chelsea - 01/03 16:30 - DAZN 1",
-      "pubDate": "Sun, 01 Mar 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x SC Freiburg - 01/03 16:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x SC Freiburg - 01/03 16:30 - DAZN 4",
-      "pubDate": "Sun, 01 Mar 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Lazio - 01/03 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Lazio - 01/03 17:00 - SportTV 2",
-      "pubDate": "Sun, 01 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Antalyaspor x Fenerbahçe - 01/03 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Antalyaspor x Fenerbahçe - 01/03 17:00 - SportTV 5",
-      "pubDate": "Sun, 01 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x Juventude Pacense (Hóquei) - 01/03 17:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Juventude Pacense (Hóquei) - 01/03 17:00 - FPP TV",
-      "pubDate": "Sun, 01 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Betis x Sevilla - 01/03 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Sevilla - 01/03 17:30 - DAZN 2",
@@ -264,6 +215,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino) x Finlândia (Feminino) - 03/03 18:45 - Canal11",
       "pubDate": "Tue, 03 Mar 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "RK Vardar (Andebol) x Benfica (Andebol) - 03/03 19:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RK Vardar (Andebol) x Benfica (Andebol) - 03/03 19:45 - BTv",
+      "pubDate": "Tue, 03 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Internazionale - 03/03 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Internazionale - 03/03 20:00 - SportTV 3",
+      "pubDate": "Tue, 03 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Stade de Reims - 03/03 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Stade de Reims - 03/03 20:00 - SportTV 4",
+      "pubDate": "Tue, 03 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Atlético de Madrid - 03/03 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Atlético de Madrid - 03/03 20:00 - SportTV 2",
+      "pubDate": "Tue, 03 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x FC Porto - 03/03 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x FC Porto - 03/03 20:45 - RTP1",
+      "pubDate": "Tue, 03 Mar 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona SC x Botafogo - 04/03 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona SC x Botafogo - 04/03 00:30 - SportTV 2",
+      "pubDate": "Wed, 04 Mar 2026 00:30:00",
       "guid": ""
     }
   ]

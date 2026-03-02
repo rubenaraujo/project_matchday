@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Denver Nuggets (Basket) x Minnesota Timberwolves (Basket) - 01/03 20:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Nuggets (Basket) x Minnesota Timberwolves (Basket) - 01/03 20:30 - SportTV 6",
-      "pubDate": "Sun, 01 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 02/03 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 02/03 01:00 - SportTV 1",
@@ -306,6 +299,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Utah Mammoth (Hóquei no Gelo  Seniores) - 06/03 00:00 - SportTV 3",
       "pubDate": "Fri, 06 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S19) x Estados Unidos (Feminino S19) - 06/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S19) x Estados Unidos (Feminino S19) - 06/03 15:00 - Canal11",
+      "pubDate": "Fri, 06 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Ittihad Jeddah - 06/03 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Ittihad Jeddah - 06/03 17:30 - SportTV 1",
+      "pubDate": "Fri, 06 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Académico - 06/03 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Académico - 06/03 18:00 - SportTV +",
+      "pubDate": "Fri, 06 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Panathinaikos (Basket) - 06/03 19:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Panathinaikos (Basket) - 06/03 19:15 - SportTV 3",
+      "pubDate": "Fri, 06 Mar 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Torino - 06/03 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Torino - 06/03 19:45 - SportTV 4",
+      "pubDate": "Fri, 06 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Monaco - 06/03 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Monaco - 06/03 19:45 - SportTV 3",
+      "pubDate": "Fri, 06 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x Benfica (Futsal) - 06/03 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x Benfica (Futsal) - 06/03 20:00 - Canal11",
+      "pubDate": "Fri, 06 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Córdoba x FC Andorra - 02/03 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Córdoba x FC Andorra - 02/03 19:30 - DAZN 2",
-      "pubDate": "Mon, 02 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Udinese x Fiorentina - 02/03 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Fiorentina - 02/03 19:45 - SportTV 2",
-      "pubDate": "Mon, 02 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Birmingham City x Middlesbrough - 02/03 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Birmingham City x Middlesbrough - 02/03 20:00 - SportTV 3",
-      "pubDate": "Mon, 02 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Getafe - 02/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Getafe - 02/03 20:00 - DAZN 1",
-      "pubDate": "Mon, 02 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Benfica - 02/03 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Benfica - 02/03 20:15 - SportTV 1",
-      "pubDate": "Mon, 02 Mar 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente Rivadavia x River Plate - 03/03 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Rivadavia x River Plate - 03/03 00:30 - SportTV 1",
@@ -334,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Oklahoma City Thunder (Basket) - 05/03 00:00 - SportTV 2",
       "pubDate": "Thu, 05 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bangkok United x Tampines Rovers - 05/03 12:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bangkok United x Tampines Rovers - 05/03 12:15 - Canal11",
+      "pubDate": "Thu, 05 Mar 2026 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S23) x Chéquia (Feminino S23) - 05/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S23) x Chéquia (Feminino S23) - 05/03 16:00 - Canal11",
+      "pubDate": "Thu, 05 Mar 2026 16:00:00",
       "guid": ""
     }
   ]

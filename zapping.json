@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Wolverhampton x Liverpool - 03/03 20:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Liverpool - 03/03 20:15 - DAZN 1",
-      "pubDate": "Tue, 03 Mar 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x FC Porto - 03/03 20:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x FC Porto - 03/03 20:45 - RTP1",
-      "pubDate": "Tue, 03 Mar 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona SC x Botafogo - 04/03 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona SC x Botafogo - 04/03 00:30 - SportTV 2",
@@ -285,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x Arminia Bielefeld - 06/03 17:30 - DAZN 2",
       "pubDate": "Fri, 06 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Académico - 06/03 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Académico - 06/03 18:00 - SportTV +",
+      "pubDate": "Fri, 06 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Panathinaikos (Basket) - 06/03 19:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Panathinaikos (Basket) - 06/03 19:15 - SportTV 3",
+      "pubDate": "Fri, 06 Mar 2026 19:15:00",
       "guid": ""
     }
   ]

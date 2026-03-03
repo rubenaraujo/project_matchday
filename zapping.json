@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo (S23) x Estoril Praia (S23) - 03/03 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (S23) x Estoril Praia (S23) - 03/03 13:00 - Canal11",
-      "pubDate": "Tue, 03 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (S23) x Académico (S23) - 03/03 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (S23) x Académico (S23) - 03/03 15:00 - Canal11",
-      "pubDate": "Tue, 03 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (S23) x Leixões (S23) - 03/03 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (S23) x Leixões (S23) - 03/03 15:00 - SportingTv",
-      "pubDate": "Tue, 03 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino) x Finlândia (Feminino) - 03/03 18:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino) x Finlândia (Feminino) - 03/03 18:45 - Canal11",
@@ -348,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Utah Mammoth (Hóquei no Gelo  Seniores) - 06/03 00:00 - SportTV 3",
       "pubDate": "Fri, 06 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S19) x Estados Unidos (Feminino S19) - 06/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S19) x Estados Unidos (Feminino S19) - 06/03 15:00 - Canal11",
+      "pubDate": "Fri, 06 Mar 2026 15:00:00",
       "guid": ""
     }
   ]

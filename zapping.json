@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Al Wasl x Al-Nassr - 04/03 18:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al Wasl x Al-Nassr - 04/03 18:15 - Canal11",
-      "pubDate": "Wed, 04 Mar 2026 18:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Manchester United - 04/03 20:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Manchester United - 04/03 20:15 - DAZN 1",
-      "pubDate": "Wed, 04 Mar 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x FC Porto (Hóquei) - 04/03 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x FC Porto (Hóquei) - 04/03 21:00 - FPP TV",
-      "pubDate": "Wed, 04 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x HC Braga (Hóquei) - 04/03 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x HC Braga (Hóquei) - 04/03 21:00 - FPP TV",
-      "pubDate": "Wed, 04 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x CH Carvalhos (Hóquei) - 04/03 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x CH Carvalhos (Hóquei) - 04/03 21:00 - FPP TV",
-      "pubDate": "Wed, 04 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Rio Tinto x Serzedo - 04/03 21:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Rio Tinto x Serzedo - 04/03 21:00 - Online",
@@ -46,13 +11,6 @@
       "title": "UD Oliveirense (Hóquei) x OC Barcelos (Hóquei) - 04/03 21:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense (Hóquei) x OC Barcelos (Hóquei) - 04/03 21:30 - DAZN 2",
-      "pubDate": "Wed, 04 Mar 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude Pacense (Hóquei) x Riba d´Ave (Hóquei) - 04/03 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude Pacense (Hóquei) x Riba d´Ave (Hóquei) - 04/03 21:30 - FPP TV",
       "pubDate": "Wed, 04 Mar 2026 21:30:00",
       "guid": ""
     },
@@ -257,6 +215,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Mallorca - 07/03 13:00 - DAZN 1",
       "pubDate": "Sat, 07 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Paços de Ferreira - 07/03 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Paços de Ferreira - 07/03 14:00 - SportTV +",
+      "pubDate": "Sat, 07 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S17) x Espanha (Feminino S17) - 07/03 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S17) x Espanha (Feminino S17) - 07/03 14:00 - Canal11",
+      "pubDate": "Sat, 07 Mar 2026 14:00:00",
       "guid": ""
     }
   ]

@@ -260,13 +260,6 @@
       "guid": ""
     },
     {
-      "title": "Olympiacos (Basket) x Panathinaikos (Basket) - 06/03 19:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x Panathinaikos (Basket) - 06/03 19:15 - SportTV 3",
-      "pubDate": "Fri, 06 Mar 2026 19:15:00",
-      "guid": ""
-    },
-    {
       "title": "Bayern München x Borussia M´gladbach - 06/03 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Borussia M´gladbach - 06/03 19:30 - DAZN 1",
@@ -347,6 +340,13 @@
       "title": "FC Porto (Jun.B S17) x Benfica (Jun.B S17) - 07/03 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.B S17) x Benfica (Jun.B S17) - 07/03 11:00 - PortoCanal",
+      "pubDate": "Sat, 07 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.A S19) x Rio Ave (Jun.A S19) - 07/03 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.A S19) x Rio Ave (Jun.A S19) - 07/03 11:00 - SportingTv",
       "pubDate": "Sat, 07 Mar 2026 11:00:00",
       "guid": ""
     }

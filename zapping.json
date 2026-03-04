@@ -43,13 +43,6 @@
       "guid": ""
     },
     {
-      "title": "FC Lorient x Nice - 04/03 19:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Lorient x Nice - 04/03 19:30 - SportTV 5",
-      "pubDate": "Wed, 04 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Manchester City x Nottingham Forest - 04/03 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Nottingham Forest - 04/03 19:30 - DAZN 2",
@@ -67,6 +60,13 @@
       "title": "Aston Villa x Chelsea - 04/03 19:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aston Villa x Chelsea - 04/03 19:30 - DAZN 4",
+      "pubDate": "Wed, 04 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Lorient x Nice - 04/03 19:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Lorient x Nice - 04/03 19:30 - SportTV +",
       "pubDate": "Wed, 04 Mar 2026 19:30:00",
       "guid": ""
     },
@@ -155,6 +155,13 @@
       "guid": ""
     },
     {
+      "title": "SC Rio Tinto x Serzedo - 04/03 21:00 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Rio Tinto x Serzedo - 04/03 21:00 - Online",
+      "pubDate": "Wed, 04 Mar 2026 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "UD Oliveirense (Hóquei) x OC Barcelos (Hóquei) - 04/03 21:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense (Hóquei) x OC Barcelos (Hóquei) - 04/03 21:30 - DAZN 2",
@@ -239,13 +246,6 @@
       "guid": ""
     },
     {
-      "title": "Al-Ahli Jeddah x Al-Ittihad Jeddah - 06/03 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ahli Jeddah x Al-Ittihad Jeddah - 06/03 17:30 - SportTV 1",
-      "pubDate": "Fri, 06 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Schalke 04 x Arminia Bielefeld - 06/03 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x Arminia Bielefeld - 06/03 17:30 - DAZN 2",
@@ -257,6 +257,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x Académico - 06/03 18:00 - SportTV +",
       "pubDate": "Fri, 06 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Ittihad Jeddah - 06/03 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Ittihad Jeddah - 06/03 19:00 - SportTV 6",
+      "pubDate": "Fri, 06 Mar 2026 19:00:00",
       "guid": ""
     },
     {
@@ -340,13 +347,6 @@
       "title": "UD Oliveirense x Torreense - 07/03 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x Torreense - 07/03 11:00 - SportTV 1",
-      "pubDate": "Sat, 07 Mar 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.B S17) x Benfica (Jun.B S17) - 07/03 11:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x Benfica (Jun.B S17) - 07/03 11:00 - PortoCanal",
       "pubDate": "Sat, 07 Mar 2026 11:00:00",
       "guid": ""
     }

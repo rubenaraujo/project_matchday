@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Philadelphia 76ers (Basket) x San Antonio Spurs (Basket) - 04/03 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia 76ers (Basket) x San Antonio Spurs (Basket) - 04/03 01:00 - SportTV 1",
-      "pubDate": "Wed, 04 Mar 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Wild (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 04/03 02:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Wild (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 04/03 02:30 - SportTV 2",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Indiana Pacers (Basket) - 07/03 03:30 - SportTV 1",
       "pubDate": "Sat, 07 Mar 2026 03:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (Futsal) x Rio Ave (Futsal) - 07/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (Futsal) x Rio Ave (Futsal) - 07/03 11:00 - Canal11",
+      "pubDate": "Sat, 07 Mar 2026 11:00:00",
       "guid": ""
     }
   ]

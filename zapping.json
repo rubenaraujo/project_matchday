@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Rio Tinto x Serzedo - 04/03 21:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Rio Tinto x Serzedo - 04/03 21:00 - Online",
-      "pubDate": "Wed, 04 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x OC Barcelos (Hóquei) - 04/03 21:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x OC Barcelos (Hóquei) - 04/03 21:30 - DAZN 2",
-      "pubDate": "Wed, 04 Mar 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lanús x Boca Juniors - 05/03 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lanús x Boca Juniors - 05/03 00:00 - SportTV 1",
@@ -229,6 +215,97 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S17) x Espanha (Feminino S17) - 07/03 14:00 - Canal11",
       "pubDate": "Sat, 07 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Como 1907 - 07/03 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Como 1907 - 07/03 14:00 - SportTV 1",
+      "pubDate": "Sat, 07 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Bayer Leverkusen - 07/03 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Bayer Leverkusen - 07/03 14:30 - DAZN 2",
+      "pubDate": "Sat, 07 Mar 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x FC Augsburg - 07/03 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x FC Augsburg - 07/03 14:30 - DAZN 3",
+      "pubDate": "Sat, 07 Mar 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Covilhã x 1º Dezembro - 07/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Covilhã x 1º Dezembro - 07/03 15:00 - C11 Stream",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Amora FC x Atlético CP - 07/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amora FC x Atlético CP - 07/03 15:00 - C11 Stream",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitano GC x Caldas SC - 07/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitano GC x Caldas SC - 07/03 15:00 - C11 Stream",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x Sporting (Hóquei) - 07/03 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x Sporting (Hóquei) - 07/03 15:00 - PortoCanal",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Braga Warriors (Fut. Americano) x Salgueiros Renegades (Fut. Americano) - 07/03 15:00 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Braga Warriors (Fut. Americano) x Salgueiros Renegades (Fut. Americano) - 07/03 15:00 - Youtube",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal) x Quinta dos Lombos (Futsal) - 07/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal) x Quinta dos Lombos (Futsal) - 07/03 15:00 - C11 Stream",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Girona - 07/03 15:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Girona - 07/03 15:15 - DAZN 1",
+      "pubDate": "Sat, 07 Mar 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x Nacional - 07/03 15:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x Nacional - 07/03 15:30 - V+",
+      "pubDate": "Sat, 07 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x AFS - 07/03 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x AFS - 07/03 15:30 - SportTV 3",
+      "pubDate": "Sat, 07 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x Farense - 07/03 15:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x Farense - 07/03 15:30 - SportTV 4",
+      "pubDate": "Sat, 07 Mar 2026 15:30:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Kholood x Al-Qadisiyah - 05/03 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Kholood x Al-Qadisiyah - 05/03 19:00 - SportTV 2",
-      "pubDate": "Thu, 05 Mar 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Lens - 05/03 20:10 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Lens - 05/03 20:10 - SportTV 1",
-      "pubDate": "Thu, 05 Mar 2026 20:10:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Utah Mammoth (Hóquei no Gelo  Seniores) - 06/03 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Utah Mammoth (Hóquei no Gelo  Seniores) - 06/03 00:00 - SportTV 3",
@@ -333,6 +319,13 @@
       "title": "Casa Povo Freixo (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 07/03 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Povo Freixo (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 07/03 18:00 - C11 Stream",
+      "pubDate": "Sat, 07 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Novasemente (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 07/03 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Novasemente (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 07/03 18:00 - C11 Stream",
       "pubDate": "Sat, 07 Mar 2026 18:00:00",
       "guid": ""
     }

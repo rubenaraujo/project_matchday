@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Mansfield Town x Arsenal - 07/03 12:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mansfield Town x Arsenal - 07/03 12:15 - SportTV 2",
-      "pubDate": "Sat, 07 Mar 2026 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Osasuna x Mallorca - 07/03 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Mallorca - 07/03 13:00 - DAZN 1",
-      "pubDate": "Sat, 07 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portimonense x Paços de Ferreira - 07/03 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense x Paços de Ferreira - 07/03 14:00 - SportTV +",
@@ -313,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toulouse x Marseille - 07/03 20:05 - SportTV 3",
       "pubDate": "Sat, 07 Mar 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal) x SC Braga (Futsal) - 07/03 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal) x SC Braga (Futsal) - 07/03 20:30 - Canal11",
+      "pubDate": "Sat, 07 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Casa Pia AC - 07/03 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Casa Pia AC - 07/03 20:30 - SportTV 2",
+      "pubDate": "Sat, 07 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x FC Porto (Andebol) - 07/03 20:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x FC Porto (Andebol) - 07/03 20:30 - BTv",
+      "pubDate": "Sat, 07 Mar 2026 20:30:00",
       "guid": ""
     }
   ]

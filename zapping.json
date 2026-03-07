@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia x Casa Pia AC - 07/03 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Casa Pia AC - 07/03 20:30 - SportTV 2",
-      "pubDate": "Sat, 07 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x FC Porto (Andebol) - 07/03 20:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x FC Porto (Andebol) - 07/03 20:30 - BTv",
-      "pubDate": "Sat, 07 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 07/03 21:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 07/03 21:00 - DAZN 2",
-      "pubDate": "Sat, 07 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Turquel (Hóquei) x UD Oliveirense (Hóquei) - 07/03 21:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x UD Oliveirense (Hóquei) - 07/03 21:00 - DAZN 3",
-      "pubDate": "Sat, 07 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC (Andebol) x FC Gaia (Andebol) - 07/03 21:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (Andebol) x FC Gaia (Andebol) - 07/03 21:30 - AndebolTV",
@@ -285,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CP Esgueira (Basket) x Benfica (Basket) - 08/03 18:30 - DAZN 3",
       "pubDate": "Sun, 08 Mar 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Lakers (Basket) x New York Knicks (Basket) - 08/03 19:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Lakers (Basket) x New York Knicks (Basket) - 08/03 19:30 - SportTV 7",
+      "pubDate": "Sun, 08 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Paris FC - 08/03 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Paris FC - 08/03 19:45 - SportTV 3",
+      "pubDate": "Sun, 08 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Internazionale - 08/03 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Internazionale - 08/03 19:45 - SportTV 2",
+      "pubDate": "Sun, 08 Mar 2026 19:45:00",
       "guid": ""
     }
   ]

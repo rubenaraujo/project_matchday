@@ -1,58 +1,9 @@
 {
   "items": [
     {
-      "title": "SC Freiburg x Bayer Leverkusen - 07/03 14:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x Bayer Leverkusen - 07/03 14:30 - DAZN 2",
-      "pubDate": "Sat, 07 Mar 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "RB Leipzig x FC Augsburg - 07/03 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RB Leipzig x FC Augsburg - 07/03 14:30 - DAZN 3",
-      "pubDate": "Sat, 07 Mar 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x 1º Dezembro - 07/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x 1º Dezembro - 07/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 07 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x Atlético CP - 07/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x Atlético CP - 07/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 07 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x Caldas SC - 07/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Caldas SC - 07/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 07 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x Sporting (Hóquei) - 07/03 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Sporting (Hóquei) - 07/03 15:00 - FPP TV",
-      "pubDate": "Sat, 07 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Braga Warriors (Fut. Americano) x Salgueiros Renegades (Fut. Americano) - 07/03 15:00 - Youtube",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Braga Warriors (Fut. Americano) x Salgueiros Renegades (Fut. Americano) - 07/03 15:00 - Youtube",
-      "pubDate": "Sat, 07 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x Quinta dos Lombos (Futsal) - 07/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Quinta dos Lombos (Futsal) - 07/03 15:00 - C11 Stream",
       "pubDate": "Sat, 07 Mar 2026 15:00:00",
       "guid": ""
     },
@@ -306,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket Feminino) x Clube dos Galitos (Basket Feminino) - 07/03 21:00 - DAZN 2",
       "pubDate": "Sat, 07 Mar 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Turquel (Hóquei) x UD Oliveirense (Hóquei) - 07/03 21:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Turquel (Hóquei) x UD Oliveirense (Hóquei) - 07/03 21:00 - DAZN 3",
+      "pubDate": "Sat, 07 Mar 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Andebol) x FC Gaia (Andebol) - 07/03 21:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x FC Gaia (Andebol) - 07/03 21:30 - AndebolTV",
+      "pubDate": "Sat, 07 Mar 2026 21:30:00",
       "guid": ""
     }
   ]

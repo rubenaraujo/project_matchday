@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Vitória SC (Andebol) x FC Gaia (Andebol) - 07/03 21:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x FC Gaia (Andebol) - 07/03 21:30 - AndebolTV",
-      "pubDate": "Sat, 07 Mar 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x AD Valongo (Hóquei) - 07/03 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x AD Valongo (Hóquei) - 07/03 21:30 - FPP TV",
-      "pubDate": "Sat, 07 Mar 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Detroit Pistons (Basket) x Brooklyn Nets (Basket) - 07/03 23:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Detroit Pistons (Basket) x Brooklyn Nets (Basket) - 07/03 23:00 - SportTV 2",
@@ -278,6 +264,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Internazionale - 08/03 19:45 - SportTV 2",
       "pubDate": "Sun, 08 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x Belenenses - 08/03 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x Belenenses - 08/03 20:00 - Canal11",
+      "pubDate": "Sun, 08 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Alavés - 08/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Alavés - 08/03 20:00 - DAZN 1",
+      "pubDate": "Sun, 08 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo x Granada - 08/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x Granada - 08/03 20:00 - DAZN 2",
+      "pubDate": "Sun, 08 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Vitória SC - 08/03 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Vitória SC - 08/03 20:30 - SportTV 1",
+      "pubDate": "Sun, 08 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "San Antonio Spurs (Basket) x Houston Rockets (Basket) - 09/03 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Antonio Spurs (Basket) x Houston Rockets (Basket) - 09/03 00:00 - SportTV 1",
+      "pubDate": "Mon, 09 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente (S23) x FC Vizela (S23) - 09/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente (S23) x FC Vizela (S23) - 09/03 15:00 - Canal11",
+      "pubDate": "Mon, 09 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kayserispor x Trabzonspor - 09/03 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kayserispor x Trabzonspor - 09/03 17:00 - SportTV 1",
+      "pubDate": "Mon, 09 Mar 2026 17:00:00",
       "guid": ""
     }
   ]

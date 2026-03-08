@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cleveland Cavaliers (Basket) x Boston Celtics (Basket) - 08/03 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Cavaliers (Basket) x Boston Celtics (Basket) - 08/03 17:00 - SportTV 7",
-      "pubDate": "Sun, 08 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CB Gran Canaria (Basket) x Real Madrid (Basket) - 08/03 18:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CB Gran Canaria (Basket) x Real Madrid (Basket) - 08/03 18:00 - DAZN 4",
-      "pubDate": "Sun, 08 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket) x Benfica (Basket) - 08/03 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket) x Benfica (Basket) - 08/03 18:30 - DAZN 3",
-      "pubDate": "Sun, 08 Mar 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x New York Knicks (Basket) - 08/03 19:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x New York Knicks (Basket) - 08/03 19:30 - SportTV 7",
@@ -278,6 +257,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trentino Volley (Voleibol) x Projekt Warszawa (Voleibol) - 11/03 19:30 - SportTV 4",
       "pubDate": "Wed, 11 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bodo/Glimt x Sporting - 11/03 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bodo/Glimt x Sporting - 11/03 20:00 - SportTV 5",
+      "pubDate": "Wed, 11 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x Preston North End - 11/03 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x Preston North End - 11/03 20:00 - SportTV 2",
+      "pubDate": "Wed, 11 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Chelsea - 11/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Chelsea - 11/03 20:00 - DAZN 2",
+      "pubDate": "Wed, 11 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Manchester City - 11/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Manchester City - 11/03 20:00 - DAZN 1",
+      "pubDate": "Wed, 11 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentinos Juniors x Rosario Central - 11/03 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentinos Juniors x Rosario Central - 11/03 20:30 - SportTV 1",
+      "pubDate": "Wed, 11 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x San Lorenzo - 11/03 22:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x San Lorenzo - 11/03 22:45 - SportTV 1",
+      "pubDate": "Wed, 11 Mar 2026 22:45:00",
       "guid": ""
     }
   ]

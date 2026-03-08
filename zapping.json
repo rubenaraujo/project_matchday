@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC St. Pauli x Eintracht Frankfurt - 08/03 14:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x Eintracht Frankfurt - 08/03 14:30 - DAZN 2",
-      "pubDate": "Sun, 08 Mar 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x Trofense - 08/03 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x Trofense - 08/03 15:00 - Canal11",
-      "pubDate": "Sun, 08 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "S. João Ver x SC Braga - 08/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x SC Braga - 08/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 08 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x AD Marco 09 - 08/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x AD Marco 09 - 08/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 08 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x Fafe - 08/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x Fafe - 08/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 08 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cardielense x ADC Correlhã - 08/03 15:00 - Facebook",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cardielense x ADC Correlhã - 08/03 15:00 - Facebook",
@@ -306,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Skanderborg AGF (Andebol) x FC Porto (Andebol) - 10/03 17:45 - PortoCanal",
       "pubDate": "Tue, 10 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (S23) x Torreense (S23) - 10/03 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Torreense (S23) - 10/03 18:00 - Canal11",
+      "pubDate": "Tue, 10 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
+      "pubDate": "Tue, 10 Mar 2026 19:30:00",
       "guid": ""
     }
   ]

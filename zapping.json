@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Hannover 96 x SpVgg Greuther Fürth - 08/03 12:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hannover 96 x SpVgg Greuther Fürth - 08/03 12:30 - DAZN 2",
-      "pubDate": "Sun, 08 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Elche - 08/03 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Elche - 08/03 13:00 - DAZN 1",
-      "pubDate": "Sun, 08 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lens x Metz - 08/03 14:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Metz - 08/03 14:00 - SportTV 3",
@@ -306,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Oklahoma City Thunder (Basket) x Denver Nuggets (Basket) - 09/03 23:30 - SportTV 1",
       "pubDate": "Mon, 09 Mar 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Clippers (Basket) x New York Knicks (Basket) - 10/03 02:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Clippers (Basket) x New York Knicks (Basket) - 10/03 02:00 - SportTV 1",
+      "pubDate": "Tue, 10 Mar 2026 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x FC Famalicão (S23) - 10/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x FC Famalicão (S23) - 10/03 11:00 - Canal11",
+      "pubDate": "Tue, 10 Mar 2026 11:00:00",
       "guid": ""
     }
   ]

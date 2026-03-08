@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Portugal (Andebol Feminino) x Ilhas Faroé (Andebol Feminino) - 08/03 17:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol Feminino) x Ilhas Faroé (Andebol Feminino) - 08/03 17:00 - RTP2",
-      "pubDate": "Sun, 08 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x Boston Celtics (Basket) - 08/03 17:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Boston Celtics (Basket) - 08/03 17:00 - SportTV 7",
       "pubDate": "Sun, 08 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Roma - 08/03 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Roma - 08/03 17:00 - SportTV 2",
-      "pubDate": "Sun, 08 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fenerbahçe x Samsunspor - 08/03 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Samsunspor - 08/03 17:00 - SportTV 6",
-      "pubDate": "Sun, 08 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Rayo Vallecano - 08/03 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Rayo Vallecano - 08/03 17:30 - DAZN 1",
-      "pubDate": "Sun, 08 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x FC Porto - 08/03 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x FC Porto - 08/03 18:00 - BTv",
-      "pubDate": "Sun, 08 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x Sporting - 08/03 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x Sporting - 08/03 18:00 - SportTV 1",
-      "pubDate": "Sun, 08 Mar 2026 18:00:00",
       "guid": ""
     },
     {
@@ -285,6 +243,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "ADCR Caxinas Poça Barca (Futsal) x AD Fundão (Futsal) - 11/03 14:00 - Canal11",
       "pubDate": "Wed, 11 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia (Feminino) x Sporting (Feminino) - 11/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia (Feminino) x Sporting (Feminino) - 11/03 16:00 - Canal11",
+      "pubDate": "Wed, 11 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turk Telekom (Basket) x Bàsquet Manresa (Basket) - 11/03 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turk Telekom (Basket) x Bàsquet Manresa (Basket) - 11/03 17:00 - SportTV 3",
+      "pubDate": "Wed, 11 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x Arsenal - 11/03 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x Arsenal - 11/03 17:45 - DAZN 1",
+      "pubDate": "Wed, 11 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Futsal) x Benfica (Futsal) - 11/03 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Futsal) x Benfica (Futsal) - 11/03 18:00 - Canal11",
+      "pubDate": "Wed, 11 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trentino Volley (Voleibol) x Projekt Warszawa (Voleibol) - 11/03 19:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trentino Volley (Voleibol) x Projekt Warszawa (Voleibol) - 11/03 19:30 - SportTV 4",
+      "pubDate": "Wed, 11 Mar 2026 19:30:00",
       "guid": ""
     }
   ]

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Cardielense x ADC Correlhã - 08/03 15:00 - Facebook",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cardielense x ADC Correlhã - 08/03 15:00 - Facebook",
-      "pubDate": "Sun, 08 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Real Betis - 08/03 15:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Real Betis - 08/03 15:15 - DAZN 1",
-      "pubDate": "Sun, 08 Mar 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x Gil Vicente - 08/03 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Gil Vicente - 08/03 15:30 - SportTV 1",
-      "pubDate": "Sun, 08 Mar 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo x FC Porto - 08/03 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x FC Porto - 08/03 15:30 - SportTV 4",
-      "pubDate": "Sun, 08 Mar 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "NAC Breda x Feyenoord - 08/03 15:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "NAC Breda x Feyenoord - 08/03 15:45 - DAZN 3",
-      "pubDate": "Sun, 08 Mar 2026 15:45:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Voleibol Feminino) x São Mamede (Voleibol Feminino) - 08/03 16:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x São Mamede (Voleibol Feminino) - 08/03 16:00 - PortoCanal",
@@ -285,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
       "pubDate": "Tue, 10 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Stoke City x Ipswich Town - 10/03 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stoke City x Ipswich Town - 10/03 20:00 - SportTV 1",
+      "pubDate": "Tue, 10 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Barcelona - 10/03 20:00 - DAZN 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Barcelona - 10/03 20:00 - DAZN 5",
+      "pubDate": "Tue, 10 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Bayern München - 10/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Bayern München - 10/03 20:00 - DAZN 1",
+      "pubDate": "Tue, 10 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

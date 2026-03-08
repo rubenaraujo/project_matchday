@@ -1,24 +1,10 @@
 {
   "items": [
     {
-      "title": "LA Lakers (Basket) x New York Knicks (Basket) - 08/03 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x New York Knicks (Basket) - 08/03 19:30 - SportTV 7",
-      "pubDate": "Sun, 08 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Deportivo x Granada - 08/03 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Deportivo x Granada - 08/03 20:00 - DAZN 2",
       "pubDate": "Sun, 08 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x Vitória SC - 08/03 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Vitória SC - 08/03 20:30 - SportTV 1",
-      "pubDate": "Sun, 08 Mar 2026 20:30:00",
       "guid": ""
     },
     {
@@ -299,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S15) x Alemanha (Feminino S15) - 12/03 11:00 - Canal11",
       "pubDate": "Thu, 12 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x FC Porto - 12/03 17:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x FC Porto - 12/03 17:45 - SportTV 5",
+      "pubDate": "Thu, 12 Mar 2026 17:45:00",
       "guid": ""
     }
   ]

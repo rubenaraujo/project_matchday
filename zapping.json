@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Lens x Metz - 08/03 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Metz - 08/03 14:00 - SportTV 3",
-      "pubDate": "Sun, 08 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões x UD Leiria - 08/03 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x UD Leiria - 08/03 14:00 - SportTV +",
-      "pubDate": "Sun, 08 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Hellas Verona - 08/03 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Hellas Verona - 08/03 14:00 - SportTV 2",
-      "pubDate": "Sun, 08 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC St. Pauli x Eintracht Frankfurt - 08/03 14:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC St. Pauli x Eintracht Frankfurt - 08/03 14:30 - DAZN 2",
@@ -306,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x FC Famalicão (S23) - 10/03 11:00 - Canal11",
       "pubDate": "Tue, 10 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x Sporting (S23) - 10/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x Sporting (S23) - 10/03 15:00 - Canal11",
+      "pubDate": "Tue, 10 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Liverpool - 10/03 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Liverpool - 10/03 17:45 - DAZN 1",
+      "pubDate": "Tue, 10 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Skanderborg AGF (Andebol) x FC Porto (Andebol) - 10/03 17:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Skanderborg AGF (Andebol) x FC Porto (Andebol) - 10/03 17:45 - PortoCanal",
+      "pubDate": "Tue, 10 Mar 2026 17:45:00",
       "guid": ""
     }
   ]

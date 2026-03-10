@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray x Liverpool - 10/03 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Liverpool - 10/03 17:45 - DAZN 1",
-      "pubDate": "Tue, 10 Mar 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (S23) x Torreense (S23) - 10/03 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x Torreense (S23) - 10/03 18:00 - Canal11",
-      "pubDate": "Tue, 10 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
@@ -267,13 +253,6 @@
       "guid": ""
     },
     {
-      "title": "Ferencváros x SC Braga - 12/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferencváros x SC Braga - 12/03 20:00 - DAZN 1",
-      "pubDate": "Thu, 12 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nottingham Forest x Midtjylland - 12/03 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nottingham Forest x Midtjylland - 12/03 20:00 - DAZN 2",
@@ -291,6 +270,13 @@
       "title": "Crystal Palace x AEK Larnaca - 12/03 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crystal Palace x AEK Larnaca - 12/03 20:00 - DAZN 4",
+      "pubDate": "Thu, 12 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferencváros x SC Braga - 12/03 20:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferencváros x SC Braga - 12/03 20:00 - TVI",
       "pubDate": "Thu, 12 Mar 2026 20:00:00",
       "guid": ""
     },

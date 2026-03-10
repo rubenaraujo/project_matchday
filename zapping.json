@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Élan Chalon (Basket) x Unicaja (Basket) - 10/03 19:30 - SportTV 3",
-      "pubDate": "Tue, 10 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x IFK Kristianstad (Andebol) - 10/03 19:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x IFK Kristianstad (Andebol) - 10/03 19:45 - BTv",
-      "pubDate": "Tue, 10 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Stoke City x Ipswich Town - 10/03 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Ipswich Town - 10/03 20:00 - SportTV 1",
-      "pubDate": "Tue, 10 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Tottenham - 10/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Tottenham - 10/03 20:00 - DAZN 1",
-      "pubDate": "Tue, 10 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Barcelona - 10/03 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Barcelona - 10/03 20:00 - SportTV 5",
-      "pubDate": "Tue, 10 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Bayern München - 10/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Bayern München - 10/03 20:00 - DAZN 2",
-      "pubDate": "Tue, 10 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "San Antonio Spurs (Basket) x Boston Celtics (Basket) - 11/03 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Boston Celtics (Basket) - 11/03 00:00 - SportTV 1",
@@ -313,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (Voleibol) x Benfica (Voleibol) - 13/03 15:00 - SportTV 6",
       "pubDate": "Fri, 13 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria (S23) x FC Vizela (S23) - 13/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x FC Vizela (S23) - 13/03 15:00 - Canal11",
+      "pubDate": "Fri, 13 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x Sporting (Jun.A S19) - 13/03 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x Sporting (Jun.A S19) - 13/03 15:00 - PortoCanal",
+      "pubDate": "Fri, 13 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Karagumruk x Fenerbahçe - 13/03 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Karagumruk x Fenerbahçe - 13/03 17:00 - SportTV 1",
+      "pubDate": "Fri, 13 Mar 2026 17:00:00",
       "guid": ""
     }
   ]

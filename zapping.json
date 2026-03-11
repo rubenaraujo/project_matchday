@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Valadares Gaia (Feminino) x Sporting (Feminino) - 11/03 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valadares Gaia (Feminino) x Sporting (Feminino) - 11/03 16:00 - Canal11",
-      "pubDate": "Wed, 11 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Turk Telekom (Basket) x Bàsquet Manresa (Basket) - 11/03 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Turk Telekom (Basket) x Bàsquet Manresa (Basket) - 11/03 17:00 - SportTV 3",
@@ -326,6 +319,13 @@
       "title": "Wrexham x Swansea City - 13/03 20:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Swansea City - 13/03 20:00 - SportTV 7",
+      "pubDate": "Fri, 13 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Villarreal - 13/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Villarreal - 13/03 20:00 - DAZN 2",
       "pubDate": "Fri, 13 Mar 2026 20:00:00",
       "guid": ""
     }

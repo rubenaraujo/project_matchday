@@ -246,13 +246,6 @@
       "guid": ""
     },
     {
-      "title": "Vitória SC (Voleibol) x Benfica (Voleibol) - 13/03 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Voleibol) x Benfica (Voleibol) - 13/03 15:00 - SportTV 6",
-      "pubDate": "Fri, 13 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria (S23) x FC Vizela (S23) - 13/03 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria (S23) x FC Vizela (S23) - 13/03 15:00 - Canal11",
@@ -278,13 +271,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1. FC Magdeburg x Darmstadt 98 - 13/03 17:30 - DAZN 2",
       "pubDate": "Fri, 13 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x AA Espinho (Voleibol) - 13/03 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x AA Espinho (Voleibol) - 13/03 18:00 - SportTV 6",
-      "pubDate": "Fri, 13 Mar 2026 18:00:00",
       "guid": ""
     },
     {
@@ -327,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x FC St. Pauli - 13/03 19:30 - DAZN 1",
       "pubDate": "Fri, 13 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Parma - 13/03 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Parma - 13/03 19:45 - SportTV 2",
+      "pubDate": "Fri, 13 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Auxerre - 13/03 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Auxerre - 13/03 19:45 - SportTV 3",
+      "pubDate": "Fri, 13 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Swansea City - 13/03 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Swansea City - 13/03 20:00 - SportTV 7",
+      "pubDate": "Fri, 13 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

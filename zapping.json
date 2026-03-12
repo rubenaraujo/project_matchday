@@ -1,23 +1,9 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x San Lorenzo - 11/03 22:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x San Lorenzo - 11/03 22:45 - SportTV 1",
-      "pubDate": "Wed, 11 Mar 2026 22:45:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x Cleveland Cavaliers (Basket) - 11/03 23:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Cleveland Cavaliers (Basket) - 11/03 23:30 - SportTV 2",
-      "pubDate": "Wed, 11 Mar 2026 23:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nashville SC x Inter Miami CF - 11/03 23:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nashville SC x Inter Miami CF - 11/03 23:30 - SportTV 4",
       "pubDate": "Wed, 11 Mar 2026 23:30:00",
       "guid": ""
     },
@@ -327,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Atalanta - 14/03 14:00 - SportTV 2",
       "pubDate": "Sat, 14 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x Bayern München - 14/03 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x Bayern München - 14/03 14:30 - DAZN 3",
+      "pubDate": "Sat, 14 Mar 2026 14:30:00",
       "guid": ""
     }
   ]

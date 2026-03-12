@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Madrid (Basket) x Valencia Basket (Basket) - 12/03 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Basket) x Valencia Basket (Basket) - 12/03 19:45 - SportTV 3",
-      "pubDate": "Thu, 12 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x CS Dinamo Bucuresti (Andebol) - 12/03 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x CS Dinamo Bucuresti (Andebol) - 12/03 19:45 - SportingTv",
-      "pubDate": "Thu, 12 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x Midtjylland - 12/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x Midtjylland - 12/03 20:00 - DAZN 2",
-      "pubDate": "Thu, 12 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Lyon - 12/03 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Lyon - 12/03 20:00 - DAZN 3",
-      "pubDate": "Thu, 12 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x AEK Larnaca - 12/03 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x AEK Larnaca - 12/03 20:00 - DAZN 4",
-      "pubDate": "Thu, 12 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferencváros x SC Braga - 12/03 20:00 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferencváros x SC Braga - 12/03 20:00 - TVI",
-      "pubDate": "Thu, 12 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vasco x Palmeiras - 12/03 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco x Palmeiras - 12/03 22:30 - Canal11",
@@ -285,6 +243,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Getafe - 14/03 15:15 - DAZN 1",
       "pubDate": "Sat, 14 Mar 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x FC Famalicão - 14/03 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x FC Famalicão - 14/03 15:30 - SportTV 1",
+      "pubDate": "Sat, 14 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x Amarante FC - 14/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x Amarante FC - 14/03 16:00 - Canal11",
+      "pubDate": "Sat, 14 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Covilhã x Lusitano GC - 14/03 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Covilhã x Lusitano GC - 14/03 16:00 - C11 Stream",
+      "pubDate": "Sat, 14 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Lorient x Lens - 14/03 16:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Lorient x Lens - 14/03 16:00 - SportTV 6",
+      "pubDate": "Sat, 14 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CS Noisy Le Grand (Hóquei) x Hockey Sarzana (Hóquei) - 14/03 16:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CS Noisy Le Grand (Hóquei) x Hockey Sarzana (Hóquei) - 14/03 16:00 - WSE TV",
+      "pubDate": "Sat, 14 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Lecce - 14/03 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Lecce - 14/03 17:00 - SportTV 2",
+      "pubDate": "Sat, 14 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
+      "pubDate": "Sat, 14 Mar 2026 17:00:00",
       "guid": ""
     }
   ]

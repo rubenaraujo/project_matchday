@@ -246,13 +246,6 @@
       "guid": ""
     },
     {
-      "title": "CS Noisy Le Grand (Hóquei) x Hockey Sarzana (Hóquei) - 14/03 16:00 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CS Noisy Le Grand (Hóquei) x Hockey Sarzana (Hóquei) - 14/03 16:00 - WSE TV",
-      "pubDate": "Sat, 14 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Napoli x Lecce - 14/03 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Lecce - 14/03 17:00 - SportTV 2",
@@ -263,6 +256,13 @@
       "title": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
+      "pubDate": "Sat, 14 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CS Noisy Le Grand (Hóquei) x Hockey Sarzana (Hóquei) - 14/03 17:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CS Noisy Le Grand (Hóquei) x Hockey Sarzana (Hóquei) - 14/03 17:00 - WSE TV",
       "pubDate": "Sat, 14 Mar 2026 17:00:00",
       "guid": ""
     },
@@ -333,6 +333,13 @@
       "title": "Lisboa Navigators (Fut. Americano) x Cascais Crusaders (Fut. Americano) - 14/03 19:30 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lisboa Navigators (Fut. Americano) x Cascais Crusaders (Fut. Americano) - 14/03 19:30 - Online",
+      "pubDate": "Sat, 14 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AFP Giovinazzo (Hóquei) x AD Valongo (Hóquei) - 14/03 19:30 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFP Giovinazzo (Hóquei) x AD Valongo (Hóquei) - 14/03 19:30 - WSE TV",
       "pubDate": "Sat, 14 Mar 2026 19:30:00",
       "guid": ""
     }

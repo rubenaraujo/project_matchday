@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Qadisiyah x Al-Ahli Jeddah - 13/03 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Qadisiyah x Al-Ahli Jeddah - 13/03 19:00 - SportTV 1",
-      "pubDate": "Fri, 13 Mar 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia M´gladbach x FC St. Pauli - 13/03 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x FC St. Pauli - 13/03 19:30 - DAZN 1",
@@ -298,6 +291,13 @@
       "title": "Belenenses x Varzim - 14/03 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x Varzim - 14/03 20:00 - Canal11",
+      "pubDate": "Sat, 14 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Manchester City - 14/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Manchester City - 14/03 20:00 - DAZN 1",
       "pubDate": "Sat, 14 Mar 2026 20:00:00",
       "guid": ""
     }

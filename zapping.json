@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Borussia M´gladbach x FC St. Pauli - 13/03 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia M´gladbach x FC St. Pauli - 13/03 19:30 - DAZN 1",
-      "pubDate": "Fri, 13 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Parma - 13/03 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Parma - 13/03 19:45 - SportTV 2",
-      "pubDate": "Fri, 13 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Auxerre - 13/03 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Auxerre - 13/03 19:45 - SportTV 3",
-      "pubDate": "Fri, 13 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Swansea City - 13/03 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Swansea City - 13/03 20:00 - SportTV 7",
-      "pubDate": "Fri, 13 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alavés x Villarreal - 13/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Villarreal - 13/03 20:00 - DAZN 2",
-      "pubDate": "Fri, 13 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 13/03 21:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 13/03 21:00 - SportTV 4",
@@ -299,6 +264,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Ham x Manchester City - 14/03 20:00 - DAZN 1",
       "pubDate": "Sat, 14 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Elche - 14/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Elche - 14/03 20:00 - DAZN 2",
+      "pubDate": "Sat, 14 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x Sparta Rotterdam - 14/03 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x Sparta Rotterdam - 14/03 20:00 - DAZN 3",
+      "pubDate": "Sat, 14 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Brest - 14/03 20:05 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Brest - 14/03 20:05 - SportTV 6",
+      "pubDate": "Sat, 14 Mar 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Benfica - 14/03 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Benfica - 14/03 20:30 - SportTV 1",
+      "pubDate": "Sat, 14 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Finalista 2 - 14/03 21:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Finalista 2 - 14/03 21:00 - SportTV 5",
+      "pubDate": "Sat, 14 Mar 2026 21:00:00",
       "guid": ""
     }
   ]

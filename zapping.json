@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Dallas Stars (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 13/03 00:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Stars (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 13/03 00:00 - SportTV 4",
-      "pubDate": "Fri, 13 Mar 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Huracán x River Plate - 13/03 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Huracán x River Plate - 13/03 00:30 - SportTV 2",
-      "pubDate": "Fri, 13 Mar 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Grêmio x Red Bull Bragantino - 13/03 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Grêmio x Red Bull Bragantino - 13/03 00:30 - Canal11",
-      "pubDate": "Fri, 13 Mar 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria (S23) x FC Vizela (S23) - 13/03 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria (S23) x FC Vizela (S23) - 13/03 15:00 - Canal11",
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol) x AA Espinho (Voleibol) - 14/03 18:00 - SportTV 3",
       "pubDate": "Sat, 14 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vasco da Gama (Basket) x CP Esgueira (Basket) - 14/03 18:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vasco da Gama (Basket) x CP Esgueira (Basket) - 14/03 18:30 - DAZN 4",
+      "pubDate": "Sat, 14 Mar 2026 18:30:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Coventry City x Southampton - 14/03 12:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coventry City x Southampton - 14/03 12:30 - SportTV 3",
-      "pubDate": "Sat, 14 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Athletic Bilbao - 14/03 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Athletic Bilbao - 14/03 13:00 - DAZN 1",
-      "pubDate": "Sat, 14 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 14/03 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 14/03 14:00 - Canal11",
@@ -306,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Genoa - 15/03 11:30 - SportTV 2",
       "pubDate": "Sun, 15 Mar 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "St. Mirren x Rangers - 15/03 12:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "St. Mirren x Rangers - 15/03 12:00 - SportTV 5",
+      "pubDate": "Sun, 15 Mar 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Hannover 96 - 15/03 12:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Hannover 96 - 15/03 12:30 - DAZN 3",
+      "pubDate": "Sun, 15 Mar 2026 12:30:00",
       "guid": ""
     }
   ]

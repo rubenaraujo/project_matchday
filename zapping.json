@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Bayer Leverkusen x Bayern München - 14/03 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Bayern München - 14/03 14:30 - DAZN 3",
-      "pubDate": "Sat, 14 Mar 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Feminino) x Torreense (Feminino) - 14/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Feminino) x Torreense (Feminino) - 14/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 14 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Atlético CP - 14/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Atlético CP - 14/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 14 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x 1º Dezembro - 14/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x 1º Dezembro - 14/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 14 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Brighton  Hove Albion - 14/03 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Brighton  Hove Albion - 14/03 15:00 - DAZN 2",
-      "pubDate": "Sat, 14 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Voleibol) x Benfica (Voleibol) - 14/03 15:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Voleibol) x Benfica (Voleibol) - 14/03 15:00 - SportTV 3",
-      "pubDate": "Sat, 14 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético de Madrid x Getafe - 14/03 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Getafe - 14/03 15:15 - DAZN 1",
@@ -285,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x Hannover 96 - 15/03 12:30 - DAZN 3",
       "pubDate": "Sun, 15 Mar 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Espanyol - 15/03 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Espanyol - 15/03 13:00 - DAZN 2",
+      "pubDate": "Sun, 15 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 15/03 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 15/03 14:00 - Canal11",
+      "pubDate": "Sun, 15 Mar 2026 14:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Lorient x Lens - 14/03 16:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Lorient x Lens - 14/03 16:00 - SportTV 6",
-      "pubDate": "Sat, 14 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Lecce - 14/03 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Lecce - 14/03 17:00 - SportTV 2",
-      "pubDate": "Sat, 14 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
@@ -22,51 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Arsenal x Everton - 14/03 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Everton - 14/03 17:30 - DAZN 1",
-      "pubDate": "Sat, 14 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Newcastle - 14/03 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Newcastle - 14/03 17:30 - DAZN 2",
-      "pubDate": "Sat, 14 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Oviedo x Valencia - 14/03 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Valencia - 14/03 17:30 - DAZN 3",
-      "pubDate": "Sat, 14 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Angers x Nice - 14/03 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angers x Nice - 14/03 18:00 - SportTV 6",
-      "pubDate": "Sat, 14 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Feminino) x Valadares Gaia (Feminino) - 14/03 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x Valadares Gaia (Feminino) - 14/03 18:00 - Canal11",
-      "pubDate": "Sat, 14 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x FC Alverca - 14/03 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x FC Alverca - 14/03 18:00 - SportTV 4",
-      "pubDate": "Sat, 14 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x AA Espinho (Voleibol) - 14/03 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x AA Espinho (Voleibol) - 14/03 18:00 - SportTV 3",
       "pubDate": "Sat, 14 Mar 2026 18:00:00",
       "guid": ""
     },
@@ -292,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "S. João Ver x USC Paredes - 15/03 15:00 - C11 Stream",
       "pubDate": "Sun, 15 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x AD Marco 09 - 15/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x AD Marco 09 - 15/03 15:00 - C11 Stream",
+      "pubDate": "Sun, 15 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense x SC Braga - 15/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense x SC Braga - 15/03 15:00 - C11 Stream",
+      "pubDate": "Sun, 15 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Sevilla - 15/03 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Sevilla - 15/03 15:15 - DAZN 2",
+      "pubDate": "Sun, 15 Mar 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Santa Clara - 15/03 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Santa Clara - 15/03 15:30 - SportTV 2",
+      "pubDate": "Sun, 15 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x Estoril Praia - 15/03 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x Estoril Praia - 15/03 15:30 - SportTV 1",
+      "pubDate": "Sun, 15 Mar 2026 15:30:00",
       "guid": ""
     }
   ]

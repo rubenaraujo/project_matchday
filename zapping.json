@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Islanders (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 13/03 23:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Islanders (Hóquei no Gelo  Seniores) x Los Angeles Kings (Hóquei no Gelo  Seniores) - 13/03 23:00 - SportTV 3",
-      "pubDate": "Fri, 13 Mar 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/03 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/03 11:00 - Canal11",
@@ -313,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Denver Nuggets (Basket) - 15/03 00:30 - SportTV 2",
       "pubDate": "Sun, 15 Mar 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (B) x Trofense - 15/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (B) x Trofense - 15/03 11:00 - Canal11",
+      "pubDate": "Sun, 15 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Lusitânia de Lourosa - 15/03 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Lusitânia de Lourosa - 15/03 11:00 - SportTV 1",
+      "pubDate": "Sun, 15 Mar 2026 11:00:00",
       "guid": ""
     }
   ]

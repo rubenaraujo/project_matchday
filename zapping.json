@@ -1,38 +1,10 @@
 {
   "items": [
     {
-      "title": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Basaksehir - 14/03 17:00 - SportTV 5",
-      "pubDate": "Sat, 14 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Angers x Nice - 14/03 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angers x Nice - 14/03 18:00 - SportTV 6",
       "pubDate": "Sat, 14 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vasco da Gama (Basket) x CP Esgueira (Basket) - 14/03 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco da Gama (Basket) x CP Esgueira (Basket) - 14/03 18:30 - DAZN 4",
-      "pubDate": "Sat, 14 Mar 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Khaleej x Al-Nassr - 14/03 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Khaleej x Al-Nassr - 14/03 19:00 - SportTV 5",
-      "pubDate": "Sat, 14 Mar 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Basket Feminino) x Sérvia (Basket Feminino) - 14/03 19:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Basket Feminino) x Sérvia (Basket Feminino) - 14/03 19:00 - RTP2",
-      "pubDate": "Sat, 14 Mar 2026 19:00:00",
       "guid": ""
     },
     {
@@ -271,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nacional x Estoril Praia - 15/03 15:30 - SportTV 1",
       "pubDate": "Sun, 15 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Havre x Lyon - 15/03 16:15 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Havre x Lyon - 15/03 16:15 - SportTV +",
+      "pubDate": "Sun, 15 Mar 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Finalista 1 x Finalista 2 - 15/03 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finalista 1 x Finalista 2 - 15/03 16:15 - SportTV 3",
+      "pubDate": "Sun, 15 Mar 2026 16:15:00",
       "guid": ""
     }
   ]

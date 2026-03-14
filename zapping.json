@@ -8,23 +8,9 @@
       "guid": ""
     },
     {
-      "title": "FC Arouca x Benfica - 14/03 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Benfica - 14/03 20:30 - SportTV 1",
-      "pubDate": "Sat, 14 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/03 21:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/03 21:00 - SportTV 5",
-      "pubDate": "Sat, 14 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Turquel (Hóquei) x AD Sanjoanense (Hóquei) - 14/03 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x AD Sanjoanense (Hóquei) - 14/03 21:00 - FPP TV",
       "pubDate": "Sat, 14 Mar 2026 21:00:00",
       "guid": ""
     },
@@ -257,6 +243,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal) x Eléctrico (Futsal) - 15/03 18:00 - Canal11",
       "pubDate": "Sun, 15 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x Est. Amadora - 15/03 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x Est. Amadora - 15/03 18:00 - SportTV 4",
+      "pubDate": "Sun, 15 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x Benfica (Hóquei) - 15/03 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x Benfica (Hóquei) - 15/03 18:00 - FPP TV",
+      "pubDate": "Sun, 15 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x RB Leipzig - 15/03 18:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x RB Leipzig - 15/03 18:30 - DAZN 3",
+      "pubDate": "Sun, 15 Mar 2026 18:30:00",
       "guid": ""
     }
   ]

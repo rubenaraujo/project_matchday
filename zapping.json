@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Lisboa Navigators (Fut. Americano) x Cascais Crusaders (Fut. Americano) - 14/03 19:30 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lisboa Navigators (Fut. Americano) x Cascais Crusaders (Fut. Americano) - 14/03 19:30 - Online",
-      "pubDate": "Sat, 14 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/03 21:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/03 21:00 - SportTV 5",
-      "pubDate": "Sat, 14 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Washington Wizards (Basket) - 14/03 22:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Washington Wizards (Basket) - 14/03 22:00 - SportTV 2",
-      "pubDate": "Sat, 14 Mar 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Banfield - 15/03 00:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Banfield - 15/03 00:00 - SportTV 6",
@@ -190,9 +169,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 15/03 16:15 - SportTV 3",
+      "title": "Benfica (Voleibol) x Sporting (Voleibol) - 15/03 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 15/03 16:15 - SportTV 3",
+      "description": "Benfica (Voleibol) x Sporting (Voleibol) - 15/03 16:15 - SportTV 3",
       "pubDate": "Sun, 15 Mar 2026 16:15:00",
       "guid": ""
     },
@@ -264,6 +243,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x RB Leipzig - 15/03 18:30 - DAZN 3",
       "pubDate": "Sun, 15 Mar 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x Dallas Mavericks (Basket) - 15/03 19:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x Dallas Mavericks (Basket) - 15/03 19:30 - SportTV 7",
+      "pubDate": "Sun, 15 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Milan - 15/03 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Milan - 15/03 19:45 - SportTV 3",
+      "pubDate": "Sun, 15 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rennes x Lille - 15/03 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rennes x Lille - 15/03 19:45 - SportTV 5",
+      "pubDate": "Sun, 15 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Osasuna - 15/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Osasuna - 15/03 20:00 - DAZN 2",
+      "pubDate": "Sun, 15 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting Gijón x Castellón - 15/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting Gijón x Castellón - 15/03 20:00 - DAZN 2",
+      "pubDate": "Sun, 15 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x CD Mafra - 15/03 20:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x CD Mafra - 15/03 20:15 - Canal11",
+      "pubDate": "Sun, 15 Mar 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Moreirense - 15/03 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Moreirense - 15/03 20:30 - SportTV 1",
+      "pubDate": "Sun, 15 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Sarmiento de Junín - 15/03 22:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Sarmiento de Junín - 15/03 22:45 - SportTV 3",
+      "pubDate": "Sun, 15 Mar 2026 22:45:00",
       "guid": ""
     }
   ]

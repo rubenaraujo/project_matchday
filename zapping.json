@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 15/03 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 15/03 14:00 - Canal11",
-      "pubDate": "Sun, 15 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Werder Bremen x Mainz - 15/03 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Werder Bremen x Mainz - 15/03 14:30 - DAZN 3",
-      "pubDate": "Sun, 15 Mar 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Power FC (Feminino) x Damaiense (Feminino) - 15/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Power FC (Feminino) x Damaiense (Feminino) - 15/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 15 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Feminino) x Marítimo (Feminino) - 15/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x Marítimo (Feminino) - 15/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 15 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "S. João Ver x USC Paredes - 15/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x USC Paredes - 15/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 15 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x AD Marco 09 - 15/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x AD Marco 09 - 15/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 15 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x SC Braga - 15/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x SC Braga - 15/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 15 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona x Sevilla - 15/03 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x Sevilla - 15/03 15:15 - DAZN 2",
@@ -285,6 +236,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barnsley x Wigan Athletic - 17/03 20:00 - SportTV 1",
       "pubDate": "Tue, 17 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x Oklahoma City Thunder (Basket) - 17/03 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x Oklahoma City Thunder (Basket) - 17/03 23:00 - SportTV 1",
+      "pubDate": "Tue, 17 Mar 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Philadelphia 76ers (Basket) - 18/03 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Philadelphia 76ers (Basket) - 18/03 01:00 - SportTV 1",
+      "pubDate": "Wed, 18 Mar 2026 01:00:00",
       "guid": ""
     }
   ]

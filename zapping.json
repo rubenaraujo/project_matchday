@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Schalke 04 x Hannover 96 - 15/03 12:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Schalke 04 x Hannover 96 - 15/03 12:30 - DAZN 3",
-      "pubDate": "Sun, 15 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Espanyol - 15/03 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Espanyol - 15/03 13:00 - DAZN 2",
-      "pubDate": "Sun, 15 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 15/03 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 15/03 14:00 - Canal11",
@@ -306,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Portimonense - 16/03 20:15 - SportTV 1",
       "pubDate": "Mon, 16 Mar 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Phoenix Suns (Basket) - 16/03 23:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Phoenix Suns (Basket) - 16/03 23:30 - SportTV 1",
+      "pubDate": "Mon, 16 Mar 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Gazisehir Gaziantep - 17/03 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Gazisehir Gaziantep - 17/03 17:00 - SportTV 1",
+      "pubDate": "Tue, 17 Mar 2026 17:00:00",
       "guid": ""
     }
   ]

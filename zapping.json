@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rosario Central x Banfield - 15/03 00:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Banfield - 15/03 00:00 - SportTV 6",
-      "pubDate": "Sun, 15 Mar 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x Denver Nuggets (Basket) - 15/03 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Denver Nuggets (Basket) - 15/03 00:30 - SportTV 2",
@@ -313,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Unión x Boca Juniors - 16/03 01:00 - SportTV 2",
       "pubDate": "Mon, 16 Mar 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (B) x UD Oliveirense - 16/03 18:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x UD Oliveirense - 16/03 18:45 - PortoCanal",
+      "pubDate": "Mon, 16 Mar 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Cremonese x Fiorentina - 16/03 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cremonese x Fiorentina - 16/03 19:45 - SportTV 2",
+      "pubDate": "Mon, 16 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Wolverhampton - 16/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Wolverhampton - 16/03 20:00 - DAZN 1",
+      "pubDate": "Mon, 16 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Barcelona x Sevilla - 15/03 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Sevilla - 15/03 15:15 - DAZN 2",
-      "pubDate": "Sun, 15 Mar 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x Santa Clara - 15/03 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Santa Clara - 15/03 15:30 - SportTV 2",
-      "pubDate": "Sun, 15 Mar 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Estoril Praia - 15/03 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Estoril Praia - 15/03 15:30 - SportTV 1",
-      "pubDate": "Sun, 15 Mar 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Le Havre x Lyon - 15/03 16:15 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Le Havre x Lyon - 15/03 16:15 - SportTV +",
-      "pubDate": "Sun, 15 Mar 2026 16:15:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Voleibol) x Sporting (Voleibol) - 15/03 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Voleibol) x Sporting (Voleibol) - 15/03 16:15 - SportTV 3",
@@ -250,6 +222,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Denver Nuggets (Basket) x Philadelphia 76ers (Basket) - 18/03 01:00 - SportTV 1",
       "pubDate": "Wed, 18 Mar 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Ferencváros - 18/03 15:30 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Ferencváros - 18/03 15:30 - TVI",
+      "pubDate": "Wed, 18 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray (Basket) x Rytas Vilnius (Basket) - 18/03 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray (Basket) x Rytas Vilnius (Basket) - 18/03 17:00 - SportTV 3",
+      "pubDate": "Wed, 18 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Galatasaray - 18/03 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Galatasaray - 18/03 20:00 - SportTV 5",
+      "pubDate": "Wed, 18 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Golden State Warriors (Basket) - 18/03 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Golden State Warriors (Basket) - 18/03 23:00 - SportTV 1",
+      "pubDate": "Wed, 18 Mar 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Inter Miami CF x Nashville SC - 18/03 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inter Miami CF x Nashville SC - 18/03 23:00 - SportTV 2",
+      "pubDate": "Wed, 18 Mar 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 19/03 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 19/03 01:30 - SportTV 3",
+      "pubDate": "Thu, 19 Mar 2026 01:30:00",
       "guid": ""
     }
   ]

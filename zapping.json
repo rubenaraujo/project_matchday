@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "LA Lakers (Basket) x Denver Nuggets (Basket) - 15/03 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x Denver Nuggets (Basket) - 15/03 00:30 - SportTV 2",
-      "pubDate": "Sun, 15 Mar 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC (B) x Trofense - 15/03 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (B) x Trofense - 15/03 11:00 - Canal11",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brentford x Wolverhampton - 16/03 20:00 - DAZN 1",
       "pubDate": "Mon, 16 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Levante - 16/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Levante - 16/03 20:00 - DAZN 2",
+      "pubDate": "Mon, 16 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Portimonense - 16/03 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Portimonense - 16/03 20:15 - SportTV 1",
+      "pubDate": "Mon, 16 Mar 2026 20:15:00",
       "guid": ""
     }
   ]

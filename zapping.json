@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia (S23) x Farense (S23) - 16/03 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia (S23) x Farense (S23) - 16/03 14:00 - Canal11",
-      "pubDate": "Mon, 16 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (B) x UD Oliveirense - 16/03 18:45 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x UD Oliveirense - 16/03 18:45 - PortoCanal",
@@ -54,6 +47,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket) x Galitos FC (Basket) - 16/03 20:30 - SportingTv",
       "pubDate": "Mon, 16 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Chapecoense x Grêmio - 16/03 23:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chapecoense x Grêmio - 16/03 23:00 - Canal11",
+      "pubDate": "Mon, 16 Mar 2026 23:00:00",
       "guid": ""
     },
     {
@@ -253,6 +253,13 @@
       "guid": ""
     },
     {
+      "title": "Palmeiras x Botafogo - 18/03 22:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Palmeiras x Botafogo - 18/03 22:00 - Canal11",
+      "pubDate": "Wed, 18 Mar 2026 22:00:00",
+      "guid": ""
+    },
+    {
       "title": "Boston Celtics (Basket) x Golden State Warriors (Basket) - 18/03 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Golden State Warriors (Basket) - 18/03 23:00 - SportTV 1",
@@ -264,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Inter Miami CF x Nashville SC - 18/03 23:00 - SportTV 2",
       "pubDate": "Wed, 18 Mar 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Internacional - 19/03 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Internacional - 19/03 00:30 - Canal11",
+      "pubDate": "Thu, 19 Mar 2026 00:30:00",
       "guid": ""
     },
     {
@@ -326,27 +340,6 @@
       "title": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 19/03 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 19/03 20:00 - Canal11",
-      "pubDate": "Thu, 19 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Lille - 19/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Lille - 19/03 20:00 - DAZN 1",
-      "pubDate": "Thu, 19 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Panathinaikos - 19/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Panathinaikos - 19/03 20:00 - DAZN 2",
-      "pubDate": "Thu, 19 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Bologna - 19/03 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Bologna - 19/03 20:00 - DAZN 3",
       "pubDate": "Thu, 19 Mar 2026 20:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Basket) x Galitos FC (Basket) - 16/03 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x Galitos FC (Basket) - 16/03 20:30 - SportingTv",
-      "pubDate": "Mon, 16 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Chapecoense x Grêmio - 16/03 23:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chapecoense x Grêmio - 16/03 23:00 - Canal11",
@@ -305,6 +298,13 @@
       "title": "Aston Villa x Lille - 19/03 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aston Villa x Lille - 19/03 20:00 - DAZN 1",
+      "pubDate": "Thu, 19 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Panathinaikos - 19/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Panathinaikos - 19/03 20:00 - DAZN 2",
       "pubDate": "Thu, 19 Mar 2026 20:00:00",
       "guid": ""
     }

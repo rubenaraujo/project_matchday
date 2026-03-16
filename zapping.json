@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Sarmiento de Junín - 15/03 22:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Sarmiento de Junín - 15/03 22:45 - SportTV 3",
-      "pubDate": "Sun, 15 Mar 2026 22:45:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Golden State Warriors (Basket) - 16/03 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Golden State Warriors (Basket) - 16/03 00:00 - SportTV 1",
@@ -22,10 +15,24 @@
       "guid": ""
     },
     {
+      "title": "Estoril Praia (S23) x Farense (S23) - 16/03 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Farense (S23) - 16/03 14:00 - Canal11",
+      "pubDate": "Mon, 16 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Porto (B) x UD Oliveirense - 16/03 18:45 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x UD Oliveirense - 16/03 18:45 - PortoCanal",
       "pubDate": "Mon, 16 Mar 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Albacete x Las Palmas - 16/03 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Albacete x Las Palmas - 16/03 19:30 - DAZN 3",
+      "pubDate": "Mon, 16 Mar 2026 19:30:00",
       "guid": ""
     },
     {
@@ -57,10 +64,45 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Basket) x Galitos FC (Basket) - 16/03 20:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x Galitos FC (Basket) - 16/03 20:30 - SportingTv",
+      "pubDate": "Mon, 16 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
       "title": "Boston Celtics (Basket) x Phoenix Suns (Basket) - 16/03 23:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Phoenix Suns (Basket) - 16/03 23:30 - SportTV 1",
       "pubDate": "Mon, 16 Mar 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (S23) x Santa Clara (S23) - 17/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (S23) x Santa Clara (S23) - 17/03 11:00 - Canal11",
+      "pubDate": "Tue, 17 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid (Jun.A S19) x Club Brugge (Jun.A S19) - 17/03 13:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid (Jun.A S19) x Club Brugge (Jun.A S19) - 17/03 13:00 - DAZN 1",
+      "pubDate": "Tue, 17 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (S23) x Leixões (S23) - 17/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (S23) x Leixões (S23) - 17/03 15:00 - Canal11",
+      "pubDate": "Tue, 17 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal (Jun.A S19) x PSG (Jun.A S19) - 17/03 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal (Jun.A S19) x PSG (Jun.A S19) - 17/03 15:00 - DAZN 2",
+      "pubDate": "Tue, 17 Mar 2026 15:00:00",
       "guid": ""
     },
     {
@@ -85,6 +127,34 @@
       "guid": ""
     },
     {
+      "title": "Manchester City x Real Madrid - 17/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Real Madrid - 17/03 20:00 - DAZN 1",
+      "pubDate": "Tue, 17 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x PSG - 17/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x PSG - 17/03 20:00 - DAZN 2",
+      "pubDate": "Tue, 17 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Bayer Leverkusen - 17/03 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Bayer Leverkusen - 17/03 20:00 - DAZN 3",
+      "pubDate": "Tue, 17 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x HC Turquel (Hóquei) - 17/03 21:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x HC Turquel (Hóquei) - 17/03 21:00 - SportingTv",
+      "pubDate": "Tue, 17 Mar 2026 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "Orlando Magic (Basket) x Oklahoma City Thunder (Basket) - 17/03 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Oklahoma City Thunder (Basket) - 17/03 23:00 - SportTV 1",
@@ -96,6 +166,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Denver Nuggets (Basket) x Philadelphia 76ers (Basket) - 18/03 01:00 - SportTV 1",
       "pubDate": "Wed, 18 Mar 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Jun.A S19) x Sporting (Jun.A S19) - 18/03 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Jun.A S19) x Sporting (Jun.A S19) - 18/03 13:00 - DAZN 2",
+      "pubDate": "Wed, 18 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (S23) x Gil Vicente (S23) - 18/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (S23) x Gil Vicente (S23) - 18/03 15:00 - Canal11",
+      "pubDate": "Wed, 18 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale (Jun.A S19) x Benfica (Jun.A S19) - 18/03 15:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale (Jun.A S19) x Benfica (Jun.A S19) - 18/03 15:00 - DAZN 3",
+      "pubDate": "Wed, 18 Mar 2026 15:00:00",
       "guid": ""
     },
     {
@@ -113,6 +204,13 @@
       "guid": ""
     },
     {
+      "title": "Barcelona x Newcastle - 18/03 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Newcastle - 18/03 17:45 - DAZN 1",
+      "pubDate": "Wed, 18 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Feminino) x SC Braga (Feminino) - 18/03 18:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Feminino) x SC Braga (Feminino) - 18/03 18:00 - Canal11",
@@ -123,6 +221,20 @@
       "title": "Liverpool x Galatasaray - 18/03 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Galatasaray - 18/03 20:00 - SportTV 5",
+      "pubDate": "Wed, 18 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Atlético de Madrid - 18/03 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Atlético de Madrid - 18/03 20:00 - DAZN 1",
+      "pubDate": "Wed, 18 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Atalanta - 18/03 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Atalanta - 18/03 20:00 - DAZN 2",
       "pubDate": "Wed, 18 Mar 2026 20:00:00",
       "guid": ""
     },
@@ -169,6 +281,34 @@
       "guid": ""
     },
     {
+      "title": "Midtjylland x Nottingham Forest - 19/03 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Midtjylland x Nottingham Forest - 19/03 17:45 - DAZN 1",
+      "pubDate": "Thu, 19 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Celta de Vigo - 19/03 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Celta de Vigo - 19/03 17:45 - DAZN 2",
+      "pubDate": "Thu, 19 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Genk - 19/03 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Genk - 19/03 17:45 - DAZN 3",
+      "pubDate": "Thu, 19 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "AEK Larnaca x Crystal Palace - 19/03 17:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AEK Larnaca x Crystal Palace - 19/03 17:45 - DAZN 4",
+      "pubDate": "Thu, 19 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
       "title": "FC Porto x Stuttgart - 19/03 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Stuttgart - 19/03 20:00 - SportTV 5",
@@ -176,115 +316,24 @@
       "guid": ""
     },
     {
-      "title": "Miami Heat (Basket) x LA Lakers (Basket) - 20/03 00:00 - SportTV 1",
+      "title": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 19/03 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Miami Heat (Basket) x LA Lakers (Basket) - 20/03 00:00 - SportTV 1",
-      "pubDate": "Fri, 20 Mar 2026 00:00:00",
+      "description": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 19/03 20:00 - Canal11",
+      "pubDate": "Thu, 19 Mar 2026 20:00:00",
       "guid": ""
     },
     {
-      "title": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
+      "title": "Aston Villa x Lille - 19/03 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
-      "pubDate": "Fri, 20 Mar 2026 17:30:00",
+      "description": "Aston Villa x Lille - 19/03 20:00 - DAZN 1",
+      "pubDate": "Thu, 19 Mar 2026 20:00:00",
       "guid": ""
     },
     {
-      "title": "GD Chaves x UD Leiria - 20/03 18:00 - SportTV +",
+      "title": "Real Betis x Panathinaikos - 19/03 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x UD Leiria - 20/03 18:00 - SportTV +",
-      "pubDate": "Fri, 20 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
-      "pubDate": "Fri, 20 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Angers - 20/03 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Angers - 20/03 19:45 - SportTV 3",
-      "pubDate": "Fri, 20 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Andebol) x Chéquia (Andebol) - 20/03 20:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol) x Chéquia (Andebol) - 20/03 20:00 - ABola TV",
-      "pubDate": "Fri, 20 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x Casa Pia AC - 20/03 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Casa Pia AC - 20/03 20:15 - SportTV 1",
-      "pubDate": "Fri, 20 Mar 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Memphis Grizzlies (Basket) x Boston Celtics (Basket) - 21/03 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Memphis Grizzlies (Basket) x Boston Celtics (Basket) - 21/03 00:00 - SportTV 1",
-      "pubDate": "Sat, 21 Mar 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x Académico - 21/03 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x Académico - 21/03 11:00 - SportTV 1",
-      "pubDate": "Sat, 21 Mar 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x FC Vizela - 21/03 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x FC Vizela - 21/03 14:00 - SportTV +",
-      "pubDate": "Sat, 21 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Cremonese - 21/03 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Cremonese - 21/03 14:00 - SportTV 2",
-      "pubDate": "Sat, 21 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Valadares Gaia (Feminino) x Racing Power FC (Feminino) - 21/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valadares Gaia (Feminino) x Racing Power FC (Feminino) - 21/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 21 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal) x Eléctrico (Futsal) - 21/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Eléctrico (Futsal) - 21/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 21 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (B) x S. João Ver - 21/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x S. João Ver - 21/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 21 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x AD Sanjoanense - 21/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x AD Sanjoanense - 21/03 15:00 - C11 Stream",
-      "pubDate": "Sat, 21 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sheffield United x Wrexham - 21/03 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sheffield United x Wrexham - 21/03 15:00 - SportTV 5",
-      "pubDate": "Sat, 21 Mar 2026 15:00:00",
+      "description": "Real Betis x Panathinaikos - 19/03 20:00 - DAZN 2",
+      "pubDate": "Thu, 19 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

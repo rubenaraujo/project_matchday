@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x Bodo/Glimt - 17/03 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Bodo/Glimt - 17/03 17:45 - SportTV 5",
-      "pubDate": "Tue, 17 Mar 2026 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Barnsley x Wigan Athletic - 17/03 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barnsley x Wigan Athletic - 17/03 20:00 - SportTV 1",
@@ -54,13 +47,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Oklahoma City Thunder (Basket) - 17/03 23:00 - SportTV 1",
       "pubDate": "Tue, 17 Mar 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Denver Nuggets (Basket) x Philadelphia 76ers (Basket) - 18/03 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Nuggets (Basket) x Philadelphia 76ers (Basket) - 18/03 01:00 - SportTV 1",
-      "pubDate": "Wed, 18 Mar 2026 01:00:00",
       "guid": ""
     },
     {
@@ -340,6 +326,13 @@
       "title": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
+      "pubDate": "Fri, 20 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Angers - 20/03 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Angers - 20/03 19:45 - SportTV 3",
       "pubDate": "Fri, 20 Mar 2026 19:45:00",
       "guid": ""
     }

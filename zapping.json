@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Barnsley x Wigan Athletic - 17/03 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barnsley x Wigan Athletic - 17/03 20:00 - SportTV 1",
-      "pubDate": "Tue, 17 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Real Madrid - 17/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Real Madrid - 17/03 20:00 - DAZN 1",
-      "pubDate": "Tue, 17 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x PSG - 17/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x PSG - 17/03 20:00 - DAZN 2",
-      "pubDate": "Tue, 17 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Bayer Leverkusen - 17/03 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Bayer Leverkusen - 17/03 20:00 - DAZN 3",
-      "pubDate": "Tue, 17 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Hóquei) x HC Turquel (Hóquei) - 17/03 21:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x HC Turquel (Hóquei) - 17/03 21:00 - SportingTv",
@@ -334,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Angers - 20/03 19:45 - SportTV 3",
       "pubDate": "Fri, 20 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol) x Chéquia (Andebol) - 20/03 20:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol) x Chéquia (Andebol) - 20/03 20:00 - ABola TV",
+      "pubDate": "Fri, 20 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

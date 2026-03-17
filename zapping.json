@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Phoenix Suns (Basket) - 16/03 23:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Phoenix Suns (Basket) - 16/03 23:30 - SportTV 1",
-      "pubDate": "Mon, 16 Mar 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense (S23) x Santa Clara (S23) - 17/03 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (S23) x Santa Clara (S23) - 17/03 11:00 - Canal11",
@@ -340,6 +333,13 @@
       "title": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
+      "pubDate": "Fri, 20 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hannover 96 x Eintracht Braunschweig - 20/03 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hannover 96 x Eintracht Braunschweig - 20/03 17:30 - DAZN 1",
       "pubDate": "Fri, 20 Mar 2026 17:30:00",
       "guid": ""
     }

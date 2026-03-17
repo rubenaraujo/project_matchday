@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Fenerbahçe x Gazisehir Gaziantep - 17/03 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fenerbahçe x Gazisehir Gaziantep - 17/03 17:00 - SportTV 1",
-      "pubDate": "Tue, 17 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting x Bodo/Glimt - 17/03 17:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Bodo/Glimt - 17/03 17:45 - SportTV 5",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x UD Leiria - 20/03 18:00 - SportTV +",
       "pubDate": "Fri, 20 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x TSG Hoffenheim - 20/03 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x TSG Hoffenheim - 20/03 19:30 - DAZN 3",
+      "pubDate": "Fri, 20 Mar 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
+      "pubDate": "Fri, 20 Mar 2026 19:45:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Galatasaray (Basket) x Rytas Vilnius (Basket) - 18/03 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray (Basket) x Rytas Vilnius (Basket) - 18/03 17:00 - SportTV 3",
-      "pubDate": "Wed, 18 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona x Newcastle - 18/03 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x Newcastle - 18/03 17:45 - DAZN 1",
@@ -106,10 +99,31 @@
       "guid": ""
     },
     {
+      "title": "SMU Mustangs (Basket  Universitários) x Miami RedHawks (Basket  Universitários) - 19/03 01:15 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SMU Mustangs (Basket  Universitários) x Miami RedHawks (Basket  Universitários) - 19/03 01:15 - DAZN",
+      "pubDate": "Thu, 19 Mar 2026 01:15:00",
+      "guid": ""
+    },
+    {
       "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 19/03 01:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 19/03 01:30 - SportTV 3",
       "pubDate": "Thu, 19 Mar 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Ohio State Buckeyes (Basket  Universitários) x TCU Horned Frogs (Basket  Universitários) - 19/03 16:15 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ohio State Buckeyes (Basket  Universitários) x TCU Horned Frogs (Basket  Universitários) - 19/03 16:15 - DAZN",
+      "pubDate": "Thu, 19 Mar 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nebraska Cornhuskers (Basket  Universitários) x Troy Trojans (Basket  Universitários) - 19/03 16:40 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nebraska Cornhuskers (Basket  Universitários) x Troy Trojans (Basket  Universitários) - 19/03 16:40 - DAZN",
+      "pubDate": "Thu, 19 Mar 2026 16:40:00",
       "guid": ""
     },
     {
@@ -152,6 +166,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AEK Larnaca x Crystal Palace - 19/03 17:45 - DAZN 4",
       "pubDate": "Thu, 19 Mar 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Duke Blue Devils (Basket  Universitários) x Siena Saints (Basket  Universitários) - 19/03 18:50 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Duke Blue Devils (Basket  Universitários) x Siena Saints (Basket  Universitários) - 19/03 18:50 - DAZN",
+      "pubDate": "Thu, 19 Mar 2026 18:50:00",
       "guid": ""
     },
     {
@@ -313,20 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (S23) x Académico (S23) - 21/03 11:00 - Canal11",
       "pubDate": "Sat, 21 Mar 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Liverpool - 21/03 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Liverpool - 21/03 12:30 - DAZN 1",
-      "pubDate": "Sat, 21 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Mallorca - 21/03 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Mallorca - 21/03 13:00 - DAZN 2",
-      "pubDate": "Sat, 21 Mar 2026 13:00:00",
       "guid": ""
     }
   ]

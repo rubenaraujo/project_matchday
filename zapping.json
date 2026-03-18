@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Feminino) x Vitória SC (Feminino) - 18/03 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x Vitória SC (Feminino) - 18/03 20:30 - Canal11",
-      "pubDate": "Wed, 18 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Palmeiras x Botafogo - 18/03 22:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Botafogo - 18/03 22:00 - Canal11",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Cremonese - 21/03 14:00 - SportTV 2",
       "pubDate": "Sat, 21 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x 1. FC Union Berlin - 21/03 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x 1. FC Union Berlin - 21/03 14:30 - DAZN 3",
+      "pubDate": "Sat, 21 Mar 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Heidenheim 1846 x Bayer Leverkusen - 21/03 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Heidenheim 1846 x Bayer Leverkusen - 21/03 14:30 - DAZN 4",
+      "pubDate": "Sat, 21 Mar 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia (Feminino) x Racing Power FC (Feminino) - 21/03 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia (Feminino) x Racing Power FC (Feminino) - 21/03 15:00 - C11 Stream",
+      "pubDate": "Sat, 21 Mar 2026 15:00:00",
       "guid": ""
     }
   ]

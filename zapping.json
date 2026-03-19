@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Golden State Warriors (Basket) - 18/03 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Golden State Warriors (Basket) - 18/03 23:00 - SportTV 1",
-      "pubDate": "Wed, 18 Mar 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santos x Internacional - 19/03 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santos x Internacional - 19/03 00:30 - Canal11",
-      "pubDate": "Thu, 19 Mar 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "SMU Mustangs (Basket  Universitários) x Miami RedHawks (Basket  Universitários) - 19/03 01:15 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SMU Mustangs (Basket  Universitários) x Miami RedHawks (Basket  Universitários) - 19/03 01:15 - DAZN",
@@ -319,6 +305,34 @@
       "title": "AD Marco 09 x AD Sanjoanense - 21/03 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Marco 09 x AD Sanjoanense - 21/03 15:00 - C11 Stream",
+      "pubDate": "Sat, 21 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sheffield United x Wrexham - 21/03 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sheffield United x Wrexham - 21/03 15:00 - SportTV 5",
+      "pubDate": "Sat, 21 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x FC Famalicão (S23) - 21/03 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x FC Famalicão (S23) - 21/03 15:00 - Canal11",
+      "pubDate": "Sat, 21 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Burnley - 21/03 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Burnley - 21/03 15:00 - DAZN 1",
+      "pubDate": "Sat, 21 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Basket) x Benfica (Basket) - 21/03 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x Benfica (Basket) - 21/03 15:00 - PortoCanal",
       "pubDate": "Sat, 21 Mar 2026 15:00:00",
       "guid": ""
     }

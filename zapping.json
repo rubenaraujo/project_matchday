@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 20/03 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 20/03 01:00 - SportTV 2",
-      "pubDate": "Fri, 20 Mar 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Illinois Fighting Illini (Basket  Universitários) x Pennsylvania Quakers (Basket  Universitários) - 20/03 01:25 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Illinois Fighting Illini (Basket  Universitários) x Pennsylvania Quakers (Basket  Universitários) - 20/03 01:25 - DAZN",
-      "pubDate": "Fri, 20 Mar 2026 01:25:00",
-      "guid": ""
-    },
-    {
       "title": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
@@ -326,6 +312,20 @@
       "title": "Ferreira do Zêzere (Futsal) x FC Famalicão (Futsal) - 21/03 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x FC Famalicão (Futsal) - 21/03 18:00 - C11 Stream",
+      "pubDate": "Sat, 21 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Vitória SC - 21/03 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Vitória SC - 21/03 18:00 - BTv",
+      "pubDate": "Sat, 21 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Auxerre x Brest - 21/03 18:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Auxerre x Brest - 21/03 18:00 - SportTV 7",
       "pubDate": "Sat, 21 Mar 2026 18:00:00",
       "guid": ""
     }

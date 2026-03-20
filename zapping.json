@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Napoli - 20/03 17:30 - SportTV 2",
-      "pubDate": "Fri, 20 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hannover 96 x Eintracht Braunschweig - 20/03 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hannover 96 x Eintracht Braunschweig - 20/03 17:30 - DAZN 1",
-      "pubDate": "Fri, 20 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Arizona Wildcats (Basket  Universitários) x LIU Sharks (Basket  Universitários) - 20/03 17:35 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arizona Wildcats (Basket  Universitários) x LIU Sharks (Basket  Universitários) - 20/03 17:35 - DAZN",
-      "pubDate": "Fri, 20 Mar 2026 17:35:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x UD Leiria - 20/03 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x UD Leiria - 20/03 18:00 - SportTV +",
-      "pubDate": "Fri, 20 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "RB Leipzig x TSG Hoffenheim - 20/03 19:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "RB Leipzig x TSG Hoffenheim - 20/03 19:30 - DAZN 3",
@@ -82,6 +54,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "St. John´s Red Storm (Basket  Universitários) x Northern Iowa Panthers (Basket  Universitários) - 20/03 23:10 - DAZN",
       "pubDate": "Fri, 20 Mar 2026 23:10:00",
+      "guid": ""
+    },
+    {
+      "title": "UCLA Bruins (Basket  Universitários) x UCF Knights (Basket  Universitários) - 20/03 23:25 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UCLA Bruins (Basket  Universitários) x UCF Knights (Basket  Universitários) - 20/03 23:25 - DAZN",
+      "pubDate": "Fri, 20 Mar 2026 23:25:00",
       "guid": ""
     },
     {
@@ -326,13 +305,6 @@
       "title": "Benfica x Vitória SC - 21/03 18:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Vitória SC - 21/03 18:00 - BTv",
-      "pubDate": "Sat, 21 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Brest - 21/03 18:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Brest - 21/03 18:00 - SportTV 7",
       "pubDate": "Sat, 21 Mar 2026 18:00:00",
       "guid": ""
     }

@@ -1,44 +1,9 @@
 {
   "items": [
     {
-      "title": "RB Leipzig x TSG Hoffenheim - 20/03 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RB Leipzig x TSG Hoffenheim - 20/03 19:30 - DAZN 3",
-      "pubDate": "Fri, 20 Mar 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Udinese - 20/03 19:45 - SportTV 2",
-      "pubDate": "Fri, 20 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Angers - 20/03 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Angers - 20/03 19:45 - SportTV 3",
-      "pubDate": "Fri, 20 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Andebol) x Chéquia (Andebol) - 20/03 20:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol) x Chéquia (Andebol) - 20/03 20:00 - ABola TV",
-      "pubDate": "Fri, 20 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Manchester United - 20/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Manchester United - 20/03 20:00 - DAZN 1",
-      "pubDate": "Fri, 20 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Real Sociedad - 20/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Real Sociedad - 20/03 20:00 - DAZN 2",
       "pubDate": "Fri, 20 Mar 2026 20:00:00",
       "guid": ""
     },
@@ -312,6 +277,34 @@
       "title": "Auxerre x Brest - 21/03 18:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Auxerre x Brest - 21/03 18:00 - SportTV 7",
+      "pubDate": "Sat, 21 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Hóquei) x FC Porto (Hóquei) - 21/03 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Hóquei) x FC Porto (Hóquei) - 21/03 18:00 - FPP TV",
+      "pubDate": "Sat, 21 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x FC Porto - 21/03 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x FC Porto - 21/03 18:00 - SportTV 3",
+      "pubDate": "Sat, 21 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Gil Vicente - 21/03 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Gil Vicente - 21/03 18:00 - SportTV 1",
+      "pubDate": "Sat, 21 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x Juventude Pacense (Hóquei) - 21/03 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x Juventude Pacense (Hóquei) - 21/03 18:00 - FPP TV",
       "pubDate": "Sat, 21 Mar 2026 18:00:00",
       "guid": ""
     }

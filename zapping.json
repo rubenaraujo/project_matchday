@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Galitos FC (Basket) x Imortal (Basket) - 21/03 18:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galitos FC (Basket) x Imortal (Basket) - 21/03 18:00 - ABola TV",
-      "pubDate": "Sat, 21 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 21/03 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 21/03 19:00 - Canal11",
-      "pubDate": "Sat, 21 Mar 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Sassuolo - 21/03 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Sassuolo - 21/03 19:45 - SportTV 2",
-      "pubDate": "Sat, 21 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Brentford - 21/03 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Brentford - 21/03 20:00 - DAZN 1",
-      "pubDate": "Sat, 21 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Valencia - 21/03 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Valencia - 21/03 20:00 - DAZN 2",
-      "pubDate": "Sat, 21 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 21/03 20:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 21/03 20:00 - Online",
       "pubDate": "Sat, 21 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nice x PSG - 21/03 20:05 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nice x PSG - 21/03 20:05 - SportTV 4",
-      "pubDate": "Sat, 21 Mar 2026 20:05:00",
       "guid": ""
     },
     {
@@ -236,6 +194,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "BC Barcelos (Basket Feminino) x Benfica (Basket Feminino) - 22/03 15:00 - DAZN 2",
       "pubDate": "Sun, 22 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x JuveForce (Feminino) - 22/03 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x JuveForce (Feminino) - 22/03 15:00 - PortoCanal",
+      "pubDate": "Sun, 22 Mar 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Paços de Ferreira - 22/03 15:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Paços de Ferreira - 22/03 15:30 - SportTV 6",
+      "pubDate": "Sun, 22 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Rio Ave - 22/03 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Rio Ave - 22/03 15:30 - SportTV 1",
+      "pubDate": "Sun, 22 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Telstar x PSV - 22/03 15:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Telstar x PSV - 22/03 15:45 - DAZN 4",
+      "pubDate": "Sun, 22 Mar 2026 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Lille - 22/03 16:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Lille - 22/03 16:15 - SportTV 5",
+      "pubDate": "Sun, 22 Mar 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Manchester City - 22/03 16:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Manchester City - 22/03 16:30 - SportTV 3",
+      "pubDate": "Sun, 22 Mar 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC St. Pauli x SC Freiburg - 22/03 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC St. Pauli x SC Freiburg - 22/03 16:30 - DAZN 3",
+      "pubDate": "Sun, 22 Mar 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Lecce - 22/03 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Lecce - 22/03 17:00 - SportTV 7",
+      "pubDate": "Sun, 22 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Vitória SC (Voleibol Feminino) - 22/03 17:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Vitória SC (Voleibol Feminino) - 22/03 17:00 - PortoCanal",
+      "pubDate": "Sun, 22 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x Académica OAF - 22/03 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x Académica OAF - 22/03 17:30 - Canal11",
+      "pubDate": "Sun, 22 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Real Betis - 22/03 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Real Betis - 22/03 17:30 - DAZN 1",
+      "pubDate": "Sun, 22 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x Farense - 22/03 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x Farense - 22/03 18:00 - BTv",
+      "pubDate": "Sun, 22 Mar 2026 18:00:00",
       "guid": ""
     }
   ]

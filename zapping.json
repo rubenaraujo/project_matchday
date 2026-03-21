@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Brighton  Hove Albion x Liverpool - 21/03 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Liverpool - 21/03 12:30 - DAZN 1",
-      "pubDate": "Sat, 21 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Ipswich Town x Millwall - 21/03 12:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ipswich Town x Millwall - 21/03 12:30 - SportTV 6",
-      "pubDate": "Sat, 21 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche x Mallorca - 21/03 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche x Mallorca - 21/03 13:00 - DAZN 2",
-      "pubDate": "Sat, 21 Mar 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Penafiel x FC Vizela - 21/03 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x FC Vizela - 21/03 14:00 - SportTV +",
@@ -327,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 21/03 20:00 - Online",
       "pubDate": "Sat, 21 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nice x PSG - 21/03 20:05 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nice x PSG - 21/03 20:05 - SportTV 4",
+      "pubDate": "Sat, 21 Mar 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x AFS - 21/03 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x AFS - 21/03 20:30 - SportTV 1",
+      "pubDate": "Sat, 21 Mar 2026 20:30:00",
       "guid": ""
     }
   ]

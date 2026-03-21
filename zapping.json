@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Varzim x U. Santarém - 21/03 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x U. Santarém - 21/03 17:00 - Canal11",
-      "pubDate": "Sat, 21 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x SC Covilhã - 21/03 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x SC Covilhã - 21/03 17:00 - C11 Stream",
-      "pubDate": "Sat, 21 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Torino - 21/03 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Torino - 21/03 17:00 - SportTV 2",
-      "pubDate": "Sat, 21 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Everton x Chelsea - 21/03 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Everton x Chelsea - 21/03 17:30 - DAZN 1",
@@ -215,6 +194,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "São Paulo x Palmeiras - 22/03 00:00 - Canal11",
       "pubDate": "Sun, 22 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Mavericks (Basket) x LA Clippers (Basket) - 22/03 00:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Mavericks (Basket) x LA Clippers (Basket) - 22/03 00:30 - SportTV 4",
+      "pubDate": "Sun, 22 Mar 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Belgrano x Racing Club - 22/03 01:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belgrano x Racing Club - 22/03 01:15 - SportTV 3",
+      "pubDate": "Sun, 22 Mar 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras x Torreense - 22/03 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras x Torreense - 22/03 11:00 - SportTV 1",
+      "pubDate": "Sun, 22 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Benfica (Feminino) - 22/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Benfica (Feminino) - 22/03 11:00 - Canal11",
+      "pubDate": "Sun, 22 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.C S15) x SC Braga (Jun.C S15) - 22/03 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.C S15) x SC Braga (Jun.C S15) - 22/03 11:00 - SportingTv",
+      "pubDate": "Sun, 22 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Pisa - 22/03 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Pisa - 22/03 11:30 - SportTV 2",
+      "pubDate": "Sun, 22 Mar 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Sunderland - 22/03 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Sunderland - 22/03 12:00 - DAZN 1",
+      "pubDate": "Sun, 22 Mar 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee United x Celtic - 22/03 12:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee United x Celtic - 22/03 12:30 - SportTV 6",
+      "pubDate": "Sun, 22 Mar 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Amarante FC x Vitória SC - 22/03 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amarante FC x Vitória SC - 22/03 13:00 - Canal11",
+      "pubDate": "Sun, 22 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Rayo Vallecano - 22/03 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Rayo Vallecano - 22/03 13:00 - DAZN 2",
+      "pubDate": "Sun, 22 Mar 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feyenoord x Ajax - 22/03 13:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feyenoord x Ajax - 22/03 13:30 - DAZN 4",
+      "pubDate": "Sun, 22 Mar 2026 13:30:00",
       "guid": ""
     }
   ]

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Marseille x Lille - 22/03 16:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Lille - 22/03 16:15 - SportTV 5",
-      "pubDate": "Sun, 22 Mar 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Manchester City - 22/03 16:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Manchester City - 22/03 16:30 - SportTV 3",
-      "pubDate": "Sun, 22 Mar 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC St. Pauli x SC Freiburg - 22/03 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x SC Freiburg - 22/03 16:30 - DAZN 3",
-      "pubDate": "Sun, 22 Mar 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Lecce - 22/03 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Lecce - 22/03 17:00 - SportTV 7",
-      "pubDate": "Sun, 22 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Vitória SC (Voleibol Feminino) - 22/03 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Vitória SC (Voleibol Feminino) - 22/03 17:00 - PortoCanal",
-      "pubDate": "Sun, 22 Mar 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Trofense x Académica OAF - 22/03 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x Académica OAF - 22/03 17:30 - Canal11",
@@ -271,6 +236,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ucrânia x Suécia - 26/03 19:45 - SportTV 3",
       "pubDate": "Thu, 26 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x Macedónia do Norte - 26/03 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x Macedónia do Norte - 26/03 19:45 - SportTV 6",
+      "pubDate": "Thu, 26 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "País de Gales x Bósnia - 26/03 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "País de Gales x Bósnia - 26/03 19:45 - SportTV 5",
+      "pubDate": "Thu, 26 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x Rep. Irlanda - 26/03 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x Rep. Irlanda - 26/03 19:45 - SportTV 4",
+      "pubDate": "Thu, 26 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil x França - 26/03 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil x França - 26/03 20:00 - SportTV 1",
+      "pubDate": "Thu, 26 Mar 2026 20:00:00",
       "guid": ""
     }
   ]

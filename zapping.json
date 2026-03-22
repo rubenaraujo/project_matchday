@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Como 1907 x Pisa - 22/03 11:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Pisa - 22/03 11:30 - SportTV 2",
-      "pubDate": "Sun, 22 Mar 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Dundee United x Celtic - 22/03 12:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dundee United x Celtic - 22/03 12:30 - SportTV 6",
-      "pubDate": "Sun, 22 Mar 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Feyenoord x Ajax - 22/03 13:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Ajax - 22/03 13:30 - DAZN 4",
-      "pubDate": "Sun, 22 Mar 2026 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Sporting - 22/03 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Sporting - 22/03 14:00 - SportTV +",
-      "pubDate": "Sun, 22 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Hellas Verona - 22/03 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Hellas Verona - 22/03 14:00 - SportTV 2",
-      "pubDate": "Sun, 22 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lyon x Monaco - 22/03 14:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lyon x Monaco - 22/03 14:00 - SportTV 3",
@@ -320,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Orlando Magic (Basket) - 25/03 00:00 - SportTV 1",
       "pubDate": "Wed, 25 Mar 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (S17) x Portugal (S17) - 25/03 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (S17) x Portugal (S17) - 25/03 14:00 - Canal11",
+      "pubDate": "Wed, 25 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Polónia (S19) x Portugal (S19) - 25/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Polónia (S19) x Portugal (S19) - 25/03 16:00 - Canal11",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00",
       "guid": ""
     }
   ]

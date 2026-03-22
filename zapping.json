@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Lyon x Monaco - 22/03 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Monaco - 22/03 14:00 - SportTV 3",
-      "pubDate": "Sun, 22 Mar 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x West Ham - 22/03 14:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x West Ham - 22/03 14:15 - DAZN 1",
-      "pubDate": "Sun, 22 Mar 2026 14:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Nottingham Forest - 22/03 14:15 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Nottingham Forest - 22/03 14:15 - DAZN 3",
-      "pubDate": "Sun, 22 Mar 2026 14:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Sporting (Feminino) - 22/03 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Sporting (Feminino) - 22/03 15:00 - Canal11",
-      "pubDate": "Sun, 22 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Feminino) x Rio Ave (Feminino) - 22/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Feminino) x Rio Ave (Feminino) - 22/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x Amora FC - 22/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x Amora FC - 22/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Lusitano GC - 22/03 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Lusitano GC - 22/03 15:00 - C11 Stream",
-      "pubDate": "Sun, 22 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "BC Barcelos (Basket Feminino) x Benfica (Basket Feminino) - 22/03 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "BC Barcelos (Basket Feminino) x Benfica (Basket Feminino) - 22/03 15:00 - DAZN 2",
-      "pubDate": "Sun, 22 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x JuveForce (Feminino) - 22/03 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x JuveForce (Feminino) - 22/03 15:00 - PortoCanal",
-      "pubDate": "Sun, 22 Mar 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões x Paços de Ferreira - 22/03 15:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x Paços de Ferreira - 22/03 15:30 - SportTV 6",
@@ -299,6 +236,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia (S19) x Portugal (S19) - 25/03 16:00 - Canal11",
       "pubDate": "Wed, 25 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Marrocos (S18) - 25/03 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Marrocos (S18) - 25/03 18:00 - Canal11",
+      "pubDate": "Wed, 25 Mar 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Oklahoma City Thunder (Basket) - 25/03 23:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Oklahoma City Thunder (Basket) - 25/03 23:30 - SportTV 1",
+      "pubDate": "Wed, 25 Mar 2026 23:30:00",
       "guid": ""
     }
   ]

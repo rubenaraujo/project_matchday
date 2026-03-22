@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Trofense x Académica OAF - 22/03 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Académica OAF - 22/03 17:30 - Canal11",
-      "pubDate": "Sun, 22 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Real Betis - 22/03 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Real Betis - 22/03 17:30 - DAZN 1",
-      "pubDate": "Sun, 22 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x Farense - 22/03 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x Farense - 22/03 18:00 - BTv",
-      "pubDate": "Sun, 22 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Alverca x Sporting - 22/03 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Sporting - 22/03 18:00 - SportTV 2",
-      "pubDate": "Sun, 22 Mar 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Augsburg x Stuttgart - 22/03 18:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Augsburg x Stuttgart - 22/03 18:30 - DAZN 3",
@@ -264,6 +236,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil x França - 26/03 20:00 - SportTV 1",
       "pubDate": "Thu, 26 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x Sacramento Kings (Basket) - 26/03 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x Sacramento Kings (Basket) - 26/03 23:00 - SportTV 1",
+      "pubDate": "Thu, 26 Mar 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Azerbaijão (S21) x Portugal (S21) - 27/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Azerbaijão (S21) x Portugal (S21) - 27/03 11:00 - Canal11",
+      "pubDate": "Fri, 27 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria x Gana - 27/03 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria x Gana - 27/03 17:00 - SportTV 1",
+      "pubDate": "Fri, 27 Mar 2026 17:00:00",
       "guid": ""
     }
   ]

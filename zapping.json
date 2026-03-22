@@ -1,31 +1,10 @@
 {
   "items": [
     {
-      "title": "FC Augsburg x Stuttgart - 22/03 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x Stuttgart - 22/03 18:30 - DAZN 3",
-      "pubDate": "Sun, 22 Mar 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 22/03 20:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 22/03 20:00 - Online",
       "pubDate": "Sun, 22 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x FC Porto - 22/03 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x FC Porto - 22/03 20:30 - SportTV 1",
-      "pubDate": "Sun, 22 Mar 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Estudiantes Río Cuarto x River Plate - 22/03 20:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estudiantes Río Cuarto x River Plate - 22/03 20:45 - SportTV 6",
-      "pubDate": "Sun, 22 Mar 2026 20:45:00",
       "guid": ""
     },
     {
@@ -292,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente x Atenas de Río IV - 28/03 00:15 - SportTV 6",
       "pubDate": "Sat, 28 Mar 2026 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Damaiense (Feminino) x Vitória SC (Feminino) - 28/03 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Damaiense (Feminino) x Vitória SC (Feminino) - 28/03 11:00 - Canal11",
+      "pubDate": "Sat, 28 Mar 2026 11:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 22/03 20:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Salgueiros Renegades (Fut. Americano) x Mutts CFA (Fut. Americano) - 22/03 20:00 - Online",
-      "pubDate": "Sun, 22 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Denver Nuggets (Basket) x Portland Trail Blazers (Basket) - 22/03 21:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Nuggets (Basket) x Portland Trail Blazers (Basket) - 22/03 21:00 - SportTV 2",
-      "pubDate": "Sun, 22 Mar 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Instituto - 22/03 23:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Instituto - 22/03 23:00 - SportTV 4",
@@ -278,6 +264,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Damaiense (Feminino) x Vitória SC (Feminino) - 28/03 11:00 - Canal11",
       "pubDate": "Sat, 28 Mar 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Islândia (S18) - 28/03 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Islândia (S18) - 28/03 14:00 - Canal11",
+      "pubDate": "Sat, 28 Mar 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S19) x Sérvia (S19) - 28/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S19) x Sérvia (S19) - 28/03 16:00 - Canal11",
+      "pubDate": "Sat, 28 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Escócia x Japão - 28/03 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Escócia x Japão - 28/03 17:00 - SportTV 1",
+      "pubDate": "Sat, 28 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hungria x Eslovénia - 28/03 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hungria x Eslovénia - 28/03 17:00 - SportTV 2",
+      "pubDate": "Sat, 28 Mar 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Feminino) x Valadares Gaia (Feminino) - 28/03 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Feminino) x Valadares Gaia (Feminino) - 28/03 19:00 - Canal11",
+      "pubDate": "Sat, 28 Mar 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Minnesota Timberwolves (Basket) x Detroit Pistons (Basket) - 28/03 21:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Minnesota Timberwolves (Basket) x Detroit Pistons (Basket) - 28/03 21:00 - SportTV 1",
+      "pubDate": "Sat, 28 Mar 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "México x Portugal - 29/03 02:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "México x Portugal - 29/03 02:00 - SportTV 1",
+      "pubDate": "Sun, 29 Mar 2026 02:00:00",
       "guid": ""
     }
   ]

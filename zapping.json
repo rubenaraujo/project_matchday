@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Instituto - 22/03 23:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Instituto - 22/03 23:00 - SportTV 4",
-      "pubDate": "Sun, 22 Mar 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Flamengo - 22/03 23:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Flamengo - 22/03 23:30 - Canal11",
-      "pubDate": "Sun, 22 Mar 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Minnesota Timberwolves (Basket) - 23/03 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Minnesota Timberwolves (Basket) - 23/03 00:00 - SportTV 2",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "México x Portugal - 29/03 02:00 - SportTV 1",
       "pubDate": "Sun, 29 Mar 2026 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
+      "pubDate": "Sun, 29 Mar 2026 17:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Celtics (Basket) x Minnesota Timberwolves (Basket) - 23/03 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Minnesota Timberwolves (Basket) - 23/03 00:00 - SportTV 2",
-      "pubDate": "Mon, 23 Mar 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portimonense (S23) x Estoril Praia (S23) - 23/03 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense (S23) x Estoril Praia (S23) - 23/03 11:00 - Canal11",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
       "pubDate": "Sun, 29 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x Paços de Ferreira - 29/03 18:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x Paços de Ferreira - 29/03 18:00 - SportTV",
+      "pubDate": "Sun, 29 Mar 2026 18:00:00",
       "guid": ""
     }
   ]

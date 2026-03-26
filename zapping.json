@@ -1,17 +1,10 @@
 {
   "items": [
     {
-      "title": "País de Gales x Bósnia - 26/03 19:45 - SportTV 5",
+      "title": "Bolivia x Suriname - 26/03 22:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "País de Gales x Bósnia - 26/03 19:45 - SportTV 5",
-      "pubDate": "Thu, 26 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Chéquia x Rep. Irlanda - 26/03 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chéquia x Rep. Irlanda - 26/03 19:45 - SportTV 6",
-      "pubDate": "Thu, 26 Mar 2026 19:45:00",
+      "description": "Bolivia x Suriname - 26/03 22:00 - DAZN",
+      "pubDate": "Thu, 26 Mar 2026 22:00:00",
       "guid": ""
     },
     {
@@ -19,6 +12,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Sacramento Kings (Basket) - 26/03 23:00 - SportTV 1",
       "pubDate": "Thu, 26 Mar 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nova Caledónia x Jamaica - 27/03 03:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nova Caledónia x Jamaica - 27/03 03:00 - DAZN",
+      "pubDate": "Fri, 27 Mar 2026 03:00:00",
       "guid": ""
     },
     {
@@ -89,13 +89,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente x Atenas de Río IV - 27/03 20:00 - SportTV 5",
       "pubDate": "Fri, 27 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Córdoba x Mirandés - 27/03 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Córdoba x Mirandés - 27/03 20:30 - DAZN 1",
-      "pubDate": "Fri, 27 Mar 2026 20:30:00",
       "guid": ""
     },
     {
@@ -270,13 +263,6 @@
       "title": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
-      "pubDate": "Sun, 29 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Zaragoza x Racing Santander - 29/03 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Zaragoza x Racing Santander - 29/03 17:30 - DAZN 1",
       "pubDate": "Sun, 29 Mar 2026 17:30:00",
       "guid": ""
     }

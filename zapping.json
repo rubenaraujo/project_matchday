@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Bolivia x Suriname - 26/03 22:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolivia x Suriname - 26/03 22:00 - DAZN",
-      "pubDate": "Thu, 26 Mar 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x Sacramento Kings (Basket) - 26/03 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Sacramento Kings (Basket) - 26/03 23:00 - SportTV 1",
@@ -260,10 +253,66 @@
       "guid": ""
     },
     {
+      "title": "FC Pedras Rubras x Avintes - 29/03 15:30 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Pedras Rubras x Avintes - 29/03 15:30 - ABola TV",
+      "pubDate": "Sun, 29 Mar 2026 15:30:00",
+      "guid": ""
+    },
+    {
       "title": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
       "pubDate": "Sun, 29 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Zaragoza x Racing Santander - 29/03 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Zaragoza x Racing Santander - 29/03 17:30 - DAZN 1",
+      "pubDate": "Sun, 29 Mar 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal) x Rio Ave (Futsal) - 29/03 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal) x Rio Ave (Futsal) - 29/03 20:00 - Canal11",
+      "pubDate": "Sun, 29 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Colômbia x França - 29/03 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colômbia x França - 29/03 20:00 - SportTV 1",
+      "pubDate": "Sun, 29 Mar 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Milwaukee Bucks (Basket) x LA Clippers (Basket) - 29/03 20:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milwaukee Bucks (Basket) x LA Clippers (Basket) - 29/03 20:30 - SportTV 6",
+      "pubDate": "Sun, 29 Mar 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Oklahoma City Thunder (Basket) x New York Knicks (Basket) - 30/03 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oklahoma City Thunder (Basket) x New York Knicks (Basket) - 30/03 00:30 - SportTV 1",
+      "pubDate": "Mon, 30 Mar 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Newell´s Old Boys x Acassuso - 30/03 01:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newell´s Old Boys x Acassuso - 30/03 01:15 - SportTV 3",
+      "pubDate": "Mon, 30 Mar 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Golden State Warriors (Basket) - 30/03 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Golden State Warriors (Basket) - 30/03 03:00 - SportTV 1",
+      "pubDate": "Mon, 30 Mar 2026 03:00:00",
       "guid": ""
     }
   ]

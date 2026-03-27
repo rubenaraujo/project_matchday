@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "ADCR Caxinas Poça Barca (Futsal) x AD Fundão (Futsal) - 27/03 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ADCR Caxinas Poça Barca (Futsal) x AD Fundão (Futsal) - 27/03 19:00 - Canal11",
-      "pubDate": "Fri, 27 Mar 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Inglaterra x Uruguai - 27/03 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Inglaterra x Uruguai - 27/03 19:45 - SportTV 1",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Oklahoma City Thunder (Basket) x New York Knicks (Basket) - 30/03 00:30 - SportTV 1",
       "pubDate": "Mon, 30 Mar 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Newell´s Old Boys x Acassuso - 30/03 01:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newell´s Old Boys x Acassuso - 30/03 01:15 - SportTV 3",
+      "pubDate": "Mon, 30 Mar 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Golden State Warriors (Basket) - 30/03 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Golden State Warriors (Basket) - 30/03 03:00 - SportTV 1",
+      "pubDate": "Mon, 30 Mar 2026 03:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S19) x Sérvia (S19) - 28/03 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S19) x Sérvia (S19) - 28/03 16:00 - Canal11",
-      "pubDate": "Sat, 28 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ala Nun´Álvares (Voleibol) x Sporting (Voleibol) - 28/03 16:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ala Nun´Álvares (Voleibol) x Sporting (Voleibol) - 28/03 16:00 - SportTV 1",
-      "pubDate": "Sat, 28 Mar 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Póvoa AC (Andebol) x Marítimo (Andebol) - 28/03 16:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x Marítimo (Andebol) - 28/03 16:30 - AndebolTV",
@@ -305,6 +291,13 @@
       "title": "Suécia x Polónia - 31/03 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suécia x Polónia - 31/03 19:45 - SportTV 1",
+      "pubDate": "Tue, 31 Mar 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bósnia x Itália - 31/03 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bósnia x Itália - 31/03 19:45 - SportTV 4",
       "pubDate": "Tue, 31 Mar 2026 19:45:00",
       "guid": ""
     }

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Minnesota Timberwolves (Basket) x Detroit Pistons (Basket) - 28/03 21:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Timberwolves (Basket) x Detroit Pistons (Basket) - 28/03 21:30 - SportTV 2",
-      "pubDate": "Sat, 28 Mar 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Arsenal da Devesa (Andebol) - 28/03 21:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Arsenal da Devesa (Andebol) - 28/03 21:30 - AndebolTV",
-      "pubDate": "Sat, 28 Mar 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "México x Portugal - 29/03 02:00 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "México x Portugal - 29/03 02:00 - RTP1",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Miami Heat (Basket) x Boston Celtics (Basket) - 02/04 00:30 - SportTV 1",
       "pubDate": "Thu, 02 Apr 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 02/04 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 02/04 01:30 - SportTV 3",
+      "pubDate": "Thu, 02 Apr 2026 01:30:00",
       "guid": ""
     }
   ]

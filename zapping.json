@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense (Futsal) x Rio Ave (Futsal) - 29/03 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Rio Ave (Futsal) - 29/03 20:00 - Canal11",
-      "pubDate": "Sun, 29 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colômbia x França - 29/03 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia x França - 29/03 20:00 - SportTV 1",
-      "pubDate": "Sun, 29 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Milwaukee Bucks (Basket) x LA Clippers (Basket) - 29/03 20:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milwaukee Bucks (Basket) x LA Clippers (Basket) - 29/03 20:30 - SportTV 6",
@@ -299,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Middlesbrough x Millwall - 03/04 12:30 - SportTV 1",
       "pubDate": "Fri, 03 Apr 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Oxford United x Hull City - 03/04 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oxford United x Hull City - 03/04 15:00 - SportTV 2",
+      "pubDate": "Fri, 03 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x Valadares Gaia (Feminino) - 03/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x Valadares Gaia (Feminino) - 03/04 15:00 - C11 Stream",
+      "pubDate": "Fri, 03 Apr 2026 15:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Quinta dos Lombos (Futsal) - 29/03 17:30 - Canal11",
-      "pubDate": "Sun, 29 Mar 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Real Zaragoza x Racing Santander - 29/03 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Zaragoza x Racing Santander - 29/03 17:30 - DAZN 1",
@@ -285,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leganés x Real Zaragoza - 02/04 20:30 - DAZN 1",
       "pubDate": "Thu, 02 Apr 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Remo - 02/04 23:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Remo - 02/04 23:00 - Canal11",
+      "pubDate": "Thu, 02 Apr 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 03/04 00:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 03/04 00:00 - SportTV 3",
+      "pubDate": "Fri, 03 Apr 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x U. Santarém - 03/04 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x U. Santarém - 03/04 11:00 - Canal11",
+      "pubDate": "Fri, 03 Apr 2026 11:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Oklahoma City Thunder (Basket) x New York Knicks (Basket) - 30/03 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x New York Knicks (Basket) - 30/03 00:30 - SportTV 1",
-      "pubDate": "Mon, 30 Mar 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Denver Nuggets (Basket) x Golden State Warriors (Basket) - 30/03 03:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Denver Nuggets (Basket) x Golden State Warriors (Basket) - 30/03 03:00 - SportTV 1",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 03/04 17:00 - Canal11",
       "pubDate": "Fri, 03 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x CD Tondela - 03/04 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x CD Tondela - 03/04 18:00 - SportTV 2",
+      "pubDate": "Fri, 03 Apr 2026 18:00:00",
       "guid": ""
     }
   ]

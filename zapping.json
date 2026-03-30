@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Chéquia (S20) x Portugal (S20) - 30/03 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia (S20) x Portugal (S20) - 30/03 16:00 - Canal11",
+      "pubDate": "Mon, 30 Mar 2026 16:00:00",
+      "guid": ""
+    },
+    {
       "title": "Chipre x Moldávia - 30/03 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chipre x Moldávia - 30/03 17:00 - SportTV 2",
@@ -232,6 +239,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Andebol) x Wisla Plock (Andebol) - 02/04 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Wisla Plock (Andebol) - 02/04 19:45 - SportingTv",
+      "pubDate": "Thu, 02 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Leganés x Real Zaragoza - 02/04 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leganés x Real Zaragoza - 02/04 20:30 - DAZN 1",
@@ -309,6 +323,13 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Feminino) x FC Famalicão (Feminino) - 03/04 16:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x FC Famalicão (Feminino) - 03/04 16:00 - PortoCanal",
+      "pubDate": "Fri, 03 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
       "title": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 03/04 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 03/04 17:00 - Canal11",
@@ -320,27 +341,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x CD Tondela - 03/04 18:00 - SportTV 2",
       "pubDate": "Fri, 03 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Najma - 03/04 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Najma - 03/04 19:00 - SportTV 4",
-      "pubDate": "Fri, 03 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x Belenenses - 03/04 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Belenenses - 03/04 19:00 - Canal11",
-      "pubDate": "Fri, 03 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Toulouse - 03/04 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Toulouse - 03/04 19:45 - SportTV 3",
-      "pubDate": "Fri, 03 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

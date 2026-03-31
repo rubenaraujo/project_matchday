@@ -71,13 +71,6 @@
       "guid": ""
     },
     {
-      "title": "Espanha x Egipto - 31/03 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Egipto - 31/03 20:00 - SportTV 3",
-      "pubDate": "Tue, 31 Mar 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Valladolid x Cádiz - 31/03 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valladolid x Cádiz - 31/03 20:30 - DAZN 1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x Elche - 03/04 20:00 - DAZN 1",
       "pubDate": "Fri, 03 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Santa Clara - 03/04 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Santa Clara - 03/04 20:30 - SportTV 1",
+      "pubDate": "Fri, 03 Apr 2026 20:30:00",
       "guid": ""
     }
   ]

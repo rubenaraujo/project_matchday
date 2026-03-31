@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Bósnia x Itália - 31/03 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bósnia x Itália - 31/03 19:45 - SportTV 4",
-      "pubDate": "Tue, 31 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Chéquia x Dinamarca - 31/03 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chéquia x Dinamarca - 31/03 19:45 - SportTV 7",
-      "pubDate": "Tue, 31 Mar 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "RD Congo x Jamaica - 31/03 22:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "RD Congo x Jamaica - 31/03 22:00 - DAZN 1",
@@ -74,6 +60,13 @@
       "title": "AD Fundão (Futsal) x Sporting (Futsal) - 01/04 20:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Fundão (Futsal) x Sporting (Futsal) - 01/04 20:30 - Canal11",
+      "pubDate": "Wed, 01 Apr 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Sporting Gijón - 01/04 20:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Sporting Gijón - 01/04 20:30 - DAZN 1",
       "pubDate": "Wed, 01 Apr 2026 20:30:00",
       "guid": ""
     },
@@ -138,6 +131,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Andebol) x Wisla Plock (Andebol) - 02/04 19:45 - SportingTv",
       "pubDate": "Thu, 02 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Leganés x Real Zaragoza - 02/04 20:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leganés x Real Zaragoza - 02/04 20:30 - DAZN 1",
+      "pubDate": "Thu, 02 Apr 2026 20:30:00",
       "guid": ""
     },
     {

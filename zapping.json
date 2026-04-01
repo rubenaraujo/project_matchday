@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Unicaja (Basket) x Alba Berlin (Basket) - 01/04 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Unicaja (Basket) x Alba Berlin (Basket) - 01/04 19:30 - SportTV 3",
-      "pubDate": "Wed, 01 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x Sporting (Futsal) - 01/04 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x Sporting (Futsal) - 01/04 20:30 - Canal11",
-      "pubDate": "Wed, 01 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Santander x Sporting Gijón - 01/04 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Santander x Sporting Gijón - 01/04 20:30 - DAZN 1",
-      "pubDate": "Wed, 01 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Almeida Garrett (Andebol Feminino) x Lusitano Vildemoinhos (Andebol Feminino) - 01/04 21:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Almeida Garrett (Andebol Feminino) x Lusitano Vildemoinhos (Andebol Feminino) - 01/04 21:00 - AndebolTV",
@@ -320,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x Marítimo - 04/04 14:00 - SportTV +",
       "pubDate": "Sat, 04 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Bayern München - 04/04 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Bayern München - 04/04 14:30 - DAZN 2",
+      "pubDate": "Sat, 04 Apr 2026 14:30:00",
       "guid": ""
     }
   ]

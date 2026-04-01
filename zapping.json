@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Estados Unidos x Portugal - 01/04 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estados Unidos x Portugal - 01/04 00:00 - SportTV 1",
-      "pubDate": "Wed, 01 Apr 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Argentina x Zâmbia - 01/04 00:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Zâmbia - 01/04 00:15 - SportTV 3",
-      "pubDate": "Wed, 01 Apr 2026 00:15:00",
-      "guid": ""
-    },
-    {
       "title": "Houston Rockets (Basket) x New York Knicks (Basket) - 01/04 01:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x New York Knicks (Basket) - 01/04 01:00 - SportTV 4",
@@ -334,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arminia Bielefeld x Darmstadt 98 - 04/04 12:00 - DAZN 2",
       "pubDate": "Sat, 04 Apr 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Liverpool - 04/04 12:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Liverpool - 04/04 12:45 - SportTV 2",
+      "pubDate": "Sat, 04 Apr 2026 12:45:00",
       "guid": ""
     }
   ]

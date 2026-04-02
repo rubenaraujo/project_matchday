@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Miami Heat (Basket) x Boston Celtics (Basket) - 02/04 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Miami Heat (Basket) x Boston Celtics (Basket) - 02/04 00:30 - SportTV 1",
-      "pubDate": "Thu, 02 Apr 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 02/04 01:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 02/04 01:30 - SportTV 3",
@@ -326,6 +319,13 @@
       "title": "Nacional x Est. Amadora - 04/04 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nacional x Est. Amadora - 04/04 15:30 - SportTV 1",
+      "pubDate": "Sat, 04 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x FC Utrecht - 04/04 15:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x FC Utrecht - 04/04 15:30 - DAZN 4",
       "pubDate": "Sat, 04 Apr 2026 15:30:00",
       "guid": ""
     }

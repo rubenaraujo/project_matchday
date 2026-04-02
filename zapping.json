@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 02/04 01:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vancouver Canucks (Hóquei no Gelo  Seniores) - 02/04 01:30 - SportTV 3",
-      "pubDate": "Thu, 02 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Golden State Warriors (Basket) x San Antonio Spurs (Basket) - 02/04 03:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Golden State Warriors (Basket) x San Antonio Spurs (Basket) - 02/04 03:00 - SportTV 1",
-      "pubDate": "Thu, 02 Apr 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona (Feminino) x Real Madrid (Feminino) - 02/04 17:45 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona (Feminino) x Real Madrid (Feminino) - 02/04 17:45 - RTP2",
@@ -327,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x FC Utrecht - 04/04 15:30 - DAZN 4",
       "pubDate": "Sat, 04 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Nice - 04/04 16:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Nice - 04/04 16:00 - SportTV 7",
+      "pubDate": "Sat, 04 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 16:00 - C11 Stream",
+      "pubDate": "Sat, 04 Apr 2026 16:00:00",
       "guid": ""
     }
   ]

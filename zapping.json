@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Al-Nassr x Al-Najma - 03/04 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Najma - 03/04 19:00 - SportTV 4",
-      "pubDate": "Fri, 03 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x Belenenses - 03/04 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Belenenses - 03/04 19:00 - Canal11",
-      "pubDate": "Fri, 03 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Voleibol) x Leixões (Voleibol) - 03/04 19:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol) x Leixões (Voleibol) - 03/04 19:00 - BTv",
-      "pubDate": "Fri, 03 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "PSG x Toulouse - 03/04 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSG x Toulouse - 03/04 19:45 - SportTV 3",
@@ -327,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Hilal x Al-Taawoun - 04/04 19:00 - SportTV 5",
       "pubDate": "Sat, 04 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dynamo Dresden x Hertha BSC - 04/04 19:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dynamo Dresden x Hertha BSC - 04/04 19:30 - DAZN 4",
+      "pubDate": "Sat, 04 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Parma - 04/04 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Parma - 04/04 19:45 - SportTV 6",
+      "pubDate": "Sat, 04 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

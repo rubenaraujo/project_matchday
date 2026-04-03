@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Oxford United x Hull City - 03/04 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oxford United x Hull City - 03/04 15:00 - SportTV 2",
-      "pubDate": "Fri, 03 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Feminino) x Valadares Gaia (Feminino) - 03/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x Valadares Gaia (Feminino) - 03/04 15:00 - C11 Stream",
-      "pubDate": "Fri, 03 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 03/04 15:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 03/04 15:00 - AndebolTV",
@@ -340,6 +326,13 @@
       "title": "Stuttgart x Borussia Dortmund - 04/04 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Borussia Dortmund - 04/04 17:30 - DAZN 1",
+      "pubDate": "Sat, 04 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Espanyol - 04/04 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Espanyol - 04/04 17:30 - DAZN 2",
       "pubDate": "Sat, 04 Apr 2026 17:30:00",
       "guid": ""
     }

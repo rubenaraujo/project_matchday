@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 03/04 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CALE (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 03/04 15:00 - AndebolTV",
-      "pubDate": "Fri, 03 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol Feminino) x AA S. Pedro do Sul (Andebol Feminino) - 03/04 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x AA S. Pedro do Sul (Andebol Feminino) - 03/04 15:00 - BTv",
-      "pubDate": "Fri, 03 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Rio Tinto x Ermesinde 1936 - 03/04 16:15 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Rio Tinto x Ermesinde 1936 - 03/04 16:15 - Online",
-      "pubDate": "Fri, 03 Apr 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 03/04 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Novasemente (Futsal Feminino) x Benfica (Futsal Feminino) - 03/04 17:00 - Canal11",
-      "pubDate": "Fri, 03 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bahçesehir Koleji (Basket) x Besiktas (Basket) - 03/04 17:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahçesehir Koleji (Basket) x Besiktas (Basket) - 03/04 17:00 - SportTV 6",
@@ -313,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Espanyol - 04/04 17:30 - DAZN 2",
       "pubDate": "Sat, 04 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo x Málaga - 04/04 17:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x Málaga - 04/04 17:30 - DAZN 4",
+      "pubDate": "Sat, 04 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Rennes - 04/04 18:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Rennes - 04/04 18:00 - SportTV 7",
+      "pubDate": "Sat, 04 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x SC Braga - 04/04 18:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x SC Braga - 04/04 18:00 - TVI",
+      "pubDate": "Sat, 04 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x FC Alverca - 04/04 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x FC Alverca - 04/04 18:00 - SportTV 1",
+      "pubDate": "Sat, 04 Apr 2026 18:00:00",
       "guid": ""
     }
   ]

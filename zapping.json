@@ -1,45 +1,10 @@
 {
   "items": [
     {
-      "title": "SC Braga (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/04 15:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/04 15:00 - ABola TV",
-      "pubDate": "Sat, 04 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 16:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 16:00 - C11 Stream",
       "pubDate": "Sat, 04 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vilarinho x UDS Roriz - 04/04 16:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vilarinho x UDS Roriz - 04/04 16:00 - Online",
-      "pubDate": "Sat, 04 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Fiorentina - 04/04 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Fiorentina - 04/04 17:00 - SportTV 4",
-      "pubDate": "Sat, 04 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Feminino) x SC Braga (Feminino) - 04/04 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x SC Braga (Feminino) - 04/04 17:00 - Canal11",
-      "pubDate": "Sat, 04 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Port Vale - 04/04 17:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Port Vale - 04/04 17:15 - SportTV 2",
-      "pubDate": "Sat, 04 Apr 2026 17:15:00",
       "guid": ""
     },
     {
@@ -264,6 +229,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Celta de Vigo - 05/04 15:15 - DAZN 1",
       "pubDate": "Sun, 05 Apr 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Feminino) x Torreense (Feminino) - 05/04 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x Torreense (Feminino) - 05/04 16:00 - Canal11",
+      "pubDate": "Sun, 05 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Lorient x Paris FC - 05/04 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Lorient x Paris FC - 05/04 16:15 - SportTV 3",
+      "pubDate": "Sun, 05 Apr 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee FC x Celtic - 05/04 16:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee FC x Celtic - 05/04 16:30 - SportTV 4",
+      "pubDate": "Sun, 05 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x Leeds United - 05/04 16:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x Leeds United - 05/04 16:30 - SportTV 1",
+      "pubDate": "Sun, 05 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x FC Köln - 05/04 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x FC Köln - 05/04 16:30 - DAZN 2",
+      "pubDate": "Sun, 05 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Torino - 05/04 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Torino - 05/04 17:00 - SportTV 7",
+      "pubDate": "Sun, 05 Apr 2026 17:00:00",
       "guid": ""
     }
   ]

@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 18:00 - C11 Stream",
-      "pubDate": "Sat, 04 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 04/04 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 04/04 18:00 - C11 Stream",
-      "pubDate": "Sat, 04 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dynamo Dresden x Hertha BSC - 04/04 19:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dynamo Dresden x Hertha BSC - 04/04 19:30 - DAZN 4",
-      "pubDate": "Sat, 04 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Parma - 04/04 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Parma - 04/04 19:45 - SportTV 6",
-      "pubDate": "Sat, 04 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Southampton x Arsenal - 04/04 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x Arsenal - 04/04 20:00 - SportTV 2",
-      "pubDate": "Sat, 04 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x SC Braga (Futsal) - 04/04 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x SC Braga (Futsal) - 04/04 20:00 - Canal11",
-      "pubDate": "Sat, 04 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Barcelona - 04/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Barcelona - 04/04 20:00 - DAZN 1",
-      "pubDate": "Sat, 04 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x FC Twente - 04/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x FC Twente - 04/04 20:00 - DAZN 2",
-      "pubDate": "Sat, 04 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Amigos de Cerva (Futsal) - 04/04 20:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Amigos de Cerva (Futsal) - 04/04 20:00 - SportingTv",
-      "pubDate": "Sat, 04 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Lens - 04/04 20:05 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Lens - 04/04 20:05 - SportTV 7",
-      "pubDate": "Sat, 04 Apr 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto x FC Famalicão - 04/04 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x FC Famalicão - 04/04 20:30 - SportTV 1",
@@ -257,6 +187,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Toronto Raptors (Basket) - 05/04 20:30 - SportTV 4",
       "pubDate": "Sun, 05 Apr 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Belgrano - 05/04 22:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Belgrano - 05/04 22:00 - SportTV 1",
+      "pubDate": "Sun, 05 Apr 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bahia x Palmeiras - 05/04 23:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bahia x Palmeiras - 05/04 23:30 - Canal11",
+      "pubDate": "Sun, 05 Apr 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Mavericks (Basket) x LA Lakers (Basket) - 06/04 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Mavericks (Basket) x LA Lakers (Basket) - 06/04 00:30 - SportTV 2",
+      "pubDate": "Mon, 06 Apr 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Grêmio x Remo - 06/04 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grêmio x Remo - 06/04 00:30 - Canal11",
+      "pubDate": "Mon, 06 Apr 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x Houston Rockets (Basket) - 06/04 03:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x Houston Rockets (Basket) - 06/04 03:00 - SportTV 2",
+      "pubDate": "Mon, 06 Apr 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Como 1907 - 06/04 11:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Como 1907 - 06/04 11:30 - SportTV 1",
+      "pubDate": "Mon, 06 Apr 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portsmouth x Oxford United - 06/04 12:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portsmouth x Oxford United - 06/04 12:30 - SportTV 2",
+      "pubDate": "Mon, 06 Apr 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Atalanta - 06/04 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Atalanta - 06/04 14:00 - SportTV 1",
+      "pubDate": "Mon, 06 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ipswich Town x Birmingham City - 06/04 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ipswich Town x Birmingham City - 06/04 15:00 - SportTV 2",
+      "pubDate": "Mon, 06 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Genoa - 06/04 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Genoa - 06/04 17:00 - SportTV 1",
+      "pubDate": "Mon, 06 Apr 2026 17:00:00",
       "guid": ""
     }
   ]

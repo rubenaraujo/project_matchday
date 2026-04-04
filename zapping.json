@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Sassuolo x Cagliari - 04/04 14:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Cagliari - 04/04 14:00 - SportTV 4",
-      "pubDate": "Sat, 04 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Paços de Ferreira x Marítimo - 04/04 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Marítimo - 04/04 14:00 - SportTV +",
-      "pubDate": "Sat, 04 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Freiburg x Bayern München - 04/04 14:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Bayern München - 04/04 14:30 - DAZN 2",
@@ -305,6 +291,13 @@
       "title": "Cremonese x Bologna - 05/04 14:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cremonese x Bologna - 05/04 14:00 - SportTV 2",
+      "pubDate": "Sun, 05 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x Lyon - 05/04 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x Lyon - 05/04 14:00 - SportTV 3",
       "pubDate": "Sun, 05 Apr 2026 14:00:00",
       "guid": ""
     }

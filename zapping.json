@@ -8,27 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Nacional x Est. Amadora - 04/04 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Est. Amadora - 04/04 15:30 - SportTV 1",
-      "pubDate": "Sat, 04 Apr 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x FC Utrecht - 04/04 15:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x FC Utrecht - 04/04 15:30 - DAZN 4",
-      "pubDate": "Sat, 04 Apr 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Nice - 04/04 16:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Nice - 04/04 16:00 - SportTV 7",
-      "pubDate": "Sat, 04 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 16:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Luzia (Futsal Feminino) x Atlético CP (Futsal Feminino) - 04/04 16:00 - C11 Stream",
@@ -39,13 +18,6 @@
       "title": "FC Vilarinho x UDS Roriz - 04/04 16:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vilarinho x UDS Roriz - 04/04 16:00 - Online",
-      "pubDate": "Sat, 04 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Jun.C S15) x FC Porto (Jun.C S15) - 04/04 16:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.C S15) x FC Porto (Jun.C S15) - 04/04 16:00 - BTv",
       "pubDate": "Sat, 04 Apr 2026 16:00:00",
       "guid": ""
     },
@@ -278,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Futsal) x Benfica (Futsal) - 05/04 14:00 - Canal11",
       "pubDate": "Sun, 05 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Union Berlin x FC St. Pauli - 05/04 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Union Berlin x FC St. Pauli - 05/04 14:30 - DAZN 2",
+      "pubDate": "Sun, 05 Apr 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Celta de Vigo - 05/04 15:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Celta de Vigo - 05/04 15:15 - DAZN 1",
+      "pubDate": "Sun, 05 Apr 2026 15:15:00",
       "guid": ""
     }
   ]

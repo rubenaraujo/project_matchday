@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Ettifaq x Al-Qadisiyah - 05/04 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ettifaq x Al-Qadisiyah - 05/04 19:00 - SportTV 5",
-      "pubDate": "Sun, 05 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Monaco x Marseille - 05/04 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Monaco x Marseille - 05/04 19:45 - SportTV 2",
@@ -299,6 +292,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alba Berlin (Basket) x Unicaja (Basket) - 08/04 19:00 - SportTV 6",
       "pubDate": "Wed, 08 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Liverpool - 08/04 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Liverpool - 08/04 20:00 - SportTV 5",
+      "pubDate": "Wed, 08 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Atlético de Madrid - 08/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Atlético de Madrid - 08/04 20:00 - DAZN 1",
+      "pubDate": "Wed, 08 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x Est. Amadora (S23) - 08/04 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x Est. Amadora (S23) - 08/04 20:00 - Canal11",
+      "pubDate": "Wed, 08 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude Pacense (Hóquei) x Sporting (Hóquei) - 08/04 21:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude Pacense (Hóquei) x Sporting (Hóquei) - 08/04 21:30 - DAZN 2",
+      "pubDate": "Wed, 08 Apr 2026 21:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "São Paulo x Cruzeiro - 04/04 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "São Paulo x Cruzeiro - 04/04 22:30 - Canal11",
-      "pubDate": "Sat, 04 Apr 2026 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia 76ers (Basket) x Detroit Pistons (Basket) - 05/04 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia 76ers (Basket) x Detroit Pistons (Basket) - 05/04 00:00 - SportTV 2",
@@ -309,10 +302,31 @@
       "guid": ""
     },
     {
+      "title": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 07/04 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 07/04 00:00 - SportTV 2",
+      "pubDate": "Tue, 07 Apr 2026 00:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Vizela x Benfica - 07/04 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela x Benfica - 07/04 18:00 - SportTV +",
       "pubDate": "Tue, 07 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Kholood - 07/04 19:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Kholood - 07/04 19:00 - SportTV 2",
+      "pubDate": "Tue, 07 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
+      "pubDate": "Tue, 07 Apr 2026 19:30:00",
       "guid": ""
     }
   ]

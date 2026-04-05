@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "1. FC Union Berlin x FC St. Pauli - 05/04 14:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x FC St. Pauli - 05/04 14:30 - DAZN 2",
-      "pubDate": "Sun, 05 Apr 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Valencia x Celta de Vigo - 05/04 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Celta de Vigo - 05/04 15:15 - DAZN 1",
@@ -292,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
       "pubDate": "Tue, 07 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Arsenal - 07/04 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Arsenal - 07/04 20:00 - SportTV 5",
+      "pubDate": "Tue, 07 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
+      "pubDate": "Tue, 07 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

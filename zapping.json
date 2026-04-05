@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Vasco x Botafogo - 05/04 01:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Botafogo - 05/04 01:00 - Canal11",
-      "pubDate": "Sun, 05 Apr 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Schalke 04 x Karlsruher SC - 05/04 12:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x Karlsruher SC - 05/04 12:30 - DAZN 2",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
       "pubDate": "Tue, 07 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barracas Central x Vasco - 07/04 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barracas Central x Vasco - 07/04 23:00 - SportTV 1",
+      "pubDate": "Tue, 07 Apr 2026 23:00:00",
       "guid": ""
     }
   ]

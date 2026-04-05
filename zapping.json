@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Belgrano - 05/04 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Belgrano - 05/04 22:00 - SportTV 1",
-      "pubDate": "Sun, 05 Apr 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bahia x Palmeiras - 05/04 23:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahia x Palmeiras - 05/04 23:30 - Canal11",
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Junior Barranquilla x Palmeiras - 09/04 01:30 - SportTV 1",
       "pubDate": "Thu, 09 Apr 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cusco FC x Flamengo - 09/04 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cusco FC x Flamengo - 09/04 01:30 - SportTV 2",
+      "pubDate": "Thu, 09 Apr 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Toluca x LA Galaxy - 09/04 04:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toluca x LA Galaxy - 09/04 04:00 - SportTV 1",
+      "pubDate": "Thu, 09 Apr 2026 04:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S18) x Suécia (Feminino S18) - 09/04 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S18) x Suécia (Feminino S18) - 09/04 15:00 - Canal11",
+      "pubDate": "Thu, 09 Apr 2026 15:00:00",
       "guid": ""
     }
   ]

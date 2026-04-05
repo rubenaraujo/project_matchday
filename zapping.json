@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Getafe x Athletic Bilbao - 05/04 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Athletic Bilbao - 05/04 13:00 - DAZN 1",
-      "pubDate": "Sun, 05 Apr 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Volendam x Feyenoord - 05/04 13:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Volendam x Feyenoord - 05/04 13:30 - DAZN 3",
@@ -239,10 +232,24 @@
       "guid": ""
     },
     {
+      "title": "Sporting (S23) x SC Braga (S23) - 06/04 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x SC Braga (S23) - 06/04 18:00 - Canal11",
+      "pubDate": "Mon, 06 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Arouca x Estoril Praia - 06/04 18:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Arouca x Estoril Praia - 06/04 18:45 - SportTV 2",
       "pubDate": "Mon, 06 Apr 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting Gijón x Real Sociedad - 06/04 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting Gijón x Real Sociedad - 06/04 19:30 - DAZN 2",
+      "pubDate": "Mon, 06 Apr 2026 19:30:00",
       "guid": ""
     },
     {
@@ -288,6 +295,20 @@
       "guid": ""
     },
     {
+      "title": "Leixões (S23) x Torreense (S23) - 07/04 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Torreense (S23) - 07/04 15:00 - Canal11",
+      "pubDate": "Tue, 07 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x FC Famalicão (S23) - 07/04 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x FC Famalicão (S23) - 07/04 17:00 - Canal11",
+      "pubDate": "Tue, 07 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Vizela x Benfica - 07/04 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela x Benfica - 07/04 18:00 - SportTV +",
@@ -306,34 +327,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
       "pubDate": "Tue, 07 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Arsenal - 07/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Arsenal - 07/04 20:00 - SportTV 5",
-      "pubDate": "Tue, 07 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
-      "pubDate": "Tue, 07 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barracas Central x Vasco - 07/04 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barracas Central x Vasco - 07/04 23:00 - SportTV 1",
-      "pubDate": "Tue, 07 Apr 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Charlotte Hornets (Basket) - 08/04 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Charlotte Hornets (Basket) - 08/04 00:30 - SportTV 1",
-      "pubDate": "Wed, 08 Apr 2026 00:30:00",
       "guid": ""
     }
   ]

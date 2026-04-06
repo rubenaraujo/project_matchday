@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Casa Pia AC x Benfica - 06/04 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Benfica - 06/04 20:45 - SportTV 1",
-      "pubDate": "Mon, 06 Apr 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 07/04 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 07/04 00:00 - SportTV 1",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Botafogo x Caracas FC - 09/04 23:00 - SportTV 2",
       "pubDate": "Thu, 09 Apr 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Platense x Corinthians - 10/04 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Platense x Corinthians - 10/04 01:00 - SportTV 1",
+      "pubDate": "Fri, 10 Apr 2026 01:00:00",
       "guid": ""
     }
   ]

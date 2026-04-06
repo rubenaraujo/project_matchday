@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Golden State Warriors (Basket) x Houston Rockets (Basket) - 06/04 03:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Golden State Warriors (Basket) x Houston Rockets (Basket) - 06/04 03:00 - SportTV 2",
-      "pubDate": "Mon, 06 Apr 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Udinese x Como 1907 - 06/04 11:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Como 1907 - 06/04 11:30 - SportTV 1",
@@ -183,13 +176,6 @@
       "guid": ""
     },
     {
-      "title": "Boston Celtics (Basket) x Charlotte Hornets (Basket) - 08/04 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Charlotte Hornets (Basket) - 08/04 00:30 - SportTV 1",
-      "pubDate": "Wed, 08 Apr 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona SC x Cruzeiro - 08/04 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona SC x Cruzeiro - 08/04 01:00 - SportTV 2",
@@ -334,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x AEK - 09/04 17:45 - DAZN 1",
       "pubDate": "Thu, 09 Apr 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Wisla Plock (Andebol) x Sporting (Andebol) - 09/04 17:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wisla Plock (Andebol) x Sporting (Andebol) - 09/04 17:45 - SportingTv",
+      "pubDate": "Thu, 09 Apr 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe (Basket) x Real Madrid (Basket) - 09/04 18:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe (Basket) x Real Madrid (Basket) - 09/04 18:45 - SportTV 2",
+      "pubDate": "Thu, 09 Apr 2026 18:45:00",
       "guid": ""
     }
   ]

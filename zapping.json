@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Arouca x Estoril Praia - 06/04 18:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Estoril Praia - 06/04 18:45 - SportTV 2",
-      "pubDate": "Mon, 06 Apr 2026 18:45:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting Gijón x Real Sociedad - 06/04 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting Gijón x Real Sociedad - 06/04 19:30 - DAZN 2",
@@ -305,6 +298,13 @@
       "title": "SC Freiburg x Celta de Vigo - 09/04 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Celta de Vigo - 09/04 20:00 - DAZN 2",
+      "pubDate": "Thu, 09 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal) x Japão (Futsal) - 09/04 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal) x Japão (Futsal) - 09/04 20:00 - Canal11",
       "pubDate": "Thu, 09 Apr 2026 20:00:00",
       "guid": ""
     }

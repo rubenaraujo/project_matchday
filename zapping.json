@@ -113,13 +113,6 @@
       "guid": ""
     },
     {
-      "title": "Al-Hilal x Al-Kholood - 07/04 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Kholood - 07/04 19:00 - SportTV 2",
-      "pubDate": "Tue, 07 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
@@ -193,6 +186,13 @@
       "title": "Alba Berlin (Basket) x Unicaja (Basket) - 08/04 19:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alba Berlin (Basket) x Unicaja (Basket) - 08/04 19:00 - SportTV 6",
+      "pubDate": "Wed, 08 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Kholood - 08/04 19:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Kholood - 08/04 19:00 - SportTV 2",
       "pubDate": "Wed, 08 Apr 2026 19:00:00",
       "guid": ""
     },
@@ -326,6 +326,13 @@
       "title": "FC Porto x Nottingham Forest - 09/04 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Nottingham Forest - 09/04 20:00 - SportTV 5",
+      "pubDate": "Thu, 09 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Aston Villa - 09/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Aston Villa - 09/04 20:00 - DAZN 1",
       "pubDate": "Thu, 09 Apr 2026 20:00:00",
       "guid": ""
     }

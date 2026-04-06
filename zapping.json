@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting Gijón x Real Sociedad - 06/04 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting Gijón x Real Sociedad - 06/04 19:30 - DAZN 2",
-      "pubDate": "Mon, 06 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Milan - 06/04 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Milan - 06/04 19:45 - SportTV 3",
-      "pubDate": "Mon, 06 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hull City x Coventry City - 06/04 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hull City x Coventry City - 06/04 20:00 - SportTV 4",
-      "pubDate": "Mon, 06 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Villarreal - 06/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Villarreal - 06/04 20:00 - DAZN 1",
-      "pubDate": "Mon, 06 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x Benfica - 06/04 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Benfica - 06/04 20:45 - SportTV 1",
@@ -306,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal) x Japão (Futsal) - 09/04 20:00 - Canal11",
       "pubDate": "Thu, 09 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Fiorentina - 09/04 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Fiorentina - 09/04 20:00 - DAZN 3",
+      "pubDate": "Thu, 09 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Shakhtar Donetsk x AZ Alkmaar - 09/04 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Shakhtar Donetsk x AZ Alkmaar - 09/04 20:00 - DAZN 4",
+      "pubDate": "Thu, 09 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Independiente del Valle - 09/04 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Independiente del Valle - 09/04 23:00 - SportTV 1",
+      "pubDate": "Thu, 09 Apr 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Botafogo x Caracas FC - 09/04 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Botafogo x Caracas FC - 09/04 23:00 - SportTV 2",
+      "pubDate": "Thu, 09 Apr 2026 23:00:00",
       "guid": ""
     }
   ]

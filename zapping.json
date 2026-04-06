@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Juventus x Genoa - 06/04 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Genoa - 06/04 17:00 - SportTV 1",
-      "pubDate": "Mon, 06 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Swansea City x Middlesbrough - 06/04 17:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Swansea City x Middlesbrough - 06/04 17:30 - SportTV 4",
@@ -333,6 +326,13 @@
       "title": "Bologna x Aston Villa - 09/04 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bologna x Aston Villa - 09/04 20:00 - DAZN 1",
+      "pubDate": "Thu, 09 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Celta de Vigo - 09/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Celta de Vigo - 09/04 20:00 - DAZN 2",
       "pubDate": "Thu, 09 Apr 2026 20:00:00",
       "guid": ""
     }

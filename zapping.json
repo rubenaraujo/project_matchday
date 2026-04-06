@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Lecce x Atalanta - 06/04 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Atalanta - 06/04 14:00 - SportTV 1",
-      "pubDate": "Mon, 06 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ipswich Town x Birmingham City - 06/04 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ipswich Town x Birmingham City - 06/04 15:00 - SportTV 2",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol Feminino) x Montenegro (Andebol Feminino) - 09/04 19:00 - RTP2",
       "pubDate": "Thu, 09 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG (Andebol) x Veszprém (Andebol) - 09/04 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG (Andebol) x Veszprém (Andebol) - 09/04 19:45 - SportTV 4",
+      "pubDate": "Thu, 09 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

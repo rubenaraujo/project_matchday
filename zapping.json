@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Bahia x Palmeiras - 05/04 23:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bahia x Palmeiras - 05/04 23:30 - Canal11",
-      "pubDate": "Sun, 05 Apr 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Dallas Mavericks (Basket) x LA Lakers (Basket) - 06/04 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Mavericks (Basket) x LA Lakers (Basket) - 06/04 00:30 - SportTV 2",
@@ -277,6 +270,13 @@
       "title": "Farense (S23) x Est. Amadora (S23) - 08/04 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense (S23) x Est. Amadora (S23) - 08/04 20:00 - Canal11",
+      "pubDate": "Wed, 08 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x AD Valongo (Hóquei) - 08/04 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x AD Valongo (Hóquei) - 08/04 20:00 - PortoCanal",
       "pubDate": "Wed, 08 Apr 2026 20:00:00",
       "guid": ""
     },

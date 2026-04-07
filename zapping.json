@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Barcelona (Basket) x Panathinaikos (Basket) - 07/04 19:30 - SportTV 3",
-      "pubDate": "Tue, 07 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Arsenal - 07/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Arsenal - 07/04 20:00 - SportTV 5",
-      "pubDate": "Tue, 07 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Bayern München - 07/04 20:00 - DAZN 1",
-      "pubDate": "Tue, 07 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barracas Central x Vasco - 07/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barracas Central x Vasco - 07/04 23:00 - SportTV 1",
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Roma x Pisa - 10/04 19:45 - SportTV 2",
       "pubDate": "Fri, 10 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Girona - 10/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Girona - 10/04 20:00 - DAZN 1",
+      "pubDate": "Fri, 10 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 07/04 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 07/04 00:00 - SportTV 1",
-      "pubDate": "Tue, 07 Apr 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 07/04 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 07/04 00:00 - SportTV 2",
-      "pubDate": "Tue, 07 Apr 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões (S23) x Torreense (S23) - 07/04 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x Torreense (S23) - 07/04 15:00 - Canal11",
@@ -334,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Besiktas x Antalyaspor - 10/04 18:00 - SportTV 6",
       "pubDate": "Fri, 10 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras x Paços de Ferreira - 10/04 18:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras x Paços de Ferreira - 10/04 18:45 - SportTV +",
+      "pubDate": "Fri, 10 Apr 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Augsburg x TSG Hoffenheim - 10/04 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Augsburg x TSG Hoffenheim - 10/04 19:30 - DAZN 3",
+      "pubDate": "Fri, 10 Apr 2026 19:30:00",
       "guid": ""
     }
   ]

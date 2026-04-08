@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Barcelona SC x Cruzeiro - 08/04 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona SC x Cruzeiro - 08/04 01:00 - SportTV 2",
-      "pubDate": "Wed, 08 Apr 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Charlotte Hornets (Basket) - 08/04 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Charlotte Hornets (Basket) - 08/04 01:00 - SportTV 1",
-      "pubDate": "Wed, 08 Apr 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Univ. Católica x Boca Juniors - 08/04 01:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Univ. Católica x Boca Juniors - 08/04 01:30 - SportTV 3",
-      "pubDate": "Wed, 08 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "LA Clippers (Basket) x Dallas Mavericks (Basket) - 08/04 03:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Clippers (Basket) x Dallas Mavericks (Basket) - 08/04 03:30 - SportTV 1",
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Ham x Wolverhampton - 10/04 20:00 - DAZN 2",
       "pubDate": "Fri, 10 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão x Moreirense - 10/04 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão x Moreirense - 10/04 20:45 - SportTV 1",
+      "pubDate": "Fri, 10 Apr 2026 20:45:00",
       "guid": ""
     }
   ]

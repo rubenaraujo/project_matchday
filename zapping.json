@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Oliveirense (Hóquei) x Riba d´Ave (Hóquei) - 08/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x Riba d´Ave (Hóquei) - 08/04 21:00 - FPP TV",
-      "pubDate": "Wed, 08 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude Pacense (Hóquei) x Sporting (Hóquei) - 08/04 21:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude Pacense (Hóquei) x Sporting (Hóquei) - 08/04 21:30 - DAZN 2",
-      "pubDate": "Wed, 08 Apr 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x CD Póvoa (Hóquei) - 08/04 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x CD Póvoa (Hóquei) - 08/04 21:30 - FPP TV",
-      "pubDate": "Wed, 08 Apr 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Deportivo Cuenca x Santos - 08/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Deportivo Cuenca x Santos - 08/04 23:00 - SportTV 1",
@@ -292,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Bournemouth - 11/04 12:30 - DAZN 1",
       "pubDate": "Sat, 11 Apr 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Alavés - 11/04 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Alavés - 11/04 13:00 - DAZN 2",
+      "pubDate": "Sat, 11 Apr 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense x Sporting - 11/04 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense x Sporting - 11/04 14:00 - SportTV +",
+      "pubDate": "Sat, 11 Apr 2026 14:00:00",
       "guid": ""
     }
   ]

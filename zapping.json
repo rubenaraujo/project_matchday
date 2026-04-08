@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Alba Berlin (Basket) x Unicaja (Basket) - 08/04 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alba Berlin (Basket) x Unicaja (Basket) - 08/04 19:00 - SportTV 6",
-      "pubDate": "Wed, 08 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Liverpool - 08/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Liverpool - 08/04 20:00 - SportTV 5",
-      "pubDate": "Wed, 08 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Atlético de Madrid - 08/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Atlético de Madrid - 08/04 20:00 - DAZN 1",
-      "pubDate": "Wed, 08 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense (S23) x Est. Amadora (S23) - 08/04 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense (S23) x Est. Amadora (S23) - 08/04 20:00 - Canal11",
-      "pubDate": "Wed, 08 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x AD Valongo (Hóquei) - 08/04 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x AD Valongo (Hóquei) - 08/04 20:00 - PortoCanal",
-      "pubDate": "Wed, 08 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "UD Oliveirense (Hóquei) x Riba d´Ave (Hóquei) - 08/04 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense (Hóquei) x Riba d´Ave (Hóquei) - 08/04 21:00 - FPP TV",
@@ -313,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hertha BSC x Kaiserslautern - 11/04 12:00 - DAZN 3",
       "pubDate": "Sat, 11 Apr 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Norwich City x Ipswich Town - 11/04 12:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Norwich City x Ipswich Town - 11/04 12:30 - SportTV 6",
+      "pubDate": "Sat, 11 Apr 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Bournemouth - 11/04 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Bournemouth - 11/04 12:30 - DAZN 1",
+      "pubDate": "Sat, 11 Apr 2026 12:30:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Cleveland Cavaliers (Basket) x Atlanta Hawks (Basket) - 09/04 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Cavaliers (Basket) x Atlanta Hawks (Basket) - 09/04 00:00 - SportTV 3",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Montevideo City x Grêmio - 09/04 01:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Montevideo City x Grêmio - 09/04 01:30 - SportTV 4",
-      "pubDate": "Thu, 09 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Junior Barranquilla x Palmeiras - 09/04 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Junior Barranquilla x Palmeiras - 09/04 01:30 - SportTV 1",
-      "pubDate": "Thu, 09 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cusco FC x Flamengo - 09/04 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cusco FC x Flamengo - 09/04 01:30 - SportTV 2",
-      "pubDate": "Thu, 09 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Toluca x LA Galaxy - 09/04 04:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toluca x LA Galaxy - 09/04 04:00 - SportTV 1",
@@ -326,6 +298,20 @@
       "title": "Brentford x Everton - 11/04 15:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brentford x Everton - 11/04 15:00 - DAZN 4",
+      "pubDate": "Sat, 11 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Benfica (Andebol) - 11/04 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Benfica (Andebol) - 11/04 15:00 - PortoCanal",
+      "pubDate": "Sat, 11 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Voleibol) x Sporting (Voleibol) - 11/04 15:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Voleibol) x Sporting (Voleibol) - 11/04 15:00 - SportTV",
       "pubDate": "Sat, 11 Apr 2026 15:00:00",
       "guid": ""
     }

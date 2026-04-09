@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "PSG (Andebol) x Veszprém (Andebol) - 09/04 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG (Andebol) x Veszprém (Andebol) - 09/04 19:45 - SportTV 4",
-      "pubDate": "Thu, 09 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Nottingham Forest - 09/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Nottingham Forest - 09/04 20:00 - SportTV 5",
-      "pubDate": "Thu, 09 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Aston Villa - 09/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Aston Villa - 09/04 20:00 - DAZN 1",
-      "pubDate": "Thu, 09 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Freiburg x Celta de Vigo - 09/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x Celta de Vigo - 09/04 20:00 - DAZN 2",
-      "pubDate": "Thu, 09 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Japão (Futsal) - 09/04 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Japão (Futsal) - 09/04 20:00 - Canal11",
-      "pubDate": "Thu, 09 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x Fiorentina - 09/04 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x Fiorentina - 09/04 20:00 - DAZN 3",
-      "pubDate": "Thu, 09 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Shakhtar Donetsk x AZ Alkmaar - 09/04 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Shakhtar Donetsk x AZ Alkmaar - 09/04 20:00 - DAZN 4",
-      "pubDate": "Thu, 09 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Independiente del Valle - 09/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Independiente del Valle - 09/04 23:00 - SportTV 1",
@@ -306,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Udinese - 11/04 17:00 - SportTV 2",
       "pubDate": "Sat, 11 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Fulham - 11/04 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Fulham - 11/04 17:30 - DAZN 1",
+      "pubDate": "Sat, 11 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Espanyol - 11/04 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Espanyol - 11/04 17:30 - DAZN 2",
+      "pubDate": "Sat, 11 Apr 2026 17:30:00",
       "guid": ""
     }
   ]

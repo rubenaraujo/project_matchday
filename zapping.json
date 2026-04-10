@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Famalicão x Moreirense - 10/04 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Moreirense - 10/04 20:45 - SportTV 1",
-      "pubDate": "Fri, 10 Apr 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "FC Penafiel x Académico - 11/04 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x Académico - 11/04 11:00 - SportTV 1",
@@ -299,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 11/04 19:30 - DAZN 3",
       "pubDate": "Sat, 11 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Juventus - 11/04 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Juventus - 11/04 19:45 - SportTV 2",
+      "pubDate": "Sat, 11 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

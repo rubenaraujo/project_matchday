@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Dallas Stars (Hóquei no Gelo  Seniores) x Minnesota Wild (Hóquei no Gelo  Seniores) - 10/04 02:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Stars (Hóquei no Gelo  Seniores) x Minnesota Wild (Hóquei no Gelo  Seniores) - 10/04 02:00 - SportTV 3",
-      "pubDate": "Fri, 10 Apr 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Karlsruher SC x Arminia Bielefeld - 10/04 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Karlsruher SC x Arminia Bielefeld - 10/04 17:30 - DAZN 1",
@@ -327,6 +320,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 11/04 19:30 - DAZN 3",
       "pubDate": "Sat, 11 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Juventus - 11/04 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Juventus - 11/04 19:45 - SportTV 2",
+      "pubDate": "Sat, 11 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 11/04 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 11/04 20:00 - C11 Stream",
+      "pubDate": "Sat, 11 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Atlético de Madrid - 11/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Atlético de Madrid - 11/04 20:00 - DAZN 1",
+      "pubDate": "Sat, 11 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

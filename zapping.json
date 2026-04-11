@@ -1,93 +1,9 @@
 {
   "items": [
     {
-      "title": "Liverpool x Fulham - 11/04 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Fulham - 11/04 17:30 - DAZN 1",
-      "pubDate": "Sat, 11 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Espanyol - 11/04 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Espanyol - 11/04 17:30 - DAZN 2",
-      "pubDate": "Sat, 11 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC St. Pauli x Bayern München - 11/04 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x Bayern München - 11/04 17:30 - DAZN 3",
-      "pubDate": "Sat, 11 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x UD Leiria - 11/04 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x UD Leiria - 11/04 18:00 - BTv",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x Torreense - 11/04 18:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x Torreense - 11/04 18:00 - SportTV 7",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Auxerre x Nantes - 11/04 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Auxerre x Nantes - 11/04 18:00 - SportTV 4",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x Rio Ave - 11/04 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Rio Ave - 11/04 18:00 - SportTV 1",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Basket) x Galitos FC (Basket) - 11/04 18:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x Galitos FC (Basket) - 11/04 18:00 - PortoCanal",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal da Devesa (Andebol) x FC Gaia (Andebol) - 11/04 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal da Devesa (Andebol) x FC Gaia (Andebol) - 11/04 18:00 - AndebolTV",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x Juventude Pacense (Hóquei) - 11/04 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x Juventude Pacense (Hóquei) - 11/04 18:00 - FPP TV",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Basket) x UD Oliveirense (Basket) - 11/04 18:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket) x UD Oliveirense (Basket) - 11/04 18:30 - SportingTv",
-      "pubDate": "Sat, 11 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x HC Turquel (Hóquei) - 11/04 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x HC Turquel (Hóquei) - 11/04 18:30 - FPP TV",
-      "pubDate": "Sat, 11 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x Riba d´Ave (Hóquei) - 11/04 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x Riba d´Ave (Hóquei) - 11/04 18:30 - FPP TV",
       "pubDate": "Sat, 11 Apr 2026 18:30:00",
       "guid": ""
     },
@@ -299,6 +215,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Luton Town x Stockport County - 12/04 15:00 - SportTV 5",
       "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mallorca x Rayo Vallecano - 12/04 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mallorca x Rayo Vallecano - 12/04 15:15 - DAZN 2",
+      "pubDate": "Sun, 12 Apr 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Casa Pia AC - 12/04 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Casa Pia AC - 12/04 15:30 - SportTV 1",
+      "pubDate": "Sun, 12 Apr 2026 15:30:00",
       "guid": ""
     }
   ]

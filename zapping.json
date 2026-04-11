@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 11/04 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 11/04 19:30 - DAZN 3",
-      "pubDate": "Sat, 11 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Juventus - 11/04 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Juventus - 11/04 19:45 - SportTV 2",
-      "pubDate": "Sat, 11 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 11/04 20:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 11/04 20:00 - C11 Stream",
-      "pubDate": "Sat, 11 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Atlético de Madrid - 11/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Atlético de Madrid - 11/04 20:00 - DAZN 1",
-      "pubDate": "Sat, 11 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Heracles Almelo x Ajax - 11/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Heracles Almelo x Ajax - 11/04 20:00 - DAZN 2",
-      "pubDate": "Sat, 11 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x Angers - 11/04 20:05 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Angers - 11/04 20:05 - SportTV 4",
-      "pubDate": "Sat, 11 Apr 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Est. Amadora x Sporting - 11/04 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora x Sporting - 11/04 20:30 - SportTV 1",
@@ -197,6 +155,13 @@
       "guid": ""
     },
     {
+      "title": "AD Sanjoanense (Hóquei Feminino) x CP Voltregà (Hóquei Feminino) - 12/04 15:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Hóquei Feminino) x CP Voltregà (Hóquei Feminino) - 12/04 15:00 - WSE TV",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Mallorca x Rayo Vallecano - 12/04 15:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mallorca x Rayo Vallecano - 12/04 15:15 - DAZN 2",
@@ -229,6 +194,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x Manchester City - 12/04 16:30 - DAZN 1",
       "pubDate": "Sun, 12 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Hamburger SV - 12/04 16:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Hamburger SV - 12/04 16:30 - DAZN 3",
+      "pubDate": "Sun, 12 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Islândia (Andebol Feminino) x Portugal (Andebol Feminino) - 12/04 17:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Islândia (Andebol Feminino) x Portugal (Andebol Feminino) - 12/04 17:00 - RTP2",
+      "pubDate": "Sun, 12 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Lecce - 12/04 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Lecce - 12/04 17:00 - SportTV 7",
+      "pubDate": "Sun, 12 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Irl. Norte (Feminino S19) x Portugal (Feminino S19) - 12/04 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Irl. Norte (Feminino S19) x Portugal (Feminino S19) - 12/04 17:00 - Canal11",
+      "pubDate": "Sun, 12 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Real Oviedo - 12/04 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Real Oviedo - 12/04 17:30 - DAZN 2",
+      "pubDate": "Sun, 12 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Nacional - 12/04 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Nacional - 12/04 18:00 - BTv",
+      "pubDate": "Sun, 12 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x FC Arouca - 12/04 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x FC Arouca - 12/04 18:00 - SportTV 2",
+      "pubDate": "Sun, 12 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Águas Santas (Andebol) - 12/04 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Águas Santas (Andebol) - 12/04 18:00 - SportingTv",
+      "pubDate": "Sun, 12 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mainz x SC Freiburg - 12/04 18:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mainz x SC Freiburg - 12/04 18:30 - DAZN 3",
+      "pubDate": "Sun, 12 Apr 2026 18:30:00",
       "guid": ""
     }
   ]

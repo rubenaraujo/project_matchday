@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Hertha BSC x Kaiserslautern - 11/04 12:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hertha BSC x Kaiserslautern - 11/04 12:00 - DAZN 3",
-      "pubDate": "Sat, 11 Apr 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense x Sporting - 11/04 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense x Sporting - 11/04 14:00 - SportTV +",
-      "pubDate": "Sat, 11 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Hellas Verona - 11/04 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Hellas Verona - 11/04 14:00 - SportTV 2",
-      "pubDate": "Sat, 11 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PHC Sant Cugat (Hóquei Feminino) x CP Voltregà (Hóquei Feminino) - 11/04 14:00 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PHC Sant Cugat (Hóquei Feminino) x CP Voltregà (Hóquei Feminino) - 11/04 14:00 - WSE TV",
-      "pubDate": "Sat, 11 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Borussia Dortmund x Bayer Leverkusen - 11/04 14:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia Dortmund x Bayer Leverkusen - 11/04 14:30 - DAZN 1",
@@ -306,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Sanjoanense (Hóquei) x FC Porto (Hóquei) - 11/04 21:00 - FPP TV",
       "pubDate": "Sat, 11 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 11/04 21:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 11/04 21:30 - AndebolTV",
+      "pubDate": "Sat, 11 Apr 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Independiente - 11/04 23:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Independiente - 11/04 23:30 - SportTV 2",
+      "pubDate": "Sat, 11 Apr 2026 23:30:00",
       "guid": ""
     }
   ]

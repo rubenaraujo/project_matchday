@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses (Andebol) x Marítimo (Andebol) - 11/04 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses (Andebol) x Marítimo (Andebol) - 11/04 15:00 - AndebolTV",
-      "pubDate": "Sat, 11 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x Vitória SC - 11/04 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Vitória SC - 11/04 15:30 - SportTV 1",
-      "pubDate": "Sat, 11 Apr 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses x Vitória SC - 11/04 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x Vitória SC - 11/04 17:00 - Canal11",
@@ -236,6 +222,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genoa x Sassuolo - 12/04 11:30 - SportTV 2",
       "pubDate": "Sun, 12 Apr 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Falkirk x Rangers - 12/04 12:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Falkirk x Rangers - 12/04 12:00 - SportTV 3",
+      "pubDate": "Sun, 12 Apr 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Birmingham City x Wrexham - 12/04 12:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Birmingham City x Wrexham - 12/04 12:00 - SportTV 6",
+      "pubDate": "Sun, 12 Apr 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Real Betis - 12/04 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Real Betis - 12/04 13:00 - DAZN 2",
+      "pubDate": "Sun, 12 Apr 2026 13:00:00",
       "guid": ""
     }
   ]

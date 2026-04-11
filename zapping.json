@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses x Vitória SC - 11/04 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Vitória SC - 11/04 17:00 - Canal11",
-      "pubDate": "Sat, 11 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Udinese - 11/04 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Udinese - 11/04 17:00 - SportTV 2",
-      "pubDate": "Sat, 11 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei Feminino) x RSC Cronenberg (Hóquei Feminino) - 11/04 17:00 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei Feminino) x RSC Cronenberg (Hóquei Feminino) - 11/04 17:00 - WSE TV",
-      "pubDate": "Sat, 11 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Liverpool x Fulham - 11/04 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Fulham - 11/04 17:30 - DAZN 1",
@@ -243,6 +222,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Real Betis - 12/04 13:00 - DAZN 2",
       "pubDate": "Sun, 12 Apr 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x Portimonense - 12/04 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x Portimonense - 12/04 14:00 - SportTV +",
+      "pubDate": "Sun, 12 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Napoli - 12/04 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Napoli - 12/04 14:00 - SportTV 6",
+      "pubDate": "Sun, 12 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nottingham Forest x Aston Villa - 12/04 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nottingham Forest x Aston Villa - 12/04 14:00 - DAZN 1",
+      "pubDate": "Sun, 12 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Tottenham - 12/04 14:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Tottenham - 12/04 14:00 - DAZN 4",
+      "pubDate": "Sun, 12 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Köln x Werder Bremen - 12/04 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Köln x Werder Bremen - 12/04 14:30 - DAZN 3",
+      "pubDate": "Sun, 12 Apr 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "S. João Ver x AD Marco 09 - 12/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "S. João Ver x AD Marco 09 - 12/04 15:00 - C11 Stream",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x SC Braga - 12/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x SC Braga - 12/04 15:00 - C11 Stream",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Covilhã x Atlético CP - 12/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Covilhã x Atlético CP - 12/04 15:00 - C11 Stream",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Amora FC x Caldas SC - 12/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amora FC x Caldas SC - 12/04 15:00 - C11 Stream",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x SC Tomar (Hóquei) - 12/04 15:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x SC Tomar (Hóquei) - 12/04 15:00 - FPP TV",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Luton Town x Stockport County - 12/04 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Luton Town x Stockport County - 12/04 15:00 - SportTV 5",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00",
       "guid": ""
     }
   ]

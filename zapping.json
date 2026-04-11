@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Est. Amadora x Sporting - 11/04 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Sporting - 11/04 20:30 - SportTV 1",
-      "pubDate": "Sat, 11 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Novasemente (Futsal Feminino) - 11/04 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Novasemente (Futsal Feminino) - 11/04 21:00 - Canal11",
-      "pubDate": "Sat, 11 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x FC Porto (Hóquei) - 11/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x FC Porto (Hóquei) - 11/04 21:00 - FPP TV",
-      "pubDate": "Sat, 11 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 11/04 21:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Andebol) x Artística de Avanca (Andebol) - 11/04 21:30 - AndebolTV",
-      "pubDate": "Sat, 11 Apr 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Independiente - 11/04 23:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Independiente - 11/04 23:30 - SportTV 2",
@@ -257,6 +229,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mainz x SC Freiburg - 12/04 18:30 - DAZN 3",
       "pubDate": "Sun, 12 Apr 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Amarante FC - 12/04 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Amarante FC - 12/04 19:00 - Canal11",
+      "pubDate": "Sun, 12 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Internazionale - 12/04 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Internazionale - 12/04 19:45 - SportTV 7",
+      "pubDate": "Sun, 12 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x FC Lorient - 12/04 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x FC Lorient - 12/04 19:45 - SportTV 6",
+      "pubDate": "Sun, 12 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Villarreal - 12/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Villarreal - 12/04 20:00 - DAZN 1",
+      "pubDate": "Sun, 12 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Almería - 12/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Almería - 12/04 20:00 - DAZN 2",
+      "pubDate": "Sun, 12 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

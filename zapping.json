@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Basket) x UD Oliveirense (Basket) - 11/04 18:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x UD Oliveirense (Basket) - 11/04 18:30 - SportingTv",
-      "pubDate": "Sat, 11 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Akhdoud x Al-Nassr - 11/04 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Akhdoud x Al-Nassr - 11/04 19:00 - SportTV 6",
-      "pubDate": "Sat, 11 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal) x Japão (Futsal) - 11/04 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal) x Japão (Futsal) - 11/04 19:00 - Canal11",
-      "pubDate": "Sat, 11 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 11/04 19:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 11/04 19:30 - DAZN 3",
@@ -229,6 +208,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Alverca x Casa Pia AC - 12/04 15:30 - SportTV 1",
       "pubDate": "Sun, 12 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x UD Oliveirense - 12/04 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x UD Oliveirense - 12/04 15:30 - SportTV 2",
+      "pubDate": "Sun, 12 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Toulouse x Lille - 12/04 16:15 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toulouse x Lille - 12/04 16:15 - SportTV 6",
+      "pubDate": "Sun, 12 Apr 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Manchester City - 12/04 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Manchester City - 12/04 16:30 - DAZN 1",
+      "pubDate": "Sun, 12 Apr 2026 16:30:00",
       "guid": ""
     }
   ]

@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Como 1907 x Internazionale - 12/04 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Internazionale - 12/04 19:45 - SportTV 7",
-      "pubDate": "Sun, 12 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x FC Lorient - 12/04 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x FC Lorient - 12/04 19:45 - SportTV 6",
-      "pubDate": "Sun, 12 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Villarreal - 12/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Villarreal - 12/04 20:00 - DAZN 1",
-      "pubDate": "Sun, 12 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Santander x Almería - 12/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Santander x Almería - 12/04 20:00 - DAZN 2",
-      "pubDate": "Sun, 12 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Estoril Praia x FC Porto - 12/04 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia x FC Porto - 12/04 20:30 - SportTV 1",
@@ -299,6 +271,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
       "pubDate": "Fri, 17 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Toulouse - 17/04 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Toulouse - 17/04 19:45 - SportTV 3",
+      "pubDate": "Fri, 17 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Blackburn Rovers x Coventry City - 17/04 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Blackburn Rovers x Coventry City - 17/04 20:00 - SportTV 6",
+      "pubDate": "Fri, 17 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x AFS - 17/04 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x AFS - 17/04 20:45 - SportTV 1",
+      "pubDate": "Fri, 17 Apr 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x GD Chaves - 18/04 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x GD Chaves - 18/04 11:00 - SportTV 1",
+      "pubDate": "Sat, 18 Apr 2026 11:00:00",
       "guid": ""
     }
   ]

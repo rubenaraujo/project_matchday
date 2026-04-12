@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Köln x Werder Bremen - 12/04 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x Werder Bremen - 12/04 14:30 - DAZN 3",
-      "pubDate": "Sun, 12 Apr 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "S. João Ver x AD Marco 09 - 12/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x AD Marco 09 - 12/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x SC Braga - 12/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x SC Braga - 12/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Atlético CP - 12/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Atlético CP - 12/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x Caldas SC - 12/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x Caldas SC - 12/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x SC Tomar (Hóquei) - 12/04 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x SC Tomar (Hóquei) - 12/04 15:00 - FPP TV",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Luton Town x Stockport County - 12/04 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Luton Town x Stockport County - 12/04 15:00 - SportTV 5",
-      "pubDate": "Sun, 12 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Rayo Vallecano - 12/04 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Rayo Vallecano - 12/04 15:15 - DAZN 2",
-      "pubDate": "Sun, 12 Apr 2026 15:15:00",
-      "guid": ""
-    },
-    {
       "title": "FC Alverca x Casa Pia AC - 12/04 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Alverca x Casa Pia AC - 12/04 15:30 - SportTV 1",
@@ -299,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco x Audax Italiano - 15/04 01:00 - SportTV 2",
       "pubDate": "Wed, 15 Apr 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Recoleta - 15/04 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Recoleta - 15/04 01:30 - SportTV 3",
+      "pubDate": "Wed, 15 Apr 2026 01:30:00",
       "guid": ""
     }
   ]

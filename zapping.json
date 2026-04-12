@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Irl. Norte (Feminino S19) x Portugal (Feminino S19) - 12/04 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Irl. Norte (Feminino S19) x Portugal (Feminino S19) - 12/04 17:00 - Canal11",
-      "pubDate": "Sun, 12 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Real Oviedo - 12/04 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Real Oviedo - 12/04 17:30 - DAZN 2",
-      "pubDate": "Sun, 12 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Nacional - 12/04 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Nacional - 12/04 18:00 - BTv",
-      "pubDate": "Sun, 12 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x FC Arouca - 12/04 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x FC Arouca - 12/04 18:00 - SportTV 2",
-      "pubDate": "Sun, 12 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Águas Santas (Andebol) - 12/04 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Águas Santas (Andebol) - 12/04 18:00 - SportingTv",
-      "pubDate": "Sun, 12 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Mainz x SC Freiburg - 12/04 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mainz x SC Freiburg - 12/04 18:30 - DAZN 3",
-      "pubDate": "Sun, 12 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Amarante FC - 12/04 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Amarante FC - 12/04 19:00 - Canal11",
-      "pubDate": "Sun, 12 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Como 1907 x Internazionale - 12/04 19:45 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Internazionale - 12/04 19:45 - SportTV 7",
@@ -292,6 +243,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nottingham Forest x FC Porto - 16/04 20:00 - SportTV 5",
       "pubDate": "Thu, 16 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Bologna - 16/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Bologna - 16/04 20:00 - DAZN 2",
+      "pubDate": "Thu, 16 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x SC Braga - 16/04 20:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x SC Braga - 16/04 20:00 - TVI",
+      "pubDate": "Thu, 16 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Palmeiras x Sporting Cristal - 16/04 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Palmeiras x Sporting Cristal - 16/04 23:00 - SportTV 1",
+      "pubDate": "Thu, 16 Apr 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Flamengo x Independiente Medellín - 17/04 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Flamengo x Independiente Medellín - 17/04 01:30 - SportTV 1",
+      "pubDate": "Fri, 17 Apr 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Como 1907 - 17/04 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Como 1907 - 17/04 17:30 - SportTV 2",
+      "pubDate": "Fri, 17 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Caykur Rizespor - 17/04 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Caykur Rizespor - 17/04 18:00 - SportTV 1",
+      "pubDate": "Fri, 17 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x Feirense - 17/04 18:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x Feirense - 17/04 18:45 - SportTV +",
+      "pubDate": "Fri, 17 Apr 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
+      "pubDate": "Fri, 17 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

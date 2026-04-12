@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia x FC Porto - 12/04 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x FC Porto - 12/04 20:30 - SportTV 1",
-      "pubDate": "Sun, 12 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Huracán x Rosario Central - 12/04 21:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Huracán x Rosario Central - 12/04 21:30 - SportTV 2",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x GD Chaves - 18/04 11:00 - SportTV 1",
       "pubDate": "Sat, 18 Apr 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x FC Penafiel - 18/04 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x FC Penafiel - 18/04 14:00 - SportTV +",
+      "pubDate": "Sat, 18 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Parma - 18/04 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Parma - 18/04 14:00 - SportTV 2",
+      "pubDate": "Sat, 18 Apr 2026 14:00:00",
       "guid": ""
     }
   ]

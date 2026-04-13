@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "San Antonio Spurs (Basket) x Denver Nuggets (Basket) - 13/04 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Antonio Spurs (Basket) x Denver Nuggets (Basket) - 13/04 01:30 - SportTV 1",
-      "pubDate": "Mon, 13 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lusitânia de Lourosa x FC Porto - 13/04 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x FC Porto - 13/04 18:00 - SportTV +",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
       "pubDate": "Sat, 18 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x FC Alverca - 18/04 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x FC Alverca - 18/04 15:30 - SportTV 1",
+      "pubDate": "Sat, 18 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x Caldas SC - 18/04 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x Caldas SC - 18/04 16:00 - C11 Stream",
+      "pubDate": "Sat, 18 Apr 2026 16:00:00",
       "guid": ""
     }
   ]

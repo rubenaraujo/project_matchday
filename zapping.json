@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Fiorentina x Lazio - 13/04 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Lazio - 13/04 19:45 - SportTV 2",
-      "pubDate": "Mon, 13 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Getafe - 13/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Getafe - 13/04 20:00 - DAZN 2",
-      "pubDate": "Mon, 13 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Leeds United - 13/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Leeds United - 13/04 20:00 - DAZN 1",
-      "pubDate": "Mon, 13 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Gil Vicente - 13/04 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Gil Vicente - 13/04 20:15 - SportTV 1",
-      "pubDate": "Mon, 13 Apr 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 14/04 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Detroit Red Wings (Hóquei no Gelo  Seniores) - 14/04 00:00 - SportTV 2",
@@ -341,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC St. Pauli x FC Köln - 17/04 19:30 - DAZN 2",
       "pubDate": "Fri, 17 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
+      "pubDate": "Fri, 17 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

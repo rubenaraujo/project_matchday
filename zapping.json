@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Liverpool x PSG - 14/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x PSG - 14/04 20:00 - SportTV 5",
-      "pubDate": "Tue, 14 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Barcelona - 14/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Barcelona - 14/04 20:00 - DAZN 1",
-      "pubDate": "Tue, 14 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Grêmio x Deportivo Riestra - 14/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grêmio x Deportivo Riestra - 14/04 23:00 - SportTV 1",
@@ -327,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Jun.A S19) x Sporting (Jun.A S19) - 18/04 11:00 - Canal11",
       "pubDate": "Sat, 18 Apr 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Fulham - 18/04 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Fulham - 18/04 12:30 - DAZN 1",
+      "pubDate": "Sat, 18 Apr 2026 12:30:00",
       "guid": ""
     }
   ]

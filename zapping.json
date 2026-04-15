@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Voleibol) x Vitória SC (Voleibol) - 15/04 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Vitória SC (Voleibol) - 15/04 19:30 - SportingTv",
-      "pubDate": "Wed, 15 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Sporting - 15/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Sporting - 15/04 20:00 - SportTV 5",
-      "pubDate": "Wed, 15 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Real Madrid - 15/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Real Madrid - 15/04 20:00 - DAZN 1",
-      "pubDate": "Wed, 15 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Benfica (Voleibol Feminino) - 15/04 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Benfica (Voleibol Feminino) - 15/04 20:00 - PortoCanal",
-      "pubDate": "Wed, 15 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Voleibol) x Leixões (Voleibol) - 15/04 20:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Voleibol) x Leixões (Voleibol) - 15/04 20:00 - BTv",
@@ -326,6 +298,13 @@
       "title": "USC Paredes x S. João Ver - 18/04 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "USC Paredes x S. João Ver - 18/04 15:00 - C11 Stream",
+      "pubDate": "Sat, 18 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
       "pubDate": "Sat, 18 Apr 2026 15:00:00",
       "guid": ""
     }

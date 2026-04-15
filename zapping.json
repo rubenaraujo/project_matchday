@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Barcelona SC - 15/04 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Barcelona SC - 15/04 01:00 - SportTV 1",
-      "pubDate": "Wed, 15 Apr 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vasco x Audax Italiano - 15/04 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Audax Italiano - 15/04 01:00 - SportTV 2",
-      "pubDate": "Wed, 15 Apr 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santos x Recoleta - 15/04 01:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santos x Recoleta - 15/04 01:30 - SportTV 3",
-      "pubDate": "Wed, 15 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S19) x Hungria (Feminino S19) - 15/04 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S19) x Hungria (Feminino S19) - 15/04 17:00 - Canal11",
@@ -341,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayer Leverkusen x FC Augsburg - 18/04 14:30 - DAZN 4",
       "pubDate": "Sat, 18 Apr 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x S. João Ver - 18/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x S. João Ver - 18/04 15:00 - C11 Stream",
+      "pubDate": "Sat, 18 Apr 2026 15:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Voleibol) x Leixões (Voleibol) - 15/04 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Voleibol) x Leixões (Voleibol) - 15/04 20:00 - BTv",
-      "pubDate": "Wed, 15 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Águas Santas (Andebol) x Benfica (Andebol) - 15/04 21:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águas Santas (Andebol) x Benfica (Andebol) - 15/04 21:00 - AndebolTV",
-      "pubDate": "Wed, 15 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cruzeiro x Univ. Católica - 15/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Univ. Católica - 15/04 23:00 - SportTV 1",
@@ -305,6 +291,13 @@
       "title": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
+      "pubDate": "Sat, 18 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Bournemouth - 18/04 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Bournemouth - 18/04 15:00 - DAZN 1",
       "pubDate": "Sat, 18 Apr 2026 15:00:00",
       "guid": ""
     }

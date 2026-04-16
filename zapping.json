@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x Sporting (Hóquei) - 16/04 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Sporting (Hóquei) - 16/04 19:30 - SportingTv",
-      "pubDate": "Thu, 16 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid (Basket) x Crvena Zvezda (Basket) - 16/04 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid (Basket) x Crvena Zvezda (Basket) - 16/04 19:45 - SportTV 3",
-      "pubDate": "Thu, 16 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Nottingham Forest x FC Porto - 16/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nottingham Forest x FC Porto - 16/04 20:00 - SportTV 5",
-      "pubDate": "Thu, 16 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Bologna - 16/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Bologna - 16/04 20:00 - DAZN 2",
-      "pubDate": "Thu, 16 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x SC Braga - 16/04 20:00 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x SC Braga - 16/04 20:00 - TVI",
-      "pubDate": "Thu, 16 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Crystal Palace - 16/04 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Crystal Palace - 16/04 20:00 - DAZN 3",
-      "pubDate": "Thu, 16 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AEK x Rayo Vallecano - 16/04 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AEK x Rayo Vallecano - 16/04 20:00 - DAZN 4",
-      "pubDate": "Thu, 16 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Mainz - 16/04 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Mainz - 16/04 20:00 - DAZN",
-      "pubDate": "Thu, 16 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Palmeiras x Sporting Cristal - 16/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Sporting Cristal - 16/04 23:00 - SportTV 1",
@@ -313,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tottenham x Brighton  Hove Albion - 18/04 17:30 - DAZN 1",
       "pubDate": "Sat, 18 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x RB Leipzig - 18/04 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x RB Leipzig - 18/04 17:30 - DAZN 2",
+      "pubDate": "Sat, 18 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x Santa Clara - 18/04 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x Santa Clara - 18/04 18:00 - SportTV 1",
+      "pubDate": "Sat, 18 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Marítimo - 18/04 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Marítimo - 18/04 18:00 - SportTV 6",
+      "pubDate": "Sat, 18 Apr 2026 18:00:00",
       "guid": ""
     }
   ]

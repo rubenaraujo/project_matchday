@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cruzeiro x Univ. Católica - 15/04 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cruzeiro x Univ. Católica - 15/04 23:00 - SportTV 1",
-      "pubDate": "Wed, 15 Apr 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Libertad x Rosario Central - 15/04 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Libertad x Rosario Central - 15/04 23:00 - SportTV 2",
-      "pubDate": "Wed, 15 Apr 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Club x Botafogo - 15/04 23:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Botafogo - 15/04 23:00 - SportTV 3",
-      "pubDate": "Wed, 15 Apr 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ottawa Senators (Hóquei no Gelo  Seniores) x Toronto Maple Leafs (Hóquei no Gelo  Seniores) - 16/04 00:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Toronto Maple Leafs (Hóquei no Gelo  Seniores) - 16/04 00:30 - SportTV 4",
@@ -340,6 +319,13 @@
       "title": "Atlético CP x Caldas SC - 18/04 16:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP x Caldas SC - 18/04 16:00 - C11 Stream",
+      "pubDate": "Sat, 18 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Lorient x Marseille - 18/04 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Lorient x Marseille - 18/04 16:00 - SportTV 3",
       "pubDate": "Sat, 18 Apr 2026 16:00:00",
       "guid": ""
     }

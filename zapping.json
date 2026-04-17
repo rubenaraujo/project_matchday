@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rio Ave x AFS - 17/04 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x AFS - 17/04 20:45 - SportTV 1",
-      "pubDate": "Fri, 17 Apr 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "Paços de Ferreira x GD Chaves - 18/04 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Paços de Ferreira x GD Chaves - 18/04 11:00 - SportTV 1",
@@ -298,6 +291,20 @@
       "title": "CP Esgueira (Basket) x Benfica (Basket) - 18/04 21:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CP Esgueira (Basket) x Benfica (Basket) - 18/04 21:00 - DAZN 2",
+      "pubDate": "Sat, 18 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Fundão (Futsal) x Eléctrico (Futsal) - 18/04 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Fundão (Futsal) x Eléctrico (Futsal) - 18/04 21:00 - Canal11",
+      "pubDate": "Sat, 18 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Turquel (Hóquei) x HC Braga (Hóquei) - 18/04 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Turquel (Hóquei) x HC Braga (Hóquei) - 18/04 21:00 - FPP TV",
       "pubDate": "Sat, 18 Apr 2026 21:00:00",
       "guid": ""
     }

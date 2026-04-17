@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Jun.A S19) x Gil Vicente (Jun.A S19) - 17/04 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Gil Vicente (Jun.A S19) - 17/04 16:00 - Canal11",
-      "pubDate": "Fri, 17 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sassuolo x Como 1907 - 17/04 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sassuolo x Como 1907 - 17/04 17:30 - SportTV 2",
@@ -295,6 +288,13 @@
       "guid": ""
     },
     {
+      "title": "Riba d´Ave (Hóquei) x AD Sanjoanense (Hóquei) - 18/04 18:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba d´Ave (Hóquei) x AD Sanjoanense (Hóquei) - 18/04 18:30 - FPP TV",
+      "pubDate": "Sat, 18 Apr 2026 18:30:00",
+      "guid": ""
+    },
+    {
       "title": "Trofense x Varzim - 18/04 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x Varzim - 18/04 19:00 - Canal11",
@@ -341,13 +341,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (Voleibol) x Benfica (Voleibol) - 18/04 20:00 - SportTV 4",
       "pubDate": "Sat, 18 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Nice - 18/04 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Nice - 18/04 20:05 - SportTV 3",
-      "pubDate": "Sat, 18 Apr 2026 20:05:00",
       "guid": ""
     }
   ]

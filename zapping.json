@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Flamengo x Independiente Medellín - 17/04 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Flamengo x Independiente Medellín - 17/04 01:30 - SportTV 1",
-      "pubDate": "Fri, 17 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Jun.A S19) x Club Brugge (Jun.A S19) - 17/04 13:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Jun.A S19) x Club Brugge (Jun.A S19) - 17/04 13:00 - BTv",
@@ -340,6 +333,13 @@
       "title": "Atlético de Madrid x Real Sociedad - 18/04 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Real Sociedad - 18/04 20:00 - SportTV 2",
+      "pubDate": "Sat, 18 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Manchester United - 18/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Manchester United - 18/04 20:00 - DAZN 1",
       "pubDate": "Sat, 18 Apr 2026 20:00:00",
       "guid": ""
     }

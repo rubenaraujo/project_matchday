@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC St. Pauli x FC Köln - 17/04 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x FC Köln - 17/04 19:30 - DAZN 2",
-      "pubDate": "Fri, 17 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Cagliari - 17/04 19:45 - SportTV 2",
-      "pubDate": "Fri, 17 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Toulouse - 17/04 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Toulouse - 17/04 19:45 - SportTV 3",
-      "pubDate": "Fri, 17 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Blackburn Rovers x Coventry City - 17/04 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Blackburn Rovers x Coventry City - 17/04 20:00 - SportTV 6",
-      "pubDate": "Fri, 17 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x FC Famalicão (Futsal) - 17/04 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x FC Famalicão (Futsal) - 17/04 20:30 - Canal11",
-      "pubDate": "Fri, 17 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave x AFS - 17/04 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave x AFS - 17/04 20:45 - SportTV 1",
@@ -313,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lille x Nice - 18/04 20:05 - SportTV 3",
       "pubDate": "Sat, 18 Apr 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Vitória SC - 18/04 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Vitória SC - 18/04 20:30 - SportTV 1",
+      "pubDate": "Sat, 18 Apr 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Águas Santas (Andebol) - 18/04 20:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Águas Santas (Andebol) - 18/04 20:30 - BTv",
+      "pubDate": "Sat, 18 Apr 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CP Esgueira (Basket) x Benfica (Basket) - 18/04 21:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CP Esgueira (Basket) x Benfica (Basket) - 18/04 21:00 - DAZN 2",
+      "pubDate": "Sat, 18 Apr 2026 21:00:00",
       "guid": ""
     }
   ]

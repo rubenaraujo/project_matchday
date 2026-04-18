@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Nacional x FC Alverca - 18/04 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x FC Alverca - 18/04 15:30 - SportTV 1",
-      "pubDate": "Sat, 18 Apr 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x Caldas SC - 18/04 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x Caldas SC - 18/04 16:00 - C11 Stream",
-      "pubDate": "Sat, 18 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Lorient x Marseille - 18/04 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Lorient x Marseille - 18/04 16:00 - SportTV 3",
-      "pubDate": "Sat, 18 Apr 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 18/04 16:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x Gil Eanes (Andebol Feminino) - 18/04 16:30 - BTv",
-      "pubDate": "Sat, 18 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CE Lleida (Hóquei) x HRC Monza (Hóquei) - 18/04 16:30 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CE Lleida (Hóquei) x HRC Monza (Hóquei) - 18/04 16:30 - WSE TV",
-      "pubDate": "Sat, 18 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
       "title": "Lusitano GC x SC Covilhã - 18/04 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitano GC x SC Covilhã - 18/04 17:00 - C11 Stream",
@@ -264,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Schalke 04 x Preussen Munster - 19/04 12:30 - DAZN 4",
       "pubDate": "Sun, 19 Apr 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Farense - 19/04 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Farense - 19/04 14:00 - SportTV +",
+      "pubDate": "Sun, 19 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hellas Verona x Milan - 19/04 14:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hellas Verona x Milan - 19/04 14:00 - SportTV 6",
+      "pubDate": "Sun, 19 Apr 2026 14:00:00",
       "guid": ""
     }
   ]

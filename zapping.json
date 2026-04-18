@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético de Madrid x Real Sociedad - 18/04 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Real Sociedad - 18/04 20:00 - SportTV 2",
-      "pubDate": "Sat, 18 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Vitória SC - 18/04 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Vitória SC - 18/04 20:30 - SportTV 1",
-      "pubDate": "Sat, 18 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket) x Benfica (Basket) - 18/04 21:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket) x Benfica (Basket) - 18/04 21:00 - DAZN 2",
-      "pubDate": "Sat, 18 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x Eléctrico (Futsal) - 18/04 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x Eléctrico (Futsal) - 18/04 21:00 - Canal11",
-      "pubDate": "Sat, 18 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Turquel (Hóquei) x HC Braga (Hóquei) - 18/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Turquel (Hóquei) x HC Braga (Hóquei) - 18/04 21:00 - FPP TV",
-      "pubDate": "Sat, 18 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal  Jun.B S17) x Quinta dos Lombos (Futsal  Jun.B S17) - 18/04 21:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.B S17) x Quinta dos Lombos (Futsal  Jun.B S17) - 18/04 21:30 - SportingTv",
-      "pubDate": "Sat, 18 Apr 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "LA Lakers (Basket) x Houston Rockets (Basket) - 19/04 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "LA Lakers (Basket) x Houston Rockets (Basket) - 19/04 01:30 - SportTV 2",
@@ -176,9 +134,9 @@
       "guid": ""
     },
     {
-      "title": "CE Lleida/HRC Monza x CP Calafell/Juventude Pacense - 19/04 16:00 - WSE TV",
+      "title": "CE Lleida (Hóquei) x CP Calafell (Hóquei) - 19/04 16:00 - WSE TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "CE Lleida/HRC Monza x CP Calafell/Juventude Pacense - 19/04 16:00 - WSE TV",
+      "description": "CE Lleida (Hóquei) x CP Calafell (Hóquei) - 19/04 16:00 - WSE TV",
       "pubDate": "Sun, 19 Apr 2026 16:00:00",
       "guid": ""
     },
@@ -257,6 +215,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia M´gladbach x Mainz - 19/04 18:30 - DAZN 2",
       "pubDate": "Sun, 19 Apr 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Belenenses - 19/04 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Belenenses - 19/04 19:00 - Canal11",
+      "pubDate": "Sun, 19 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Bologna - 19/04 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Bologna - 19/04 19:45 - SportTV 6",
+      "pubDate": "Sun, 19 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Lyon - 19/04 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Lyon - 19/04 19:45 - SportTV 4",
+      "pubDate": "Sun, 19 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

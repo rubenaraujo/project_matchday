@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Hannover 96 x SC Paderborn 07 - 18/04 19:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hannover 96 x SC Paderborn 07 - 18/04 19:30 - DAZN 4",
-      "pubDate": "Sat, 18 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Atalanta - 18/04 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Atalanta - 18/04 19:45 - SportTV 7",
-      "pubDate": "Sat, 18 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético de Madrid x Real Sociedad - 18/04 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid x Real Sociedad - 18/04 20:00 - SportTV 2",
@@ -22,37 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Chelsea x Manchester United - 18/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Manchester United - 18/04 20:00 - DAZN 1",
-      "pubDate": "Sat, 18 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões (Voleibol) x Benfica (Voleibol) - 18/04 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (Voleibol) x Benfica (Voleibol) - 18/04 20:00 - SportTV 4",
-      "pubDate": "Sat, 18 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Nice - 18/04 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Nice - 18/04 20:05 - SportTV 3",
-      "pubDate": "Sat, 18 Apr 2026 20:05:00",
-      "guid": ""
-    },
-    {
       "title": "Gil Vicente x Vitória SC - 18/04 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x Vitória SC - 18/04 20:30 - SportTV 1",
-      "pubDate": "Sat, 18 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x Águas Santas (Andebol) - 18/04 20:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x Águas Santas (Andebol) - 18/04 20:30 - BTv",
       "pubDate": "Sat, 18 Apr 2026 20:30:00",
       "guid": ""
     },
@@ -257,6 +215,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pisa x Genoa - 19/04 17:00 - SportTV 4",
       "pubDate": "Sun, 19 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AZ Alkmaar x NEC - 19/04 17:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AZ Alkmaar x NEC - 19/04 17:00 - DAZN 3",
+      "pubDate": "Sun, 19 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x CH Carvalhos (Hóquei) - 19/04 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x CH Carvalhos (Hóquei) - 19/04 17:00 - FPP TV",
+      "pubDate": "Sun, 19 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Benfica - 19/04 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Benfica - 19/04 18:00 - SportTV 1",
+      "pubDate": "Sun, 19 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 19/04 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 19/04 18:00 - SportTV 5",
+      "pubDate": "Sun, 19 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x UD Oliveirense (Hóquei) - 19/04 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x UD Oliveirense (Hóquei) - 19/04 18:00 - FPP TV",
+      "pubDate": "Sun, 19 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia M´gladbach x Mainz - 19/04 18:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia M´gladbach x Mainz - 19/04 18:30 - DAZN 2",
+      "pubDate": "Sun, 19 Apr 2026 18:30:00",
       "guid": ""
     }
   ]

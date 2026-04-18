@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Riba d´Ave (Hóquei) x AD Sanjoanense (Hóquei) - 18/04 18:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Riba d´Ave (Hóquei) x AD Sanjoanense (Hóquei) - 18/04 18:30 - FPP TV",
-      "pubDate": "Sat, 18 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x Varzim - 18/04 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Varzim - 18/04 19:00 - Canal11",
-      "pubDate": "Sat, 18 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Calafell (Hóquei) x Juventude Pacense (Hóquei) - 18/04 19:00 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Calafell (Hóquei) x Juventude Pacense (Hóquei) - 18/04 19:00 - WSE TV",
-      "pubDate": "Sat, 18 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hannover 96 x SC Paderborn 07 - 18/04 19:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hannover 96 x SC Paderborn 07 - 18/04 19:30 - DAZN 4",
@@ -243,6 +222,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CE Lleida/HRC Monza x CP Calafell/Juventude Pacense - 19/04 16:00 - WSE TV",
       "pubDate": "Sun, 19 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz x Paris FC - 19/04 16:15 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz x Paris FC - 19/04 16:15 - SportTV 7",
+      "pubDate": "Sun, 19 Apr 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Rennes - 19/04 16:15 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Rennes - 19/04 16:15 - SportTV 6",
+      "pubDate": "Sun, 19 Apr 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Arsenal - 19/04 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Arsenal - 19/04 16:30 - DAZN 1",
+      "pubDate": "Sun, 19 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Stuttgart - 19/04 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Stuttgart - 19/04 16:30 - DAZN 2",
+      "pubDate": "Sun, 19 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Genoa - 19/04 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Genoa - 19/04 17:00 - SportTV 4",
+      "pubDate": "Sun, 19 Apr 2026 17:00:00",
       "guid": ""
     }
   ]

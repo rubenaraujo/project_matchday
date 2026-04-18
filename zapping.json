@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "TSG Hoffenheim x Borussia Dortmund - 18/04 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "TSG Hoffenheim x Borussia Dortmund - 18/04 14:30 - DAZN 3",
-      "pubDate": "Sat, 18 Apr 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x FC Augsburg - 18/04 14:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x FC Augsburg - 18/04 14:30 - DAZN 4",
-      "pubDate": "Sat, 18 Apr 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x S. João Ver - 18/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x S. João Ver - 18/04 15:00 - C11 Stream",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x Fafe - 18/04 15:00 - C11 Stream",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Bournemouth - 18/04 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Bournemouth - 18/04 15:00 - DAZN 1",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Wolverhampton - 18/04 15:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Wolverhampton - 18/04 15:00 - DAZN 2",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslováquia (Feminino) x Portugal (Feminino) - 18/04 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslováquia (Feminino) x Portugal (Feminino) - 18/04 15:00 - Canal11",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal) x Leões Porto Salvo (Futsal) - 18/04 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Leões Porto Salvo (Futsal) - 18/04 15:00 - BTv",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x CA Queluz (Basket) - 18/04 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x CA Queluz (Basket) - 18/04 15:00 - SportingTv",
-      "pubDate": "Sat, 18 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nacional x FC Alverca - 18/04 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nacional x FC Alverca - 18/04 15:30 - SportTV 1",
@@ -320,6 +257,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ipswich Town x Middlesbrough - 19/04 12:00 - SportTV 3",
       "pubDate": "Sun, 19 Apr 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Preussen Munster - 19/04 12:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Preussen Munster - 19/04 12:30 - DAZN 4",
+      "pubDate": "Sun, 19 Apr 2026 12:30:00",
       "guid": ""
     }
   ]

@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Tottenham x Brighton  Hove Albion - 18/04 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Brighton  Hove Albion - 18/04 17:30 - DAZN 1",
-      "pubDate": "Sat, 18 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Eintracht Frankfurt x RB Leipzig - 18/04 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x RB Leipzig - 18/04 17:30 - DAZN 2",
-      "pubDate": "Sat, 18 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Santa Clara - 18/04 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Santa Clara - 18/04 18:00 - SportTV 1",
-      "pubDate": "Sat, 18 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense x Marítimo - 18/04 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Marítimo - 18/04 18:00 - SportTV 6",
-      "pubDate": "Sat, 18 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Angers x Le Havre - 18/04 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angers x Le Havre - 18/04 18:00 - SportTV 3",
-      "pubDate": "Sat, 18 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gençlerbirligi x Galatasaray - 18/04 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gençlerbirligi x Galatasaray - 18/04 18:00 - SportTV 4",
-      "pubDate": "Sat, 18 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferreira do Zêzere (Futsal) x Torreense (Futsal) - 18/04 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferreira do Zêzere (Futsal) x Torreense (Futsal) - 18/04 18:00 - C11 Stream",
-      "pubDate": "Sat, 18 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Marítimo (Andebol) - 18/04 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Marítimo (Andebol) - 18/04 18:00 - SportingTv",
-      "pubDate": "Sat, 18 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Riba d´Ave (Hóquei) x AD Sanjoanense (Hóquei) - 18/04 18:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Riba d´Ave (Hóquei) x AD Sanjoanense (Hóquei) - 18/04 18:30 - FPP TV",
@@ -278,6 +222,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1º Dezembro x Amora FC - 19/04 15:00 - C11 Stream",
       "pubDate": "Sun, 19 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 19/04 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 19/04 15:00 - BTv",
+      "pubDate": "Sun, 19 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Est. Amadora - 19/04 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Est. Amadora - 19/04 15:30 - SportTV 2",
+      "pubDate": "Sun, 19 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CE Lleida/HRC Monza x CP Calafell/Juventude Pacense - 19/04 16:00 - WSE TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CE Lleida/HRC Monza x CP Calafell/Juventude Pacense - 19/04 16:00 - WSE TV",
+      "pubDate": "Sun, 19 Apr 2026 16:00:00",
       "guid": ""
     }
   ]

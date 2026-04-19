@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester City x Arsenal - 19/04 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Arsenal - 19/04 16:30 - DAZN 1",
-      "pubDate": "Sun, 19 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Stuttgart - 19/04 16:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Stuttgart - 19/04 16:30 - DAZN 2",
-      "pubDate": "Sun, 19 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Pisa x Genoa - 19/04 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Genoa - 19/04 17:00 - SportTV 4",
-      "pubDate": "Sun, 19 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AZ Alkmaar x NEC - 19/04 17:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x NEC - 19/04 17:00 - DAZN 3",
-      "pubDate": "Sun, 19 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x CH Carvalhos (Hóquei) - 19/04 17:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x CH Carvalhos (Hóquei) - 19/04 17:00 - FPP TV",
-      "pubDate": "Sun, 19 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting x Benfica - 19/04 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x Benfica - 19/04 18:00 - SportTV 1",
@@ -257,6 +222,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Gençlerbirligi - 22/04 18:30 - SportTV 6",
       "pubDate": "Wed, 22 Apr 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Lazio - 22/04 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Lazio - 22/04 20:00 - SportTV 2",
+      "pubDate": "Wed, 22 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Nice - 22/04 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Nice - 22/04 20:00 - SportTV 4",
+      "pubDate": "Wed, 22 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Sporting - 22/04 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Sporting - 22/04 20:45 - RTP1",
+      "pubDate": "Wed, 22 Apr 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 22/04 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 22/04 21:00 - Canal11",
+      "pubDate": "Wed, 22 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude Pacense (Hóquei) x AD Valongo (Hóquei) - 22/04 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude Pacense (Hóquei) x AD Valongo (Hóquei) - 22/04 21:00 - FPP TV",
+      "pubDate": "Wed, 22 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Samsunspor x Trabzonspor - 23/04 16:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Samsunspor x Trabzonspor - 23/04 16:45 - SportTV 1",
+      "pubDate": "Thu, 23 Apr 2026 16:45:00",
       "guid": ""
     }
   ]

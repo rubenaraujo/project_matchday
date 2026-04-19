@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Al Wasl x Al-Nassr - 19/04 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al Wasl x Al-Nassr - 19/04 15:00 - Canal11",
-      "pubDate": "Sun, 19 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Mafra x Amarante FC - 19/04 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Amarante FC - 19/04 15:00 - Canal11",
-      "pubDate": "Sun, 19 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (B) x AD Sanjoanense - 19/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (B) x AD Sanjoanense - 19/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 19 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "1º Dezembro x Amora FC - 19/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1º Dezembro x Amora FC - 19/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 19 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 19/04 15:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 19/04 15:00 - BTv",
@@ -271,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Toulouse - 21/04 20:10 - SportTV 2",
       "pubDate": "Tue, 21 Apr 2026 20:10:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal) x Viseu 2001 (Futsal) - 22/04 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal) x Viseu 2001 (Futsal) - 22/04 11:00 - Canal11",
+      "pubDate": "Wed, 22 Apr 2026 11:00:00",
       "guid": ""
     }
   ]

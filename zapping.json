@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "LA Lakers (Basket) x Houston Rockets (Basket) - 19/04 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x Houston Rockets (Basket) - 19/04 01:30 - SportTV 2",
-      "pubDate": "Sun, 19 Apr 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC (B) x U. Santarém - 19/04 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (B) x U. Santarém - 19/04 11:00 - Canal11",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense x Estoril Praia - 20/04 20:15 - V+",
       "pubDate": "Mon, 20 Apr 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 20/04 21:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 20/04 21:00 - DAZN 4",
+      "pubDate": "Mon, 20 Apr 2026 21:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x FC Famalicão - 19/04 20:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x FC Famalicão - 19/04 20:30 - SportTV 3",
-      "pubDate": "Sun, 19 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x CD Tondela - 19/04 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x CD Tondela - 19/04 20:30 - SportTV 2",
-      "pubDate": "Sun, 19 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Oklahoma City Thunder (Basket) x Phoenix Suns/Golden State Warriors - 19/04 20:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Oklahoma City Thunder (Basket) x Phoenix Suns/Golden State Warriors - 19/04 20:30 - SportTV 5",
@@ -306,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP x 1º Dezembro - 25/04 15:00 - C11 Stream",
       "pubDate": "Sat, 25 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x Vitória SC - 25/04 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x Vitória SC - 25/04 16:30 - Canal11",
+      "pubDate": "Sat, 25 Apr 2026 16:30:00",
       "guid": ""
     }
   ]

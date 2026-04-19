@@ -1,23 +1,9 @@
 {
   "items": [
     {
-      "title": "Sporting x Benfica - 19/04 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Benfica - 19/04 18:00 - SportTV 1",
-      "pubDate": "Sun, 19 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 19/04 18:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Philadelphia 76ers (Basket) - 19/04 18:00 - SportTV 5",
-      "pubDate": "Sun, 19 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x UD Oliveirense (Hóquei) - 19/04 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x UD Oliveirense (Hóquei) - 19/04 18:00 - FPP TV",
       "pubDate": "Sun, 19 Apr 2026 18:00:00",
       "guid": ""
     },
@@ -264,6 +250,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Samsunspor x Trabzonspor - 23/04 16:45 - SportTV 1",
       "pubDate": "Thu, 23 Apr 2026 16:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Alanyaspor - 23/04 18:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Alanyaspor - 23/04 18:45 - SportTV 3",
+      "pubDate": "Thu, 23 Apr 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x SC Braga - 23/04 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x SC Braga - 23/04 20:15 - SportTV 1",
+      "pubDate": "Thu, 23 Apr 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Fafe - 23/04 20:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Fafe - 23/04 20:45 - SportTV 2",
+      "pubDate": "Thu, 23 Apr 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
+      "pubDate": "Fri, 24 Apr 2026 00:00:00",
       "guid": ""
     }
   ]

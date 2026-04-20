@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Oklahoma City Thunder (Basket) x Phoenix Suns/Golden State Warriors - 19/04 20:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x Phoenix Suns/Golden State Warriors - 19/04 20:30 - SportTV 5",
-      "pubDate": "Sun, 19 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Boca Juniors - 19/04 21:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Boca Juniors - 19/04 21:00 - SportTV 7",
-      "pubDate": "Sun, 19 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x Sarmiento de Junín - 20/04 00:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Sarmiento de Junín - 20/04 00:30 - SportTV 2",
@@ -320,6 +306,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Southampton - 25/04 17:15 - SportTV 4",
       "pubDate": "Sat, 25 Apr 2026 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x PSG - 25/04 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x PSG - 25/04 18:00 - SportTV 3",
+      "pubDate": "Sat, 25 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Póvoa (Hóquei) x Sporting (Hóquei) - 25/04 19:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Póvoa (Hóquei) x Sporting (Hóquei) - 25/04 19:30 - RTP2",
+      "pubDate": "Sat, 25 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hellas Verona x Lecce - 25/04 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hellas Verona x Lecce - 25/04 19:45 - SportTV 2",
+      "pubDate": "Sat, 25 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Toulouse x Monaco - 25/04 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toulouse x Monaco - 25/04 20:05 - SportTV 3",
+      "pubDate": "Sat, 25 Apr 2026 20:05:00",
       "guid": ""
     }
   ]

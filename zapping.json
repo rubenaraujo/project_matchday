@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Lecce x Fiorentina - 20/04 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Fiorentina - 20/04 19:45 - SportTV 2",
-      "pubDate": "Mon, 20 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "ADCR Caxinas Poça Barca (Futsal) x Quinta dos Lombos (Futsal) - 20/04 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ADCR Caxinas Poça Barca (Futsal) x Quinta dos Lombos (Futsal) - 20/04 20:00 - Canal11",
-      "pubDate": "Mon, 20 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x West Ham - 20/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x West Ham - 20/04 20:00 - DAZN 2",
-      "pubDate": "Mon, 20 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Moreirense x Estoril Praia - 20/04 20:15 - V+",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x Estoril Praia - 20/04 20:15 - V+",
-      "pubDate": "Mon, 20 Apr 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Hóquei) x Benfica (Hóquei) - 20/04 21:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x Benfica (Hóquei) - 20/04 21:00 - SportingTv",
@@ -327,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Fafe - 23/04 20:45 - SportTV 2",
       "pubDate": "Thu, 23 Apr 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
+      "pubDate": "Fri, 24 Apr 2026 00:00:00",
       "guid": ""
     }
   ]

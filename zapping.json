@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 20/04 21:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 20/04 21:00 - SportingTv",
-      "pubDate": "Mon, 20 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "San Lorenzo x Vélez Sarsfield - 20/04 23:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Lorenzo x Vélez Sarsfield - 20/04 23:30 - SportTV 1",
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
       "pubDate": "Fri, 24 Apr 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x Benfica (S23) - 24/04 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Benfica (S23) - 24/04 16:00 - Canal11",
+      "pubDate": "Fri, 24 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Semifinalista 1 x Semifinalista 2 - 24/04 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Semifinalista 1 x Semifinalista 2 - 24/04 18:00 - Canal11",
+      "pubDate": "Fri, 24 Apr 2026 18:00:00",
       "guid": ""
     }
   ]

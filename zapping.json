@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Leicester City x Hull City - 21/04 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leicester City x Hull City - 21/04 19:45 - SportTV 4",
-      "pubDate": "Tue, 21 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Como 1907 - 21/04 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Como 1907 - 21/04 20:00 - SportTV 1",
-      "pubDate": "Tue, 21 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Chelsea - 21/04 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Chelsea - 21/04 20:00 - DAZN 3",
-      "pubDate": "Tue, 21 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Toulouse - 21/04 20:10 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Toulouse - 21/04 20:10 - SportTV 2",
-      "pubDate": "Tue, 21 Apr 2026 20:10:00",
-      "guid": ""
-    },
-    {
       "title": "Real Madrid x Alavés - 21/04 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Alavés - 21/04 20:30 - DAZN 1",
@@ -320,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Semifinalista 3 x Semifinalista 4 - 24/04 21:00 - Canal11",
       "pubDate": "Fri, 24 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x EDC Gondomar (Futsal Feminino) - 25/04 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x EDC Gondomar (Futsal Feminino) - 25/04 11:00 - Canal11",
+      "pubDate": "Sat, 25 Apr 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Portimonense - 25/04 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Portimonense - 25/04 11:00 - SportTV 1",
+      "pubDate": "Sat, 25 Apr 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.B S17) x Real SC (Jun.B S17) - 25/04 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.B S17) x Real SC (Jun.B S17) - 25/04 11:00 - SportingTv",
+      "pubDate": "Sat, 25 Apr 2026 11:00:00",
       "guid": ""
     }
   ]

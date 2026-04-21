@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "San Lorenzo x Vélez Sarsfield - 20/04 23:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Lorenzo x Vélez Sarsfield - 20/04 23:30 - SportTV 1",
-      "pubDate": "Mon, 20 Apr 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Atlanta Hawks (Basket) - 21/04 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Atlanta Hawks (Basket) - 21/04 01:00 - SportTV 2",
@@ -340,6 +333,13 @@
       "title": "Real Betis x Real Madrid - 24/04 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis x Real Madrid - 24/04 20:00 - DAZN 1",
+      "pubDate": "Fri, 24 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Nottingham Forest - 24/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Nottingham Forest - 24/04 20:00 - DAZN 2",
       "pubDate": "Fri, 24 Apr 2026 20:00:00",
       "guid": ""
     }

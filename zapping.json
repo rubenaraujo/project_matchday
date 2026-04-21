@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Madrid x Alavés - 21/04 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Alavés - 21/04 20:30 - DAZN 1",
-      "pubDate": "Tue, 21 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Real Betis - 21/04 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Real Betis - 21/04 20:30 - DAZN 2",
-      "pubDate": "Tue, 21 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 22/04 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 22/04 00:00 - SportTV 3",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Jun.B S17) x Real SC (Jun.B S17) - 25/04 11:00 - SportingTv",
       "pubDate": "Sat, 25 Apr 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Karlsruher SC x Hannover 96 - 25/04 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Karlsruher SC x Hannover 96 - 25/04 12:00 - DAZN 3",
+      "pubDate": "Sat, 25 Apr 2026 12:00:00",
       "guid": ""
     }
   ]

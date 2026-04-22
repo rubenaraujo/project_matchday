@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "title": "Nun´Álvares (Futsal) x Viseu 2001 (Futsal) - 22/04 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal) x Viseu 2001 (Futsal) - 22/04 11:00 - Canal11",
-      "pubDate": "Wed, 22 Apr 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ferreira do Zêzere (Futsal) x ACD Ladoeiro (Futsal) - 22/04 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x ACD Ladoeiro (Futsal) - 22/04 14:00 - Canal11",
       "pubDate": "Wed, 22 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal  S17) x Espanha (Futsal  S17) - 22/04 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal  S17) x Espanha (Futsal  S17) - 22/04 16:00 - Canal11",
+      "pubDate": "Wed, 22 Apr 2026 16:00:00",
       "guid": ""
     },
     {
@@ -204,9 +204,9 @@
       "guid": ""
     },
     {
-      "title": "Semifinalista 1 x Semifinalista 2 - 24/04 18:00 - Canal11",
+      "title": "Nun´Álvares (Futsal) x Semifinalista 2 - 24/04 18:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Semifinalista 1 x Semifinalista 2 - 24/04 18:00 - Canal11",
+      "description": "Nun´Álvares (Futsal) x Semifinalista 2 - 24/04 18:00 - Canal11",
       "pubDate": "Fri, 24 Apr 2026 18:00:00",
       "guid": ""
     },
@@ -295,6 +295,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Jun.B S17) x Vitória SC (Jun.B S17) - 25/04 12:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.B S17) x Vitória SC (Jun.B S17) - 25/04 12:00 - BTv",
+      "pubDate": "Sat, 25 Apr 2026 12:00:00",
+      "guid": ""
+    },
+    {
       "title": "Fulham x Aston Villa - 25/04 12:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fulham x Aston Villa - 25/04 12:30 - DAZN 1",
@@ -334,20 +341,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x Académico - 25/04 14:00 - SportTV +",
       "pubDate": "Sat, 25 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amora FC x Lusitano GC - 25/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amora FC x Lusitano GC - 25/04 15:00 - C11 Stream",
-      "pubDate": "Sat, 25 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético CP x 1º Dezembro - 25/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético CP x 1º Dezembro - 25/04 15:00 - C11 Stream",
-      "pubDate": "Sat, 25 Apr 2026 15:00:00",
       "guid": ""
     }
   ]

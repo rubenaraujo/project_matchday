@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 22/04 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tampa Bay Lightning (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 22/04 00:00 - SportTV 3",
-      "pubDate": "Wed, 22 Apr 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "San Antonio Spurs (Basket) x Portland Trail Blazers (Basket) - 22/04 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Antonio Spurs (Basket) x Portland Trail Blazers (Basket) - 22/04 01:00 - SportTV 1",
-      "pubDate": "Wed, 22 Apr 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal) x Viseu 2001 (Futsal) - 22/04 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal) x Viseu 2001 (Futsal) - 22/04 11:00 - Canal11",
@@ -348,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x Académico - 25/04 14:00 - SportTV +",
       "pubDate": "Sat, 25 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Amora FC x Lusitano GC - 25/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amora FC x Lusitano GC - 25/04 15:00 - C11 Stream",
+      "pubDate": "Sat, 25 Apr 2026 15:00:00",
       "guid": ""
     }
   ]

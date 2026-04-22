@@ -1,30 +1,9 @@
 {
   "items": [
     {
-      "title": "Bayer Leverkusen x Bayern München - 22/04 19:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Bayern München - 22/04 19:45 - DAZN 3",
-      "pubDate": "Wed, 22 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Atalanta x Lazio - 22/04 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atalanta x Lazio - 22/04 20:00 - SportTV 2",
-      "pubDate": "Wed, 22 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Strasbourg x Nice - 22/04 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Strasbourg x Nice - 22/04 20:00 - SportTV 4",
-      "pubDate": "Wed, 22 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Manchester City - 22/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Manchester City - 22/04 20:00 - DAZN 2",
       "pubDate": "Wed, 22 Apr 2026 20:00:00",
       "guid": ""
     },
@@ -292,6 +271,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP x 1º Dezembro - 25/04 15:00 - C11 Stream",
       "pubDate": "Sat, 25 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Basket) x CP Esgueira (Basket) - 25/04 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x CP Esgueira (Basket) - 25/04 15:00 - PortoCanal",
+      "pubDate": "Sat, 25 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Crystal Palace - 25/04 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Crystal Palace - 25/04 15:00 - DAZN 1",
+      "pubDate": "Sat, 25 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe x Barcelona - 25/04 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe x Barcelona - 25/04 15:15 - DAZN 2",
+      "pubDate": "Sat, 25 Apr 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Nacional - 25/04 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Nacional - 25/04 15:30 - SportTV 1",
+      "pubDate": "Sat, 25 Apr 2026 15:30:00",
       "guid": ""
     }
   ]

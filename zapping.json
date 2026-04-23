@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Besiktas x Alanyaspor - 23/04 18:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Alanyaspor - 23/04 18:45 - SportTV 3",
-      "pubDate": "Thu, 23 Apr 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Espanyol - 23/04 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Espanyol - 23/04 19:00 - DAZN 3",
-      "pubDate": "Thu, 23 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x SC Braga - 23/04 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x SC Braga - 23/04 19:00 - SportTV 1",
-      "pubDate": "Thu, 23 Apr 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x SC Freiburg - 23/04 19:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x SC Freiburg - 23/04 19:45 - DAZN 2",
@@ -326,6 +305,13 @@
       "title": "Valencia x Girona - 25/04 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Girona - 25/04 17:30 - DAZN 2",
+      "pubDate": "Sat, 25 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hamburger SV x TSG Hoffenheim - 25/04 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hamburger SV x TSG Hoffenheim - 25/04 17:30 - DAZN 3",
       "pubDate": "Sat, 25 Apr 2026 17:30:00",
       "guid": ""
     }

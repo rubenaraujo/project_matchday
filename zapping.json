@@ -1,31 +1,10 @@
 {
   "items": [
     {
-      "title": "Stuttgart x SC Freiburg - 23/04 19:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x SC Freiburg - 23/04 19:45 - DAZN 2",
-      "pubDate": "Thu, 23 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Benfica (Voleibol Feminino) - 23/04 20:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Benfica (Voleibol Feminino) - 23/04 20:30 - PortoCanal",
-      "pubDate": "Thu, 23 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Real Oviedo x Villarreal - 23/04 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Villarreal - 23/04 20:30 - DAZN 1",
       "pubDate": "Thu, 23 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense x Fafe - 23/04 20:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Fafe - 23/04 20:45 - SportTV 2",
-      "pubDate": "Thu, 23 Apr 2026 20:45:00",
       "guid": ""
     },
     {
@@ -313,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hamburger SV x TSG Hoffenheim - 25/04 17:30 - DAZN 3",
       "pubDate": "Sat, 25 Apr 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x PSG - 25/04 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x PSG - 25/04 18:00 - SportTV 3",
+      "pubDate": "Sat, 25 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Moreirense - 25/04 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Moreirense - 25/04 18:00 - BTv",
+      "pubDate": "Sat, 25 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras x UD Leiria - 25/04 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras x UD Leiria - 25/04 18:00 - SportTV 1",
+      "pubDate": "Sat, 25 Apr 2026 18:00:00",
       "guid": ""
     }
   ]

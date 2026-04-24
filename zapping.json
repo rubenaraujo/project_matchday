@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Oviedo x Villarreal - 23/04 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Villarreal - 23/04 20:30 - DAZN 1",
-      "pubDate": "Thu, 23 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Defensa y Justicia x Boca Juniors - 24/04 00:00 - SportTV 1",
@@ -327,6 +320,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Póvoa (Hóquei) x Sporting (Hóquei) - 25/04 19:30 - RTP2",
       "pubDate": "Sat, 25 Apr 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hellas Verona x Lecce - 25/04 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hellas Verona x Lecce - 25/04 19:45 - SportTV 2",
+      "pubDate": "Sat, 25 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Athletic Bilbao - 25/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Athletic Bilbao - 25/04 20:00 - DAZN 1",
+      "pubDate": "Sat, 25 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Málaga x Castellón - 25/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Málaga x Castellón - 25/04 20:00 - DAZN 2",
+      "pubDate": "Sat, 25 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

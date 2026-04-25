@@ -8,34 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Angers x PSG - 25/04 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angers x PSG - 25/04 18:00 - SportTV 3",
-      "pubDate": "Sat, 25 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Orlando Magic (Basket) x Detroit Pistons (Basket) - 25/04 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Orlando Magic (Basket) x Detroit Pistons (Basket) - 25/04 18:00 - SportTV 6",
-      "pubDate": "Sat, 25 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Feminino) x Benfica (Feminino) - 25/04 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Feminino) x Benfica (Feminino) - 25/04 18:30 - Canal11",
-      "pubDate": "Sat, 25 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x Sporting (Hóquei) - 25/04 19:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x Sporting (Hóquei) - 25/04 19:30 - RTP2",
-      "pubDate": "Sat, 25 Apr 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Hellas Verona x Lecce - 25/04 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Lecce - 25/04 19:45 - SportTV 2",
@@ -243,6 +215,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x FC Porto - 26/04 15:30 - SportTV 4",
       "pubDate": "Sun, 26 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Aliados Lordelo x Maia Lidador - 26/04 16:00 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aliados Lordelo x Maia Lidador - 26/04 16:00 - Youtube",
+      "pubDate": "Sun, 26 Apr 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Lille - 26/04 16:15 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Lille - 26/04 16:15 - SportTV 7",
+      "pubDate": "Sun, 26 Apr 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Amarante FC x Belenenses - 26/04 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amarante FC x Belenenses - 26/04 16:30 - Canal11",
+      "pubDate": "Sun, 26 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x SC Freiburg - 26/04 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x SC Freiburg - 26/04 16:30 - DAZN 2",
+      "pubDate": "Sun, 26 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Andebol) x ABC (Andebol) - 26/04 16:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Andebol) x ABC (Andebol) - 26/04 16:30 - AndebolTV",
+      "pubDate": "Sun, 26 Apr 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Internazionale - 26/04 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Internazionale - 26/04 17:00 - SportTV 3",
+      "pubDate": "Sun, 26 Apr 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Sevilla - 26/04 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Sevilla - 26/04 17:30 - DAZN 1",
+      "pubDate": "Sun, 26 Apr 2026 17:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "CD Tondela x Nacional - 25/04 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Nacional - 25/04 15:30 - SportTV 1",
-      "pubDate": "Sat, 25 Apr 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 25/04 16:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 25/04 16:30 - RTP2",
@@ -250,6 +243,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x Real Sociedad - 26/04 13:00 - DAZN 1",
       "pubDate": "Sun, 26 Apr 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/04 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/04 14:00 - Canal11",
+      "pubDate": "Sun, 26 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Sporting - 26/04 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Sporting - 26/04 14:00 - SportTV +",
+      "pubDate": "Sun, 26 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Como 1907 - 26/04 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Como 1907 - 26/04 14:00 - SportTV 3",
+      "pubDate": "Sun, 26 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Lorient x Strasbourg - 26/04 14:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Lorient x Strasbourg - 26/04 14:00 - SportTV 7",
+      "pubDate": "Sun, 26 Apr 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
+      "pubDate": "Sun, 26 Apr 2026 14:30:00",
       "guid": ""
     }
   ]

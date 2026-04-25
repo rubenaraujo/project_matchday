@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Arsenal x Newcastle - 25/04 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Newcastle - 25/04 17:30 - DAZN 1",
-      "pubDate": "Sat, 25 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia x Girona - 25/04 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Girona - 25/04 17:30 - DAZN 2",
-      "pubDate": "Sat, 25 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Hamburger SV x TSG Hoffenheim - 25/04 17:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hamburger SV x TSG Hoffenheim - 25/04 17:30 - DAZN 3",
@@ -29,20 +15,6 @@
       "guid": ""
     },
     {
-      "title": "Benfica x Moreirense - 25/04 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Moreirense - 25/04 18:00 - BTv",
-      "pubDate": "Sat, 25 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Felgueiras x UD Leiria - 25/04 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras x UD Leiria - 25/04 18:00 - SportTV 1",
-      "pubDate": "Sat, 25 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Orlando Magic (Basket) x Detroit Pistons (Basket) - 25/04 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Orlando Magic (Basket) x Detroit Pistons (Basket) - 25/04 18:00 - SportTV 6",
@@ -50,23 +22,9 @@
       "guid": ""
     },
     {
-      "title": "Artística de Avanca (Andebol) x Arsenal da Devesa (Andebol) - 25/04 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Artística de Avanca (Andebol) x Arsenal da Devesa (Andebol) - 25/04 18:00 - AndebolTV",
-      "pubDate": "Sat, 25 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga (Feminino) x Benfica (Feminino) - 25/04 18:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Feminino) x Benfica (Feminino) - 25/04 18:30 - Canal11",
-      "pubDate": "Sat, 25 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Gaia (Andebol) x Vitória SC (Andebol) - 25/04 18:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Gaia (Andebol) x Vitória SC (Andebol) - 25/04 18:30 - AndebolTV",
       "pubDate": "Sat, 25 Apr 2026 18:30:00",
       "guid": ""
     },
@@ -271,6 +229,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Seia FC x Manteigas - 26/04 15:15 - Youtube",
       "pubDate": "Sun, 26 Apr 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x FC Famalicão - 26/04 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x FC Famalicão - 26/04 15:30 - SportTV 2",
+      "pubDate": "Sun, 26 Apr 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x FC Porto - 26/04 15:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x FC Porto - 26/04 15:30 - SportTV 4",
+      "pubDate": "Sun, 26 Apr 2026 15:30:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 25/04 16:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 25/04 16:30 - RTP2",
-      "pubDate": "Sat, 25 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Varzim x Vitória SC - 25/04 16:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x Vitória SC - 25/04 16:30 - C11 Stream",
-      "pubDate": "Sat, 25 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Póvoa AC (Andebol) x Belenenses (Andebol) - 25/04 16:30 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Póvoa AC (Andebol) x Belenenses (Andebol) - 25/04 16:30 - AndebolTV",
-      "pubDate": "Sat, 25 Apr 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bologna x Roma - 25/04 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Roma - 25/04 17:00 - SportTV 2",
-      "pubDate": "Sat, 25 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x SC Covilhã - 25/04 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x SC Covilhã - 25/04 17:00 - C11 Stream",
-      "pubDate": "Sat, 25 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Benfica (Jun.A S19) - 25/04 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Benfica (Jun.A S19) - 25/04 17:00 - PortoCanal",
-      "pubDate": "Sat, 25 Apr 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Southampton - 25/04 17:15 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Southampton - 25/04 17:15 - SportTV 4",
-      "pubDate": "Sat, 25 Apr 2026 17:15:00",
-      "guid": ""
-    },
-    {
       "title": "Arsenal x Newcastle - 25/04 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Newcastle - 25/04 17:30 - DAZN 1",
@@ -278,6 +229,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
       "pubDate": "Sun, 26 Apr 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense x USC Paredes - 26/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense x USC Paredes - 26/04 15:00 - C11 Stream",
+      "pubDate": "Sun, 26 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Marco 09 x SC Braga - 26/04 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Marco 09 x SC Braga - 26/04 15:00 - C11 Stream",
+      "pubDate": "Sun, 26 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Leeds United - 26/04 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Leeds United - 26/04 15:00 - SportTV 1",
+      "pubDate": "Sun, 26 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - FPP TV",
+      "pubDate": "Sun, 26 Apr 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Oviedo x Elche - 26/04 15:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Oviedo x Elche - 26/04 15:15 - DAZN 1",
+      "pubDate": "Sun, 26 Apr 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Seia FC x Manteigas - 26/04 15:15 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Seia FC x Manteigas - 26/04 15:15 - Youtube",
+      "pubDate": "Sun, 26 Apr 2026 15:15:00",
       "guid": ""
     }
   ]

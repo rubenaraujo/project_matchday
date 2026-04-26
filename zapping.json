@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Toronto Raptors (Basket) x Cleveland Cavaliers (Basket) - 26/04 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Toronto Raptors (Basket) x Cleveland Cavaliers (Basket) - 26/04 18:00 - SportTV 6",
-      "pubDate": "Sun, 26 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal) x Sporting (Futsal) - 26/04 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Sporting (Futsal) - 26/04 18:30 - Canal11",
-      "pubDate": "Sun, 26 Apr 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Milan x Juventus - 26/04 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Juventus - 26/04 19:45 - SportTV 3",
@@ -271,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 30/04 17:45 - SportTV 3",
       "pubDate": "Thu, 30 Apr 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Basket) x Imortal (Basket) - 30/04 18:00 - FPBTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Basket) x Imortal (Basket) - 30/04 18:00 - FPBTV",
+      "pubDate": "Thu, 30 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x SC Freiburg - 30/04 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x SC Freiburg - 30/04 20:00 - SportTV 5",
+      "pubDate": "Thu, 30 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nottingham Forest x Aston Villa - 30/04 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nottingham Forest x Aston Villa - 30/04 20:00 - DAZN 1",
+      "pubDate": "Thu, 30 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Shakhtar Donetsk x Crystal Palace - 30/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Shakhtar Donetsk x Crystal Palace - 30/04 20:00 - DAZN 2",
+      "pubDate": "Thu, 30 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

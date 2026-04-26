@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "U. Santarém x Académica OAF - 26/04 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Académica OAF - 26/04 11:00 - Canal11",
-      "pubDate": "Sun, 26 Apr 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x Paços de Ferreira - 26/04 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x Paços de Ferreira - 26/04 11:00 - SportTV 1",
-      "pubDate": "Sun, 26 Apr 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.B S17) x SC Braga (Jun.B S17) - 26/04 11:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x SC Braga (Jun.B S17) - 26/04 11:00 - PortoCanal",
-      "pubDate": "Sun, 26 Apr 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Jun.B S17B) x Nacional (Jun.B S17) - 26/04 11:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.B S17B) x Nacional (Jun.B S17) - 26/04 11:00 - BTv",
-      "pubDate": "Sun, 26 Apr 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fiorentina x Sassuolo - 26/04 11:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Sassuolo - 26/04 11:30 - SportTV 3",
@@ -39,13 +11,6 @@
       "title": "Coventry City x Wrexham - 26/04 12:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Coventry City x Wrexham - 26/04 12:00 - SportTV 2",
-      "pubDate": "Sun, 26 Apr 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuart Massamá (Hóquei Feminino) x Benfica (Hóquei Feminino) - 26/04 12:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuart Massamá (Hóquei Feminino) x Benfica (Hóquei Feminino) - 26/04 12:00 - RTP2",
       "pubDate": "Sun, 26 Apr 2026 12:00:00",
       "guid": ""
     },
@@ -120,9 +85,9 @@
       "guid": ""
     },
     {
-      "title": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - FPP TV",
+      "title": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - FPP TV",
+      "description": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - PortoCanal",
       "pubDate": "Sun, 26 Apr 2026 15:00:00",
       "guid": ""
     },

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rayo Vallecano x Real Sociedad - 26/04 13:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Real Sociedad - 26/04 13:00 - DAZN 1",
-      "pubDate": "Sun, 26 Apr 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/04 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/04 14:00 - Canal11",
@@ -285,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Brentford - 27/04 20:00 - DAZN 1",
       "pubDate": "Mon, 27 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Levante - 27/04 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Levante - 27/04 20:00 - DAZN 2",
+      "pubDate": "Mon, 27 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Casa Pia AC - 27/04 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Casa Pia AC - 27/04 20:15 - SportTV 1",
+      "pubDate": "Mon, 27 Apr 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Denver Nuggets (Basket) x Minnesota Timberwolves (Basket) - 28/04 03:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Denver Nuggets (Basket) x Minnesota Timberwolves (Basket) - 28/04 03:30 - SportTV 1",
+      "pubDate": "Tue, 28 Apr 2026 03:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x Torreense - 28/04 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x Torreense - 28/04 18:00 - SportTV 1",
+      "pubDate": "Tue, 28 Apr 2026 18:00:00",
       "guid": ""
     }
   ]

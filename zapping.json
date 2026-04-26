@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "AFS x Sporting - 26/04 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Sporting - 26/04 20:30 - SportTV 2",
-      "pubDate": "Sun, 26 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minas Argozelo x FC Vinhais - 01/05 16:00 - Canal11",
       "pubDate": "Fri, 01 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
+      "pubDate": "Fri, 01 May 2026 19:45:00",
       "guid": ""
     }
   ]

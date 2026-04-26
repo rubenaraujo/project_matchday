@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/04 14:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/04 14:00 - Canal11",
-      "pubDate": "Sun, 26 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vizela x Sporting - 26/04 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x Sporting - 26/04 14:00 - SportTV +",
-      "pubDate": "Sun, 26 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Como 1907 - 26/04 14:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Como 1907 - 26/04 14:00 - SportTV 3",
-      "pubDate": "Sun, 26 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Lorient x Strasbourg - 26/04 14:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Lorient x Strasbourg - 26/04 14:00 - SportTV 7",
-      "pubDate": "Sun, 26 Apr 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
@@ -306,6 +278,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x Torreense - 28/04 18:00 - SportTV 1",
       "pubDate": "Tue, 28 Apr 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "JL Bourg-en-Bresse (Basket) x Besiktas (Basket) - 28/04 18:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "JL Bourg-en-Bresse (Basket) x Besiktas (Basket) - 28/04 18:30 - SportTV 3",
+      "pubDate": "Tue, 28 Apr 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Damac FC - 28/04 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Damac FC - 28/04 19:00 - SportTV 3",
+      "pubDate": "Tue, 28 Apr 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Ipswich Town - 28/04 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Ipswich Town - 28/04 19:45 - SportTV 6",
+      "pubDate": "Tue, 28 Apr 2026 19:45:00",
       "guid": ""
     }
   ]

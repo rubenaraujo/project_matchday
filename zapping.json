@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 26/04 20:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 26/04 20:30 - SportTV 6",
-      "pubDate": "Sun, 26 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
       "pubDate": "Fri, 01 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Leeds United x Burnley - 01/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leeds United x Burnley - 01/05 20:00 - DAZN 1",
+      "pubDate": "Fri, 01 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Girona x Mallorca - 01/05 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Girona x Mallorca - 01/05 20:00 - DAZN 2",
+      "pubDate": "Fri, 01 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Benfica - 01/05 20:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Benfica - 01/05 20:30 - SportingTv",
+      "pubDate": "Fri, 01 May 2026 20:30:00",
       "guid": ""
     }
   ]

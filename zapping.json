@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Osasuna x Sevilla - 26/04 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Sevilla - 26/04 17:30 - DAZN 1",
-      "pubDate": "Sun, 26 Apr 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x Sporting (Hóquei) - 26/04 18:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Sporting (Hóquei) - 26/04 18:00 - RTP2",
-      "pubDate": "Sun, 26 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x Marítimo - 26/04 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x Marítimo - 26/04 18:00 - BTv",
-      "pubDate": "Sun, 26 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x FC Porto - 26/04 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x FC Porto - 26/04 18:00 - SportTV 1",
-      "pubDate": "Sun, 26 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x SC Braga - 26/04 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x SC Braga - 26/04 18:00 - SportTV 4",
-      "pubDate": "Sun, 26 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Fenerbahçe - 26/04 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Fenerbahçe - 26/04 18:00 - SportTV 2",
-      "pubDate": "Sun, 26 Apr 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Toronto Raptors (Basket) x Cleveland Cavaliers (Basket) - 26/04 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toronto Raptors (Basket) x Cleveland Cavaliers (Basket) - 26/04 18:00 - SportTV 6",
@@ -285,6 +243,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 29/04 21:30 - DAZN 1",
       "pubDate": "Wed, 29 Apr 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cerro Porteño x Palmeiras - 30/04 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cerro Porteño x Palmeiras - 30/04 01:30 - SportTV 1",
+      "pubDate": "Thu, 30 Apr 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estudiantes x Flamengo - 30/04 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estudiantes x Flamengo - 30/04 01:30 - SportTV 2",
+      "pubDate": "Thu, 30 Apr 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Palestino x Grêmio - 30/04 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Palestino x Grêmio - 30/04 01:30 - SportTV 3",
+      "pubDate": "Thu, 30 Apr 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 30/04 17:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 30/04 17:45 - SportTV 3",
+      "pubDate": "Thu, 30 Apr 2026 17:45:00",
       "guid": ""
     }
   ]

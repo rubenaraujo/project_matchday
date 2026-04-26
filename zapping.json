@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Fiorentina x Sassuolo - 26/04 11:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Sassuolo - 26/04 11:30 - SportTV 3",
-      "pubDate": "Sun, 26 Apr 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Coventry City x Wrexham - 26/04 12:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coventry City x Wrexham - 26/04 12:00 - SportTV 2",
-      "pubDate": "Sun, 26 Apr 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Paderborn 07 x Schalke 04 - 26/04 12:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Paderborn 07 x Schalke 04 - 26/04 12:30 - DAZN 2",
-      "pubDate": "Sun, 26 Apr 2026 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Rayo Vallecano x Real Sociedad - 26/04 13:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x Real Sociedad - 26/04 13:00 - DAZN 1",
@@ -253,6 +232,13 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 26/04 20:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 26/04 20:30 - PortoCanal",
+      "pubDate": "Sun, 26 Apr 2026 20:30:00",
+      "guid": ""
+    },
+    {
       "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
@@ -298,13 +284,6 @@
       "title": "Manchester United x Brentford - 27/04 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Brentford - 27/04 20:00 - DAZN 1",
-      "pubDate": "Mon, 27 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Levante - 27/04 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Levante - 27/04 20:00 - DAZN 2",
       "pubDate": "Mon, 27 Apr 2026 20:00:00",
       "guid": ""
     }

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Werder Bremen - 26/04 14:30 - DAZN 2",
-      "pubDate": "Sun, 26 Apr 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense x USC Paredes - 26/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense x USC Paredes - 26/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x SC Braga - 26/04 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x SC Braga - 26/04 15:00 - C11 Stream",
-      "pubDate": "Sun, 26 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Leeds United - 26/04 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Leeds United - 26/04 15:00 - SportTV 1",
-      "pubDate": "Sun, 26 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Braga (Hóquei) x FC Porto (Hóquei) - 26/04 15:00 - PortoCanal",
-      "pubDate": "Sun, 26 Apr 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Oviedo x Elche - 26/04 15:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Elche - 26/04 15:15 - DAZN 1",
@@ -299,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Southampton x Ipswich Town - 28/04 19:45 - SportTV 6",
       "pubDate": "Tue, 28 Apr 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Bayern München - 28/04 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Bayern München - 28/04 20:00 - SportTV 5",
+      "pubDate": "Tue, 28 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x S. João Ver - 28/04 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x S. João Ver - 28/04 20:00 - Canal11",
+      "pubDate": "Tue, 28 Apr 2026 20:00:00",
       "guid": ""
     }
   ]

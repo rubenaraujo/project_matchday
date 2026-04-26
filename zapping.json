@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Milan x Juventus - 26/04 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Juventus - 26/04 19:45 - SportTV 3",
-      "pubDate": "Sun, 26 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Nice - 26/04 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Nice - 26/04 19:45 - SportTV 7",
-      "pubDate": "Sun, 26 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal x Celta de Vigo - 26/04 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Celta de Vigo - 26/04 20:00 - DAZN 1",
-      "pubDate": "Sun, 26 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 26/04 20:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 26/04 20:30 - SportTV 6",
@@ -32,13 +11,6 @@
       "title": "AFS x Sporting - 26/04 20:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x Sporting - 26/04 20:30 - SportTV 2",
-      "pubDate": "Sun, 26 Apr 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 26/04 20:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 26/04 20:30 - PortoCanal",
       "pubDate": "Sun, 26 Apr 2026 20:30:00",
       "guid": ""
     },
@@ -285,6 +257,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Shakhtar Donetsk x Crystal Palace - 30/04 20:00 - DAZN 2",
       "pubDate": "Thu, 30 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Strasbourg - 30/04 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Strasbourg - 30/04 20:00 - DAZN 3",
+      "pubDate": "Thu, 30 Apr 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Basket) x FC Porto (Basket) - 30/04 21:00 - FPBTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Basket) x FC Porto (Basket) - 30/04 21:00 - FPBTV",
+      "pubDate": "Thu, 30 Apr 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vasco x Olimpia - 30/04 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vasco x Olimpia - 30/04 23:00 - SportTV 1",
+      "pubDate": "Thu, 30 Apr 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Peñarol - 01/05 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Peñarol - 01/05 01:00 - SportTV 1",
+      "pubDate": "Fri, 01 May 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Red Bull Bragantino x River Plate - 01/05 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Red Bull Bragantino x River Plate - 01/05 01:30 - SportTV 2",
+      "pubDate": "Fri, 01 May 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x Leixões - 01/05 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x Leixões - 01/05 15:30 - SportTV 1",
+      "pubDate": "Fri, 01 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Minas Argozelo x FC Vinhais - 01/05 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Minas Argozelo x FC Vinhais - 01/05 16:00 - Canal11",
+      "pubDate": "Fri, 01 May 2026 16:00:00",
       "guid": ""
     }
   ]

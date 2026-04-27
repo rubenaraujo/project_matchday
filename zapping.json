@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Tampa Bay Lightning (Hóquei no Gelo  Seniores) - 27/04 00:00 - SportTV 2",
-      "pubDate": "Mon, 27 Apr 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Cagliari x Atalanta - 27/04 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cagliari x Atalanta - 27/04 17:30 - SportTV 2",
@@ -340,6 +333,13 @@
       "title": "SC Covilhã x Amora FC - 02/05 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Covilhã x Amora FC - 02/05 14:00 - Canal11",
+      "pubDate": "Sat, 02 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1º Dezembro x Caldas SC - 02/05 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1º Dezembro x Caldas SC - 02/05 14:00 - Canal11",
       "pubDate": "Sat, 02 May 2026 14:00:00",
       "guid": ""
     }

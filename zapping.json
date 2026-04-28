@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Denver Nuggets (Basket) x Minnesota Timberwolves (Basket) - 28/04 03:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Nuggets (Basket) x Minnesota Timberwolves (Basket) - 28/04 03:30 - SportTV 1",
-      "pubDate": "Tue, 28 Apr 2026 03:30:00",
-      "guid": ""
-    },
-    {
       "title": "Estoril Praia (S23) x Gil Vicente (S23) - 28/04 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estoril Praia (S23) x Gil Vicente (S23) - 28/04 15:00 - Canal11",
@@ -347,6 +340,13 @@
       "title": "Académico x FC Vizela - 02/05 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico x FC Vizela - 02/05 14:00 - SportTV +",
+      "pubDate": "Sat, 02 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Torino - 02/05 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Torino - 02/05 14:00 - SportTV 3",
       "pubDate": "Sat, 02 May 2026 14:00:00",
       "guid": ""
     }

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Southampton x Ipswich Town - 28/04 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Southampton x Ipswich Town - 28/04 19:45 - SportTV 6",
-      "pubDate": "Tue, 28 Apr 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Bayern München - 28/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Bayern München - 28/04 20:00 - SportTV 5",
-      "pubDate": "Tue, 28 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x S. João Ver - 28/04 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x S. João Ver - 28/04 20:00 - Canal11",
-      "pubDate": "Tue, 28 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "San Lorenzo x Santos - 28/04 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Lorenzo x Santos - 28/04 23:00 - SportTV 1",
@@ -319,6 +298,13 @@
       "title": "Belenenses x U. Santarém - 02/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x U. Santarém - 02/05 11:00 - Canal11",
+      "pubDate": "Sat, 02 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.A S19) x Santa Clara (Jun.A S19) - 02/05 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.A S19) x Santa Clara (Jun.A S19) - 02/05 11:00 - SportingTv",
       "pubDate": "Sat, 02 May 2026 11:00:00",
       "guid": ""
     }

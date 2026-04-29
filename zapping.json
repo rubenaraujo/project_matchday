@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "CH Carvalhos (Hóquei) x HC Turquel (Hóquei) - 29/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CH Carvalhos (Hóquei) x HC Turquel (Hóquei) - 29/04 21:00 - FPP TV",
-      "pubDate": "Wed, 29 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Póvoa (Hóquei) x Riba d´Ave (Hóquei) - 29/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Póvoa (Hóquei) x Riba d´Ave (Hóquei) - 29/04 21:00 - FPP TV",
-      "pubDate": "Wed, 29 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x Juventude Pacense (Hóquei) - 29/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x Juventude Pacense (Hóquei) - 29/04 21:00 - FPP TV",
-      "pubDate": "Wed, 29 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Valongo (Hóquei) x SC Tomar (Hóquei) - 29/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Valongo (Hóquei) x SC Tomar (Hóquei) - 29/04 21:00 - FPP TV",
-      "pubDate": "Wed, 29 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x Sporting (Hóquei) - 29/04 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x Sporting (Hóquei) - 29/04 21:00 - FPP TV",
-      "pubDate": "Wed, 29 Apr 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 29/04 21:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 29/04 21:30 - DAZN 1",
-      "pubDate": "Wed, 29 Apr 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x Toronto Raptors (Basket) - 30/04 00:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Toronto Raptors (Basket) - 30/04 00:30 - SportTV 3",
@@ -312,6 +270,13 @@
       "title": "Moreirense x Est. Amadora - 02/05 15:30 - V+",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense x Est. Amadora - 02/05 15:30 - V+",
+      "pubDate": "Sat, 02 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Santa Clara - 02/05 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Santa Clara - 02/05 15:30 - SportTV 1",
       "pubDate": "Sat, 02 May 2026 15:30:00",
       "guid": ""
     }

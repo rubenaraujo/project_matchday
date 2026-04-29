@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético de Madrid x Arsenal - 29/04 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Arsenal - 29/04 20:00 - SportTV 5",
-      "pubDate": "Wed, 29 Apr 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x CD Tondela - 29/04 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x CD Tondela - 29/04 20:15 - SportTV 1",
-      "pubDate": "Wed, 29 Apr 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "CH Carvalhos (Hóquei) x HC Turquel (Hóquei) - 29/04 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CH Carvalhos (Hóquei) x HC Turquel (Hóquei) - 29/04 21:00 - FPP TV",
@@ -320,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Atlético de Madrid - 02/05 15:15 - DAZN 2",
       "pubDate": "Sat, 02 May 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x Est. Amadora - 02/05 15:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x Est. Amadora - 02/05 15:30 - V+",
+      "pubDate": "Sat, 02 May 2026 15:30:00",
       "guid": ""
     }
   ]

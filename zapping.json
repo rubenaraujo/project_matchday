@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Los Angeles FC x Toluca - 30/04 03:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Los Angeles FC x Toluca - 30/04 03:30 - SportTV 1",
-      "pubDate": "Thu, 30 Apr 2026 03:30:00",
-      "guid": ""
-    },
-    {
       "title": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 30/04 17:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Veszprém (Andebol) x Fuchse Berlin (Andebol) - 30/04 17:45 - SportTV 3",
@@ -306,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Athletic Bilbao - 02/05 17:30 - DAZN 2",
       "pubDate": "Sat, 02 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x RB Leipzig - 02/05 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x RB Leipzig - 02/05 17:30 - DAZN 3",
+      "pubDate": "Sat, 02 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Metz x Monaco - 02/05 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Metz x Monaco - 02/05 18:00 - SportTV 4",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x CH Carvalhos (Hóquei) - 02/05 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x CH Carvalhos (Hóquei) - 02/05 18:00 - PortoCanal",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 02/05 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 02/05 18:00 - SportingTv",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
       "guid": ""
     }
   ]

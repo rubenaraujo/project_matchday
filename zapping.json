@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Feminino) x Sporting (Feminino) - 01/05 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x Sporting (Feminino) - 01/05 19:00 - Canal11",
-      "pubDate": "Fri, 01 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Quinta dos Lombos (Basket Feminino) x Benfica (Basket Feminino) - 02/05 18:45 - DAZN 5",
       "pubDate": "Sat, 02 May 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x UD Oliveirense (Basket) - 02/05 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x UD Oliveirense (Basket) - 02/05 19:00 - RTP2",
+      "pubDate": "Sat, 02 May 2026 19:00:00",
       "guid": ""
     }
   ]

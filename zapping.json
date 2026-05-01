@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Vasco x Olimpia - 30/04 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Olimpia - 30/04 23:00 - SportTV 1",
-      "pubDate": "Thu, 30 Apr 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 01/05 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 01/05 00:00 - SportTV 3",
@@ -319,6 +312,13 @@
       "title": "Riba d´Ave (Hóquei) x HC Braga (Hóquei) - 02/05 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Riba d´Ave (Hóquei) x HC Braga (Hóquei) - 02/05 18:00 - FPP TV",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude Pacense (Hóquei) x CD Póvoa (Hóquei) - 02/05 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude Pacense (Hóquei) x CD Póvoa (Hóquei) - 02/05 18:00 - FPP TV",
       "pubDate": "Sat, 02 May 2026 18:00:00",
       "guid": ""
     }

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo x Leixões - 01/05 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x Leixões - 01/05 15:30 - SportTV 1",
-      "pubDate": "Fri, 01 May 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Covilhã x Amora FC - 01/05 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Amora FC - 01/05 16:00 - C11 Stream",
-      "pubDate": "Fri, 01 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Minas Argozelo x FC Vinhais - 01/05 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minas Argozelo x FC Vinhais - 01/05 17:00 - Canal11",
@@ -330,10 +316,10 @@
       "guid": ""
     },
     {
-      "title": "Quinta dos Lombos (Basket Feminino) x Benfica (Basket Feminino) - 02/05 18:45 - DAZN 5",
+      "title": "Sousense x Nogueirense FC - 02/05 18:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Quinta dos Lombos (Basket Feminino) x Benfica (Basket Feminino) - 02/05 18:45 - DAZN 5",
-      "pubDate": "Sat, 02 May 2026 18:45:00",
+      "description": "Sousense x Nogueirense FC - 02/05 18:00 - Online",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
       "guid": ""
     }
   ]

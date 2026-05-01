@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (B) x Benfica - 01/05 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x Benfica - 01/05 20:30 - SportingTv",
-      "pubDate": "Fri, 01 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "UD Oliveirense x Lusitânia de Lourosa - 02/05 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x Lusitânia de Lourosa - 02/05 11:00 - SportTV 1",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 02/05 19:00 - Canal11",
       "pubDate": "Sat, 02 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Fortuna Düsseldorf - 02/05 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Fortuna Düsseldorf - 02/05 19:30 - DAZN 2",
+      "pubDate": "Sat, 02 May 2026 19:30:00",
       "guid": ""
     }
   ]

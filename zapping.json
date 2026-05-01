@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 01/05 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlanta Hawks (Basket) x New York Knicks (Basket) - 01/05 00:00 - SportTV 3",
-      "pubDate": "Fri, 01 May 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Peñarol - 01/05 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Peñarol - 01/05 01:00 - SportTV 1",
-      "pubDate": "Fri, 01 May 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Red Bull Bragantino x River Plate - 01/05 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Red Bull Bragantino x River Plate - 01/05 01:30 - SportTV 2",
-      "pubDate": "Fri, 01 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo x Leixões - 01/05 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo x Leixões - 01/05 15:30 - SportTV 1",
@@ -319,6 +298,20 @@
       "title": "Juventude Pacense (Hóquei) x CD Póvoa (Hóquei) - 02/05 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juventude Pacense (Hóquei) x CD Póvoa (Hóquei) - 02/05 18:00 - FPP TV",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Tomar (Hóquei) x AD Sanjoanense (Hóquei) - 02/05 18:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Tomar (Hóquei) x AD Sanjoanense (Hóquei) - 02/05 18:00 - FPP TV",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x UD Oliveirense (Hóquei) - 02/05 18:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x UD Oliveirense (Hóquei) - 02/05 18:00 - DAZN 4",
       "pubDate": "Sat, 02 May 2026 18:00:00",
       "guid": ""
     }

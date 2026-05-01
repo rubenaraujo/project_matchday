@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Minas Argozelo x FC Vinhais - 01/05 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minas Argozelo x FC Vinhais - 01/05 17:00 - Canal11",
-      "pubDate": "Fri, 01 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Gazisehir Gaziantep x Besiktas - 01/05 18:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gazisehir Gaziantep x Besiktas - 01/05 18:00 - SportTV 3",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sousense x Nogueirense FC - 02/05 18:00 - Online",
       "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estrelas Susanenses (Futsal) x CD Aves 1930/Duoventila (Futsal) - 02/05 18:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estrelas Susanenses (Futsal) x CD Aves 1930/Duoventila (Futsal) - 02/05 18:30 - Online",
+      "pubDate": "Sat, 02 May 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Miramar Império (Futsal) x Balantuna (Futsal) - 02/05 18:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Miramar Império (Futsal) x Balantuna (Futsal) - 02/05 18:30 - Online",
+      "pubDate": "Sat, 02 May 2026 18:30:00",
       "guid": ""
     }
   ]

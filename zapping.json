@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pisa x Lecce - 01/05 19:45 - SportTV 1",
-      "pubDate": "Fri, 01 May 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Leeds United x Burnley - 01/05 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leeds United x Burnley - 01/05 20:00 - DAZN 1",
-      "pubDate": "Fri, 01 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Mallorca - 01/05 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Mallorca - 01/05 20:00 - DAZN 2",
-      "pubDate": "Fri, 01 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (B) x Benfica - 01/05 20:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (B) x Benfica - 01/05 20:30 - SportingTv",
@@ -326,6 +305,13 @@
       "title": "Benfica (Basket) x UD Oliveirense (Basket) - 02/05 19:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x UD Oliveirense (Basket) - 02/05 19:00 - RTP2",
+      "pubDate": "Sat, 02 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 02/05 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 02/05 19:00 - Canal11",
       "pubDate": "Sat, 02 May 2026 19:00:00",
       "guid": ""
     }

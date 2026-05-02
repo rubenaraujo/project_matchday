@@ -183,13 +183,6 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x CH Carvalhos (Hóquei) - 02/05 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x CH Carvalhos (Hóquei) - 02/05 18:00 - FPP TV",
-      "pubDate": "Sat, 02 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 02/05 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 02/05 18:00 - FPP TV",
@@ -270,6 +263,13 @@
       "title": "Sousense x Nogueirense FC - 02/05 18:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sousense x Nogueirense FC - 02/05 18:00 - Online",
+      "pubDate": "Sat, 02 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x CH Carvalhos (Hóquei) - 02/05 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x CH Carvalhos (Hóquei) - 02/05 18:00 - PortoCanal",
       "pubDate": "Sat, 02 May 2026 18:00:00",
       "guid": ""
     },

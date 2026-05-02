@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Oliveirense x Lusitânia de Lourosa - 02/05 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense x Lusitânia de Lourosa - 02/05 11:00 - SportTV 1",
-      "pubDate": "Sat, 02 May 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x U. Santarém - 02/05 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x U. Santarém - 02/05 11:00 - Canal11",
-      "pubDate": "Sat, 02 May 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.A S19) x Santa Clara (Jun.A S19) - 02/05 11:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.A S19) x Santa Clara (Jun.A S19) - 02/05 11:00 - SportingTv",
-      "pubDate": "Sat, 02 May 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wrexham x Middlesbrough - 02/05 12:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Middlesbrough - 02/05 12:30 - SportTV 7",
@@ -341,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nice x Lens - 02/05 20:05 - SportTV 6",
       "pubDate": "Sat, 02 May 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Central Córdoba S.Estero x Boca Juniors - 02/05 20:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Central Córdoba S.Estero x Boca Juniors - 02/05 20:15 - SportTV 5",
+      "pubDate": "Sat, 02 May 2026 20:15:00",
       "guid": ""
     }
   ]

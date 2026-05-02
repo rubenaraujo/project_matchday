@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Wrexham x Middlesbrough - 02/05 12:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Middlesbrough - 02/05 12:30 - SportTV 7",
-      "pubDate": "Sat, 02 May 2026 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Villarreal x Levante - 02/05 13:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Levante - 02/05 13:00 - DAZN 2",
@@ -39,6 +32,13 @@
       "title": "1º Dezembro x Caldas SC - 02/05 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "1º Dezembro x Caldas SC - 02/05 14:00 - Canal11",
+      "pubDate": "Sat, 02 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OL Lyonnes (Feminino) x Arsenal (Feminino) - 02/05 14:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OL Lyonnes (Feminino) x Arsenal (Feminino) - 02/05 14:00 - RTP2",
       "pubDate": "Sat, 02 May 2026 14:00:00",
       "guid": ""
     },
@@ -320,13 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nice x Lens - 02/05 20:05 - SportTV 6",
       "pubDate": "Sat, 02 May 2026 20:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Central Córdoba S.Estero x Boca Juniors - 02/05 20:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Central Córdoba S.Estero x Boca Juniors - 02/05 20:15 - SportTV 5",
-      "pubDate": "Sat, 02 May 2026 20:15:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Moreirense x Est. Amadora - 02/05 15:30 - V+",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense x Est. Amadora - 02/05 15:30 - V+",
-      "pubDate": "Sat, 02 May 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Arouca x Santa Clara - 02/05 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x Santa Clara - 02/05 15:30 - SportTV 1",
-      "pubDate": "Sat, 02 May 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x AFS - 02/05 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x AFS - 02/05 15:30 - SportTV 2",
-      "pubDate": "Sat, 02 May 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x FC Lorient - 02/05 16:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x FC Lorient - 02/05 16:00 - SportTV 4",
-      "pubDate": "Sat, 02 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x Imortal (Basket) - 02/05 16:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x Imortal (Basket) - 02/05 16:00 - RTP2",
-      "pubDate": "Sat, 02 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Eléctrico (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 02/05 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x ADCR Caxinas Poça Barca (Futsal) - 02/05 16:00 - Canal11",
-      "pubDate": "Sat, 02 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x Atlético CP - 02/05 16:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Atlético CP - 02/05 16:00 - C11 Stream",
-      "pubDate": "Sat, 02 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Como 1907 x Napoli - 02/05 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Como 1907 x Napoli - 02/05 17:00 - SportTV 3",
@@ -271,6 +222,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Andebol) x FC Porto (Andebol) - 02/05 21:00 - SportingTv",
       "pubDate": "Sat, 02 May 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x GD Chaves - 03/05 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x GD Chaves - 03/05 11:00 - SportTV 1",
+      "pubDate": "Sun, 03 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (B) x CD Mafra - 03/05 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (B) x CD Mafra - 03/05 11:00 - Canal11",
+      "pubDate": "Sun, 03 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.B S17) x FC Alverca (Jun.B S17) - 03/05 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.B S17) x FC Alverca (Jun.B S17) - 03/05 11:00 - SportingTv",
+      "pubDate": "Sun, 03 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Cagliari - 03/05 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Cagliari - 03/05 11:30 - SportTV 2",
+      "pubDate": "Sun, 03 May 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hibernian x Celtic - 03/05 12:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hibernian x Celtic - 03/05 12:00 - SportTV +",
+      "pubDate": "Sun, 03 May 2026 12:00:00",
       "guid": ""
     }
   ]

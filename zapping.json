@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Villarreal x Levante - 02/05 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Levante - 02/05 13:00 - DAZN 2",
-      "pubDate": "Sat, 02 May 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académico x FC Vizela - 02/05 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico x FC Vizela - 02/05 14:00 - SportTV +",
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nice x Lens - 02/05 20:05 - SportTV 6",
       "pubDate": "Sat, 02 May 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Central Córdoba S.Estero x Boca Juniors - 02/05 20:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Central Córdoba S.Estero x Boca Juniors - 02/05 20:15 - SportTV 5",
+      "pubDate": "Sat, 02 May 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x FC Alverca - 02/05 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x FC Alverca - 02/05 20:30 - SportTV 1",
+      "pubDate": "Sat, 02 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 02/05 20:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Benfica (Futsal Feminino) - 02/05 20:45 - Canal11",
+      "pubDate": "Sat, 02 May 2026 20:45:00",
       "guid": ""
     }
   ]

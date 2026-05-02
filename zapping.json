@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Como 1907 x Napoli - 02/05 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Napoli - 02/05 17:00 - SportTV 3",
-      "pubDate": "Sat, 02 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Fulham - 02/05 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Fulham - 02/05 17:30 - DAZN 1",
-      "pubDate": "Sat, 02 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Alavés x Athletic Bilbao - 02/05 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Athletic Bilbao - 02/05 17:30 - DAZN 2",
@@ -81,13 +67,6 @@
       "title": "Riba d´Ave (Hóquei) x HC Braga (Hóquei) - 02/05 18:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Riba d´Ave (Hóquei) x HC Braga (Hóquei) - 02/05 18:00 - FPP TV",
-      "pubDate": "Sat, 02 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventude Pacense (Hóquei) x CD Póvoa (Hóquei) - 02/05 18:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude Pacense (Hóquei) x CD Póvoa (Hóquei) - 02/05 18:00 - FPP TV",
       "pubDate": "Sat, 02 May 2026 18:00:00",
       "guid": ""
     },
@@ -257,6 +236,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hibernian x Celtic - 03/05 12:00 - SportTV +",
       "pubDate": "Sun, 03 May 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SV 07 Elversberg x SC Paderborn 07 - 03/05 12:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SV 07 Elversberg x SC Paderborn 07 - 03/05 12:30 - DAZN 2",
+      "pubDate": "Sun, 03 May 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Elche - 03/05 13:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Elche - 03/05 13:00 - DAZN 1",
+      "pubDate": "Sun, 03 May 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x Milan - 03/05 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x Milan - 03/05 14:00 - SportTV 2",
+      "pubDate": "Sun, 03 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Feirense - 03/05 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Feirense - 03/05 14:00 - SportTV +",
+      "pubDate": "Sun, 03 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 03/05 14:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 03/05 14:30 - Canal11",
+      "pubDate": "Sun, 03 May 2026 14:30:00",
       "guid": ""
     }
   ]

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC St. Pauli x Mainz - 03/05 14:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x Mainz - 03/05 14:30 - DAZN 3",
-      "pubDate": "Sun, 03 May 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Damaiense (Feminino) x Marítimo (Feminino) - 03/05 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Damaiense (Feminino) x Marítimo (Feminino) - 03/05 15:00 - C11 Stream",
-      "pubDate": "Sun, 03 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe x Rayo Vallecano - 03/05 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe x Rayo Vallecano - 03/05 15:15 - DAZN 2",
-      "pubDate": "Sun, 03 May 2026 15:15:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x CD Tondela - 03/05 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x CD Tondela - 03/05 15:30 - SportTV 1",
@@ -298,6 +277,20 @@
       "title": "Sporting Cristal x Palmeiras - 05/05 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting Cristal x Palmeiras - 05/05 23:00 - SportTV 1",
+      "pubDate": "Tue, 05 May 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Libertad - 05/05 23:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Libertad - 05/05 23:00 - SportTV 3",
+      "pubDate": "Tue, 05 May 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo Riestra x Grêmio - 05/05 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo Riestra x Grêmio - 05/05 23:00 - SportTV 2",
       "pubDate": "Tue, 05 May 2026 23:00:00",
       "guid": ""
     }

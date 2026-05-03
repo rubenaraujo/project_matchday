@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Betis x Real Oviedo - 03/05 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Real Oviedo - 03/05 17:30 - DAZN 1",
-      "pubDate": "Sun, 03 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "VakifBank SK (Voleibol Feminino) x Eczacibasi SK (Voleibol Feminino) - 03/05 18:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "VakifBank SK (Voleibol Feminino) x Eczacibasi SK (Voleibol Feminino) - 03/05 18:00 - SportTV 7",
-      "pubDate": "Sun, 03 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Qadisiyah x Al-Nassr - 03/05 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Qadisiyah x Al-Nassr - 03/05 19:00 - SportTV 6",
-      "pubDate": "Sun, 03 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Varzim - 03/05 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Varzim - 03/05 19:00 - Canal11",
-      "pubDate": "Sun, 03 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Tottenham - 03/05 19:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Tottenham - 03/05 19:00 - DAZN 2",
-      "pubDate": "Sun, 03 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lyon x Rennes - 03/05 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lyon x Rennes - 03/05 19:45 - SportTV 3",
@@ -264,6 +229,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Audax Italiano x Vasco - 06/05 23:00 - SportTV 1",
       "pubDate": "Wed, 06 May 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Botafogo x Racing Club - 07/05 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Botafogo x Racing Club - 07/05 01:30 - SportTV 1",
+      "pubDate": "Thu, 07 May 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Fe x Corinthians - 07/05 01:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Fe x Corinthians - 07/05 01:30 - SportTV 3",
+      "pubDate": "Thu, 07 May 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Toluca x Los Angeles FC - 07/05 02:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toluca x Los Angeles FC - 07/05 02:30 - SportTV 4",
+      "pubDate": "Thu, 07 May 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Univ. Católica x Cruzeiro - 07/05 03:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Univ. Católica x Cruzeiro - 07/05 03:00 - SportTV 7",
+      "pubDate": "Thu, 07 May 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha (Feminino S17) x Inglaterra (Feminino S17) - 07/05 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Feminino S17) x Inglaterra (Feminino S17) - 07/05 15:00 - Canal11",
+      "pubDate": "Thu, 07 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rytas Vilnius (Basket) x CB Canarias (Basket) - 07/05 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rytas Vilnius (Basket) x CB Canarias (Basket) - 07/05 17:00 - SportTV 6",
+      "pubDate": "Thu, 07 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Shabab x Al-Nassr - 07/05 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Shabab x Al-Nassr - 07/05 19:00 - SportTV 1",
+      "pubDate": "Thu, 07 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona (Hóquei) x Sporting (Hóquei) - 07/05 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona (Hóquei) x Sporting (Hóquei) - 07/05 19:00 - DAZN 4",
+      "pubDate": "Thu, 07 May 2026 19:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Atlético Tucumán - 03/05 22:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Atlético Tucumán - 03/05 22:30 - SportTV 2",
-      "pubDate": "Sun, 03 May 2026 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Chelsea x Nottingham Forest - 04/05 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x Nottingham Forest - 04/05 15:00 - DAZN 1",
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Sassuolo - 08/05 19:45 - SportTV 1",
       "pubDate": "Fri, 08 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Nantes - 08/05 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Nantes - 08/05 19:45 - SportTV 3",
+      "pubDate": "Fri, 08 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Udinese - 09/05 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Udinese - 09/05 14:00 - SportTV 2",
+      "pubDate": "Sat, 09 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x Vitória SC - 09/05 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x Vitória SC - 09/05 15:00 - Canal11",
+      "pubDate": "Sat, 09 May 2026 15:00:00",
       "guid": ""
     }
   ]

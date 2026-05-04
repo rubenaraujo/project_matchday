@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Cremonese x Lazio - 04/05 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cremonese x Lazio - 04/05 17:30 - SportTV 2",
-      "pubDate": "Mon, 04 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Hearts x Rangers - 04/05 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hearts x Rangers - 04/05 17:30 - SportTV 3",
-      "pubDate": "Mon, 04 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (B) x FC Felgueiras - 04/05 18:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x FC Felgueiras - 04/05 18:00 - PortoCanal",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Derrotado Rytas Vilnius/CB Canarias x Derrotado Unicaja/AEK - 09/05 16:00 - SportTV 7",
       "pubDate": "Sat, 09 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
+      "pubDate": "Sat, 09 May 2026 17:00:00",
       "guid": ""
     }
   ]

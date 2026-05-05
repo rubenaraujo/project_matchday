@@ -71,9 +71,9 @@
       "guid": ""
     },
     {
-      "title": "Rio Ave (S23) x Santa Clara (S23) - 06/05 12:00 - Canal11",
+      "title": "Rio Ave (S23) x Santa Clara (S23) - 06/05 12:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x Santa Clara (S23) - 06/05 12:00 - Canal11",
+      "description": "Rio Ave (S23) x Santa Clara (S23) - 06/05 12:00 - C11 Stream",
       "pubDate": "Wed, 06 May 2026 12:00:00",
       "guid": ""
     },
@@ -260,6 +260,34 @@
       "guid": ""
     },
     {
+      "title": "Jimbee Cartagena (Futsal) x Sporting (Futsal) - 08/05 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Jimbee Cartagena (Futsal) x Sporting (Futsal) - 08/05 16:30 - DAZN 1",
+      "pubDate": "Fri, 08 May 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x Gijón HC (Hóquei Feminino) - 08/05 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x Gijón HC (Hóquei Feminino) - 08/05 19:00 - DAZN 4",
+      "pubDate": "Fri, 08 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Eintracht Frankfurt - 08/05 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Eintracht Frankfurt - 08/05 19:30 - DAZN 2",
+      "pubDate": "Fri, 08 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Illes Balears Palma (Futsal) x Etoile Lavalloise (Futsal) - 08/05 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Illes Balears Palma (Futsal) x Etoile Lavalloise (Futsal) - 08/05 19:30 - DAZN 3",
+      "pubDate": "Fri, 08 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
       "title": "Torino x Sassuolo - 08/05 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Sassuolo - 08/05 19:45 - SportTV 1",
@@ -274,73 +302,45 @@
       "guid": ""
     },
     {
-      "title": "Cagliari x Udinese - 09/05 14:00 - SportTV 2",
+      "title": "Levante x Osasuna - 08/05 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Udinese - 09/05 14:00 - SportTV 2",
-      "pubDate": "Sat, 09 May 2026 14:00:00",
+      "description": "Levante x Osasuna - 08/05 20:00 - DAZN 1",
+      "pubDate": "Fri, 08 May 2026 20:00:00",
       "guid": ""
     },
     {
-      "title": "Trofense x Vitória SC - 09/05 15:00 - Canal11",
+      "title": "Benfica (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 08/05 20:00 - DAZN 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Vitória SC - 09/05 15:00 - Canal11",
-      "pubDate": "Sat, 09 May 2026 15:00:00",
+      "description": "Benfica (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 08/05 20:00 - DAZN 5",
+      "pubDate": "Fri, 08 May 2026 20:00:00",
       "guid": ""
     },
     {
-      "title": "AD Polenenses   (Futsal) x Balantuna  (Futsal) - 09/05 15:00 - Youtube",
+      "title": "CP Vila-Sana (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 08/05 21:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Polenenses   (Futsal) x Balantuna  (Futsal) - 09/05 15:00 - Youtube",
-      "pubDate": "Sat, 09 May 2026 15:00:00",
+      "description": "CP Vila-Sana (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 08/05 21:30 - DAZN 4",
+      "pubDate": "Fri, 08 May 2026 21:30:00",
       "guid": ""
     },
     {
-      "title": "Derrotado Rytas Vilnius/CB Canarias x Derrotado Unicaja/AEK - 09/05 16:00 - SportTV 7",
+      "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 09/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado Rytas Vilnius/CB Canarias x Derrotado Unicaja/AEK - 09/05 16:00 - SportTV 7",
-      "pubDate": "Sat, 09 May 2026 16:00:00",
+      "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 09/05 11:00 - Canal11",
+      "pubDate": "Sat, 09 May 2026 11:00:00",
       "guid": ""
     },
     {
-      "title": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
+      "title": "VfL Bochum x Hannover 96 - 09/05 12:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
-      "pubDate": "Sat, 09 May 2026 17:00:00",
+      "description": "VfL Bochum x Hannover 96 - 09/05 12:00 - DAZN 3",
+      "pubDate": "Sat, 09 May 2026 12:00:00",
       "guid": ""
     },
     {
-      "title": "Miramar Império (Futsal) x GCR Vermoim   (Futsal) - 09/05 17:30 - Youtube",
+      "title": "FC Porto/HC Liceo x OC Barcelos/Hockey Trissino - 09/05 12:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Miramar Império (Futsal) x GCR Vermoim   (Futsal) - 09/05 17:30 - Youtube",
-      "pubDate": "Sat, 09 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rytas Vilnius/CB Canarias x Unicaja/AEK - 09/05 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rytas Vilnius/CB Canarias x Unicaja/AEK - 09/05 19:00 - SportTV 7",
-      "pubDate": "Sat, 09 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lecce x Juventus - 09/05 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Juventus - 09/05 19:45 - SportTV 2",
-      "pubDate": "Sat, 09 May 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Motherwell x Hearts - 09/05 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Motherwell x Hearts - 09/05 20:00 - SportTV 3",
-      "pubDate": "Sat, 09 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Mafra x Académica OAF - 09/05 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Académica OAF - 09/05 20:00 - Canal11",
-      "pubDate": "Sat, 09 May 2026 20:00:00",
+      "description": "FC Porto/HC Liceo x OC Barcelos/Hockey Trissino - 09/05 12:00 - DAZN 4",
+      "pubDate": "Sat, 09 May 2026 12:00:00",
       "guid": ""
     }
   ]

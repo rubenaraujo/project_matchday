@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "Portugal (Praia) x Ucrânia (Praia) - 05/05 17:00 - Canal11",
+      "title": "Besiktas x Konyaspor - 05/05 18:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia) x Ucrânia (Praia) - 05/05 17:00 - Canal11",
-      "pubDate": "Tue, 05 May 2026 17:00:00",
+      "description": "Besiktas x Konyaspor - 05/05 18:30 - SportTV 6",
+      "pubDate": "Tue, 05 May 2026 18:30:00",
       "guid": ""
     },
     {
@@ -274,6 +274,13 @@
       "guid": ""
     },
     {
+      "title": "Al-Hilal x Al-Kholood - 08/05 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Kholood - 08/05 19:00 - SportTV 6",
+      "pubDate": "Fri, 08 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "Borussia Dortmund x Eintracht Frankfurt - 08/05 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Borussia Dortmund x Eintracht Frankfurt - 08/05 19:30 - DAZN 2",
@@ -327,20 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 09/05 11:00 - Canal11",
       "pubDate": "Sat, 09 May 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "VfL Bochum x Hannover 96 - 09/05 12:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "VfL Bochum x Hannover 96 - 09/05 12:00 - DAZN 3",
-      "pubDate": "Sat, 09 May 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto/HC Liceo x OC Barcelos/Hockey Trissino - 09/05 12:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto/HC Liceo x OC Barcelos/Hockey Trissino - 09/05 12:00 - DAZN 4",
-      "pubDate": "Sat, 09 May 2026 12:00:00",
       "guid": ""
     }
   ]

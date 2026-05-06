@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Gil Vicente (S23) x Sporting (S23) - 06/05 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente (S23) x Sporting (S23) - 06/05 17:00 - Canal11",
-      "pubDate": "Wed, 06 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Hóquei) x HC Liceo (Hóquei) - 06/05 19:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x HC Liceo (Hóquei) - 06/05 19:00 - RTP2",
@@ -333,6 +326,13 @@
       "title": "AD Polenenses   (Futsal) x Balantuna  (Futsal) - 09/05 15:00 - Youtube",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Polenenses   (Futsal) x Balantuna  (Futsal) - 09/05 15:00 - Youtube",
+      "pubDate": "Sat, 09 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Manchester United - 09/05 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Manchester United - 09/05 15:00 - DAZN 1",
       "pubDate": "Sat, 09 May 2026 15:00:00",
       "guid": ""
     }

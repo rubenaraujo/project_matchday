@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Hóquei) x Reus Deportiu (Hóquei) - 06/05 22:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Reus Deportiu (Hóquei) - 06/05 22:00 - RTP Play",
-      "pubDate": "Wed, 06 May 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Audax Italiano x Vasco - 06/05 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Audax Italiano x Vasco - 06/05 23:00 - SportTV 1",
@@ -306,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Andebol) x FC Porto (Andebol) - 09/05 15:00 - PortoCanal",
       "pubDate": "Sat, 09 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x Espanyol - 09/05 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x Espanyol - 09/05 15:15 - DAZN 2",
+      "pubDate": "Sat, 09 May 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x FC Porto - 09/05 15:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x FC Porto - 09/05 15:30 - SportingTv",
+      "pubDate": "Sat, 09 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Leixões - 09/05 15:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Leixões - 09/05 15:30 - SportTV +",
+      "pubDate": "Sat, 09 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x UD Oliveirense - 09/05 15:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x UD Oliveirense - 09/05 15:30 - SportTV 7",
+      "pubDate": "Sat, 09 May 2026 15:30:00",
       "guid": ""
     }
   ]

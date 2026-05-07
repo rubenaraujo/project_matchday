@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 07/05 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 07/05 00:00 - SportTV 2",
-      "pubDate": "Thu, 07 May 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Botafogo x Racing Club - 07/05 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Botafogo x Racing Club - 07/05 01:30 - SportTV 1",
-      "pubDate": "Thu, 07 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Fe x Corinthians - 07/05 01:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Fe x Corinthians - 07/05 01:30 - SportTV 3",
-      "pubDate": "Thu, 07 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Toluca x Los Angeles FC - 07/05 02:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toluca x Los Angeles FC - 07/05 02:30 - SportTV 4",
@@ -326,6 +305,20 @@
       "title": "FC Felgueiras x Portimonense - 09/05 15:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Felgueiras x Portimonense - 09/05 15:30 - SportTV 3",
+      "pubDate": "Sat, 09 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x Marítimo - 09/05 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x Marítimo - 09/05 15:30 - SportTV 1",
+      "pubDate": "Sat, 09 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense x Paços de Ferreira - 09/05 15:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense x Paços de Ferreira - 09/05 15:30 - SportTV 6",
       "pubDate": "Sat, 09 May 2026 15:30:00",
       "guid": ""
     }

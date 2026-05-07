@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Shabab x Al-Nassr - 07/05 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Shabab x Al-Nassr - 07/05 19:00 - SportTV 1",
-      "pubDate": "Thu, 07 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona (Hóquei) x Sporting (Hóquei) - 07/05 19:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona (Hóquei) x Sporting (Hóquei) - 07/05 19:00 - RTP2",
-      "pubDate": "Thu, 07 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Freiburg x SC Braga - 07/05 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x SC Braga - 07/05 20:00 - SportTV 5",
@@ -46,13 +32,6 @@
       "title": "Strasbourg x Rayo Vallecano - 07/05 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Strasbourg x Rayo Vallecano - 07/05 20:00 - DAZN 3",
-      "pubDate": "Thu, 07 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 07/05 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 07/05 20:00 - PortoCanal",
       "pubDate": "Thu, 07 May 2026 20:00:00",
       "guid": ""
     },
@@ -288,9 +267,9 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Hóquei) x Barcelona/Sporting - 09/05 16:00 - RTP2",
+      "title": "Benfica (Hóquei) x Barcelona (Hóquei) - 09/05 16:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Barcelona/Sporting - 09/05 16:00 - RTP2",
+      "description": "Benfica (Hóquei) x Barcelona (Hóquei) - 09/05 16:00 - RTP2",
       "pubDate": "Sat, 09 May 2026 16:00:00",
       "guid": ""
     },

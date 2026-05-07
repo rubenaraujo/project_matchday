@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Toluca x Los Angeles FC - 07/05 02:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Toluca x Los Angeles FC - 07/05 02:30 - SportTV 4",
-      "pubDate": "Thu, 07 May 2026 02:30:00",
-      "guid": ""
-    },
-    {
-      "title": "San Antonio Spurs (Basket) x Minnesota Timberwolves (Basket) - 07/05 02:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Antonio Spurs (Basket) x Minnesota Timberwolves (Basket) - 07/05 02:30 - SportTV 2",
-      "pubDate": "Thu, 07 May 2026 02:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Univ. Católica x Cruzeiro - 07/05 03:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Univ. Católica x Cruzeiro - 07/05 03:00 - SportTV 7",
-      "pubDate": "Thu, 07 May 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Alemanha (Feminino S17) x Inglaterra (Feminino S17) - 07/05 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha (Feminino S17) x Inglaterra (Feminino S17) - 07/05 15:00 - Canal11",
@@ -320,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x Paços de Ferreira - 09/05 15:30 - SportTV 6",
       "pubDate": "Sat, 09 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x Barcelona/Sporting - 09/05 16:00 - DAZN 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x Barcelona/Sporting - 09/05 16:00 - DAZN 5",
+      "pubDate": "Sat, 09 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
+      "pubDate": "Sat, 09 May 2026 17:00:00",
       "guid": ""
     }
   ]

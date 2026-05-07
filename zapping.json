@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Audax Italiano x Vasco - 06/05 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Audax Italiano x Vasco - 06/05 23:00 - SportTV 1",
-      "pubDate": "Wed, 06 May 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 07/05 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Buffalo Sabres (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 07/05 00:00 - SportTV 2",
@@ -326,6 +319,13 @@
       "title": "Feirense x UD Oliveirense - 09/05 15:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x UD Oliveirense - 09/05 15:30 - SportTV 7",
+      "pubDate": "Sat, 09 May 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras x Portimonense - 09/05 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras x Portimonense - 09/05 15:30 - SportTV 3",
       "pubDate": "Sat, 09 May 2026 15:30:00",
       "guid": ""
     }

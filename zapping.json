@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "OC Barcelos (Hóquei) x Hockey Trissino (Hóquei) - 07/05 22:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x Hockey Trissino (Hóquei) - 07/05 22:00 - RTP Play",
-      "pubDate": "Thu, 07 May 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "O´Higgins x São Paulo - 07/05 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "O´Higgins x São Paulo - 07/05 23:00 - SportTV 1",
@@ -113,9 +106,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x OC Barcelos/Hockey Trissino - 09/05 12:00 - RTP2",
+      "title": "FC Porto (Hóquei) x OC Barcelos (Hóquei) - 09/05 12:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x OC Barcelos/Hockey Trissino - 09/05 12:00 - RTP2",
+      "description": "FC Porto (Hóquei) x OC Barcelos (Hóquei) - 09/05 12:00 - RTP2",
       "pubDate": "Sat, 09 May 2026 12:00:00",
       "guid": ""
     },
@@ -285,6 +278,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Brentford - 09/05 17:30 - DAZN 1",
       "pubDate": "Sat, 09 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Celta de Vigo - 09/05 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Celta de Vigo - 09/05 17:30 - DAZN 2",
+      "pubDate": "Sat, 09 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolfsburg x Bayern München - 09/05 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolfsburg x Bayern München - 09/05 17:30 - DAZN 3",
+      "pubDate": "Sat, 09 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Antalyaspor - 09/05 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Antalyaspor - 09/05 18:00 - SportTV 1",
+      "pubDate": "Sat, 09 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Gaia (Andebol) x Arsenal da Devesa (Andebol) - 09/05 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Gaia (Andebol) x Arsenal da Devesa (Andebol) - 09/05 18:00 - AndebolTV",
+      "pubDate": "Sat, 09 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x Vitória SC (Andebol) - 09/05 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x Vitória SC (Andebol) - 09/05 18:00 - AndebolTV",
+      "pubDate": "Sat, 09 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Águas Santas (Andebol) x Sporting (Andebol) - 09/05 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águas Santas (Andebol) x Sporting (Andebol) - 09/05 18:30 - SportingTv",
+      "pubDate": "Sat, 09 May 2026 18:30:00",
       "guid": ""
     }
   ]

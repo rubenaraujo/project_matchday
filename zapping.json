@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Alemanha (Feminino S17) x Inglaterra (Feminino S17) - 07/05 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha (Feminino S17) x Inglaterra (Feminino S17) - 07/05 15:00 - Canal11",
-      "pubDate": "Thu, 07 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rytas Vilnius (Basket) x CB Canarias (Basket) - 07/05 17:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rytas Vilnius (Basket) x CB Canarias (Basket) - 07/05 17:00 - SportTV 6",
-      "pubDate": "Thu, 07 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Shabab x Al-Nassr - 07/05 19:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Shabab x Al-Nassr - 07/05 19:00 - SportTV 1",
@@ -334,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x FC Famalicão (Jun.A S19) - 09/05 17:00 - PortoCanal",
       "pubDate": "Sat, 09 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Miramar Império (Futsal) x GCR Vermoim   (Futsal) - 09/05 17:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Miramar Império (Futsal) x GCR Vermoim   (Futsal) - 09/05 17:30 - Online",
+      "pubDate": "Sat, 09 May 2026 17:30:00",
       "guid": ""
     }
   ]

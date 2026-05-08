@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 08/05 01:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 08/05 01:00 - SportTV 3",
-      "pubDate": "Fri, 08 May 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Carabobo x River Plate - 08/05 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Carabobo x River Plate - 08/05 01:30 - SportTV 2",
-      "pubDate": "Fri, 08 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente Medellín x Flamengo - 08/05 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente Medellín x Flamengo - 08/05 01:30 - SportTV 1",
-      "pubDate": "Fri, 08 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Jimbee Cartagena (Futsal) x Sporting (Futsal) - 08/05 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Jimbee Cartagena (Futsal) x Sporting (Futsal) - 08/05 16:30 - DAZN 1",
@@ -320,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rytas Vilnius (Basket) x AEK (Basket) - 09/05 19:00 - SportTV 7",
       "pubDate": "Sat, 09 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Nürnberg x Schalke 04 - 09/05 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Nürnberg x Schalke 04 - 09/05 19:30 - DAZN 2",
+      "pubDate": "Sat, 09 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Juventus - 09/05 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Juventus - 09/05 19:45 - SportTV 2",
+      "pubDate": "Sat, 09 May 2026 19:45:00",
       "guid": ""
     }
   ]

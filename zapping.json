@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "CP Vila-Sana (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 08/05 21:30 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Vila-Sana (Hóquei Feminino) x CP Fraga (Hóquei Feminino) - 08/05 21:30 - RTP Play",
-      "pubDate": "Fri, 08 May 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 09/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 09/05 11:00 - Canal11",
@@ -299,6 +292,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (B) x Académico - 09/05 20:30 - BTv",
       "pubDate": "Sat, 09 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitânia de Lourosa x Torreense - 09/05 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitânia de Lourosa x Torreense - 09/05 20:30 - SportTV 1",
+      "pubDate": "Sat, 09 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x UD Leiria - 09/05 20:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x UD Leiria - 09/05 20:30 - SportTV 4",
+      "pubDate": "Sat, 09 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.C S15) x FC Alverca (Jun.C S15) - 09/05 20:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.C S15) x FC Alverca (Jun.C S15) - 09/05 20:30 - SportingTv",
+      "pubDate": "Sat, 09 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x Clube de Albergaria (Feminino) - 10/05 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x Clube de Albergaria (Feminino) - 10/05 11:00 - PortoCanal",
+      "pubDate": "Sun, 10 May 2026 11:00:00",
       "guid": ""
     }
   ]

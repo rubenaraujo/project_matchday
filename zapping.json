@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "O´Higgins x São Paulo - 07/05 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "O´Higgins x São Paulo - 07/05 23:00 - SportTV 1",
-      "pubDate": "Thu, 07 May 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 08/05 01:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia Flyers (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 08/05 01:00 - SportTV 3",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águas Santas (Andebol) x Sporting (Andebol) - 09/05 18:30 - SportingTv",
       "pubDate": "Sat, 09 May 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rytas Vilnius (Basket) x AEK (Basket) - 09/05 19:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rytas Vilnius (Basket) x AEK (Basket) - 09/05 19:00 - SportTV 7",
+      "pubDate": "Sat, 09 May 2026 19:00:00",
       "guid": ""
     }
   ]

@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 09/05 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 09/05 17:30 - Canal11",
-      "pubDate": "Sat, 09 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Rytas Vilnius (Basket) x AEK (Basket) - 09/05 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rytas Vilnius (Basket) x AEK (Basket) - 09/05 19:00 - SportTV 7",
       "pubDate": "Sat, 09 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Nürnberg x Schalke 04 - 09/05 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Nürnberg x Schalke 04 - 09/05 19:30 - DAZN 2",
-      "pubDate": "Sat, 09 May 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lecce x Juventus - 09/05 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lecce x Juventus - 09/05 19:45 - SportTV 2",
-      "pubDate": "Sat, 09 May 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Motherwell x Hearts - 09/05 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Motherwell x Hearts - 09/05 20:00 - SportTV 3",
-      "pubDate": "Sat, 09 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Mafra x Académica OAF - 09/05 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Académica OAF - 09/05 20:00 - Canal11",
-      "pubDate": "Sat, 09 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Real Betis - 09/05 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Real Betis - 09/05 20:00 - DAZN 1",
-      "pubDate": "Sat, 09 May 2026 20:00:00",
       "guid": ""
     },
     {
@@ -74,13 +32,6 @@
       "title": "FC Vizela x UD Leiria - 09/05 20:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela x UD Leiria - 09/05 20:30 - SportTV 4",
-      "pubDate": "Sat, 09 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.C S15) x FC Alverca (Jun.C S15) - 09/05 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.C S15) x FC Alverca (Jun.C S15) - 09/05 20:30 - SportingTv",
       "pubDate": "Sat, 09 May 2026 20:30:00",
       "guid": ""
     },
@@ -278,6 +229,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Atalanta - 10/05 19:45 - SportTV 4",
       "pubDate": "Sun, 10 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Brest - 10/05 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Brest - 10/05 20:00 - SportTV 3",
+      "pubDate": "Sun, 10 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toulouse x Lyon - 10/05 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toulouse x Lyon - 10/05 20:00 - SportTV 7",
+      "pubDate": "Sun, 10 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Real Madrid - 10/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Real Madrid - 10/05 20:00 - DAZN 1",
+      "pubDate": "Sun, 10 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Estoril Praia - 10/05 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Estoril Praia - 10/05 20:30 - SportTV 2",
+      "pubDate": "Sun, 10 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x New York Knicks (Basket) - 10/05 20:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x New York Knicks (Basket) - 10/05 20:30 - SportTV 5",
+      "pubDate": "Sun, 10 May 2026 20:30:00",
       "guid": ""
     }
   ]

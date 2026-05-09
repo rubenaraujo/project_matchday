@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Internazionale - 09/05 17:00 - SportTV 2",
-      "pubDate": "Sat, 09 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket) x SC Braga (Basket) - 09/05 17:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket) x SC Braga (Basket) - 09/05 17:00 - DAZN 4",
-      "pubDate": "Sat, 09 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x FC Famalicão (Jun.A S19) - 09/05 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x FC Famalicão (Jun.A S19) - 09/05 17:00 - PortoCanal",
-      "pubDate": "Sat, 09 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Miramar Império (Futsal) x GCR Vermoim   (Futsal) - 09/05 17:30 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Miramar Império (Futsal) x GCR Vermoim   (Futsal) - 09/05 17:30 - Online",
-      "pubDate": "Sat, 09 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Brentford - 09/05 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Brentford - 09/05 17:30 - DAZN 1",
-      "pubDate": "Sat, 09 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Celta de Vigo - 09/05 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Celta de Vigo - 09/05 17:30 - DAZN 2",
-      "pubDate": "Sat, 09 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolfsburg x Bayern München - 09/05 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x Bayern München - 09/05 17:30 - DAZN 3",
-      "pubDate": "Sat, 09 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 09/05 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 09/05 17:30 - Canal11",
@@ -229,6 +180,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Jimbee Cartagena (Futsal) x Etoile Lavalloise (Futsal) - 10/05 14:00 - Canal11",
       "pubDate": "Sun, 10 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG (Feminino) x OL Lyonnes (Feminino) - 10/05 14:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG (Feminino) x OL Lyonnes (Feminino) - 10/05 14:30 - SportTV 3",
+      "pubDate": "Sun, 10 May 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Amarante FC x U. Santarém - 10/05 14:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amarante FC x U. Santarém - 10/05 14:45 - Canal11",
+      "pubDate": "Sun, 10 May 2026 14:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Basket) x Imortal (Basket) - 10/05 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x Imortal (Basket) - 10/05 15:00 - PortoCanal",
+      "pubDate": "Sun, 10 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x CP Esgueira (Basket) - 10/05 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x CP Esgueira (Basket) - 10/05 15:00 - SportingTv",
+      "pubDate": "Sun, 10 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Valencia - 10/05 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Valencia - 10/05 15:15 - DAZN 2",
+      "pubDate": "Sun, 10 May 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Feyenoord x AZ Alkmaar - 10/05 15:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feyenoord x AZ Alkmaar - 10/05 15:45 - DAZN 4",
+      "pubDate": "Sun, 10 May 2026 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "SF1 x SF2 - 10/05 16:00 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SF1 x SF2 - 10/05 16:00 - Youtube",
+      "pubDate": "Sun, 10 May 2026 16:00:00",
       "guid": ""
     }
   ]

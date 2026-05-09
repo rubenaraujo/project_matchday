@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Cagliari x Udinese - 09/05 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Udinese - 09/05 14:00 - SportTV 2",
-      "pubDate": "Sat, 09 May 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x Bayer Leverkusen - 09/05 14:30 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Bayer Leverkusen - 09/05 14:30 - DAZN 4",
@@ -18,13 +11,6 @@
       "title": "Trofense x Vitória SC - 09/05 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x Vitória SC - 09/05 15:00 - Canal11",
-      "pubDate": "Sat, 09 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Polenenses   (Futsal) x Balantuna  (Futsal) - 09/05 15:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Polenenses   (Futsal) x Balantuna  (Futsal) - 09/05 15:00 - Online",
       "pubDate": "Sat, 09 May 2026 15:00:00",
       "guid": ""
     },
@@ -299,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Como 1907 - 10/05 11:30 - SportTV 1",
       "pubDate": "Sun, 10 May 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x Rangers - 10/05 12:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x Rangers - 10/05 12:00 - SportTV 2",
+      "pubDate": "Sun, 10 May 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x CP Fraga (Hóquei Feminino) - 10/05 12:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x CP Fraga (Hóquei Feminino) - 10/05 12:00 - RTP2",
+      "pubDate": "Sun, 10 May 2026 12:00:00",
       "guid": ""
     }
   ]

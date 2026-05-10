@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Huracán - 09/05 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Huracán - 09/05 23:00 - SportTV 1",
-      "pubDate": "Sat, 09 May 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Feminino) x Clube de Albergaria (Feminino) - 10/05 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Feminino) x Clube de Albergaria (Feminino) - 10/05 11:00 - PortoCanal",
@@ -278,6 +271,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Bologna - 11/05 19:45 - SportTV 5",
       "pubDate": "Mon, 11 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Leeds United - 11/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Leeds United - 11/05 20:00 - DAZN 1",
+      "pubDate": "Mon, 11 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Girona - 11/05 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Girona - 11/05 20:00 - DAZN 2",
+      "pubDate": "Mon, 11 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x SC Braga - 11/05 20:15 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x SC Braga - 11/05 20:15 - BTv",
+      "pubDate": "Mon, 11 May 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x Sporting - 11/05 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x Sporting - 11/05 20:15 - SportTV 1",
+      "pubDate": "Mon, 11 May 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora x FC Famalicão - 11/05 20:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora x FC Famalicão - 11/05 20:15 - SportTV 2",
+      "pubDate": "Mon, 11 May 2026 20:15:00",
       "guid": ""
     }
   ]

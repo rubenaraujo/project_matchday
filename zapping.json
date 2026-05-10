@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Real Oviedo x Getafe - 10/05 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Oviedo x Getafe - 10/05 17:30 - DAZN 2",
-      "pubDate": "Sun, 10 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x Barcelona (Hóquei) - 10/05 18:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Barcelona (Hóquei) - 10/05 18:00 - RTP2",
-      "pubDate": "Sun, 10 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x FC Porto - 10/05 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x FC Porto - 10/05 18:00 - SportTV 1",
-      "pubDate": "Sun, 10 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo (Andebol) x Belenenses (Andebol) - 10/05 18:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Andebol) x Belenenses (Andebol) - 10/05 18:00 - AndebolTV",
@@ -257,6 +236,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal x Sevilla - 13/05 18:00 - DAZN 3",
       "pubDate": "Wed, 13 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gençlerbirligi x Trabzonspor - 13/05 18:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gençlerbirligi x Trabzonspor - 13/05 18:30 - SportTV 3",
+      "pubDate": "Wed, 13 May 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Internazionale - 13/05 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Internazionale - 13/05 20:00 - SportTV 1",
+      "pubDate": "Wed, 13 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x PSG - 13/05 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x PSG - 13/05 20:00 - SportTV 2",
+      "pubDate": "Wed, 13 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Crystal Palace - 13/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Crystal Palace - 13/05 20:00 - DAZN 1",
+      "pubDate": "Wed, 13 May 2026 20:00:00",
       "guid": ""
     }
   ]

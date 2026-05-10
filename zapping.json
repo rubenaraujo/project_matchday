@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Hellas Verona x Como 1907 - 10/05 11:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Como 1907 - 10/05 11:30 - SportTV 1",
-      "pubDate": "Sun, 10 May 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Villarreal - 10/05 13:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Villarreal - 10/05 13:00 - DAZN 2",
-      "pubDate": "Sun, 10 May 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nottingham Forest x Newcastle - 10/05 14:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nottingham Forest x Newcastle - 10/05 14:00 - DAZN 1",
@@ -291,6 +277,20 @@
       "title": "Santa Clara x Nacional - 11/05 20:15 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Nacional - 11/05 20:15 - SportTV 7",
+      "pubDate": "Mon, 11 May 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Moreirense - 11/05 20:15 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Moreirense - 11/05 20:15 - SportTV 4",
+      "pubDate": "Mon, 11 May 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x FC Arouca - 11/05 20:15 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x FC Arouca - 11/05 20:15 - SportTV 6",
       "pubDate": "Mon, 11 May 2026 20:15:00",
       "guid": ""
     }

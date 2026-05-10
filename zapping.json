@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "PSG (Feminino) x OL Lyonnes (Feminino) - 10/05 14:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG (Feminino) x OL Lyonnes (Feminino) - 10/05 14:30 - SportTV 3",
-      "pubDate": "Sun, 10 May 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x U. Santarém - 10/05 14:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x U. Santarém - 10/05 14:45 - Canal11",
-      "pubDate": "Sun, 10 May 2026 14:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Basket) x Imortal (Basket) - 10/05 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x Imortal (Basket) - 10/05 15:00 - PortoCanal",
-      "pubDate": "Sun, 10 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Basket) x CP Esgueira (Basket) - 10/05 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x CP Esgueira (Basket) - 10/05 15:00 - SportingTv",
-      "pubDate": "Sun, 10 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Valencia - 10/05 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Valencia - 10/05 15:15 - DAZN 2",
-      "pubDate": "Sun, 10 May 2026 15:15:00",
-      "guid": ""
-    },
-    {
       "title": "Feyenoord x AZ Alkmaar - 10/05 15:45 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feyenoord x AZ Alkmaar - 10/05 15:45 - DAZN 4",
@@ -278,6 +243,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x Detroit Pistons (Basket) - 12/05 01:00 - SportTV 1",
       "pubDate": "Tue, 12 May 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Levante - 12/05 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Levante - 12/05 18:00 - DAZN 1",
+      "pubDate": "Tue, 12 May 2026 18:00:00",
       "guid": ""
     }
   ]

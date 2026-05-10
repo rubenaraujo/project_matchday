@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Alverca x Estoril Praia - 10/05 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca x Estoril Praia - 10/05 20:30 - SportTV 2",
-      "pubDate": "Sun, 10 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Philadelphia 76ers (Basket) x New York Knicks (Basket) - 10/05 20:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia 76ers (Basket) x New York Knicks (Basket) - 10/05 20:30 - SportTV 5",
-      "pubDate": "Sun, 10 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x San Lorenzo - 10/05 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x San Lorenzo - 10/05 23:00 - SportTV 1",
@@ -47,6 +33,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (S23) x SC Braga (S23) - 11/05 18:00 - Canal11",
       "pubDate": "Mon, 11 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Huesca x Real Sociedad - 11/05 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Huesca x Real Sociedad - 11/05 19:30 - DAZN 3",
+      "pubDate": "Mon, 11 May 2026 19:30:00",
       "guid": ""
     },
     {

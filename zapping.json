@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Feyenoord x AZ Alkmaar - 10/05 15:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x AZ Alkmaar - 10/05 15:45 - DAZN 4",
-      "pubDate": "Sun, 10 May 2026 15:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SF1 x SF2 - 10/05 16:00 - Youtube",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SF1 x SF2 - 10/05 16:00 - Youtube",
-      "pubDate": "Sun, 10 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 10/05 16:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 10/05 16:00 - ABola TV",
-      "pubDate": "Sun, 10 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "West Ham x Arsenal - 10/05 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Ham x Arsenal - 10/05 16:30 - DAZN 1",
@@ -250,6 +229,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celta de Vigo x Levante - 12/05 18:00 - DAZN 1",
       "pubDate": "Tue, 12 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Hilal - 12/05 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Hilal - 12/05 19:00 - SportTV 1",
+      "pubDate": "Tue, 12 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Elche - 12/05 19:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Elche - 12/05 19:00 - DAZN 2",
+      "pubDate": "Tue, 12 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x Middlesbrough - 12/05 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x Middlesbrough - 12/05 20:00 - SportTV 3",
+      "pubDate": "Tue, 12 May 2026 20:00:00",
       "guid": ""
     }
   ]

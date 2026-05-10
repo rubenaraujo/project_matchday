@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "West Ham x Arsenal - 10/05 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Arsenal - 10/05 16:30 - DAZN 1",
-      "pubDate": "Sun, 10 May 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Parma x Roma - 10/05 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Roma - 10/05 17:00 - SportTV 2",
-      "pubDate": "Sun, 10 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Illes Balears Palma (Futsal) - 10/05 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Illes Balears Palma (Futsal) - 10/05 17:00 - Canal11",
-      "pubDate": "Sun, 10 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 10/05 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 10/05 17:00 - BTv",
-      "pubDate": "Sun, 10 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Real Oviedo x Getafe - 10/05 17:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Oviedo x Getafe - 10/05 17:30 - DAZN 2",
@@ -250,6 +222,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Southampton x Middlesbrough - 12/05 20:00 - SportTV 3",
       "pubDate": "Tue, 12 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Atlético de Madrid - 12/05 20:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Atlético de Madrid - 12/05 20:30 - DAZN 1",
+      "pubDate": "Tue, 12 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S16) x Alemanha (Feminino S16) - 13/05 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S16) x Alemanha (Feminino S16) - 13/05 17:00 - Canal11",
+      "pubDate": "Wed, 13 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Strasbourg - 13/05 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Strasbourg - 13/05 18:00 - SportTV 2",
+      "pubDate": "Wed, 13 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Athletic Bilbao - 13/05 18:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Athletic Bilbao - 13/05 18:00 - DAZN 2",
+      "pubDate": "Wed, 13 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal x Sevilla - 13/05 18:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal x Sevilla - 13/05 18:00 - DAZN 3",
+      "pubDate": "Wed, 13 May 2026 18:00:00",
       "guid": ""
     }
   ]

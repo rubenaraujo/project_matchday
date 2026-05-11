@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Académico (S23) x Santa Clara (S23) - 11/05 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (S23) x Santa Clara (S23) - 11/05 11:00 - Canal11",
-      "pubDate": "Mon, 11 May 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão (S23) x Gil Vicente (S23) - 11/05 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (S23) x Gil Vicente (S23) - 11/05 14:00 - Canal11",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Werder Bremen x Borussia Dortmund - 16/05 14:30 - DAZN 3",
       "pubDate": "Sat, 16 May 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Chelsea - 16/05 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Chelsea - 16/05 15:00 - SportTV 2",
+      "pubDate": "Sat, 16 May 2026 15:00:00",
       "guid": ""
     }
   ]

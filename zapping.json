@@ -1,31 +1,24 @@
 {
   "items": [
     {
-      "title": "Académico (S23) x Rio Ave/Santa Clara - 11/05 11:00 - Canal11",
+      "title": "Académico (S23) x Santa Clara (S23) - 11/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (S23) x Rio Ave/Santa Clara - 11/05 11:00 - Canal11",
+      "description": "Académico (S23) x Santa Clara (S23) - 11/05 11:00 - Canal11",
       "pubDate": "Mon, 11 May 2026 11:00:00",
       "guid": ""
     },
     {
-      "title": "FC Famalicão (S23) x Gil Vicente/Sporting - 11/05 14:00 - Canal11",
+      "title": "FC Famalicão (S23) x Gil Vicente (S23) - 11/05 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (S23) x Gil Vicente/Sporting - 11/05 14:00 - Canal11",
+      "description": "FC Famalicão (S23) x Gil Vicente (S23) - 11/05 14:00 - Canal11",
       "pubDate": "Mon, 11 May 2026 14:00:00",
       "guid": ""
     },
     {
-      "title": "Torreense (S23) x Leixões (S23) - 11/05 16:00 - Canal11",
+      "title": "Benfica (S23) x SC Braga (S23) - 11/05 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (S23) x Leixões (S23) - 11/05 16:00 - Canal11",
+      "description": "Benfica (S23) x SC Braga (S23) - 11/05 16:00 - Canal11",
       "pubDate": "Mon, 11 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (S23) x SC Braga (S23) - 11/05 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x SC Braga (S23) - 11/05 18:00 - Canal11",
-      "pubDate": "Mon, 11 May 2026 18:00:00",
       "guid": ""
     },
     {
@@ -225,6 +218,13 @@
       "guid": ""
     },
     {
+      "title": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 14/05 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 14/05 16:30 - Canal11",
+      "pubDate": "Thu, 14 May 2026 16:30:00",
+      "guid": ""
+    },
+    {
       "title": "Valencia x Rayo Vallecano - 14/05 18:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Rayo Vallecano - 14/05 18:00 - DAZN 1",
@@ -239,10 +239,31 @@
       "guid": ""
     },
     {
+      "title": "Rio Ave (Futsal) x Leões Porto Salvo (Futsal) - 14/05 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Futsal) x Leões Porto Salvo (Futsal) - 14/05 19:00 - Canal11",
+      "pubDate": "Thu, 14 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "Real Madrid x Real Oviedo - 14/05 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid x Real Oviedo - 14/05 20:30 - DAZN 1",
       "pubDate": "Thu, 14 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eléctrico (Futsal) x Benfica (Futsal) - 14/05 21:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eléctrico (Futsal) x Benfica (Futsal) - 14/05 21:15 - Canal11",
+      "pubDate": "Thu, 14 May 2026 21:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 15/05 15:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 15/05 15:30 - Canal11",
+      "pubDate": "Fri, 15 May 2026 15:30:00",
       "guid": ""
     },
     {
@@ -253,9 +274,51 @@
       "guid": ""
     },
     {
+      "title": "Ferreira do Zêzere (Futsal) x SC Braga (Futsal) - 15/05 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x SC Braga (Futsal) - 15/05 19:00 - Canal11",
+      "pubDate": "Fri, 15 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Liverpool - 15/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Liverpool - 15/05 20:00 - DAZN 1",
+      "pubDate": "Fri, 15 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal) x Sporting (Futsal) - 15/05 21:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal) x Sporting (Futsal) - 15/05 21:15 - Canal11",
+      "pubDate": "Fri, 15 May 2026 21:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x FC Köln - 16/05 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x FC Köln - 16/05 14:30 - DAZN 2",
+      "pubDate": "Sat, 16 May 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Werder Bremen x Borussia Dortmund - 16/05 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Werder Bremen x Borussia Dortmund - 16/05 14:30 - DAZN 3",
+      "pubDate": "Sat, 16 May 2026 14:30:00",
+      "guid": ""
+    },
+    {
       "title": "Manchester City x Chelsea - 16/05 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Chelsea - 16/05 15:00 - SportTV 2",
+      "pubDate": "Sat, 16 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - SportingTv",
       "pubDate": "Sat, 16 May 2026 15:00:00",
       "guid": ""
     },
@@ -264,76 +327,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Santa Clara - 16/05 15:30 - SportTV 1",
       "pubDate": "Sat, 16 May 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Projekt Warszawa (Voleibol) x Umbria Volley Perugia (Voleibol) - 16/05 16:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Projekt Warszawa (Voleibol) x Umbria Volley Perugia (Voleibol) - 16/05 16:00 - SportTV 5",
-      "pubDate": "Sat, 16 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x Amarante FC - 16/05 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x Amarante FC - 16/05 16:30 - Canal11",
-      "pubDate": "Sat, 16 May 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Trofense - 16/05 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Trofense - 16/05 16:30 - Canal11",
-      "pubDate": "Sat, 16 May 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x CD Mafra - 16/05 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x CD Mafra - 16/05 16:30 - Canal11",
-      "pubDate": "Sat, 16 May 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x Varzim - 16/05 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Varzim - 16/05 16:30 - Canal11",
-      "pubDate": "Sat, 16 May 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Neom SC - 16/05 17:05 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Neom SC - 16/05 17:05 - SportTV 4",
-      "pubDate": "Sat, 16 May 2026 17:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ahli Jeddah x Al-Kholood - 16/05 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ahli Jeddah x Al-Kholood - 16/05 19:00 - SportTV 5",
-      "pubDate": "Sat, 16 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Warta Zawiercie (Voleibol) x Ziraat Bankasi (Voleibol) - 16/05 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Warta Zawiercie (Voleibol) x Ziraat Bankasi (Voleibol) - 16/05 19:30 - SportTV 7",
-      "pubDate": "Sat, 16 May 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 17/05 14:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 17/05 14:30 - Canal11",
-      "pubDate": "Sun, 17 May 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 17/05 14:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 17/05 14:30 - Canal11",
-      "pubDate": "Sun, 17 May 2026 14:30:00",
       "guid": ""
     }
   ]

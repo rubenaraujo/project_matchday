@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x San Lorenzo - 10/05 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x San Lorenzo - 10/05 23:00 - SportTV 1",
-      "pubDate": "Sun, 10 May 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académico (S23) x Rio Ave/Santa Clara - 11/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico (S23) x Rio Ave/Santa Clara - 11/05 11:00 - Canal11",
@@ -292,6 +285,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x Trofense - 16/05 16:30 - Canal11",
       "pubDate": "Sat, 16 May 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x CD Mafra - 16/05 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x CD Mafra - 16/05 16:30 - Canal11",
+      "pubDate": "Sat, 16 May 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x Varzim - 16/05 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x Varzim - 16/05 16:30 - Canal11",
+      "pubDate": "Sat, 16 May 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Neom SC - 16/05 17:05 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Neom SC - 16/05 17:05 - SportTV 4",
+      "pubDate": "Sat, 16 May 2026 17:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Kholood - 16/05 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Kholood - 16/05 19:00 - SportTV 5",
+      "pubDate": "Sat, 16 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Warta Zawiercie (Voleibol) x Ziraat Bankasi (Voleibol) - 16/05 19:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Warta Zawiercie (Voleibol) x Ziraat Bankasi (Voleibol) - 16/05 19:30 - SportTV 7",
+      "pubDate": "Sat, 16 May 2026 19:30:00",
       "guid": ""
     }
   ]

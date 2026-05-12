@@ -99,9 +99,9 @@
       "guid": ""
     },
     {
-      "title": "Hearts x Falkirk - 13/05 20:00 - SportTV 3",
+      "title": "Hearts x Falkirk - 13/05 20:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Hearts x Falkirk - 13/05 20:00 - SportTV 3",
+      "description": "Hearts x Falkirk - 13/05 20:00 - SportTV +",
       "pubDate": "Wed, 13 May 2026 20:00:00",
       "guid": ""
     },
@@ -211,9 +211,23 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (B) x Benfica - 15/05 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (B) x Benfica - 15/05 18:00 - PortoCanal",
+      "pubDate": "Fri, 15 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Ferreira do Zêzere (Futsal) x SC Braga (Futsal) - 15/05 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x SC Braga (Futsal) - 15/05 19:00 - Canal11",
+      "pubDate": "Fri, 15 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x GD Chaves - 15/05 19:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x GD Chaves - 15/05 19:00 - SportTV",
       "pubDate": "Fri, 15 May 2026 19:00:00",
       "guid": ""
     },
@@ -225,10 +239,31 @@
       "guid": ""
     },
     {
+      "title": "Leixões x Lusitânia de Lourosa - 15/05 20:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Lusitânia de Lourosa - 15/05 20:00 - SportTV",
+      "pubDate": "Fri, 15 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Torreense (Futsal) x Sporting (Futsal) - 15/05 21:15 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Futsal) x Sporting (Futsal) - 15/05 21:15 - Canal11",
       "pubDate": "Fri, 15 May 2026 21:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x Sporting - 16/05 11:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x Sporting - 16/05 11:00 - SportTV",
+      "pubDate": "Sat, 16 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x FC Vizela - 16/05 11:00 - SportTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x FC Vizela - 16/05 11:00 - SportTV",
+      "pubDate": "Sat, 16 May 2026 11:00:00",
       "guid": ""
     },
     {
@@ -239,9 +274,9 @@
       "guid": ""
     },
     {
-      "title": "Celtic x Hearts - 16/05 12:30 - SportTV 1",
+      "title": "Celtic x Hearts - 16/05 12:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Hearts - 16/05 12:30 - SportTV 1",
+      "description": "Celtic x Hearts - 16/05 12:30 - SportTV 7",
       "pubDate": "Sat, 16 May 2026 12:30:00",
       "guid": ""
     },
@@ -313,41 +348,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x Varzim - 16/05 16:30 - Canal11",
       "pubDate": "Sat, 16 May 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.A S19) x FC Porto (Jun.A S19) - 16/05 17:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.A S19) x FC Porto (Jun.A S19) - 16/05 17:00 - SportingTv",
-      "pubDate": "Sat, 16 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Neom SC - 16/05 17:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Neom SC - 16/05 17:05 - SportTV 3",
-      "pubDate": "Sat, 16 May 2026 17:05:00",
-      "guid": ""
-    },
-    {
-      "title": "Almería x Las Palmas - 16/05 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Almería x Las Palmas - 16/05 17:30 - DAZN 2",
-      "pubDate": "Sat, 16 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Vitória SC - 16/05 18:00 - SportTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Vitória SC - 16/05 18:00 - SportTV",
-      "pubDate": "Sat, 16 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Rio Ave - 16/05 18:00 - SportTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Rio Ave - 16/05 18:00 - SportTV",
-      "pubDate": "Sat, 16 May 2026 18:00:00",
       "guid": ""
     }
   ]

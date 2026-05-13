@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Osasuna x Atlético de Madrid - 12/05 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Osasuna x Atlético de Madrid - 12/05 20:30 - DAZN 1",
-      "pubDate": "Tue, 12 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "San Antonio Spurs (Basket) x Minnesota Timberwolves (Basket) - 13/05 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Minnesota Timberwolves (Basket) - 13/05 01:00 - SportTV 1",
@@ -347,6 +340,13 @@
       "title": "Casa Pia AC x Rio Ave - 16/05 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Rio Ave - 16/05 18:00 - SportTV 6",
+      "pubDate": "Sat, 16 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Est. Amadora - 16/05 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Est. Amadora - 16/05 18:00 - SportTV 4",
       "pubDate": "Sat, 16 May 2026 18:00:00",
       "guid": ""
     }

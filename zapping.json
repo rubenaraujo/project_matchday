@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Eléctrico (Futsal) x Benfica (Futsal) - 14/05 21:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x Benfica (Futsal) - 14/05 21:15 - Canal11",
-      "pubDate": "Thu, 14 May 2026 21:15:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 15/05 15:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 15/05 15:30 - Canal11",
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Nottingham Forest - 17/05 12:30 - DAZN 1",
       "pubDate": "Sun, 17 May 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Hellas Verona - 17/05 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Hellas Verona - 17/05 14:00 - SportTV 2",
+      "pubDate": "Sun, 17 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolverhampton x Fulham - 17/05 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolverhampton x Fulham - 17/05 15:00 - DAZN 1",
+      "pubDate": "Sun, 17 May 2026 15:00:00",
       "guid": ""
     }
   ]

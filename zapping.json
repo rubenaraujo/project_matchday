@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rosario Central x Racing Club - 13/05 22:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Racing Club - 13/05 22:45 - SportTV 1",
-      "pubDate": "Wed, 13 May 2026 22:45:00",
-      "guid": ""
-    },
-    {
       "title": "Detroit Pistons (Basket) x Cleveland Cavaliers (Basket) - 14/05 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Detroit Pistons (Basket) x Cleveland Cavaliers (Basket) - 14/05 01:00 - SportTV 2",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x FC Felgueiras - 17/05 11:00 - SportTV 1",
       "pubDate": "Sun, 17 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Fiorentina - 17/05 11:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Fiorentina - 17/05 11:30 - SportTV 2",
+      "pubDate": "Sun, 17 May 2026 11:30:00",
       "guid": ""
     }
   ]

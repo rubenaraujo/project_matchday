@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Valencia x Rayo Vallecano - 14/05 18:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia x Rayo Vallecano - 14/05 18:00 - DAZN 1",
-      "pubDate": "Thu, 14 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Girona x Real Sociedad - 14/05 19:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Girona x Real Sociedad - 14/05 19:00 - DAZN 2",
@@ -319,6 +312,13 @@
       "title": "Pisa x Napoli - 17/05 11:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pisa x Napoli - 17/05 11:30 - SportTV 7",
+      "pubDate": "Sun, 17 May 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Milan - 17/05 11:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Milan - 17/05 11:30 - SportTV +",
       "pubDate": "Sun, 17 May 2026 11:30:00",
       "guid": ""
     }

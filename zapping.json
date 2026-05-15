@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Aston Villa x Liverpool - 15/05 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Liverpool - 15/05 20:00 - DAZN 1",
-      "pubDate": "Fri, 15 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Académico x Sporting - 16/05 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académico x Sporting - 16/05 11:00 - SportTV 1",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Brighton  Hove Albion - 17/05 15:00 - DAZN 3",
       "pubDate": "Sun, 17 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Crystal Palace - 17/05 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Crystal Palace - 17/05 15:00 - DAZN 2",
+      "pubDate": "Sun, 17 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x Feirense - 17/05 15:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x Feirense - 17/05 15:30 - SportTV +",
+      "pubDate": "Sun, 17 May 2026 15:30:00",
       "guid": ""
     }
   ]

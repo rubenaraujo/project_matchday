@@ -71,9 +71,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 16/05 12:00 - PortoCanal",
+      "title": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 16/05 12:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 16/05 12:00 - PortoCanal",
+      "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 16/05 12:00 - FPP TV",
       "pubDate": "Sat, 16 May 2026 12:00:00",
       "guid": ""
     },
@@ -106,16 +106,16 @@
       "guid": ""
     },
     {
-      "title": "Manchester City x Chelsea - 16/05 15:00 - SportTV 2",
+      "title": "Chelsea x Manchester City - 16/05 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Chelsea - 16/05 15:00 - SportTV 2",
+      "description": "Chelsea x Manchester City - 16/05 15:00 - SportTV 2",
       "pubDate": "Sat, 16 May 2026 15:00:00",
       "guid": ""
     },
     {
-      "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - SportingTv",
+      "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - SportingTv",
+      "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - FPP TV",
       "pubDate": "Sat, 16 May 2026 15:00:00",
       "guid": ""
     },
@@ -232,6 +232,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Hóquei) x AD Sanjoanense (Hóquei) - 16/05 21:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x AD Sanjoanense (Hóquei) - 16/05 21:00 - FPP TV",
+      "pubDate": "Sat, 16 May 2026 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "Torreense (Futsal) x Sporting (Futsal) - 16/05 21:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (Futsal) x Sporting (Futsal) - 16/05 21:30 - Canal11",
@@ -319,13 +326,6 @@
       "title": "Sundowns x FAR Rabat - 17/05 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sundowns x FAR Rabat - 17/05 15:00 - SportTV 1",
-      "pubDate": "Sun, 17 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Sunderland - 17/05 15:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Sunderland - 17/05 15:00 - DAZN 4",
       "pubDate": "Sun, 17 May 2026 15:00:00",
       "guid": ""
     }

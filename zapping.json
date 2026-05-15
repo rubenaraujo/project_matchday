@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Feminino S16) x Bélgica (Feminino S16) - 15/05 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S16) x Bélgica (Feminino S16) - 15/05 17:00 - Canal11",
-      "pubDate": "Fri, 15 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (B) x Benfica - 15/05 18:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x Benfica - 15/05 18:00 - PortoCanal",
@@ -319,6 +312,13 @@
       "title": "Sundowns x FAR Rabat - 17/05 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sundowns x FAR Rabat - 17/05 15:00 - SportTV 1",
+      "pubDate": "Sun, 17 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Sunderland - 17/05 15:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Sunderland - 17/05 15:00 - DAZN 4",
       "pubDate": "Sun, 17 May 2026 15:00:00",
       "guid": ""
     }

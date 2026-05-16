@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Famalicão x FC Alverca - 16/05 20:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x FC Alverca - 16/05 20:30 - SportTV 4",
-      "pubDate": "Sat, 16 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Gil Vicente - 16/05 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Gil Vicente - 16/05 20:30 - SportTV 2",
-      "pubDate": "Sat, 16 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Estoril Praia x Benfica - 16/05 20:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Benfica - 16/05 20:30 - SportTV 3",
-      "pubDate": "Sat, 16 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x AD Sanjoanense (Hóquei) - 16/05 21:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x AD Sanjoanense (Hóquei) - 16/05 21:00 - FPP TV",
-      "pubDate": "Sat, 16 May 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x Sporting (Futsal) - 16/05 21:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Sporting (Futsal) - 16/05 21:30 - Canal11",
-      "pubDate": "Sat, 16 May 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 16/05 21:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 16/05 21:30 - DAZN 2",
-      "pubDate": "Sat, 16 May 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Jun.B S17) x Benfica (Jun.B S17) - 17/05 11:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Jun.B S17) x Benfica (Jun.B S17) - 17/05 11:00 - SportingTv",
@@ -278,6 +236,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (Feminino S16) x Portugal (Feminino S16) - 18/05 16:00 - Canal11",
       "pubDate": "Mon, 18 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Burnley - 18/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Burnley - 18/05 20:00 - DAZN 1",
+      "pubDate": "Mon, 18 May 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Eintracht Frankfurt x Stuttgart - 16/05 14:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Stuttgart - 16/05 14:30 - DAZN 1",
-      "pubDate": "Sat, 16 May 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Manchester City - 16/05 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Manchester City - 16/05 15:00 - SportTV 2",
-      "pubDate": "Sat, 16 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 16/05 15:00 - FPP TV",
-      "pubDate": "Sat, 16 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Moreirense x AFS - 16/05 15:30 - V+",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense x AFS - 16/05 15:30 - V+",
@@ -281,9 +260,9 @@
       "guid": ""
     },
     {
-      "title": "Ponte da Barca x Atl. Arcos - 17/05 17:00 - Facebook",
+      "title": "Atl. Arcos x Ponte da Barca - 17/05 17:00 - Facebook",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Ponte da Barca x Atl. Arcos - 17/05 17:00 - Facebook",
+      "description": "Atl. Arcos x Ponte da Barca - 17/05 17:00 - Facebook",
       "pubDate": "Sun, 17 May 2026 17:00:00",
       "guid": ""
     },
@@ -306,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x West Ham - 17/05 17:30 - DAZN 1",
       "pubDate": "Sun, 17 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Lusitânia de Lourosa - 17/05 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Lusitânia de Lourosa - 17/05 18:00 - SportTV 1",
+      "pubDate": "Sun, 17 May 2026 18:00:00",
       "guid": ""
     }
   ]

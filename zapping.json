@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Almería x Las Palmas - 16/05 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Almería x Las Palmas - 16/05 17:30 - DAZN 1",
-      "pubDate": "Sat, 16 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Rio Ave - 16/05 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Rio Ave - 16/05 18:00 - SportTV 6",
-      "pubDate": "Sat, 16 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Est. Amadora - 16/05 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Est. Amadora - 16/05 18:00 - SportTV 4",
-      "pubDate": "Sat, 16 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Arouca x CD Tondela - 16/05 18:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca x CD Tondela - 16/05 18:00 - SportTV 7",
-      "pubDate": "Sat, 16 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Vitória SC - 16/05 18:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Vitória SC - 16/05 18:00 - SportTV 5",
-      "pubDate": "Sat, 16 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Nassr x Gamba Osaka - 16/05 18:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Gamba Osaka - 16/05 18:45 - Canal11",
@@ -278,6 +243,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Projekt Warszawa/Umbria Volley Perugia x Warta Zawiercie/Ziraat Bankasi - 17/05 19:30 - SportTV 5",
       "pubDate": "Sun, 17 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x PSG - 17/05 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x PSG - 17/05 20:00 - SportTV 3",
+      "pubDate": "Sun, 17 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Lens - 17/05 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Lens - 17/05 20:00 - SportTV 4",
+      "pubDate": "Sun, 17 May 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,23 +1,9 @@
 {
   "items": [
     {
-      "title": "UD Leiria x Feirense - 17/05 15:30 - SportTV +",
+      "title": "Projekt Warszawa (Voleibol) x Ziraat Bankasi (Voleibol) - 17/05 16:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x Feirense - 17/05 15:30 - SportTV +",
-      "pubDate": "Sun, 17 May 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Derrotado Projekt Warszawa/Umbria Volley Perugia x Derrotado Warta Zawiercie/Ziraat Bankasi - 17/05 16:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado Projekt Warszawa/Umbria Volley Perugia x Derrotado Warta Zawiercie/Ziraat Bankasi - 17/05 16:00 - SportTV 7",
-      "pubDate": "Sun, 17 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sport Canidelo x Sousense - 17/05 16:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sport Canidelo x Sousense - 17/05 16:00 - Online",
+      "description": "Projekt Warszawa (Voleibol) x Ziraat Bankasi (Voleibol) - 17/05 16:00 - SportTV 7",
       "pubDate": "Sun, 17 May 2026 16:00:00",
       "guid": ""
     },
@@ -92,9 +78,9 @@
       "guid": ""
     },
     {
-      "title": "Projekt Warszawa/Umbria Volley Perugia x Warta Zawiercie/Ziraat Bankasi - 17/05 19:30 - SportTV 5",
+      "title": "Umbria Volley Perugia (Voleibol) x Warta Zawiercie (Voleibol) - 17/05 19:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Projekt Warszawa/Umbria Volley Perugia x Warta Zawiercie/Ziraat Bankasi - 17/05 19:30 - SportTV 5",
+      "description": "Umbria Volley Perugia (Voleibol) x Warta Zawiercie (Voleibol) - 17/05 19:30 - SportTV 5",
       "pubDate": "Sun, 17 May 2026 19:30:00",
       "guid": ""
     },
@@ -264,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Peñarol x Corinthians - 22/05 01:30 - SportTV 1",
       "pubDate": "Fri, 22 May 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Montpellier (Jun.A S18) x PSG (Jun.A S18) - 22/05 15:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Montpellier (Jun.A S18) x PSG (Jun.A S18) - 22/05 15:15 - SportTV 2",
+      "pubDate": "Fri, 22 May 2026 15:15:00",
       "guid": ""
     }
   ]

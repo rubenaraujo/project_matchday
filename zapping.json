@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Leixões x Lusitânia de Lourosa - 17/05 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x Lusitânia de Lourosa - 17/05 18:00 - SportTV 1",
-      "pubDate": "Sun, 17 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla x Real Madrid - 17/05 18:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla x Real Madrid - 17/05 18:00 - DAZN 2",
-      "pubDate": "Sun, 17 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Girona - 17/05 18:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Girona - 17/05 18:00 - DAZN 3",
-      "pubDate": "Sun, 17 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rayo Vallecano x Villarreal - 17/05 18:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Villarreal - 17/05 18:00 - DAZN 4",
-      "pubDate": "Sun, 17 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kasimpasa x Galatasaray - 17/05 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kasimpasa x Galatasaray - 17/05 18:00 - SportTV 2",
-      "pubDate": "Sun, 17 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Umbria Volley Perugia (Voleibol) x Warta Zawiercie (Voleibol) - 17/05 19:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Umbria Volley Perugia (Voleibol) x Warta Zawiercie (Voleibol) - 17/05 19:30 - SportTV 5",
@@ -257,6 +222,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hull City x Southampton - 23/05 16:30 - SportTV 2",
       "pubDate": "Sat, 23 May 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona (Feminino) x OL Lyonnes (Feminino) - 23/05 17:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona (Feminino) x OL Lyonnes (Feminino) - 23/05 17:00 - RTP2",
+      "pubDate": "Sat, 23 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 23/05 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 23/05 21:00 - Canal11",
+      "pubDate": "Sat, 23 May 2026 21:00:00",
       "guid": ""
     }
   ]

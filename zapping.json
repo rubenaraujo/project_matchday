@@ -239,13 +239,6 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Basket) x FC Porto (Basket) - 22/05 19:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x FC Porto (Basket) - 22/05 19:00 - SportingTv",
-      "pubDate": "Fri, 22 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lens x Nice - 22/05 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Nice - 22/05 20:00 - SportTV 1",
@@ -333,6 +326,13 @@
       "title": "Valencia x Barcelona - 23/05 20:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia x Barcelona - 23/05 20:00 - DAZN 2",
+      "pubDate": "Sat, 23 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Athletic Bilbao - 23/05 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Athletic Bilbao - 23/05 20:00 - DAZN 3",
       "pubDate": "Sat, 23 May 2026 20:00:00",
       "guid": ""
     }

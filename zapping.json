@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal) x Eléctrico (Futsal) - 19/05 21:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Eléctrico (Futsal) - 19/05 21:15 - Canal11",
-      "pubDate": "Tue, 19 May 2026 21:15:00",
-      "guid": ""
-    },
-    {
       "title": "Rosario Central x UCV FC - 19/05 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x UCV FC - 19/05 23:00 - SportTV 1",
@@ -313,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
       "pubDate": "Sat, 23 May 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x Dunfermline - 23/05 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x Dunfermline - 23/05 15:00 - SportTV 2",
+      "pubDate": "Sat, 23 May 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x Gil Vicente (Feminino) - 23/05 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x Gil Vicente (Feminino) - 23/05 15:00 - Canal11",
+      "pubDate": "Sat, 23 May 2026 15:00:00",
       "guid": ""
     }
   ]

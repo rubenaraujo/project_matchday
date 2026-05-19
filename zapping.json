@@ -197,6 +197,13 @@
       "guid": ""
     },
     {
+      "title": "Ajax x FC Groningen - 21/05 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x FC Groningen - 21/05 17:45 - DAZN 1",
+      "pubDate": "Thu, 21 May 2026 17:45:00",
+      "guid": ""
+    },
+    {
       "title": "Al-Fayha x Al-Hilal - 21/05 19:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Fayha x Al-Hilal - 21/05 19:00 - SportTV 2",
@@ -211,10 +218,17 @@
       "guid": ""
     },
     {
-      "title": "Wolfsburg x SC Paderborn 07 - 21/05 19:30 - DAZN 1",
+      "title": "Wolfsburg x SC Paderborn 07 - 21/05 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x SC Paderborn 07 - 21/05 19:30 - DAZN 1",
+      "description": "Wolfsburg x SC Paderborn 07 - 21/05 19:30 - DAZN 2",
       "pubDate": "Thu, 21 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Utrecht x Heerenveen - 21/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Utrecht x Heerenveen - 21/05 20:00 - DAZN 1",
+      "pubDate": "Thu, 21 May 2026 20:00:00",
       "guid": ""
     },
     {
@@ -320,20 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valadares Gaia (Feminino) x FC Porto (Feminino) - 23/05 11:00 - Canal11",
       "pubDate": "Sat, 23 May 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
-      "pubDate": "Sat, 23 May 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Celtic x Dunfermline - 23/05 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Dunfermline - 23/05 15:00 - SportTV 2",
-      "pubDate": "Sat, 23 May 2026 15:00:00",
       "guid": ""
     }
   ]

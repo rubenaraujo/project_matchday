@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S16) x Chéquia (S16) - 19/05 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S16) x Chéquia (S16) - 19/05 17:00 - Canal11",
-      "pubDate": "Tue, 19 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x Rio Ave (Futsal) - 19/05 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x Rio Ave (Futsal) - 19/05 19:00 - Canal11",
-      "pubDate": "Tue, 19 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Manchester City - 19/05 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Manchester City - 19/05 19:30 - DAZN 1",
-      "pubDate": "Tue, 19 May 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Chelsea x Tottenham - 19/05 20:15 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x Tottenham - 19/05 20:15 - DAZN 2",
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valadares Gaia (Feminino) x FC Porto (Feminino) - 23/05 11:00 - Canal11",
       "pubDate": "Sat, 23 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
+      "pubDate": "Sat, 23 May 2026 14:30:00",
       "guid": ""
     }
   ]

@@ -1,30 +1,9 @@
 {
   "items": [
     {
-      "title": "SC Freiburg x Aston Villa - 20/05 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Freiburg x Aston Villa - 20/05 20:00 - SportTV 5",
-      "pubDate": "Wed, 20 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Sanjoanense (Hóquei) x Benfica (Hóquei) - 20/05 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Sanjoanense (Hóquei) x Benfica (Hóquei) - 20/05 20:30 - DAZN 2",
-      "pubDate": "Wed, 20 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Talleres x Atlético Tucumán - 20/05 21:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Talleres x Atlético Tucumán - 20/05 21:00 - SportTV 2",
-      "pubDate": "Wed, 20 May 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Hóquei) x FC Porto (Hóquei) - 20/05 21:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x FC Porto (Hóquei) - 20/05 21:00 - PortoCanal",
       "pubDate": "Wed, 20 May 2026 21:00:00",
       "guid": ""
     },
@@ -246,13 +225,6 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x UD Oliveirense (Hóquei) - 23/05 14:30 - PortoCanal",
-      "pubDate": "Sat, 23 May 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Celtic x Dunfermline - 23/05 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celtic x Dunfermline - 23/05 15:00 - SportTV 2",
@@ -271,13 +243,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 23/05 15:00 - SportingTv",
       "pubDate": "Sat, 23 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hull City x Middlesbrough - 23/05 16:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hull City x Middlesbrough - 23/05 16:30 - SportTV 2",
-      "pubDate": "Sat, 23 May 2026 16:30:00",
       "guid": ""
     },
     {
@@ -320,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Pisa - 23/05 19:45 - SportTV 2",
       "pubDate": "Sat, 23 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia x Barcelona - 23/05 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia x Barcelona - 23/05 20:00 - DAZN 2",
+      "pubDate": "Sat, 23 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Athletic Bilbao - 23/05 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Athletic Bilbao - 23/05 20:00 - DAZN 3",
+      "pubDate": "Sat, 23 May 2026 20:00:00",
       "guid": ""
     }
   ]

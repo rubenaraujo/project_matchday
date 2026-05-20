@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x Casa Pia AC - 20/05 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Casa Pia AC - 20/05 18:00 - SportTV 1",
-      "pubDate": "Wed, 20 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Khaleej x Al-Ahli Jeddah - 20/05 19:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Khaleej x Al-Ahli Jeddah - 20/05 19:00 - SportTV 2",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Andebol) x Benfica (Andebol) - 23/05 18:00 - SportingTv",
       "pubDate": "Sat, 23 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Stuttgart - 23/05 19:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Stuttgart - 23/05 19:00 - DAZN 1",
+      "pubDate": "Sat, 23 May 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Pisa - 23/05 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Pisa - 23/05 19:45 - SportTV 2",
+      "pubDate": "Sat, 23 May 2026 19:45:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Utrecht x Heerenveen - 21/05 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Utrecht x Heerenveen - 21/05 20:00 - DAZN 1",
-      "pubDate": "Thu, 21 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Torreense (Futsal) - 21/05 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Torreense (Futsal) - 21/05 20:30 - Canal11",
-      "pubDate": "Thu, 21 May 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 21/05 21:00 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "HC Braga (Hóquei) x OC Barcelos (Hóquei) - 21/05 21:00 - FPP TV",
@@ -320,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Udinese - 24/05 17:00 - SportTV 3",
       "pubDate": "Sun, 24 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Torreense - 24/05 17:15 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Torreense - 24/05 17:15 - RTP1",
+      "pubDate": "Sun, 24 May 2026 17:15:00",
       "guid": ""
     }
   ]

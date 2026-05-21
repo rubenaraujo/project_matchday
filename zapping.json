@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Santos x San Lorenzo - 20/05 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santos x San Lorenzo - 20/05 23:00 - SportTV 1",
-      "pubDate": "Wed, 20 May 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Grêmio x Palestino - 21/05 01:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grêmio x Palestino - 21/05 01:00 - SportTV 4",
@@ -225,13 +218,6 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Hóquei) x AD Valongo (Hóquei) - 23/05 15:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x AD Valongo (Hóquei) - 23/05 15:00 - SportingTv",
-      "pubDate": "Sat, 23 May 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Barcelona (Feminino) x OL Lyonnes (Feminino) - 23/05 17:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona (Feminino) x OL Lyonnes (Feminino) - 23/05 17:00 - RTP2",
@@ -313,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket) x FC Porto (Basket) - 23/05 21:30 - SportingTv",
       "pubDate": "Sat, 23 May 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 24/05 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 24/05 01:00 - SportTV 1",
+      "pubDate": "Sun, 24 May 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S16) x Itália (S16) - 24/05 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S16) x Itália (S16) - 24/05 11:00 - Canal11",
+      "pubDate": "Sun, 24 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Clube de Albergaria (Feminino) - 24/05 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Clube de Albergaria (Feminino) - 24/05 14:00 - Canal11",
+      "pubDate": "Sun, 24 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Sassuolo - 24/05 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Sassuolo - 24/05 14:00 - SportTV 3",
+      "pubDate": "Sun, 24 May 2026 14:00:00",
       "guid": ""
     }
   ]

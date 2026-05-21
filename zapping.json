@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Praia) x Turquia (Praia) - 21/05 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia) x Turquia (Praia) - 21/05 14:00 - SportTV +",
-      "pubDate": "Thu, 21 May 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S16) x Grécia (S16) - 21/05 17:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S16) x Grécia (S16) - 21/05 17:00 - Canal11",
@@ -141,6 +134,13 @@
       "guid": ""
     },
     {
+      "title": "Valmesio (Futsal) x Gramidense Infante (Futsal) - 22/05 21:30 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valmesio (Futsal) x Gramidense Infante (Futsal) - 22/05 21:30 - Youtube",
+      "pubDate": "Fri, 22 May 2026 21:30:00",
+      "guid": ""
+    },
+    {
       "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 23/05 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 23/05 01:30 - SportTV 1",
@@ -179,6 +179,13 @@
       "title": "ABC (Andebol) x Marítimo (Andebol) - 23/05 16:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "ABC (Andebol) x Marítimo (Andebol) - 23/05 16:00 - AndebolTV",
+      "pubDate": "Sat, 23 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sousense x SC Rio Tinto - 23/05 16:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sousense x SC Rio Tinto - 23/05 16:00 - ABola TV",
       "pubDate": "Sat, 23 May 2026 16:00:00",
       "guid": ""
     },
@@ -333,13 +340,6 @@
       "title": "Brighton  Hove Albion x Manchester United - 24/05 16:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brighton  Hove Albion x Manchester United - 24/05 16:00 - DAZN 3",
-      "pubDate": "Sun, 24 May 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Brentford - 24/05 16:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Brentford - 24/05 16:00 - DAZN 4",
       "pubDate": "Sun, 24 May 2026 16:00:00",
       "guid": ""
     }

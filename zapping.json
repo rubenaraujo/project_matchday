@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Grêmio x Palestino - 21/05 01:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Grêmio x Palestino - 21/05 01:00 - SportTV 4",
-      "pubDate": "Thu, 21 May 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente Petrolero x Botafogo - 21/05 01:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente Petrolero x Botafogo - 21/05 01:00 - SportTV 3",
-      "pubDate": "Thu, 21 May 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 21/05 01:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 21/05 01:00 - SportTV 6",
-      "pubDate": "Thu, 21 May 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Palmeiras x Cerro Porteño - 21/05 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Cerro Porteño - 21/05 01:30 - SportTV 1",
-      "pubDate": "Thu, 21 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Red Bull Bragantino - 21/05 01:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Red Bull Bragantino - 21/05 01:30 - SportTV 5",
-      "pubDate": "Thu, 21 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Flamengo x Estudiantes - 21/05 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Flamengo x Estudiantes - 21/05 01:30 - SportTV 2",
-      "pubDate": "Thu, 21 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 21/05 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x San Antonio Spurs (Basket) - 21/05 01:30 - SportTV 1",
-      "pubDate": "Thu, 21 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Praia) x Turquia (Praia) - 21/05 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Praia) x Turquia (Praia) - 21/05 14:00 - SportTV +",
@@ -327,6 +278,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Parma x Sassuolo - 24/05 14:00 - SportTV 3",
       "pubDate": "Sun, 24 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Arsenal - 24/05 16:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Arsenal - 24/05 16:00 - DAZN 1",
+      "pubDate": "Sun, 24 May 2026 16:00:00",
       "guid": ""
     }
   ]

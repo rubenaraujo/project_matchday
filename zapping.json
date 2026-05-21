@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Ajax x FC Groningen - 21/05 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x FC Groningen - 21/05 17:45 - DAZN 1",
-      "pubDate": "Thu, 21 May 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Fayha x Al-Hilal - 21/05 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Fayha x Al-Hilal - 21/05 19:00 - SportTV 2",
-      "pubDate": "Thu, 21 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Damac FC - 21/05 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Damac FC - 21/05 19:00 - SportTV 1",
-      "pubDate": "Thu, 21 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wolfsburg x SC Paderborn 07 - 21/05 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x SC Paderborn 07 - 21/05 19:30 - DAZN 2",
-      "pubDate": "Thu, 21 May 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Utrecht x Heerenveen - 21/05 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Utrecht x Heerenveen - 21/05 20:00 - DAZN 1",
@@ -341,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Liverpool x Brentford - 24/05 16:00 - DAZN 4",
       "pubDate": "Sun, 24 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Udinese - 24/05 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Udinese - 24/05 17:00 - SportTV 3",
+      "pubDate": "Sun, 24 May 2026 17:00:00",
       "guid": ""
     }
   ]

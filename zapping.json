@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Montpellier (Jun.A S18) x PSG (Jun.A S18) - 22/05 16:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Montpellier (Jun.A S18) x PSG (Jun.A S18) - 22/05 16:15 - SportTV 2",
-      "pubDate": "Fri, 22 May 2026 16:15:00",
-      "guid": ""
-    },
-    {
       "title": "Trabzonspor x Konyaspor - 22/05 18:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trabzonspor x Konyaspor - 22/05 18:45 - SportTV 2",
@@ -313,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hellas Verona x Roma - 24/05 19:45 - SportTV 3",
       "pubDate": "Sun, 24 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Juventus - 24/05 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Juventus - 24/05 19:45 - SportTV 5",
+      "pubDate": "Sun, 24 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal x Atlético de Madrid - 24/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal x Atlético de Madrid - 24/05 20:00 - DAZN 1",
+      "pubDate": "Sun, 24 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FAR Rabat x Sundowns - 24/05 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FAR Rabat x Sundowns - 24/05 20:00 - SportTV 6",
+      "pubDate": "Sun, 24 May 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Lens x Nice - 22/05 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Nice - 22/05 20:00 - SportTV 1",
-      "pubDate": "Fri, 22 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rebordosa AC x Leça FC - 22/05 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rebordosa AC x Leça FC - 22/05 20:00 - Canal11",
-      "pubDate": "Fri, 22 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Valmesio (Futsal) x Gramidense Infante (Futsal) - 22/05 21:30 - Youtube",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valmesio (Futsal) x Gramidense Infante (Futsal) - 22/05 21:30 - Youtube",
@@ -260,9 +246,9 @@
       "guid": ""
     },
     {
-      "title": "Olympiacos/Fenerbahçe x Valencia Basket/Real Madrid - 24/05 19:00 - SportTV 7",
+      "title": "Olympiacos (Basket) x Real Madrid (Basket) - 24/05 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos/Fenerbahçe x Valencia Basket/Real Madrid - 24/05 19:00 - SportTV 7",
+      "description": "Olympiacos (Basket) x Real Madrid (Basket) - 24/05 19:00 - SportTV 7",
       "pubDate": "Sun, 24 May 2026 19:00:00",
       "guid": ""
     },

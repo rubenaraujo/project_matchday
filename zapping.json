@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 23/05 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 23/05 01:30 - SportTV 1",
-      "pubDate": "Sat, 23 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Valadares Gaia (Feminino) x FC Porto (Feminino) - 23/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valadares Gaia (Feminino) x FC Porto (Feminino) - 23/05 11:00 - Canal11",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S15) x Polónia (Feminino S15) - 25/05 16:00 - Canal11",
       "pubDate": "Mon, 25 May 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estónia (S17) x Espanha (S17) - 25/05 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estónia (S17) x Espanha (S17) - 25/05 18:00 - Canal11",
+      "pubDate": "Mon, 25 May 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x FC Porto (Basket) - 25/05 19:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x FC Porto (Basket) - 25/05 19:00 - SportingTv",
+      "pubDate": "Mon, 25 May 2026 19:00:00",
       "guid": ""
     }
   ]

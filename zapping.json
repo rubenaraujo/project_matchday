@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Bologna x Internazionale - 23/05 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Internazionale - 23/05 17:00 - SportTV 2",
-      "pubDate": "Sat, 23 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona (Feminino) x OL Lyonnes (Feminino) - 23/05 17:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona (Feminino) x OL Lyonnes (Feminino) - 23/05 17:00 - RTP1",
-      "pubDate": "Sat, 23 May 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Ferreira do Zêzere (Futsal) - 23/05 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Ferreira do Zêzere (Futsal) - 23/05 17:30 - Canal11",
-      "pubDate": "Sat, 23 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Andebol) x Águas Santas (Andebol) - 23/05 18:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x Águas Santas (Andebol) - 23/05 18:00 - PortoCanal",
@@ -183,9 +162,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 24/05 19:00 - SportTV 6",
+      "title": "Portugal (Praia) x Finalista 2 - 24/05 19:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 24/05 19:00 - SportTV 6",
+      "description": "Portugal (Praia) x Finalista 2 - 24/05 19:00 - SportTV 6",
       "pubDate": "Sun, 24 May 2026 19:00:00",
       "guid": ""
     },
@@ -271,6 +250,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Paderborn 07 x Wolfsburg - 25/05 19:30 - DAZN 1",
       "pubDate": "Mon, 25 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 26/05 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 26/05 01:00 - SportTV 1",
+      "pubDate": "Tue, 26 May 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (S17) x França (S17) - 26/05 12:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (S17) x França (S17) - 26/05 12:30 - Canal11",
+      "pubDate": "Tue, 26 May 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente (S23) x Santa Clara (S23) - 26/05 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente (S23) x Santa Clara (S23) - 26/05 18:00 - Canal11",
+      "pubDate": "Tue, 26 May 2026 18:00:00",
       "guid": ""
     }
   ]

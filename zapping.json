@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Bayern München x Stuttgart - 23/05 19:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Stuttgart - 23/05 19:00 - DAZN 1",
-      "pubDate": "Sat, 23 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lazio x Pisa - 23/05 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lazio x Pisa - 23/05 19:45 - SportTV 2",
@@ -264,6 +257,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grêmio x Montevideo City - 26/05 23:00 - SportTV 1",
       "pubDate": "Tue, 26 May 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Deportivo Cuenca - 27/05 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Deportivo Cuenca - 27/05 01:30 - SportTV 2",
+      "pubDate": "Wed, 27 May 2026 01:30:00",
       "guid": ""
     }
   ]

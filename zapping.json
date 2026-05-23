@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Basket) x FC Porto (Basket) - 23/05 21:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Basket) x FC Porto (Basket) - 23/05 21:30 - SportingTv",
-      "pubDate": "Sat, 23 May 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 24/05 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 24/05 01:00 - SportTV 1",
@@ -271,6 +264,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Blooming - 28/05 01:30 - SportTV 2",
       "pubDate": "Thu, 28 May 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Platense - 28/05 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Platense - 28/05 01:30 - SportTV 2",
+      "pubDate": "Thu, 28 May 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S15) x Inglaterra (Feminino S15) - 28/05 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S15) x Inglaterra (Feminino S15) - 28/05 11:00 - Canal11",
+      "pubDate": "Thu, 28 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estónia (S17) x Croácia (S17) - 28/05 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estónia (S17) x Croácia (S17) - 28/05 17:00 - Canal11",
+      "pubDate": "Thu, 28 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rep. Irlanda x Catar - 28/05 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rep. Irlanda x Catar - 28/05 19:45 - SportTV 2",
+      "pubDate": "Thu, 28 May 2026 19:45:00",
       "guid": ""
     }
   ]

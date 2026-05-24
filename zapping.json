@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Praia) x Espanha (Praia) - 24/05 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia) x Espanha (Praia) - 24/05 19:00 - SportTV 6",
-      "pubDate": "Sun, 24 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Olympiacos (Basket) x Real Madrid (Basket) - 24/05 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Olympiacos (Basket) x Real Madrid (Basket) - 24/05 19:00 - SportTV 7",
@@ -299,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça x Jordânia - 31/05 14:00 - SportTV 1",
       "pubDate": "Sun, 31 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "China (S20) x Arábia Saudita (S23) - 31/05 14:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "China (S20) x Arábia Saudita (S23) - 31/05 14:00 - SportTV 5",
+      "pubDate": "Sun, 31 May 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Congo (S20) x Tunísia (S20) - 31/05 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Congo (S20) x Tunísia (S20) - 31/05 17:30 - SportTV 1",
+      "pubDate": "Sun, 31 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
+      "pubDate": "Sun, 31 May 2026 19:45:00",
       "guid": ""
     }
   ]

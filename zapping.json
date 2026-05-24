@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Olympiacos (Basket) x Real Madrid (Basket) - 24/05 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x Real Madrid (Basket) - 24/05 19:00 - SportTV 7",
-      "pubDate": "Sun, 24 May 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Cagliari - 24/05 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Cagliari - 24/05 19:45 - SportTV 2",
-      "pubDate": "Sun, 24 May 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hellas Verona x Roma - 24/05 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hellas Verona x Roma - 24/05 19:45 - SportTV 3",
-      "pubDate": "Sun, 24 May 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Torino x Juventus - 24/05 19:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Juventus - 24/05 19:45 - SportTV 5",
@@ -29,23 +8,16 @@
       "guid": ""
     },
     {
-      "title": "Villarreal x Atlético de Madrid - 24/05 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal x Atlético de Madrid - 24/05 20:00 - DAZN 1",
-      "pubDate": "Sun, 24 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FAR Rabat x Sundowns - 24/05 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FAR Rabat x Sundowns - 24/05 20:00 - SportTV 6",
-      "pubDate": "Sun, 24 May 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 25/05 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 25/05 01:00 - SportTV 1",
+      "pubDate": "Mon, 25 May 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 25/05 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x Colorado Avalanche (Hóquei no Gelo  Seniores) - 25/05 01:00 - SportTV 2",
       "pubDate": "Mon, 25 May 2026 01:00:00",
       "guid": ""
     },
@@ -306,13 +278,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Congo (S20) x Tunísia (S20) - 31/05 17:30 - SportTV 1",
       "pubDate": "Sun, 31 May 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
-      "pubDate": "Sun, 31 May 2026 19:45:00",
       "guid": ""
     }
   ]

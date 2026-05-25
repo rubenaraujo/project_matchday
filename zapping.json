@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estónia (S17) x Espanha (S17) - 25/05 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estónia (S17) x Espanha (S17) - 25/05 18:00 - Canal11",
-      "pubDate": "Mon, 25 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Basket) x FC Porto (Basket) - 25/05 19:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket) x FC Porto (Basket) - 25/05 19:00 - SportingTv",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "OC Barcelos (Hóquei) x Benfica (Hóquei) - 31/05 17:00 - DAZN 1",
       "pubDate": "Sun, 31 May 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Congo (S20) x Tunísia (S20) - 31/05 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Congo (S20) x Tunísia (S20) - 31/05 17:30 - SportTV 1",
+      "pubDate": "Sun, 31 May 2026 17:30:00",
       "guid": ""
     }
   ]

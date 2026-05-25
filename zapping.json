@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Paderborn 07 x Wolfsburg - 25/05 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Paderborn 07 x Wolfsburg - 25/05 19:30 - DAZN 1",
-      "pubDate": "Mon, 25 May 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 26/05 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cleveland Cavaliers (Basket) x New York Knicks (Basket) - 26/05 01:00 - SportTV 1",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Congo (S20) x Tunísia (S20) - 31/05 17:30 - SportTV 1",
       "pubDate": "Sun, 31 May 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara (S23) x Gil Vicente (S23) - 31/05 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x Gil Vicente (S23) - 31/05 18:00 - Canal11",
+      "pubDate": "Sun, 31 May 2026 18:00:00",
       "guid": ""
     }
   ]

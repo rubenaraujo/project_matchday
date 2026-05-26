@@ -288,13 +288,6 @@
       "guid": ""
     },
     {
-      "title": "Santa Clara (S23) x Gil Vicente (S23) - 31/05 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara (S23) x Gil Vicente (S23) - 31/05 18:00 - Canal11",
-      "pubDate": "Sun, 31 May 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Sporting (Futsal) - 31/05 20:30 - Canal11",
       "pubDate": "Sun, 31 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (S20) x Costa do Marfim (S20) - 01/06 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (S20) x Costa do Marfim (S20) - 01/06 14:00 - SportTV 1",
+      "pubDate": "Mon, 01 Jun 2026 14:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 26/05 21:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal  Jun.B S17) x Benfica (Futsal  Jun.B S17) - 26/05 21:30 - SportingTv",
-      "pubDate": "Tue, 26 May 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Grêmio x Montevideo City - 26/05 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grêmio x Montevideo City - 26/05 23:00 - SportTV 1",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
       "pubDate": "Sun, 31 May 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Futsal) x Sporting (Futsal) - 31/05 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Futsal) x Sporting (Futsal) - 31/05 20:30 - Canal11",
+      "pubDate": "Sun, 31 May 2026 20:30:00",
       "guid": ""
     }
   ]

@@ -92,6 +92,13 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 30/05 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 30/05 11:00 - PortoCanal",
+      "pubDate": "Sat, 30 May 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Escócia x Curaçao - 30/05 13:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Escócia x Curaçao - 30/05 13:00 - SportTV 1",
@@ -134,10 +141,10 @@
       "guid": ""
     },
     {
-      "title": "Toluca x Tigres - 31/05 00:00 - SportTV 2",
+      "title": "Toluca x Tigres - 31/05 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Toluca x Tigres - 31/05 00:00 - SportTV 2",
-      "pubDate": "Sun, 31 May 2026 00:00:00",
+      "description": "Toluca x Tigres - 31/05 01:00 - SportTV 2",
+      "pubDate": "Sun, 31 May 2026 01:00:00",
       "guid": ""
     },
     {
@@ -204,6 +211,13 @@
       "guid": ""
     },
     {
+      "title": "Estudiantes x Rosario Central - 31/05 19:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estudiantes x Rosario Central - 31/05 19:30 - SportTV 6",
+      "pubDate": "Sun, 31 May 2026 19:30:00",
+      "guid": ""
+    },
+    {
       "title": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha x Finlândia - 31/05 19:45 - SportTV 1",
@@ -211,10 +225,24 @@
       "guid": ""
     },
     {
+      "title": "Leganés x Mirandés - 31/05 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leganés x Mirandés - 31/05 20:00 - DAZN 1",
+      "pubDate": "Sun, 31 May 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "SC Braga (Futsal) x Sporting (Futsal) - 31/05 20:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Futsal) x Sporting (Futsal) - 31/05 20:30 - Canal11",
       "pubDate": "Sun, 31 May 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Club x Defensa y Justicia - 31/05 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Club x Defensa y Justicia - 31/05 23:00 - SportTV 2",
+      "pubDate": "Sun, 31 May 2026 23:00:00",
       "guid": ""
     },
     {
@@ -253,6 +281,13 @@
       "guid": ""
     },
     {
+      "title": "Colômbia x Costa Rica - 02/06 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colômbia x Costa Rica - 02/06 00:00 - SportTV 1",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00",
+      "guid": ""
+    },
+    {
       "title": "China (S20) x Congo (S20) - 02/06 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "China (S20) x Congo (S20) - 02/06 14:00 - SportTV 1",
@@ -278,34 +313,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "País de Gales x Gana - 02/06 19:45 - SportTV 1",
       "pubDate": "Tue, 02 Jun 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
-      "pubDate": "Wed, 03 Jun 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
-      "pubDate": "Wed, 03 Jun 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca x RD Congo - 03/06 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca x RD Congo - 03/06 19:00 - SportTV 1",
-      "pubDate": "Wed, 03 Jun 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia x Nigéria - 03/06 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia x Nigéria - 03/06 19:45 - SportTV 4",
-      "pubDate": "Wed, 03 Jun 2026 19:45:00",
       "guid": ""
     }
   ]

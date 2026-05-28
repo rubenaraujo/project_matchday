@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rep. Irlanda x Catar - 28/05 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rep. Irlanda x Catar - 28/05 19:45 - SportTV 2",
-      "pubDate": "Thu, 28 May 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Casa Pia AC x Torreense - 28/05 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Casa Pia AC x Torreense - 28/05 20:00 - SportTV 1",
@@ -306,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
       "pubDate": "Wed, 03 Jun 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
+      "pubDate": "Wed, 03 Jun 2026 17:30:00",
       "guid": ""
     }
   ]

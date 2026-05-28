@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Blooming - 28/05 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Blooming - 28/05 01:30 - SportTV 2",
-      "pubDate": "Thu, 28 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Platense - 28/05 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Platense - 28/05 01:30 - SportTV 2",
-      "pubDate": "Thu, 28 May 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S15) x Inglaterra (Feminino S15) - 28/05 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S15) x Inglaterra (Feminino S15) - 28/05 11:00 - Canal11",
@@ -285,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arábia Saudita (S23) x Colômbia (S20) - 02/06 17:30 - SportTV 2",
       "pubDate": "Tue, 02 Jun 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "País de Gales x Gana - 02/06 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "País de Gales x Gana - 02/06 19:45 - SportTV 1",
+      "pubDate": "Tue, 02 Jun 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
+      "pubDate": "Wed, 03 Jun 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
+      "pubDate": "Wed, 03 Jun 2026 17:30:00",
       "guid": ""
     }
   ]

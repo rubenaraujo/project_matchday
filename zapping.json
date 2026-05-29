@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Palmeiras x Junior Barranquilla - 28/05 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Junior Barranquilla - 28/05 23:00 - SportTV 1",
-      "pubDate": "Thu, 28 May 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Univ. Católica - 29/05 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Univ. Católica - 29/05 01:30 - SportTV 2",
@@ -305,6 +298,13 @@
       "title": "Polónia x Nigéria - 03/06 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia x Nigéria - 03/06 19:45 - SportTV 4",
+      "pubDate": "Wed, 03 Jun 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos x Argélia - 03/06 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos x Argélia - 03/06 19:45 - SportTV 2",
       "pubDate": "Wed, 03 Jun 2026 19:45:00",
       "guid": ""
     }

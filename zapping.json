@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Escócia x Curaçao - 30/05 13:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Escócia x Curaçao - 30/05 13:00 - SportTV 1",
-      "pubDate": "Sat, 30 May 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 30/05 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal) x Benfica (Futsal) - 30/05 15:00 - Canal11",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Voleibol) x Dinamarca (Voleibol) - 05/06 18:00 - SportTV 1",
       "pubDate": "Fri, 05 Jun 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hungria (Voleibol Feminino) x Portugal (Voleibol Feminino) - 05/06 21:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hungria (Voleibol Feminino) x Portugal (Voleibol Feminino) - 05/06 21:00 - SportTV 3",
+      "pubDate": "Fri, 05 Jun 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Japão (S20) x Canadá (S20) - 06/06 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Japão (S20) x Canadá (S20) - 06/06 14:00 - SportTV 2",
+      "pubDate": "Sat, 06 Jun 2026 14:00:00",
       "guid": ""
     }
   ]

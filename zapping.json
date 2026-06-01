@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Venezuela (S20) x Canadá (S20) - 01/06 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Venezuela (S20) x Canadá (S20) - 01/06 17:30 - SportTV 2",
-      "pubDate": "Mon, 01 Jun 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega x Suécia - 01/06 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x Suécia - 01/06 18:00 - SportTV 1",
-      "pubDate": "Mon, 01 Jun 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Turquia x Macedónia do Norte - 01/06 18:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia x Macedónia do Norte - 01/06 18:30 - SportTV 3",
-      "pubDate": "Mon, 01 Jun 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Áustria x Tunísia - 01/06 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Áustria x Tunísia - 01/06 19:45 - SportTV 2",
@@ -292,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Venezuela x Turquia - 06/06 23:00 - SportTV 2",
       "pubDate": "Sat, 06 Jun 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S18) x Finlândia (Feminino S18) - 07/06 12:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S18) x Finlândia (Feminino S18) - 07/06 12:00 - Canal11",
+      "pubDate": "Sun, 07 Jun 2026 12:00:00",
       "guid": ""
     }
   ]

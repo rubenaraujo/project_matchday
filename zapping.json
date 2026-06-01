@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Áustria x Tunísia - 01/06 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Áustria x Tunísia - 01/06 19:45 - SportTV 2",
-      "pubDate": "Mon, 01 Jun 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Colômbia x Costa Rica - 02/06 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia x Costa Rica - 02/06 00:00 - SportTV 1",
@@ -278,6 +271,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S18) x Finlândia (Feminino S18) - 07/06 12:00 - Canal11",
       "pubDate": "Sun, 07 Jun 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Almeida Garrett (Andebol Feminino) x Benfica (Andebol Feminino) - 07/06 14:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Almeida Garrett (Andebol Feminino) x Benfica (Andebol Feminino) - 07/06 14:00 - RTP2",
+      "pubDate": "Sun, 07 Jun 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Congo (S20) x Colômbia (S20) - 07/06 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Congo (S20) x Colômbia (S20) - 07/06 14:00 - SportTV 1",
+      "pubDate": "Sun, 07 Jun 2026 14:00:00",
       "guid": ""
     }
   ]

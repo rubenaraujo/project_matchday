@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "País de Gales x Gana - 02/06 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "País de Gales x Gana - 02/06 19:45 - SportTV 1",
-      "pubDate": "Tue, 02 Jun 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Japão (S20) x Portugal (S20) - 03/06 14:00 - SportTV 1",
@@ -278,6 +271,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Metz Handball/CSM Bucuresti x Brest Bretagne/Gyori ETO - 07/06 17:00 - SportTV 5",
       "pubDate": "Sun, 07 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
+      "pubDate": "Sun, 07 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 1",
+      "pubDate": "Sun, 07 Jun 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x Ucrânia - 07/06 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x Ucrânia - 07/06 17:30 - SportTV 1",
+      "pubDate": "Sun, 07 Jun 2026 17:30:00",
       "guid": ""
     }
   ]

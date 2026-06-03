@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Feminino S20) x Coreia do Sul (Feminino S20) - 03/06 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S20) x Coreia do Sul (Feminino S20) - 03/06 16:00 - Canal11",
-      "pubDate": "Wed, 03 Jun 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Costa do Marfim (S20) x Venezuela (S20) - 03/06 17:30 - SportTV 2",
@@ -225,6 +218,13 @@
       "guid": ""
     },
     {
+      "title": "Castellón x Almería - 06/06 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Castellón x Almería - 06/06 20:00 - DAZN 1",
+      "pubDate": "Sat, 06 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 06/06 21:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 06/06 21:30 - Canal11",
@@ -249,6 +249,13 @@
       "title": "FC Porto (Jun.C S15) x CD Tondela (Jun.C S15) - 07/06 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.C S15) x CD Tondela (Jun.C S15) - 07/06 11:00 - PortoCanal",
+      "pubDate": "Sun, 07 Jun 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Jun.C S15) x Belenenses (Jun.C S15) - 07/06 11:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.C S15) x Belenenses (Jun.C S15) - 07/06 11:00 - BTv",
       "pubDate": "Sun, 07 Jun 2026 11:00:00",
       "guid": ""
     },
@@ -281,31 +288,17 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Basket) x FC Porto (Basket) - 07/06 16:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x FC Porto (Basket) - 07/06 16:00 - BTv",
+      "pubDate": "Sun, 07 Jun 2026 16:00:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal (Voleibol Feminino) x Macedónia do Norte (Voleibol Feminino) - 07/06 16:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Voleibol Feminino) x Macedónia do Norte (Voleibol Feminino) - 07/06 16:30 - SportTV 4",
       "pubDate": "Sun, 07 Jun 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Metz Handball/CSM Bucuresti x Brest Bretagne/Gyori ETO - 07/06 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Metz Handball/CSM Bucuresti x Brest Bretagne/Gyori ETO - 07/06 17:00 - SportTV 5",
-      "pubDate": "Sun, 07 Jun 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
-      "pubDate": "Sun, 07 Jun 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca x Ucrânia - 07/06 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca x Ucrânia - 07/06 17:30 - SportTV 1",
-      "pubDate": "Sun, 07 Jun 2026 17:30:00",
       "guid": ""
     }
   ]

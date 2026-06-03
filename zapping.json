@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Dinamarca x RD Congo - 03/06 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca x RD Congo - 03/06 19:00 - SportTV 1",
-      "pubDate": "Wed, 03 Jun 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S21) x Irl. Norte (S21) - 03/06 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S21) x Irl. Norte (S21) - 03/06 19:30 - Canal11",
-      "pubDate": "Wed, 03 Jun 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia x Nigéria - 03/06 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia x Nigéria - 03/06 19:45 - SportTV 4",
-      "pubDate": "Wed, 03 Jun 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos x Argélia - 03/06 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos x Argélia - 03/06 19:45 - SportTV 2",
-      "pubDate": "Wed, 03 Jun 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Luxemburgo x Itália - 03/06 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Luxemburgo x Itália - 03/06 19:45 - SportTV 3",
-      "pubDate": "Wed, 03 Jun 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Hóquei) x Sporting (Hóquei) - 03/06 21:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Hóquei) x Sporting (Hóquei) - 03/06 21:00 - PortoCanal",
@@ -298,6 +263,13 @@
       "title": "Metz Handball/CSM Bucuresti x Brest Bretagne/Gyori ETO - 07/06 17:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Metz Handball/CSM Bucuresti x Brest Bretagne/Gyori ETO - 07/06 17:00 - SportTV 5",
+      "pubDate": "Sun, 07 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
       "pubDate": "Sun, 07 Jun 2026 17:00:00",
       "guid": ""
     }

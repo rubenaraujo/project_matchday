@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Hóquei) x Sporting (Hóquei) - 03/06 21:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Sporting (Hóquei) - 03/06 21:00 - PortoCanal",
-      "pubDate": "Wed, 03 Jun 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal) x Leões Porto Salvo (Futsal) - 03/06 21:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Leões Porto Salvo (Futsal) - 03/06 21:30 - Canal11",
-      "pubDate": "Wed, 03 Jun 2026 21:30:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Hóquei) x OC Barcelos (Hóquei) - 04/06 15:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x OC Barcelos (Hóquei) - 04/06 15:00 - BTv",
@@ -271,6 +257,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Juv. Pedras Salgadas x Vila Pouca - 07/06 17:00 - Canal11",
       "pubDate": "Sun, 07 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x Ucrânia - 07/06 17:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x Ucrânia - 07/06 17:30 - SportTV 1",
+      "pubDate": "Sun, 07 Jun 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 2",
+      "pubDate": "Sun, 07 Jun 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Sporting (Andebol) - 07/06 19:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Sporting (Andebol) - 07/06 19:30 - RTP2",
+      "pubDate": "Sun, 07 Jun 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Croácia x Eslovénia - 07/06 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Croácia x Eslovénia - 07/06 19:45 - SportTV 2",
+      "pubDate": "Sun, 07 Jun 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Grécia x Itália - 07/06 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grécia x Itália - 07/06 19:45 - SportTV 1",
+      "pubDate": "Sun, 07 Jun 2026 19:45:00",
       "guid": ""
     }
   ]

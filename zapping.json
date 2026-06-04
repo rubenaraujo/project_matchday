@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 04/06 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x Madeira SAD (Andebol Feminino) - 04/06 17:00 - BTv",
-      "pubDate": "Thu, 04 Jun 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha x Iraque - 04/06 20:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha x Iraque - 04/06 20:00 - SportTV 2",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "França x Irl. Norte - 08/06 20:10 - SportTV 1",
       "pubDate": "Mon, 08 Jun 2026 20:10:00",
+      "guid": ""
+    },
+    {
+      "title": "Peru x Espanha - 09/06 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Peru x Espanha - 09/06 03:00 - SportTV 1",
+      "pubDate": "Tue, 09 Jun 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
+      "pubDate": "Tue, 09 Jun 2026 19:00:00",
       "guid": ""
     }
   ]

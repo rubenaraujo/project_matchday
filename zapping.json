@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha x Iraque - 04/06 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Iraque - 04/06 20:00 - SportTV 2",
-      "pubDate": "Thu, 04 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x SC Braga (Futsal) - 04/06 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x SC Braga (Futsal) - 04/06 20:00 - Canal11",
-      "pubDate": "Thu, 04 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "França x Costa do Marfim - 04/06 20:10 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Costa do Marfim - 04/06 20:10 - SportTV 1",
-      "pubDate": "Thu, 04 Jun 2026 20:10:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 04/06 21:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal  Jun.A S19) x Sporting (Futsal  Jun.A S19) - 04/06 21:00 - BTv",
@@ -306,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
       "pubDate": "Tue, 09 Jun 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Congo (S20) x Arábia Saudita (S21) - 10/06 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Congo (S20) x Arábia Saudita (S21) - 10/06 12:30 - SportTV 1",
+      "pubDate": "Wed, 10 Jun 2026 12:30:00",
       "guid": ""
     }
   ]

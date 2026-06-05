@@ -57,6 +57,13 @@
       "guid": ""
     },
     {
+      "title": "Inglaterra x Nova Zelândia - 06/06 21:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inglaterra x Nova Zelândia - 06/06 21:00 - SportTV 3",
+      "pubDate": "Sat, 06 Jun 2026 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 06/06 21:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 06/06 21:30 - Canal11",
@@ -155,9 +162,9 @@
       "guid": ""
     },
     {
-      "title": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 2",
+      "title": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 2",
+      "description": "China (S20) x Tunísia (S20) - 07/06 17:30 - SportTV 3",
       "pubDate": "Sun, 07 Jun 2026 17:30:00",
       "guid": ""
     },
@@ -179,6 +186,13 @@
       "title": "Las Palmas x Málaga - 07/06 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Las Palmas x Málaga - 07/06 20:00 - DAZN 1",
+      "pubDate": "Sun, 07 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Grécia x Itália - 07/06 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grécia x Itália - 07/06 20:00 - SportTV 1",
       "pubDate": "Sun, 07 Jun 2026 20:00:00",
       "guid": ""
     },
@@ -274,9 +288,9 @@
       "guid": ""
     },
     {
-      "title": "México x África do Sul - 11/06 20:00 - Online",
+      "title": "México x África do Sul - 11/06 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "México x África do Sul - 11/06 20:00 - Online",
+      "description": "México x África do Sul - 11/06 20:00 - SportTV 1",
       "pubDate": "Thu, 11 Jun 2026 20:00:00",
       "guid": ""
     },
@@ -288,10 +302,17 @@
       "guid": ""
     },
     {
-      "title": "Canadá x Bósnia - 12/06 20:00 - Online",
+      "title": "Canadá x Bósnia - 12/06 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Canadá x Bósnia - 12/06 20:00 - Online",
+      "description": "Canadá x Bósnia - 12/06 20:00 - SportTV 5",
       "pubDate": "Fri, 12 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Montenegro (Voleibol) x Portugal (Voleibol) - 12/06 21:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Montenegro (Voleibol) x Portugal (Voleibol) - 12/06 21:00 - SportTV 2",
+      "pubDate": "Fri, 12 Jun 2026 21:00:00",
       "guid": ""
     }
   ]

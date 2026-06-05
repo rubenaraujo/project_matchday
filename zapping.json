@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Colômbia (S20) x China (S20) - 05/06 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia (S20) x China (S20) - 05/06 14:00 - SportTV 1",
-      "pubDate": "Fri, 05 Jun 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Arábia Saudita (S21) x Tunísia (S20) - 05/06 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arábia Saudita (S21) x Tunísia (S20) - 05/06 17:30 - SportTV 2",
@@ -313,6 +306,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Venezuela (S20) x Japão (S20) - 11/06 12:30 - SportTV 1",
       "pubDate": "Thu, 11 Jun 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S20) x Canadá (S20) - 11/06 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S20) x Canadá (S20) - 11/06 18:00 - SportTV 2",
+      "pubDate": "Thu, 11 Jun 2026 18:00:00",
       "guid": ""
     }
   ]

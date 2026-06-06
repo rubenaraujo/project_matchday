@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S20) x Costa do Marfim (S20) - 06/06 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S20) x Costa do Marfim (S20) - 06/06 17:30 - SportTV 3",
-      "pubDate": "Sat, 06 Jun 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal x Chile - 06/06 18:45 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal x Chile - 06/06 18:45 - RTP1",
@@ -260,9 +253,9 @@
       "guid": ""
     },
     {
-      "title": "México x África do Sul - 11/06 20:00 - SportTV 1",
+      "title": "México x África do Sul - 11/06 20:00 - TVI",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "México x África do Sul - 11/06 20:00 - SportTV 1",
+      "description": "México x África do Sul - 11/06 20:00 - TVI",
       "pubDate": "Thu, 11 Jun 2026 20:00:00",
       "guid": ""
     },
@@ -274,9 +267,9 @@
       "guid": ""
     },
     {
-      "title": "Canadá x Bósnia - 12/06 20:00 - SportTV 5",
+      "title": "Canadá x Bósnia - 12/06 20:00 - SIC",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Canadá x Bósnia - 12/06 20:00 - SportTV 5",
+      "description": "Canadá x Bósnia - 12/06 20:00 - SIC",
       "pubDate": "Fri, 12 Jun 2026 20:00:00",
       "guid": ""
     },
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aalborg (Andebol) x Barcelona (Andebol) - 13/06 17:00 - SportTV 4",
       "pubDate": "Sat, 13 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Letónia (Voleibol) x Montenegro (Voleibol) - 13/06 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Letónia (Voleibol) x Montenegro (Voleibol) - 13/06 17:00 - SportTV 2",
+      "pubDate": "Sat, 13 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Grécia (Voleibol Feminino) x Portugal (Voleibol Feminino) - 13/06 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grécia (Voleibol Feminino) x Portugal (Voleibol Feminino) - 13/06 18:00 - SportTV 4",
+      "pubDate": "Sat, 13 Jun 2026 18:00:00",
       "guid": ""
     }
   ]

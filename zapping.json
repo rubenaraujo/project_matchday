@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Metz Handball (Andebol Feminino) x CSM Bucuresti (Andebol Feminino) - 06/06 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Metz Handball (Andebol Feminino) x CSM Bucuresti (Andebol Feminino) - 06/06 14:00 - SportTV 6",
-      "pubDate": "Sat, 06 Jun 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S20) x Costa do Marfim (S20) - 06/06 17:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S20) x Costa do Marfim (S20) - 06/06 17:30 - SportTV 3",
@@ -299,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estados Unidos x Paraguai - 13/06 02:00 - SportTV 5",
       "pubDate": "Sat, 13 Jun 2026 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Magdeburg (Andebol) x Fuchse Berlin (Andebol) - 13/06 14:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Magdeburg (Andebol) x Fuchse Berlin (Andebol) - 13/06 14:00 - SportTV 4",
+      "pubDate": "Sat, 13 Jun 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aalborg (Andebol) x Barcelona (Andebol) - 13/06 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aalborg (Andebol) x Barcelona (Andebol) - 13/06 17:00 - SportTV 4",
+      "pubDate": "Sat, 13 Jun 2026 17:00:00",
       "guid": ""
     }
   ]

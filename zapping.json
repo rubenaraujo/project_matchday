@@ -36,6 +36,20 @@
       "guid": ""
     },
     {
+      "title": "Sérvia (S18) x Portugal (S18) - 09/06 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sérvia (S18) x Portugal (S18) - 09/06 16:00 - Canal11",
+      "pubDate": "Tue, 09 Jun 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia (Feminino) x Portugal (Feminino) - 09/06 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia (Feminino) x Portugal (Feminino) - 09/06 18:00 - Canal11",
+      "pubDate": "Tue, 09 Jun 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
@@ -43,10 +57,38 @@
       "guid": ""
     },
     {
+      "title": "Almería x Castellón - 09/06 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Almería x Castellón - 09/06 20:00 - DAZN 1",
+      "pubDate": "Tue, 09 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.C S15) x Paços de Ferreira (Jun.C S15) - 10/06 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.C S15) x Paços de Ferreira (Jun.C S15) - 10/06 11:00 - Canal11",
+      "pubDate": "Wed, 10 Jun 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.B S17) x Vitória SC (Jun.B S17) - 10/06 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.B S17) x Vitória SC (Jun.B S17) - 10/06 11:00 - SportingTv",
+      "pubDate": "Wed, 10 Jun 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "RD Congo (S20) x Arábia Saudita (S21) - 10/06 12:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "RD Congo (S20) x Arábia Saudita (S21) - 10/06 12:30 - SportTV 1",
       "pubDate": "Wed, 10 Jun 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.B S17) x Estoril Praia (Jun.B S17) - 10/06 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x Estoril Praia (Jun.B S17) - 10/06 15:00 - PortoCanal",
+      "pubDate": "Wed, 10 Jun 2026 15:00:00",
       "guid": ""
     },
     {
@@ -61,6 +103,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia (S20) x Tunísia (S20) - 10/06 18:00 - SportTV 5",
       "pubDate": "Wed, 10 Jun 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Málaga x Las Palmas - 10/06 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Málaga x Las Palmas - 10/06 20:00 - DAZN 1",
+      "pubDate": "Wed, 10 Jun 2026 20:00:00",
       "guid": ""
     },
     {
@@ -120,6 +169,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Futsal) x Sporting (Futsal) - 12/06 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Sporting (Futsal) - 12/06 21:00 - Canal11",
+      "pubDate": "Fri, 12 Jun 2026 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "Estados Unidos x Paraguai - 13/06 02:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estados Unidos x Paraguai - 13/06 02:00 - SportTV 5",
@@ -152,6 +208,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grécia (Voleibol Feminino) x Portugal (Voleibol Feminino) - 13/06 18:00 - SportTV 4",
       "pubDate": "Sat, 13 Jun 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 13/06 18:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 13/06 18:30 - Canal11",
+      "pubDate": "Sat, 13 Jun 2026 18:30:00",
       "guid": ""
     },
     {
@@ -222,76 +285,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Costa do Marfim x Equador - 15/06 00:00 - SportTV 5",
       "pubDate": "Mon, 15 Jun 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Suécia x Tunísia - 15/06 03:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suécia x Tunísia - 15/06 03:00 - SportTV 5",
-      "pubDate": "Mon, 15 Jun 2026 03:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha x Cabo Verde - 15/06 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Cabo Verde - 15/06 17:00 - SportTV 1",
-      "pubDate": "Mon, 15 Jun 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bélgica x Egipto - 15/06 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Egipto - 15/06 20:00 - SportTV 5",
-      "pubDate": "Mon, 15 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arábia Saudita x Uruguai - 15/06 23:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arábia Saudita x Uruguai - 15/06 23:00 - SportTV 5",
-      "pubDate": "Mon, 15 Jun 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Irão x Nova Zelândia - 16/06 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Irão x Nova Zelândia - 16/06 02:00 - SportTV 5",
-      "pubDate": "Tue, 16 Jun 2026 02:00:00",
-      "guid": ""
-    },
-    {
-      "title": "França x Senegal - 16/06 20:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Senegal - 16/06 20:00 - RTP1",
-      "pubDate": "Tue, 16 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Iraque x Noruega - 16/06 23:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Iraque x Noruega - 16/06 23:00 - SportTV 5",
-      "pubDate": "Tue, 16 Jun 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Argentina x Argélia - 17/06 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Argélia - 17/06 02:00 - SportTV 5",
-      "pubDate": "Wed, 17 Jun 2026 02:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Áustria x Jordânia - 17/06 05:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Áustria x Jordânia - 17/06 05:00 - SportTV 5",
-      "pubDate": "Wed, 17 Jun 2026 05:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal x RD Congo - 17/06 18:00 - SIC",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal x RD Congo - 17/06 18:00 - SIC",
-      "pubDate": "Wed, 17 Jun 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Almería x Castellón - 09/06 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Almería x Castellón - 09/06 20:00 - DAZN 1",
-      "pubDate": "Tue, 09 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Argentina x Islândia - 10/06 02:00 - Youtube",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentina x Islândia - 10/06 02:00 - Youtube",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gana x Panamá - 18/06 00:00 - SportTV 5",
       "pubDate": "Thu, 18 Jun 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Usbequistão x Colômbia - 18/06 03:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Usbequistão x Colômbia - 18/06 03:00 - SportTV 5",
+      "pubDate": "Thu, 18 Jun 2026 03:00:00",
       "guid": ""
     }
   ]

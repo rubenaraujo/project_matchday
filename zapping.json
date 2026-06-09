@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sérvia (S18) x Portugal (S18) - 09/06 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sérvia (S18) x Portugal (S18) - 09/06 16:00 - Canal11",
-      "pubDate": "Tue, 09 Jun 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal x RD Congo - 17/06 18:00 - SIC",
       "pubDate": "Wed, 17 Jun 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Inglaterra x Croácia - 17/06 21:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inglaterra x Croácia - 17/06 21:00 - SportTV 5",
+      "pubDate": "Wed, 17 Jun 2026 21:00:00",
       "guid": ""
     }
   ]

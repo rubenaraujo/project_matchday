@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Finlândia (Feminino) x Portugal (Feminino) - 09/06 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Finlândia (Feminino) x Portugal (Feminino) - 09/06 18:00 - Canal11",
-      "pubDate": "Tue, 09 Jun 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket) x FC Porto (Basket) - 09/06 19:00 - RTP2",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Áustria x Jordânia - 17/06 05:00 - SportTV 5",
       "pubDate": "Wed, 17 Jun 2026 05:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal x RD Congo - 17/06 18:00 - SIC",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal x RD Congo - 17/06 18:00 - SIC",
+      "pubDate": "Wed, 17 Jun 2026 18:00:00",
       "guid": ""
     }
   ]

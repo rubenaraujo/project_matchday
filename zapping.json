@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Jun.B S17) x Estoril Praia (Jun.B S17) - 10/06 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x Estoril Praia (Jun.B S17) - 10/06 15:00 - PortoCanal",
-      "pubDate": "Wed, 10 Jun 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leça FC x Vitória Sernache - 10/06 16:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leça FC x Vitória Sernache - 10/06 16:30 - Canal11",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça x Bósnia - 18/06 20:00 - RTP1",
       "pubDate": "Thu, 18 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Canadá x Catar - 18/06 23:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Canadá x Catar - 18/06 23:00 - SportTV 5",
+      "pubDate": "Thu, 18 Jun 2026 23:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "RD Congo (S20) x Arábia Saudita (S21) - 10/06 12:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RD Congo (S20) x Arábia Saudita (S21) - 10/06 12:30 - SportTV 1",
-      "pubDate": "Wed, 10 Jun 2026 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Jun.B S17) x Estoril Praia (Jun.B S17) - 10/06 15:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.B S17) x Estoril Praia (Jun.B S17) - 10/06 15:00 - PortoCanal",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Usbequistão x Colômbia - 18/06 03:00 - SportTV 5",
       "pubDate": "Thu, 18 Jun 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x África do Sul - 18/06 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x África do Sul - 18/06 17:00 - SportTV 5",
+      "pubDate": "Thu, 18 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Suíça x Bósnia - 18/06 20:00 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suíça x Bósnia - 18/06 20:00 - RTP1",
+      "pubDate": "Thu, 18 Jun 2026 20:00:00",
       "guid": ""
     }
   ]

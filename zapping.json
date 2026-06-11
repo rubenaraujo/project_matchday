@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "México x África do Sul - 11/06 20:00 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "México x África do Sul - 11/06 20:00 - TVI",
-      "pubDate": "Thu, 11 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 12/06 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Carolina Hurricanes (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 12/06 01:00 - SportTV 1",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Usbequistão x Colômbia - 18/06 03:00 - SportTV 5",
       "pubDate": "Thu, 18 Jun 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x África do Sul - 18/06 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x África do Sul - 18/06 17:00 - SportTV 5",
+      "pubDate": "Thu, 18 Jun 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Basket) x FC Porto (Basket) - 18/06 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Basket) x FC Porto (Basket) - 18/06 19:00 - RTP2",
+      "pubDate": "Thu, 18 Jun 2026 19:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Coreia do Sul x Chéquia - 12/06 03:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coreia do Sul x Chéquia - 12/06 03:00 - SportTV 5",
-      "pubDate": "Fri, 12 Jun 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Basket) x Benfica (Basket) - 12/06 19:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Basket) x Benfica (Basket) - 12/06 19:00 - RTP2",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça x Bósnia - 18/06 20:00 - RTP1",
       "pubDate": "Thu, 18 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Canadá x Catar - 18/06 23:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Canadá x Catar - 18/06 23:00 - SportTV 5",
+      "pubDate": "Thu, 18 Jun 2026 23:00:00",
       "guid": ""
     }
   ]

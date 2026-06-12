@@ -36,9 +36,9 @@
       "guid": ""
     },
     {
-      "title": "2 A x 2 B - 13/06 12:30 - SportTV 1",
+      "title": "Costa do Marfim (S20) x RD Congo (S20) - 13/06 12:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "2 A x 2 B - 13/06 12:30 - SportTV 1",
+      "description": "Costa do Marfim (S20) x RD Congo (S20) - 13/06 12:30 - SportTV 1",
       "pubDate": "Sat, 13 Jun 2026 12:30:00",
       "guid": ""
     },
@@ -71,9 +71,9 @@
       "guid": ""
     },
     {
-      "title": "1 A x 1 B - 13/06 18:00 - SportTV 1",
+      "title": "Portugal (S20) x Tunísia (S20) - 13/06 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "1 A x 1 B - 13/06 18:00 - SportTV 1",
+      "description": "Portugal (S20) x Tunísia (S20) - 13/06 18:00 - SportTV 1",
       "pubDate": "Sat, 13 Jun 2026 18:00:00",
       "guid": ""
     },
@@ -120,17 +120,17 @@
       "guid": ""
     },
     {
-      "title": "FC Alverca (Jun.C S15) x FC Porto (Jun.C S15) - 14/06 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Alverca (Jun.C S15) x FC Porto (Jun.C S15) - 14/06 11:00 - Canal11",
-      "pubDate": "Sun, 14 Jun 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Jun.C S15) x Belenenses (Jun.C S15) - 14/06 11:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Jun.C S15) x Belenenses (Jun.C S15) - 14/06 11:00 - SportingTv",
       "pubDate": "Sun, 14 Jun 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca (Jun.C S15) x FC Porto (Jun.C S15) - 14/06 11:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca (Jun.C S15) x FC Porto (Jun.C S15) - 14/06 11:30 - Canal11",
+      "pubDate": "Sun, 14 Jun 2026 11:30:00",
       "guid": ""
     },
     {

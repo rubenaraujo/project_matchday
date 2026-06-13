@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Magdeburg (Andebol) x Fuchse Berlin (Andebol) - 13/06 14:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Magdeburg (Andebol) x Fuchse Berlin (Andebol) - 13/06 14:00 - SportTV 4",
-      "pubDate": "Sat, 13 Jun 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Hóquei) x Sporting (Hóquei) - 13/06 15:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x Sporting (Hóquei) - 13/06 15:00 - DAZN",
@@ -120,9 +113,9 @@
       "guid": ""
     },
     {
-      "title": "Aalborg/Barcelona x SC Magdeburg/Fuchse Berlin - 14/06 17:00 - SportTV 3",
+      "title": "Aalborg/Barcelona x Fuchse Berlin (Andebol) - 14/06 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Aalborg/Barcelona x SC Magdeburg/Fuchse Berlin - 14/06 17:00 - SportTV 3",
+      "description": "Aalborg/Barcelona x Fuchse Berlin (Andebol) - 14/06 17:00 - SportTV 3",
       "pubDate": "Sun, 14 Jun 2026 17:00:00",
       "guid": ""
     },
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil x Haiti - 20/06 01:30 - LiveModeTV",
       "pubDate": "Sat, 20 Jun 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Turquia x Paraguai - 20/06 04:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turquia x Paraguai - 20/06 04:00 - SportTV 5",
+      "pubDate": "Sat, 20 Jun 2026 04:00:00",
       "guid": ""
     }
   ]

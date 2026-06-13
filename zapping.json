@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Aalborg (Andebol) x Barcelona (Andebol) - 13/06 17:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aalborg (Andebol) x Barcelona (Andebol) - 13/06 17:00 - SportTV 4",
-      "pubDate": "Sat, 13 Jun 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Letónia (Voleibol) x Montenegro (Voleibol) - 13/06 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia (Voleibol) x Montenegro (Voleibol) - 13/06 17:00 - SportTV 2",
-      "pubDate": "Sat, 13 Jun 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S20) x Tunísia (S20) - 13/06 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S20) x Tunísia (S20) - 13/06 18:00 - SportTV 1",
@@ -319,6 +305,13 @@
       "title": "Portugal (Voleibol) x Hungria (Voleibol) - 20/06 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Voleibol) x Hungria (Voleibol) - 20/06 15:00 - SportTV 1",
+      "pubDate": "Sat, 20 Jun 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - BTv",
       "pubDate": "Sat, 20 Jun 2026 15:00:00",
       "guid": ""
     }

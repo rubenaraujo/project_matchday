@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S20) x Tunísia (S20) - 13/06 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S20) x Tunísia (S20) - 13/06 18:00 - SportTV 1",
-      "pubDate": "Sat, 13 Jun 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 13/06 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal  Jun.B S17) x ADCR Caxinas Poça Barca (Futsal  Jun.B S17) - 13/06 18:30 - Canal11",
-      "pubDate": "Sat, 13 Jun 2026 18:30:00",
-      "guid": ""
-    },
-    {
       "title": "Catar x Suíça - 13/06 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Catar x Suíça - 13/06 20:00 - SportTV 5",
@@ -313,6 +299,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - BTv",
       "pubDate": "Sat, 20 Jun 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Roménia (Voleibol Feminino) x Portugal (Voleibol Feminino) - 20/06 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roménia (Voleibol Feminino) x Portugal (Voleibol Feminino) - 20/06 16:00 - SportTV 2",
+      "pubDate": "Sat, 20 Jun 2026 16:00:00",
       "guid": ""
     }
   ]

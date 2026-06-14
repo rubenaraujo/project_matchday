@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Brasil x Marrocos - 13/06 23:00 - LiveModeTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil x Marrocos - 13/06 23:00 - LiveModeTV",
-      "pubDate": "Sat, 13 Jun 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Haiti x Escócia - 14/06 02:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Haiti x Escócia - 14/06 02:00 - SportTV 5",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Equador x Curaçao - 21/06 01:00 - SportTV 5",
       "pubDate": "Sun, 21 Jun 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tunísia x Japão - 21/06 05:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tunísia x Japão - 21/06 05:00 - SportTV 5",
+      "pubDate": "Sun, 21 Jun 2026 05:00:00",
       "guid": ""
     }
   ]

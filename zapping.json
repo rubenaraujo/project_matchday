@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Haiti x Escócia - 14/06 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Haiti x Escócia - 14/06 02:00 - SportTV 5",
-      "pubDate": "Sun, 14 Jun 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Austrália x Turquia - 14/06 05:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Austrália x Turquia - 14/06 05:00 - SportTV 5",
@@ -327,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tunísia x Japão - 21/06 05:00 - SportTV 5",
       "pubDate": "Sun, 21 Jun 2026 05:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Azerbaijão (Voleibol) x Portugal (Voleibol) - 21/06 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Azerbaijão (Voleibol) x Portugal (Voleibol) - 21/06 15:00 - SportTV 2",
+      "pubDate": "Sun, 21 Jun 2026 15:00:00",
       "guid": ""
     }
   ]

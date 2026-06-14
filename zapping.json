@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Alemanha x Curaçao - 14/06 18:00 - LiveModeTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha x Curaçao - 14/06 18:00 - LiveModeTV",
-      "pubDate": "Sun, 14 Jun 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Málaga x Almería - 14/06 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Málaga x Almería - 14/06 20:00 - DAZN 1",
@@ -306,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Noruega x Senegal - 23/06 01:00 - SportTV 5",
       "pubDate": "Tue, 23 Jun 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Jordânia x Argélia - 23/06 04:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Jordânia x Argélia - 23/06 04:00 - SportTV 5",
+      "pubDate": "Tue, 23 Jun 2026 04:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal x Usbequistão - 23/06 18:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal x Usbequistão - 23/06 18:00 - TVI",
+      "pubDate": "Tue, 23 Jun 2026 18:00:00",
       "guid": ""
     }
   ]

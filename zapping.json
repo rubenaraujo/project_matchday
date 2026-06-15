@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Costa do Marfim x Equador - 15/06 00:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Costa do Marfim x Equador - 15/06 00:00 - SportTV 5",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Suécia x Tunísia - 15/06 03:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suécia x Tunísia - 15/06 03:00 - SportTV 5",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bósnia x Catar - 24/06 20:00 - SportTV 1",
       "pubDate": "Wed, 24 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marrocos x Haiti - 24/06 23:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marrocos x Haiti - 24/06 23:00 - SportTV 5",
+      "pubDate": "Wed, 24 Jun 2026 23:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Irão x Nova Zelândia - 16/06 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Irão x Nova Zelândia - 16/06 02:00 - SportTV 5",
-      "pubDate": "Tue, 16 Jun 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "França x Senegal - 16/06 20:00 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "França x Senegal - 16/06 20:00 - RTP1",
@@ -340,6 +333,13 @@
       "title": "Equador x Alemanha - 25/06 21:00 - SIC",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Equador x Alemanha - 25/06 21:00 - SIC",
+      "pubDate": "Thu, 25 Jun 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Curaçao x Costa do Marfim - 25/06 21:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Curaçao x Costa do Marfim - 25/06 21:00 - SportTV 5",
       "pubDate": "Thu, 25 Jun 2026 21:00:00",
       "guid": ""
     }

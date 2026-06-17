@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentina x Argélia - 17/06 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Argélia - 17/06 02:00 - SportTV 5",
-      "pubDate": "Wed, 17 Jun 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Áustria x Jordânia - 17/06 05:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Áustria x Jordânia - 17/06 05:00 - SportTV 5",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tunísia x Países Baixos - 26/06 00:00 - SportTV 1",
       "pubDate": "Fri, 26 Jun 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turquia x Estados Unidos - 26/06 03:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turquia x Estados Unidos - 26/06 03:00 - SportTV 5",
+      "pubDate": "Fri, 26 Jun 2026 03:00:00",
       "guid": ""
     }
   ]

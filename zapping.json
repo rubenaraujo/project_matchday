@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 17/06 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 17/06 20:30 - DAZN 1",
-      "pubDate": "Wed, 17 Jun 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Inglaterra x Croácia - 17/06 21:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Inglaterra x Croácia - 17/06 21:00 - SportTV 5",
@@ -340,6 +333,13 @@
       "title": "Noruega x França - 26/06 20:00 - TVI",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Noruega x França - 26/06 20:00 - TVI",
+      "pubDate": "Fri, 26 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal x Iraque - 26/06 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal x Iraque - 26/06 20:00 - SportTV 5",
       "pubDate": "Fri, 26 Jun 2026 20:00:00",
       "guid": ""
     }

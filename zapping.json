@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "México x Coreia do Sul - 19/06 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "México x Coreia do Sul - 19/06 02:00 - SportTV 5",
-      "pubDate": "Fri, 19 Jun 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Voleibol Feminino) x Lituânia (Voleibol Feminino) - 19/06 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Voleibol Feminino) x Lituânia (Voleibol Feminino) - 19/06 17:00 - SportTV 1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Panamá x Inglaterra - 27/06 22:00 - SportTV 5",
       "pubDate": "Sat, 27 Jun 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Colômbia x Portugal - 28/06 00:30 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Colômbia x Portugal - 28/06 00:30 - RTP1",
+      "pubDate": "Sun, 28 Jun 2026 00:30:00",
       "guid": ""
     }
   ]

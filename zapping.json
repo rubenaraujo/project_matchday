@@ -50,9 +50,9 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - BTv",
+      "title": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - BTv",
+      "description": "Benfica (Hóquei) x Sporting (Hóquei) - 20/06 15:00 - DAZN 1",
       "pubDate": "Sat, 20 Jun 2026 15:00:00",
       "guid": ""
     },
@@ -124,6 +124,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bélgica x Irão - 21/06 20:00 - SportTV 5",
       "pubDate": "Sun, 21 Jun 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x Sporting (Futsal) - 21/06 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Sporting (Futsal) - 21/06 21:00 - Canal11",
+      "pubDate": "Sun, 21 Jun 2026 21:00:00",
       "guid": ""
     },
     {
@@ -239,6 +246,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Futsal) x Benfica (Futsal) - 25/06 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x Benfica (Futsal) - 25/06 20:30 - Canal11",
+      "pubDate": "Thu, 25 Jun 2026 20:30:00",
+      "guid": ""
+    },
+    {
       "title": "Equador x Alemanha - 25/06 21:00 - SIC",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Equador x Alemanha - 25/06 21:00 - SIC",
@@ -334,20 +348,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Panamá x Inglaterra - 27/06 22:00 - SportTV 5",
       "pubDate": "Sat, 27 Jun 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colômbia x Portugal - 28/06 00:30 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia x Portugal - 28/06 00:30 - RTP1",
-      "pubDate": "Sun, 28 Jun 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "RD Congo x Usbequistão - 28/06 00:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RD Congo x Usbequistão - 28/06 00:30 - SportTV 5",
-      "pubDate": "Sun, 28 Jun 2026 00:30:00",
       "guid": ""
     }
   ]

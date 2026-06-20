@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Turquia x Paraguai - 20/06 04:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia x Paraguai - 20/06 04:00 - SportTV 5",
-      "pubDate": "Sat, 20 Jun 2026 04:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Jun.C S15) x Benfica (Jun.C S15) - 20/06 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.C S15) x Benfica (Jun.C S15) - 20/06 11:00 - PortoCanal",
@@ -340,6 +333,13 @@
       "title": "Argélia x Áustria - 28/06 03:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argélia x Áustria - 28/06 03:00 - SportTV 1",
+      "pubDate": "Sun, 28 Jun 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Jordânia x Argentina - 28/06 03:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Jordânia x Argentina - 28/06 03:00 - SportTV 5",
       "pubDate": "Sun, 28 Jun 2026 03:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Países Baixos x Suécia - 20/06 18:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos x Suécia - 20/06 18:00 - SportTV 5",
-      "pubDate": "Sat, 20 Jun 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 20/06 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 20/06 20:00 - Canal11",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1F x 2C - 30/06 02:00 - SportTV 5",
       "pubDate": "Tue, 30 Jun 2026 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "2E x 2I - 30/06 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "2E x 2I - 30/06 18:00 - SportTV 5",
+      "pubDate": "Tue, 30 Jun 2026 18:00:00",
       "guid": ""
     }
   ]

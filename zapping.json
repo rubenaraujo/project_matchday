@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 20/06 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 20/06 20:00 - Canal11",
-      "pubDate": "Sat, 20 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Almería x Málaga - 20/06 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Almería x Málaga - 20/06 20:00 - DAZN 1",
-      "pubDate": "Sat, 20 Jun 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Alemanha x Costa do Marfim - 20/06 21:00 - TVI",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alemanha x Costa do Marfim - 20/06 21:00 - TVI",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "2E x 2I - 30/06 18:00 - SportTV 5",
       "pubDate": "Tue, 30 Jun 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1I x 3 C/D/F/G/H - 30/06 22:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1I x 3 C/D/F/G/H - 30/06 22:00 - SportTV 5",
+      "pubDate": "Tue, 30 Jun 2026 22:00:00",
       "guid": ""
     }
   ]

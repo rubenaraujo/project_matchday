@@ -328,6 +328,20 @@
       "description": "1C x 2F - 29/06 18:00 - SportTV 5",
       "pubDate": "Mon, 29 Jun 2026 18:00:00",
       "guid": ""
+    },
+    {
+      "title": "1E x 3 A/B/C/D/F - 29/06 21:30 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1E x 3 A/B/C/D/F - 29/06 21:30 - SportTV 5",
+      "pubDate": "Mon, 29 Jun 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "1F x 2C - 30/06 02:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1F x 2C - 30/06 02:00 - SportTV 5",
+      "pubDate": "Tue, 30 Jun 2026 02:00:00",
+      "guid": ""
     }
   ]
 }

@@ -302,9 +302,9 @@
       "guid": ""
     },
     {
-      "title": "1E x 3 A/B/C/D/F - 29/06 21:30 - SportTV 5",
+      "title": "Alemanha x 3 A/B/C/D/F - 29/06 21:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "1E x 3 A/B/C/D/F - 29/06 21:30 - SportTV 5",
+      "description": "Alemanha x 3 A/B/C/D/F - 29/06 21:30 - SportTV 5",
       "pubDate": "Mon, 29 Jun 2026 21:30:00",
       "guid": ""
     },
@@ -334,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "México x 3 C/E/F/H/I - 01/07 02:00 - SportTV 5",
       "pubDate": "Wed, 01 Jul 2026 02:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1L x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1L x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
+      "pubDate": "Wed, 01 Jul 2026 17:00:00",
       "guid": ""
     }
   ]

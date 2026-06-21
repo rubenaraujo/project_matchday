@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal) x Sporting (Futsal) - 21/06 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Sporting (Futsal) - 21/06 21:00 - Canal11",
-      "pubDate": "Sun, 21 Jun 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Uruguai x Cabo Verde - 21/06 23:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Uruguai x Cabo Verde - 21/06 23:00 - SportTV 5",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1L x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
       "pubDate": "Wed, 01 Jul 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1G x 3 A/E/H/I/J - 01/07 21:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1G x 3 A/E/H/I/J - 01/07 21:00 - SportTV 5",
+      "pubDate": "Wed, 01 Jul 2026 21:00:00",
       "guid": ""
     }
   ]

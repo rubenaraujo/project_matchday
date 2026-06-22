@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Uruguai x Cabo Verde - 21/06 23:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Uruguai x Cabo Verde - 21/06 23:00 - SportTV 5",
-      "pubDate": "Sun, 21 Jun 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Nova Zelândia x Egipto - 22/06 02:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nova Zelândia x Egipto - 22/06 02:00 - SportTV 5",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1G x 3 A/E/H/I/J - 01/07 21:00 - SportTV 5",
       "pubDate": "Wed, 01 Jul 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estados Unidos x 3 B/E/F/I/J - 02/07 01:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estados Unidos x 3 B/E/F/I/J - 02/07 01:00 - SportTV 5",
+      "pubDate": "Thu, 02 Jul 2026 01:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "França x Iraque - 22/06 22:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Iraque - 22/06 22:00 - SportTV 5",
-      "pubDate": "Mon, 22 Jun 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Noruega x Senegal - 23/06 01:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Noruega x Senegal - 23/06 01:00 - SportTV 5",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1B x 3 E/F/G/I/J - 03/07 04:00 - SportTV 5",
       "pubDate": "Fri, 03 Jul 2026 04:00:00",
+      "guid": ""
+    },
+    {
+      "title": "2D x 2G - 03/07 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "2D x 2G - 03/07 19:00 - SportTV 5",
+      "pubDate": "Fri, 03 Jul 2026 19:00:00",
       "guid": ""
     }
   ]

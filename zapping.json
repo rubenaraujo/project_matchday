@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "AF Aveiro (S14) x AF Santarém (S14) - 24/06 09:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AF Aveiro (S14) x AF Santarém (S14) - 24/06 09:30 - Canal11",
-      "pubDate": "Wed, 24 Jun 2026 09:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AF Braga (S14) x AF Madeira (S14) - 24/06 09:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AF Braga (S14) x AF Madeira (S14) - 24/06 09:30 - Canal11",
-      "pubDate": "Wed, 24 Jun 2026 09:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha (Futsal Feminino S17) x Portugal (Futsal Feminino S17) - 24/06 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal Feminino S17) x Portugal (Futsal Feminino S17) - 24/06 11:00 - Canal11",
-      "pubDate": "Wed, 24 Jun 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "AF Vila Real (S14) x AF Guarda (S14) - 24/06 11:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AF Vila Real (S14) x AF Guarda (S14) - 24/06 11:30 - Canal11",
@@ -348,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1K x 3 D/E/I/J/L - 04/07 02:30 - SportTV 5",
       "pubDate": "Sat, 04 Jul 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Winner Match 73 x Winner Match 75 - 04/07 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Winner Match 73 x Winner Match 75 - 04/07 18:00 - SportTV 5",
+      "pubDate": "Sat, 04 Jul 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Winner Match 74 x Winner Match 77 - 04/07 22:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Winner Match 74 x Winner Match 77 - 04/07 22:00 - SportTV 5",
+      "pubDate": "Sat, 04 Jul 2026 22:00:00",
       "guid": ""
     }
   ]

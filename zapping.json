@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Japão x Suécia - 26/06 00:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Japão x Suécia - 26/06 00:00 - SportTV 5",
-      "pubDate": "Fri, 26 Jun 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tunísia x Países Baixos - 26/06 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tunísia x Países Baixos - 26/06 00:00 - SportTV 1",
-      "pubDate": "Fri, 26 Jun 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Turquia x Estados Unidos - 26/06 03:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Turquia x Estados Unidos - 26/06 03:00 - SportTV 5",
@@ -33,6 +19,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (Futsal  S17) x Portugal (Futsal  S17) - 26/06 18:30 - Canal11",
       "pubDate": "Fri, 26 Jun 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Basket) x Suíça (Basket) - 26/06 19:00 - FPBTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Basket) x Suíça (Basket) - 26/06 19:00 - FPBTV",
+      "pubDate": "Fri, 26 Jun 2026 19:00:00",
       "guid": ""
     },
     {
@@ -127,9 +120,9 @@
       "guid": ""
     },
     {
-      "title": "Brasil x 2F - 29/06 18:00 - SportTV 5",
+      "title": "Brasil x Japão - 29/06 18:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil x 2F - 29/06 18:00 - SportTV 5",
+      "description": "Brasil x Japão - 29/06 18:00 - SportTV 5",
       "pubDate": "Mon, 29 Jun 2026 18:00:00",
       "guid": ""
     },
@@ -141,9 +134,9 @@
       "guid": ""
     },
     {
-      "title": "1F x Marrocos - 30/06 02:00 - SportTV 5",
+      "title": "Países Baixos x Marrocos - 30/06 02:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "1F x Marrocos - 30/06 02:00 - SportTV 5",
+      "description": "Países Baixos x Marrocos - 30/06 02:00 - SportTV 5",
       "pubDate": "Tue, 30 Jun 2026 02:00:00",
       "guid": ""
     },
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Loser Match 101 x Loser Match 102 - 18/07 22:00 - SportTV 5",
       "pubDate": "Sat, 18 Jul 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Winner Match 101 x Winner Match 102 - 19/07 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Winner Match 101 x Winner Match 102 - 19/07 20:00 - SportTV 5",
+      "pubDate": "Sun, 19 Jul 2026 20:00:00",
       "guid": ""
     }
   ]

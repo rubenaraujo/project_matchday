@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Croácia x Gana - 27/06 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Croácia x Gana - 27/06 22:00 - SportTV 1",
-      "pubDate": "Sat, 27 Jun 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Panamá x Inglaterra - 27/06 22:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Panamá x Inglaterra - 27/06 22:00 - SportTV 5",
-      "pubDate": "Sat, 27 Jun 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Colômbia x Portugal - 28/06 00:30 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia x Portugal - 28/06 00:30 - RTP1",
@@ -92,9 +78,9 @@
       "guid": ""
     },
     {
-      "title": "1L x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
+      "title": "Inglaterra x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "1L x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
+      "description": "Inglaterra x 3 E/H/I/J/K - 01/07 17:00 - SportTV 5",
       "pubDate": "Wed, 01 Jul 2026 17:00:00",
       "guid": ""
     },
@@ -120,9 +106,9 @@
       "guid": ""
     },
     {
-      "title": "2K x 2L - 03/07 00:00 - SportTV 5",
+      "title": "2K x Croácia - 03/07 00:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "2K x 2L - 03/07 00:00 - SportTV 5",
+      "description": "2K x Croácia - 03/07 00:00 - SportTV 5",
       "pubDate": "Fri, 03 Jul 2026 00:00:00",
       "guid": ""
     },

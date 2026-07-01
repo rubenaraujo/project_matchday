@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "title": "Bélgica x Senegal - 01/07 21:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Senegal - 01/07 21:00 - RTP1",
-      "pubDate": "Wed, 01 Jul 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Estados Unidos x Bósnia - 02/07 01:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estados Unidos x Bósnia - 02/07 01:00 - SportTV 5",
       "pubDate": "Thu, 02 Jul 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Croácia (S19) x Itália (S19) - 02/07 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Croácia (S19) x Itália (S19) - 02/07 14:00 - Canal11",
+      "pubDate": "Thu, 02 Jul 2026 14:00:00",
       "guid": ""
     },
     {
@@ -36,10 +36,24 @@
       "guid": ""
     },
     {
+      "title": "Alemanha (Feminino S19) x Suécia (Feminino S19) - 03/07 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alemanha (Feminino S19) x Suécia (Feminino S19) - 03/07 16:00 - Canal11",
+      "pubDate": "Fri, 03 Jul 2026 16:00:00",
+      "guid": ""
+    },
+    {
       "title": "Austrália x Egipto - 03/07 19:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Austrália x Egipto - 03/07 19:00 - SportTV 5",
       "pubDate": "Fri, 03 Jul 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Flamengo x River Plate - 03/07 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Flamengo x River Plate - 03/07 19:30 - Canal11",
+      "pubDate": "Fri, 03 Jul 2026 19:30:00",
       "guid": ""
     },
     {
@@ -54,6 +68,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia x Gana - 04/07 02:30 - SportTV 5",
       "pubDate": "Sat, 04 Jul 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (S19) x Alemanha (S19) - 04/07 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (S19) x Alemanha (S19) - 04/07 14:00 - Canal11",
+      "pubDate": "Sat, 04 Jul 2026 14:00:00",
       "guid": ""
     },
     {

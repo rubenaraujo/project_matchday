@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentina x Cabo Verde - 03/07 23:00 - TVI",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Cabo Verde - 03/07 23:00 - TVI",
-      "pubDate": "Fri, 03 Jul 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Colômbia x Gana - 04/07 02:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colômbia x Gana - 04/07 02:30 - SportTV 5",
-      "pubDate": "Sat, 04 Jul 2026 02:30:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (S19) x Alemanha (S19) - 04/07 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (S19) x Alemanha (S19) - 04/07 14:00 - Canal11",
@@ -64,16 +50,16 @@
       "guid": ""
     },
     {
-      "title": "Winner Match 86 x Egipto - 07/07 17:00 - SportTV 5",
+      "title": "Argentina x Egipto - 07/07 17:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Winner Match 86 x Egipto - 07/07 17:00 - SportTV 5",
+      "description": "Argentina x Egipto - 07/07 17:00 - SportTV 5",
       "pubDate": "Tue, 07 Jul 2026 17:00:00",
       "guid": ""
     },
     {
-      "title": "Suíça x Winner Match 87 - 07/07 21:00 - SportTV 5",
+      "title": "Suíça x Colômbia - 07/07 21:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça x Winner Match 87 - 07/07 21:00 - SportTV 5",
+      "description": "Suíça x Colômbia - 07/07 21:00 - SportTV 5",
       "pubDate": "Tue, 07 Jul 2026 21:00:00",
       "guid": ""
     },

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 11/07 17:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 11/07 17:45 - Canal11",
-      "pubDate": "Sat, 11 Jul 2026 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (S19) x Alemanha (S19) - 11/07 19:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (S19) x Alemanha (S19) - 11/07 19:00 - Canal11",
@@ -99,6 +92,13 @@
       "guid": ""
     },
     {
+      "title": "Sportfreunde Lotte x Real Betis - 18/07 14:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sportfreunde Lotte x Real Betis - 18/07 14:30 - SportTV 1",
+      "pubDate": "Sat, 18 Jul 2026 14:30:00",
+      "guid": ""
+    },
+    {
       "title": "Celtic x Middlesbrough - 18/07 15:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celtic x Middlesbrough - 18/07 15:00 - SportTV +",
@@ -145,6 +145,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Medellín x Vasco - 22/07 23:00 - SportTV 1",
       "pubDate": "Wed, 22 Jul 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "St. Gallen x Benfica - 23/07 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "St. Gallen x Benfica - 23/07 19:00 - SportTV 5",
+      "pubDate": "Thu, 23 Jul 2026 19:00:00",
       "guid": ""
     },
     {
@@ -295,23 +302,23 @@
       "guid": ""
     },
     {
-      "title": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "QPR x Fiorentina - 25/07 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "QPR x Fiorentina - 25/07 15:00 - SportTV 2",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Gil Vicente (Fut.6  Legends) x Vencedor Grupo C - 25/07 15:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente (Fut.6  Legends) x Vencedor Grupo C - 25/07 15:00 - SportTV 6",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV 2",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
       "pubDate": "Sat, 25 Jul 2026 15:00:00",
       "guid": ""
     },
@@ -327,13 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Fut.6  Legends) x SC Braga (Fut.6  Legends) - 25/07 17:00 - SportTV 6",
       "pubDate": "Sat, 25 Jul 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Fut.6  Legends) x Gil Vicente (Fut.6  Legends) - 25/07 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Fut.6  Legends) x Gil Vicente (Fut.6  Legends) - 25/07 18:00 - SportTV 6",
-      "pubDate": "Sat, 25 Jul 2026 18:00:00",
       "guid": ""
     }
   ]

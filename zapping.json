@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Noruega x Inglaterra - 11/07 22:00 - SIC",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x Inglaterra - 11/07 22:00 - SIC",
-      "pubDate": "Sat, 11 Jul 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Argentina x Suíça - 12/07 02:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentina x Suíça - 12/07 02:00 - SportTV 5",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Barracas Central - 25/07 23:15 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Leeds United - 26/07 00:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Leeds United - 26/07 00:30 - SportTV +",
+      "pubDate": "Sun, 26 Jul 2026 00:30:00",
       "guid": ""
     }
   ]

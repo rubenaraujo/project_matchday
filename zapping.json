@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentina x Suíça - 12/07 02:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Suíça - 12/07 02:00 - SportTV 5",
-      "pubDate": "Sun, 12 Jul 2026 02:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ericeirense (Praia) x CF Chelas (Praia) - 12/07 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ericeirense (Praia) x CF Chelas (Praia) - 12/07 11:00 - Canal11",
@@ -43,9 +36,9 @@
       "guid": ""
     },
     {
-      "title": "Winner Match 99 x Winner Match 100 - 15/07 20:00 - SportTV 1",
+      "title": "Inglaterra x Argentina - 15/07 20:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Winner Match 99 x Winner Match 100 - 15/07 20:00 - SportTV 1",
+      "description": "Inglaterra x Argentina - 15/07 20:00 - SportTV 1",
       "pubDate": "Wed, 15 Jul 2026 20:00:00",
       "guid": ""
     },
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Leeds United - 26/07 00:30 - SportTV +",
       "pubDate": "Sun, 26 Jul 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Auckland FC x Tottenham - 26/07 04:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Auckland FC x Tottenham - 26/07 04:00 - SportTV 1",
+      "pubDate": "Sun, 26 Jul 2026 04:00:00",
       "guid": ""
     }
   ]

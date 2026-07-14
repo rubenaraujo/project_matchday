@@ -15,9 +15,9 @@
       "guid": ""
     },
     {
-      "title": "Inglaterra x Argentina - 15/07 20:00 - SportTV 1",
+      "title": "Inglaterra x Argentina - 15/07 20:00 - TVI",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Inglaterra x Argentina - 15/07 20:00 - SportTV 1",
+      "description": "Inglaterra x Argentina - 15/07 20:00 - TVI",
       "pubDate": "Wed, 15 Jul 2026 20:00:00",
       "guid": ""
     },
@@ -75,6 +75,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Sesimbra (Praia) x GRAP (Praia) - 18/07 16:30 - Canal11",
       "pubDate": "Sat, 18 Jul 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x Académica OAF - 18/07 17:30 - Liga TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x Académica OAF - 18/07 17:30 - Liga TV",
+      "pubDate": "Sat, 18 Jul 2026 17:30:00",
       "guid": ""
     },
     {
@@ -341,13 +348,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Auckland FC x Tottenham - 26/07 04:00 - SportTV 1",
       "pubDate": "Sun, 26 Jul 2026 04:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Semifinalista 1 x Semifinalista 2 - 26/07 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Semifinalista 1 x Semifinalista 2 - 26/07 11:00 - SportTV 1",
-      "pubDate": "Sun, 26 Jul 2026 11:00:00",
       "guid": ""
     }
   ]

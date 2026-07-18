@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "França x Inglaterra - 18/07 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Inglaterra - 18/07 22:00 - SportTV 1",
-      "pubDate": "Sat, 18 Jul 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha x Argentina - 19/07 20:00 - RTP1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha x Argentina - 19/07 20:00 - RTP1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Barracas Central - 25/07 23:15 - SportTV 3",
       "pubDate": "Sat, 25 Jul 2026 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Leeds United - 26/07 00:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Leeds United - 26/07 00:30 - SportTV 4",
+      "pubDate": "Sun, 26 Jul 2026 00:30:00",
       "guid": ""
     }
   ]

@@ -1,31 +1,10 @@
 {
   "items": [
     {
-      "title": "Ajax x Olympiacos - 18/07 14:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Olympiacos - 18/07 14:30 - SportTV 1",
-      "pubDate": "Sat, 18 Jul 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Celtic x Middlesbrough - 18/07 15:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Middlesbrough - 18/07 15:00 - SportTV +",
-      "pubDate": "Sat, 18 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ericeirense (Praia) x Leixões (Praia) - 18/07 15:15 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ericeirense (Praia) x Leixões (Praia) - 18/07 15:15 - Canal11",
       "pubDate": "Sat, 18 Jul 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "RW Oberhausen x Borussia Dortmund - 18/07 16:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "RW Oberhausen x Borussia Dortmund - 18/07 16:00 - SportTV 5",
-      "pubDate": "Sat, 18 Jul 2026 16:00:00",
       "guid": ""
     },
     {
@@ -61,6 +40,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha x Argentina - 19/07 20:00 - RTP1",
       "pubDate": "Sun, 19 Jul 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Strasbourg - 20/07 20:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Strasbourg - 20/07 20:15 - DAZN 1",
+      "pubDate": "Mon, 20 Jul 2026 20:15:00",
       "guid": ""
     },
     {
@@ -123,6 +109,13 @@
       "title": "St. Gallen x Benfica - 23/07 19:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "St. Gallen x Benfica - 23/07 19:00 - SportTV 5",
+      "pubDate": "Thu, 23 Jul 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Twente x Ferencváros - 23/07 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Twente x Ferencváros - 23/07 19:00 - SportTV 1",
       "pubDate": "Thu, 23 Jul 2026 19:00:00",
       "guid": ""
     },
@@ -295,10 +288,24 @@
       "guid": ""
     },
     {
+      "title": "Vila Flor SC (Praia) x Ericeirense (Praia) - 25/07 15:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vila Flor SC (Praia) x Ericeirense (Praia) - 25/07 15:15 - Canal11",
+      "pubDate": "Sat, 25 Jul 2026 15:15:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Fut.6  Legends) x FC Arouca (Fut.6  Legends) - 25/07 16:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Fut.6  Legends) x FC Arouca (Fut.6  Legends) - 25/07 16:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (Praia) x GD Sesimbra (Praia) - 25/07 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (Praia) x GD Sesimbra (Praia) - 25/07 16:30 - Canal11",
+      "pubDate": "Sat, 25 Jul 2026 16:30:00",
       "guid": ""
     },
     {
@@ -309,45 +316,17 @@
       "guid": ""
     },
     {
+      "title": "ACD O Sótão (Praia) x GRAP (Praia) - 25/07 17:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ACD O Sótão (Praia) x GRAP (Praia) - 25/07 17:45 - Canal11",
+      "pubDate": "Sat, 25 Jul 2026 17:45:00",
+      "guid": ""
+    },
+    {
       "title": "Sporting (Fut.6  Legends) x Gil Vicente (Fut.6  Legends) - 25/07 18:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Fut.6  Legends) x Gil Vicente (Fut.6  Legends) - 25/07 18:00 - SportTV 3",
       "pubDate": "Sat, 25 Jul 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Estoril Praia x Torreense - 25/07 19:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Torreense - 25/07 19:00 - SportTV 2",
-      "pubDate": "Sat, 25 Jul 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Standard Liège x Juventus - 25/07 19:00 - LiveModeTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Standard Liège x Juventus - 25/07 19:00 - LiveModeTV",
-      "pubDate": "Sat, 25 Jul 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Monaco - 25/07 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Monaco - 25/07 19:30 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Aston Villa - 25/07 20:00 - SportTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Aston Villa - 25/07 20:00 - SportTV",
-      "pubDate": "Sat, 25 Jul 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Sunderland - 25/07 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Sunderland - 25/07 23:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 23:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Sturm Graz x Hearts - 21/07 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sturm Graz x Hearts - 21/07 19:30 - Canal11",
-      "pubDate": "Tue, 21 Jul 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente Rivadavia x Estudiantes - 21/07 22:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Rivadavia x Estudiantes - 21/07 22:00 - SportTV 1",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wrexham x Leeds United - 26/07 00:30 - SportTV 4",
       "pubDate": "Sun, 26 Jul 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Melhor 1.º Classificado x 2 Melhor Classificado - 26/07 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Melhor 1.º Classificado x 2 Melhor Classificado - 26/07 11:00 - SportTV 1",
+      "pubDate": "Sun, 26 Jul 2026 11:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Gil Vicente x FC Porto - 22/07 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x FC Porto - 22/07 20:00 - SportTV 1",
-      "pubDate": "Wed, 22 Jul 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Zeleznicar Pancevo x SC Braga - 22/07 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Zeleznicar Pancevo x SC Braga - 22/07 20:00 - SportTV 5",
-      "pubDate": "Wed, 22 Jul 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente Medellín x Vasco - 22/07 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente Medellín x Vasco - 22/07 23:00 - SportTV 1",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Melhor 1.º Classificado x 2 Melhor Classificado - 26/07 11:00 - SportTV 1",
       "pubDate": "Sun, 26 Jul 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Semifinalista 3 x Semifinalista 4 - 26/07 12:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Semifinalista 3 x Semifinalista 4 - 26/07 12:00 - SportTV 1",
+      "pubDate": "Sun, 26 Jul 2026 12:00:00",
       "guid": ""
     }
   ]

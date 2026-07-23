@@ -323,13 +323,6 @@
       "guid": ""
     },
     {
-      "title": "Eintracht Frankfurt x Trabzonspor - 26/07 14:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eintracht Frankfurt x Trabzonspor - 26/07 14:30 - SportTV 4",
-      "pubDate": "Sun, 26 Jul 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Derrotado MF1 x Derrotado MF2 - 26/07 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Derrotado MF1 x Derrotado MF2 - 26/07 15:00 - SportTV 1",
@@ -341,6 +334,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Karlsruher SC x Internazionale - 26/07 15:30 - SportTV 2",
       "pubDate": "Sun, 26 Jul 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Finalista 1 x Finalista 2 - 26/07 16:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finalista 1 x Finalista 2 - 26/07 16:00 - SportTV 1",
+      "pubDate": "Sun, 26 Jul 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla x AD Ceuta - 26/07 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla x AD Ceuta - 26/07 20:00 - SportTV 1",
+      "pubDate": "Sun, 26 Jul 2026 20:00:00",
       "guid": ""
     }
   ]

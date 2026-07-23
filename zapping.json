@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Independiente Medellín x Vasco - 22/07 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente Medellín x Vasco - 22/07 23:00 - SportTV 1",
-      "pubDate": "Wed, 22 Jul 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Coritiba x Palmeiras - 22/07 23:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Coritiba x Palmeiras - 22/07 23:30 - Canal11",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Semifinalista 3 x Semifinalista 4 - 26/07 12:00 - SportTV 1",
       "pubDate": "Sun, 26 Jul 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x Burnley - 26/07 13:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x Burnley - 26/07 13:00 - SportTV 2",
+      "pubDate": "Sun, 26 Jul 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x Trabzonspor - 26/07 14:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x Trabzonspor - 26/07 14:30 - SportTV 4",
+      "pubDate": "Sun, 26 Jul 2026 14:30:00",
       "guid": ""
     }
   ]

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Est. Amadora (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 24/07 10:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 24/07 10:00 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 10:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico (Fut.6  Legends) x Torreense (Fut.6  Legends) - 24/07 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (Fut.6  Legends) x Torreense (Fut.6  Legends) - 24/07 11:00 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Felgueiras (Fut.6  Legends) x Estoril Praia (Fut.6  Legends) - 24/07 12:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras (Fut.6  Legends) x Estoril Praia (Fut.6  Legends) - 24/07 12:00 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Swansea City x Udinese - 24/07 12:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Swansea City x Udinese - 24/07 12:00 - SportTV 2",
@@ -36,9 +15,9 @@
       "guid": ""
     },
     {
-      "title": "Farense (Fut.6  Legends) x Torreense (Fut.6  Legends) - 24/07 15:00 - SportTV 1",
+      "title": "Torreense (Fut.6  Legends) x Farense (Fut.6  Legends) - 24/07 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense (Fut.6  Legends) x Torreense (Fut.6  Legends) - 24/07 15:00 - SportTV 1",
+      "description": "Torreense (Fut.6  Legends) x Farense (Fut.6  Legends) - 24/07 15:00 - SportTV 1",
       "pubDate": "Fri, 24 Jul 2026 15:00:00",
       "guid": ""
     },
@@ -57,9 +36,9 @@
       "guid": ""
     },
     {
-      "title": "Leixões (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 24/07 17:00 - SportTV 1",
+      "title": "Casa Pia AC (Fut.6  Legends) x Leixões (Fut.6  Legends) - 24/07 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 24/07 17:00 - SportTV 1",
+      "description": "Casa Pia AC (Fut.6  Legends) x Leixões (Fut.6  Legends) - 24/07 17:00 - SportTV 1",
       "pubDate": "Fri, 24 Jul 2026 17:00:00",
       "guid": ""
     },
@@ -67,6 +46,13 @@
       "title": "Farense (Fut.6  Legends) x Académico (Fut.6  Legends) - 24/07 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense (Fut.6  Legends) x Académico (Fut.6  Legends) - 24/07 18:00 - SportTV 1",
+      "pubDate": "Fri, 24 Jul 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Belenenses - 24/07 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Belenenses - 24/07 18:00 - BTv",
       "pubDate": "Fri, 24 Jul 2026 18:00:00",
       "guid": ""
     },
@@ -334,13 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Atlético Mineiro - 26/07 23:30 - Canal11",
       "pubDate": "Sun, 26 Jul 2026 23:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
-      "pubDate": "Tue, 28 Jul 2026 10:45:00",
       "guid": ""
     }
   ]

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Bolívar x Grêmio - 23/07 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolívar x Grêmio - 23/07 23:00 - SportTV 1",
-      "pubDate": "Thu, 23 Jul 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belgrano x Rosario Central - 23/07 23:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belgrano x Rosario Central - 23/07 23:30 - SportTV 2",
-      "pubDate": "Thu, 23 Jul 2026 23:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x O´Higgins - 24/07 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x O´Higgins - 24/07 01:30 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Est. Amadora (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 24/07 10:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 24/07 10:00 - SportTV 1",
@@ -348,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Atlético Mineiro - 26/07 23:30 - Canal11",
       "pubDate": "Sun, 26 Jul 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
+      "pubDate": "Tue, 28 Jul 2026 10:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Crystal Palace - 28/07 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Crystal Palace - 28/07 18:00 - SportTV 1",
+      "pubDate": "Tue, 28 Jul 2026 18:00:00",
       "guid": ""
     }
   ]

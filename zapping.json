@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Belenenses - 24/07 18:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Belenenses - 24/07 18:00 - BTv",
-      "pubDate": "Fri, 24 Jul 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (Fut.6  Legends) x Estoril Praia (Fut.6  Legends) - 24/07 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Fut.6  Legends) x Estoril Praia (Fut.6  Legends) - 24/07 19:00 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Arouca (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 09:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Arouca (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 09:00 - SportTV 1",
@@ -320,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tottenham x Sydney FC - 29/07 10:45 - SportTV 1",
       "pubDate": "Wed, 29 Jul 2026 10:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Praia Feminino) x Itália (Praia Feminino) - 29/07 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Praia Feminino) x Itália (Praia Feminino) - 29/07 15:30 - SportTV 1",
+      "pubDate": "Wed, 29 Jul 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Lyon - 29/07 19:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Lyon - 29/07 19:00 - SportTV 2",
+      "pubDate": "Wed, 29 Jul 2026 19:00:00",
       "guid": ""
     }
   ]

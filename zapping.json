@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Casa Pia AC (Fut.6  Legends) x Leixões (Fut.6  Legends) - 24/07 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC (Fut.6  Legends) x Leixões (Fut.6  Legends) - 24/07 17:00 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Farense (Fut.6  Legends) x Académico (Fut.6  Legends) - 24/07 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Farense (Fut.6  Legends) x Académico (Fut.6  Legends) - 24/07 18:00 - SportTV 1",
-      "pubDate": "Fri, 24 Jul 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x Belenenses - 24/07 18:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Belenenses - 24/07 18:00 - BTv",
@@ -29,30 +15,30 @@
       "guid": ""
     },
     {
-      "title": "FC Arouca (Fut.6  Legends) x Vencedor Grupo B - 25/07 09:00 - SportTV 1",
+      "title": "FC Arouca (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 09:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca (Fut.6  Legends) x Vencedor Grupo B - 25/07 09:00 - SportTV 1",
+      "description": "FC Arouca (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 09:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 09:00:00",
       "guid": ""
     },
     {
-      "title": "FC Porto (Fut.6  Legends) x Vencedor Grupo A - 25/07 10:00 - SportTV 1",
+      "title": "FC Porto (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 10:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Fut.6  Legends) x Vencedor Grupo A - 25/07 10:00 - SportTV 1",
+      "description": "FC Porto (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 10:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 10:00:00",
       "guid": ""
     },
     {
-      "title": "Sporting (Fut.6  Legends) x Vencedor Grupo C - 25/07 11:00 - SportTV 1",
+      "title": "Sporting (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Fut.6  Legends) x Vencedor Grupo C - 25/07 11:00 - SportTV 1",
+      "description": "Sporting (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 11:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 11:00:00",
       "guid": ""
     },
     {
-      "title": "Benfica (Fut.6  Legends) x Vencedor Grupo B - 25/07 12:00 - SportTV 1",
+      "title": "Benfica (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 12:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Fut.6  Legends) x Vencedor Grupo B - 25/07 12:00 - SportTV 1",
+      "description": "Benfica (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 12:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 12:00:00",
       "guid": ""
     },
@@ -71,9 +57,9 @@
       "guid": ""
     },
     {
-      "title": "SC Braga (Fut.6  Legends) x Vencedor Grupo A - 25/07 14:00 - SportTV 1",
+      "title": "SC Braga (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Fut.6  Legends) x Vencedor Grupo A - 25/07 14:00 - SportTV 1",
+      "description": "SC Braga (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 14:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 14:00:00",
       "guid": ""
     },
@@ -85,9 +71,9 @@
       "guid": ""
     },
     {
-      "title": "Gil Vicente (Fut.6  Legends) x Vencedor Grupo C - 25/07 15:00 - SportTV 1",
+      "title": "Gil Vicente (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente (Fut.6  Legends) x Vencedor Grupo C - 25/07 15:00 - SportTV 1",
+      "description": "Gil Vicente (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 15:00 - SportTV 1",
       "pubDate": "Sat, 25 Jul 2026 15:00:00",
       "guid": ""
     },
@@ -313,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão x Lens - 28/07 21:00 - SportTV 1",
       "pubDate": "Tue, 28 Jul 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Racing Club - 29/07 01:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Racing Club - 29/07 01:15 - SportTV 2",
+      "pubDate": "Wed, 29 Jul 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x UCV FC - 29/07 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x UCV FC - 29/07 01:30 - SportTV 1",
+      "pubDate": "Wed, 29 Jul 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Sydney FC - 29/07 10:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Sydney FC - 29/07 10:45 - SportTV 1",
+      "pubDate": "Wed, 29 Jul 2026 10:45:00",
       "guid": ""
     }
   ]

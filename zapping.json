@@ -127,13 +127,6 @@
       "guid": ""
     },
     {
-      "title": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV 2",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
@@ -144,6 +137,13 @@
       "title": "Gil Vicente (Fut.6  Legends) x Vencedor Grupo C - 25/07 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente (Fut.6  Legends) x Vencedor Grupo C - 25/07 15:00 - SportTV 1",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x Milan - 25/07 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x Milan - 25/07 15:00 - SportTV 2",
       "pubDate": "Sat, 25 Jul 2026 15:00:00",
       "guid": ""
     },
@@ -281,6 +281,13 @@
       "guid": ""
     },
     {
+      "title": "Trabzonspor x Eintracht Frankfurt - 26/07 14:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trabzonspor x Eintracht Frankfurt - 26/07 14:30 - SportTV 4",
+      "pubDate": "Sun, 26 Jul 2026 14:30:00",
+      "guid": ""
+    },
+    {
       "title": "Derrotado MF1 x Derrotado MF2 - 26/07 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Derrotado MF1 x Derrotado MF2 - 26/07 15:00 - SportTV 1",
@@ -334,20 +341,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
       "pubDate": "Tue, 28 Jul 2026 10:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Crystal Palace - 28/07 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Crystal Palace - 28/07 18:00 - SportTV 1",
-      "pubDate": "Tue, 28 Jul 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x Crystal Palace - 28/07 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Crystal Palace - 28/07 19:30 - SportTV 1",
-      "pubDate": "Tue, 28 Jul 2026 19:30:00",
       "guid": ""
     }
   ]

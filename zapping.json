@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Kickers Offenbach x Bayer Leverkusen - 25/07 14:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kickers Offenbach x Bayer Leverkusen - 25/07 14:00 - SportTV 4",
-      "pubDate": "Sat, 25 Jul 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 14:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
@@ -32,6 +18,13 @@
       "title": "Celtic x Milan - 25/07 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celtic x Milan - 25/07 15:00 - SportTV 2",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV +",
       "pubDate": "Sat, 25 Jul 2026 15:00:00",
       "guid": ""
     },
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Praia Feminino) x Países Baixos (Praia Feminino) - 30/07 15:30 - SportTV 1",
       "pubDate": "Thu, 30 Jul 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x FK Vojvodina - 30/07 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x FK Vojvodina - 30/07 19:00 - SportTV 1",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x FC St. Gallen - 30/07 20:00 - SIC",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x FC St. Gallen - 30/07 20:00 - SIC",
+      "pubDate": "Thu, 30 Jul 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
+      "pubDate": "Thu, 30 Jul 2026 23:00:00",
       "guid": ""
     }
   ]

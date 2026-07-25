@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "PSV x Villarreal CF - 25/07 17:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Villarreal CF - 25/07 17:00 - SportTV 7",
-      "pubDate": "Sat, 25 Jul 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "ACD O Sótão (Praia) x GRAP (Praia) - 25/07 17:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ACD O Sótão (Praia) x GRAP (Praia) - 25/07 17:45 - Canal11",
-      "pubDate": "Sat, 25 Jul 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Fut.6  Legends) x Gil Vicente (Fut.6  Legends) - 25/07 18:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Fut.6  Legends) x Gil Vicente (Fut.6  Legends) - 25/07 18:00 - SportTV 5",
-      "pubDate": "Sat, 25 Jul 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Standard Liège x Juventus - 25/07 19:00 - LiveModeTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Standard Liège x Juventus - 25/07 19:00 - LiveModeTV",
@@ -292,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "O´Higgins x Boca Juniors - 31/07 01:30 - SportTV 1",
       "pubDate": "Fri, 31 Jul 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "NEC x Sevilla FC - 31/07 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "NEC x Sevilla FC - 31/07 18:00 - SportTV 1",
+      "pubDate": "Fri, 31 Jul 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Nottingham Forest - 31/07 19:00 - TVI",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Nottingham Forest - 31/07 19:00 - TVI",
+      "pubDate": "Fri, 31 Jul 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee United x Rangers - 31/07 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee United x Rangers - 31/07 20:00 - SportTV 2",
+      "pubDate": "Fri, 31 Jul 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Tottenham - 01/08 10:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Tottenham - 01/08 10:45 - SportTV 2",
+      "pubDate": "Sat, 01 Aug 2026 10:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Internazionale - 01/08 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Internazionale - 01/08 12:30 - SportTV 1",
+      "pubDate": "Sat, 01 Aug 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cardiff City x Roma - 01/08 15:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cardiff City x Roma - 01/08 15:00 - SportTV 2",
+      "pubDate": "Sat, 01 Aug 2026 15:00:00",
       "guid": ""
     }
   ]

@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "QPR x Fiorentina - 25/07 15:00 - SportTV 3",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 15:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celtic x Milan - 25/07 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Milan - 25/07 15:00 - SportTV 2",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolton Wanderers x Everton - 25/07 15:00 - SportTV +",
-      "pubDate": "Sat, 25 Jul 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vila Flor SC (Praia) x Ericeirense (Praia) - 25/07 15:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vila Flor SC (Praia) x Ericeirense (Praia) - 25/07 15:15 - Canal11",
-      "pubDate": "Sat, 25 Jul 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Fut.6  Legends) x FC Arouca (Fut.6  Legends) - 25/07 16:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Fut.6  Legends) x FC Arouca (Fut.6  Legends) - 25/07 16:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões (Praia) x GD Sesimbra (Praia) - 25/07 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (Praia) x GD Sesimbra (Praia) - 25/07 16:30 - Canal11",
-      "pubDate": "Sat, 25 Jul 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Fut.6  Legends) x SC Braga (Fut.6  Legends) - 25/07 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Fut.6  Legends) x SC Braga (Fut.6  Legends) - 25/07 17:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "PSV x Villarreal CF - 25/07 17:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x Villarreal CF - 25/07 17:00 - SportTV 7",
@@ -334,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
       "pubDate": "Thu, 30 Jul 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Leeds United - 31/07 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Leeds United - 31/07 00:30 - SportTV 2",
+      "pubDate": "Fri, 31 Jul 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "O´Higgins x Boca Juniors - 31/07 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "O´Higgins x Boca Juniors - 31/07 01:30 - SportTV 1",
+      "pubDate": "Fri, 31 Jul 2026 01:30:00",
       "guid": ""
     }
   ]

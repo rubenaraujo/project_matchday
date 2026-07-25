@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Arouca (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 09:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Arouca (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 09:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 09:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 10:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Fut.6  Legends) x Académico (Fut.6  Legends) - 25/07 10:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 25/07 11:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 12:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 25/07 12:00 - SportTV 1",
-      "pubDate": "Sat, 25 Jul 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fortuna Düsseldorf x Borussia Dortmund - 25/07 12:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fortuna Düsseldorf x Borussia Dortmund - 25/07 12:00 - SportTV 2",
-      "pubDate": "Sat, 25 Jul 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Kickers Offenbach x Bayer Leverkusen - 25/07 14:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kickers Offenbach x Bayer Leverkusen - 25/07 14:00 - SportTV 4",
@@ -341,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gimnasia x River Plate - 29/07 23:15 - SportTV 4",
       "pubDate": "Wed, 29 Jul 2026 23:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Wrexham - 30/07 00:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Wrexham - 30/07 00:30 - SportTV 1",
+      "pubDate": "Thu, 30 Jul 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Praia Feminino) x Países Baixos (Praia Feminino) - 30/07 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Praia Feminino) x Países Baixos (Praia Feminino) - 30/07 15:30 - SportTV 1",
+      "pubDate": "Thu, 30 Jul 2026 15:30:00",
       "guid": ""
     }
   ]

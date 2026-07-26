@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Felgueiras (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 26/07 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 26/07 11:00 - SportTV 1",
-      "pubDate": "Sun, 26 Jul 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Fut.6  Legends) x Benfica (Fut.6  Legends) - 26/07 12:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Fut.6  Legends) x Benfica (Fut.6  Legends) - 26/07 12:00 - SportTV 1",
-      "pubDate": "Sun, 26 Jul 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x Burnley - 26/07 13:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Burnley - 26/07 13:00 - SportTV 2",
-      "pubDate": "Sun, 26 Jul 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Trabzonspor x Eintracht Frankfurt - 26/07 14:30 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trabzonspor x Eintracht Frankfurt - 26/07 14:30 - SportTV 4",
@@ -29,9 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Derrotado MF1 x Derrotado MF2 - 26/07 15:00 - SportTV 1",
+      "title": "Benfica (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 26/07 15:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado MF1 x Derrotado MF2 - 26/07 15:00 - SportTV 1",
+      "description": "Benfica (Fut.6  Legends) x FC Felgueiras (Fut.6  Legends) - 26/07 15:00 - SportTV 1",
       "pubDate": "Sun, 26 Jul 2026 15:00:00",
       "guid": ""
     },
@@ -43,9 +22,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 26/07 16:00 - SportTV 1",
+      "title": "FC Porto (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 26/07 16:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 26/07 16:00 - SportTV 1",
+      "description": "FC Porto (Fut.6  Legends) x Casa Pia AC (Fut.6  Legends) - 26/07 16:00 - SportTV 1",
       "pubDate": "Sun, 26 Jul 2026 16:00:00",
       "guid": ""
     },
@@ -348,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newell´s Old Boys x Boca Juniors - 02/08 21:00 - SportTV 2",
       "pubDate": "Sun, 02 Aug 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Rosario Central - 02/08 23:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Rosario Central - 02/08 23:15 - SportTV 1",
+      "pubDate": "Sun, 02 Aug 2026 23:15:00",
       "guid": ""
     }
   ]

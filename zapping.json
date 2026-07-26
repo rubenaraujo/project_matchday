@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Barracas Central - 25/07 23:15 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Barracas Central - 25/07 23:15 - SportTV 6",
-      "pubDate": "Sat, 25 Jul 2026 23:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Leeds United - 26/07 00:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Leeds United - 26/07 00:30 - SportTV 4",
-      "pubDate": "Sun, 26 Jul 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "Auckland FC x Tottenham - 26/07 04:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Auckland FC x Tottenham - 26/07 04:00 - SportTV 1",
@@ -334,6 +320,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feyenoord x Atalanta - 02/08 13:30 - SportTV 1",
       "pubDate": "Sun, 02 Aug 2026 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Praia Feminino) x Polónia (Praia Feminino) - 02/08 15:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Praia Feminino) x Polónia (Praia Feminino) - 02/08 15:30 - SportTV +",
+      "pubDate": "Sun, 02 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
+      "pubDate": "Sun, 02 Aug 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Sunderland - 02/08 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Sunderland - 02/08 17:00 - SportTV 2",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Leeds United - 02/08 21:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Leeds United - 02/08 21:00 - SportTV 1",
+      "pubDate": "Sun, 02 Aug 2026 21:00:00",
       "guid": ""
     }
   ]

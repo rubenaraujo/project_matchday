@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Deportivo Riestra x Boca Juniors - 26/07 23:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo Riestra x Boca Juniors - 26/07 23:30 - SportTV 1",
-      "pubDate": "Sun, 26 Jul 2026 23:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Palmeiras x Atlético Mineiro - 26/07 23:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Atlético Mineiro - 26/07 23:30 - Canal11",
-      "pubDate": "Sun, 26 Jul 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x WS Wanderers - 28/07 10:45 - SportTV 1",
@@ -341,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
       "pubDate": "Sun, 02 Aug 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Sunderland - 02/08 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Sunderland - 02/08 17:00 - SportTV 2",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x AZ Alkmaar - 02/08 17:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x AZ Alkmaar - 02/08 17:00 - DAZN 1",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00",
       "guid": ""
     }
   ]

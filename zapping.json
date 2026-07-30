@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Praia Feminino) x Países Baixos (Praia Feminino) - 30/07 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia Feminino) x Países Baixos (Praia Feminino) - 30/07 15:30 - SportTV 1",
-      "pubDate": "Thu, 30 Jul 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x FK Vojvodina - 30/07 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x FK Vojvodina - 30/07 19:00 - SportTV 1",
-      "pubDate": "Thu, 30 Jul 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Anderlecht x Hammarby - 30/07 19:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Anderlecht x Hammarby - 30/07 19:30 - Canal11",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Team K League x Manchester City - 05/08 12:00 - SportTV 1",
       "pubDate": "Wed, 05 Aug 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Juventus - 05/08 12:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Juventus - 05/08 12:30 - SportTV 2",
+      "pubDate": "Wed, 05 Aug 2026 12:30:00",
       "guid": ""
     }
   ]

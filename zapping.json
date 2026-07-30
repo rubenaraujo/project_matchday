@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Anderlecht x Hammarby - 30/07 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Anderlecht x Hammarby - 30/07 19:30 - Canal11",
-      "pubDate": "Thu, 30 Jul 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x FC St. Gallen - 30/07 20:00 - SIC",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x FC St. Gallen - 30/07 20:00 - SIC",
-      "pubDate": "Thu, 30 Jul 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Zeleznicar Pancevo - 30/07 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Zeleznicar Pancevo - 30/07 20:00 - SportTV 5",
-      "pubDate": "Thu, 30 Jul 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
@@ -334,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x Juventus - 05/08 12:30 - SportTV 2",
       "pubDate": "Wed, 05 Aug 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Real Betis - 05/08 19:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Real Betis - 05/08 19:30 - SportTV 1",
+      "pubDate": "Wed, 05 Aug 2026 19:30:00",
       "guid": ""
     }
   ]

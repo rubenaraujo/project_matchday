@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Corinthians x Athletico Paranaense - 30/07 23:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Athletico Paranaense - 30/07 23:30 - Canal11",
-      "pubDate": "Thu, 30 Jul 2026 23:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sunderland x Leeds United - 31/07 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sunderland x Leeds United - 31/07 00:30 - SportTV 2",
-      "pubDate": "Fri, 31 Jul 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "O´Higgins x Boca Juniors - 31/07 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "O´Higgins x Boca Juniors - 31/07 01:30 - SportTV 1",
-      "pubDate": "Fri, 31 Jul 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão x Como 1907 - 31/07 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão x Como 1907 - 31/07 17:00 - SportTV 1",
@@ -334,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "USC Paredes x Vitória SC - 07/08 20:00 - Canal11",
       "pubDate": "Fri, 07 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Middlesbrough x Wrexham - 07/08 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Middlesbrough x Wrexham - 07/08 20:00 - SportTV 4",
+      "pubDate": "Fri, 07 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x FC Famalicão - 07/08 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x FC Famalicão - 07/08 20:15 - SportTV 1",
+      "pubDate": "Fri, 07 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x Académica OAF - 08/08 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x Académica OAF - 08/08 11:00 - SportTV 1",
+      "pubDate": "Sat, 08 Aug 2026 11:00:00",
       "guid": ""
     }
   ]

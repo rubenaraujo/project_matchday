@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Grêmio x Bolívar - 30/07 23:00 - SportTV 1",
-      "pubDate": "Thu, 30 Jul 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Corinthians x Athletico Paranaense - 30/07 23:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Corinthians x Athletico Paranaense - 30/07 23:30 - Canal11",
@@ -320,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Real Betis - 05/08 19:30 - SportTV 1",
       "pubDate": "Wed, 05 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Estudiantes - 05/08 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Estudiantes - 05/08 23:00 - SportTV 1",
+      "pubDate": "Wed, 05 Aug 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolverhampton x Port Vale - 07/08 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolverhampton x Port Vale - 07/08 19:45 - SportTV 3",
+      "pubDate": "Fri, 07 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x Vitória SC - 07/08 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x Vitória SC - 07/08 20:00 - Canal11",
+      "pubDate": "Fri, 07 Aug 2026 20:00:00",
       "guid": ""
     }
   ]

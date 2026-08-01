@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Aberdeen x Hearts - 01/08 17:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aberdeen x Hearts - 01/08 17:30 - SportTV 6",
-      "pubDate": "Sat, 01 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x Al-Nassr - 01/08 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Al-Nassr - 01/08 18:00 - SportTV 2",
-      "pubDate": "Sat, 01 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Girona x Arsenal - 01/08 19:00 - LiveModeTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Girona x Arsenal - 01/08 19:00 - LiveModeTV",
-      "pubDate": "Sat, 01 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lens x Villarreal CF - 01/08 19:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Villarreal CF - 01/08 19:00 - SportTV 3",
@@ -50,9 +29,9 @@
       "guid": ""
     },
     {
-      "title": "Derrotado MF1 x Derrotado MF2 - 02/08 11:00 - V+",
+      "title": "Académico x GD Chaves - 02/08 11:00 - V+",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado MF1 x Derrotado MF2 - 02/08 11:00 - V+",
+      "description": "Académico x GD Chaves - 02/08 11:00 - V+",
       "pubDate": "Sun, 02 Aug 2026 11:00:00",
       "guid": ""
     },
@@ -113,9 +92,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 02/08 17:00 - V+",
+      "title": "Varzim x Vitória SC - 02/08 17:00 - V+",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 02/08 17:00 - V+",
+      "description": "Varzim x Vitória SC - 02/08 17:00 - V+",
       "pubDate": "Sun, 02 Aug 2026 17:00:00",
       "guid": ""
     },
@@ -299,6 +278,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo x Casa Pia AC - 08/08 15:30 - SportTV 1",
       "pubDate": "Sat, 08 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Covilhã x U. Santarém - 08/08 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Covilhã x U. Santarém - 08/08 17:00 - C11 Stream",
+      "pubDate": "Sat, 08 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitano GC x Atlético CP - 08/08 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitano GC x Atlético CP - 08/08 17:00 - C11 Stream",
+      "pubDate": "Sat, 08 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x Feirense (Jun.A S19) - 08/08 17:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x Feirense (Jun.A S19) - 08/08 17:00 - PortoCanal",
+      "pubDate": "Sat, 08 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x Caldas SC - 08/08 17:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x Caldas SC - 08/08 17:30 - C11 Stream",
+      "pubDate": "Sat, 08 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x FC Arouca - 08/08 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x FC Arouca - 08/08 18:00 - SportTV 2",
+      "pubDate": "Sat, 08 Aug 2026 18:00:00",
       "guid": ""
     }
   ]

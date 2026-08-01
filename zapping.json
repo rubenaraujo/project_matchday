@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cardiff City x Roma - 01/08 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cardiff City x Roma - 01/08 15:00 - SportTV 2",
-      "pubDate": "Sat, 01 Aug 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "GRAP (Praia) x Ericeirense (Praia) - 01/08 15:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GRAP (Praia) x Ericeirense (Praia) - 01/08 15:15 - Canal11",
-      "pubDate": "Sat, 01 Aug 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Praia Feminino) x Bélgica (Praia Feminino) - 01/08 15:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia Feminino) x Bélgica (Praia Feminino) - 01/08 15:30 - SportTV +",
-      "pubDate": "Sat, 01 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Rio Ave x CD Tondela - 01/08 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave x CD Tondela - 01/08 15:30 - SportTV 1",
@@ -236,6 +215,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Real Betis - 05/08 19:30 - SportTV 1",
       "pubDate": "Wed, 05 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus (Feminino) x Torreense (Feminino) - 05/08 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus (Feminino) x Torreense (Feminino) - 05/08 20:00 - Canal11",
+      "pubDate": "Wed, 05 Aug 2026 20:00:00",
       "guid": ""
     },
     {

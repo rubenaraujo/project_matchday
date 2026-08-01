@@ -1,38 +1,10 @@
 {
   "items": [
     {
-      "title": "Rio Ave x CD Tondela - 01/08 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x CD Tondela - 01/08 15:30 - SportTV 1",
-      "pubDate": "Sat, 01 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Sesimbra (Praia) x ACD O Sótão (Praia) - 01/08 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Sesimbra (Praia) x ACD O Sótão (Praia) - 01/08 16:30 - Canal11",
-      "pubDate": "Sat, 01 Aug 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC x GD Chaves - 01/08 17:00 - V+",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x GD Chaves - 01/08 17:00 - V+",
-      "pubDate": "Sat, 01 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Aberdeen x Hearts - 01/08 17:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aberdeen x Hearts - 01/08 17:30 - SportTV 6",
       "pubDate": "Sat, 01 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vila Flor SC (Praia) x CF Chelas (Praia) - 01/08 17:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vila Flor SC (Praia) x CF Chelas (Praia) - 01/08 17:45 - Canal11",
-      "pubDate": "Sat, 01 Aug 2026 17:45:00",
       "guid": ""
     },
     {
@@ -320,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brighton  Hove Albion x Roma - 08/08 15:00 - SportTV 5",
       "pubDate": "Sat, 08 Aug 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x Casa Pia AC - 08/08 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x Casa Pia AC - 08/08 15:30 - SportTV 1",
+      "pubDate": "Sat, 08 Aug 2026 15:30:00",
       "guid": ""
     }
   ]

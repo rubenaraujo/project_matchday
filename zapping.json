@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Lens x Villarreal CF - 01/08 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Villarreal CF - 01/08 19:00 - SportTV 3",
-      "pubDate": "Sat, 01 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Torreense - 01/08 20:15 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Torreense - 01/08 20:15 - RTP1",
-      "pubDate": "Sat, 01 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Racing Club x Tigre - 02/08 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Club x Tigre - 02/08 00:30 - SportTV 1",
@@ -313,6 +299,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x FC Arouca - 08/08 18:00 - SportTV 2",
       "pubDate": "Sat, 08 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Amarante FC - 08/08 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Amarante FC - 08/08 18:00 - SportTV 3",
+      "pubDate": "Sat, 08 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Nottingham Forest - 08/08 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Nottingham Forest - 08/08 19:00 - SportTV 4",
+      "pubDate": "Sat, 08 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Bournemouth - 08/08 19:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Bournemouth - 08/08 19:30 - SportTV 7",
+      "pubDate": "Sat, 08 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x Vitória Sernache - 08/08 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x Vitória Sernache - 08/08 20:00 - C11 Stream",
+      "pubDate": "Sat, 08 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona x Nottingham Forest - 08/08 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona x Nottingham Forest - 08/08 20:00 - SportTV 4",
+      "pubDate": "Sat, 08 Aug 2026 20:00:00",
       "guid": ""
     }
   ]

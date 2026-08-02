@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
-      "pubDate": "Sun, 02 Aug 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x AZ Alkmaar - 02/08 17:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x AZ Alkmaar - 02/08 17:00 - DAZN 1",
-      "pubDate": "Sun, 02 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Sunderland - 02/08 17:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Sunderland - 02/08 17:00 - SportTV +",
-      "pubDate": "Sun, 02 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Varzim x Vitória SC - 02/08 17:00 - V+",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Varzim x Vitória SC - 02/08 17:00 - V+",
@@ -306,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x FC Felgueiras - 09/08 11:00 - SportTV 3",
       "pubDate": "Sun, 09 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Marco 09 x Paços de Ferreira - 09/08 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Marco 09 x Paços de Ferreira - 09/08 11:00 - Canal11",
+      "pubDate": "Sun, 09 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Atlético de Madrid - 09/08 12:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Atlético de Madrid - 09/08 12:00 - SportTV 2",
+      "pubDate": "Sun, 09 Aug 2026 12:00:00",
       "guid": ""
     }
   ]

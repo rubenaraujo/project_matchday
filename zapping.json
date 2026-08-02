@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Vila Flor SC (Praia) x GRAP (Praia) - 02/08 12:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vila Flor SC (Praia) x GRAP (Praia) - 02/08 12:15 - Canal11",
-      "pubDate": "Sun, 02 Aug 2026 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "ACD O Sótão (Praia) x Leixões (Praia) - 02/08 13:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ACD O Sótão (Praia) x Leixões (Praia) - 02/08 13:30 - Canal11",
-      "pubDate": "Sun, 02 Aug 2026 13:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Feyenoord x Atalanta - 02/08 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord x Atalanta - 02/08 14:00 - SportTV 1",
-      "pubDate": "Sun, 02 Aug 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Praia Feminino) x Polónia (Praia Feminino) - 02/08 15:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia Feminino) x Polónia (Praia Feminino) - 02/08 15:30 - SportTV +",
-      "pubDate": "Sun, 02 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hibernian x Motherwell - 02/08 16:30 - SportTV 1",
@@ -320,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x FC Barcelona - 08/08 21:00 - SportTV 4",
       "pubDate": "Sat, 08 Aug 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense x Torreense - 09/08 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense x Torreense - 09/08 11:00 - SportTV 1",
+      "pubDate": "Sun, 09 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x FC Felgueiras - 09/08 11:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x FC Felgueiras - 09/08 11:00 - SportTV 3",
+      "pubDate": "Sun, 09 Aug 2026 11:00:00",
       "guid": ""
     }
   ]

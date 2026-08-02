@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Racing Club x Tigre - 02/08 00:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Tigre - 02/08 00:30 - SportTV 1",
-      "pubDate": "Sun, 02 Aug 2026 00:30:00",
-      "guid": ""
-    },
-    {
       "title": "CF Chelas (Praia) x GD Sesimbra (Praia) - 02/08 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CF Chelas (Praia) x GD Sesimbra (Praia) - 02/08 11:00 - Canal11",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora x Sporting - 08/08 20:30 - SportTV 1",
       "pubDate": "Sat, 08 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x FC Barcelona - 08/08 21:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x FC Barcelona - 08/08 21:00 - SportTV 4",
+      "pubDate": "Sat, 08 Aug 2026 21:00:00",
       "guid": ""
     }
   ]

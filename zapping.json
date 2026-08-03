@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Liverpool x Leeds United - 02/08 21:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Leeds United - 02/08 21:00 - SportTV 1",
-      "pubDate": "Sun, 02 Aug 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Rosario Central - 02/08 23:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Rosario Central - 02/08 23:15 - SportTV 1",
@@ -320,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x Sporting - 09/08 15:30 - SportTV 2",
       "pubDate": "Sun, 09 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rangers x Hibernian - 09/08 16:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rangers x Hibernian - 09/08 16:00 - SportTV 5",
+      "pubDate": "Sun, 09 Aug 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
+      "pubDate": "Sun, 09 Aug 2026 17:00:00",
       "guid": ""
     }
   ]

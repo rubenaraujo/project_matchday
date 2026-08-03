@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Rosario Central - 02/08 23:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Rosario Central - 02/08 23:15 - SportTV 1",
-      "pubDate": "Sun, 02 Aug 2026 23:15:00",
-      "guid": ""
-    },
-    {
       "title": "Celtic x Dundee FC - 03/08 19:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Celtic x Dundee FC - 03/08 19:30 - SportTV 1",
@@ -326,6 +319,13 @@
       "title": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
+      "pubDate": "Sun, 09 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x Vianense - 09/08 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x Vianense - 09/08 17:00 - C11 Stream",
       "pubDate": "Sun, 09 Aug 2026 17:00:00",
       "guid": ""
     }

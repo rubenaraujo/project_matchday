@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Jeju United x Bayern München - 04/08 12:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Jeju United x Bayern München - 04/08 12:00 - SportTV 1",
-      "pubDate": "Tue, 04 Aug 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Nassr x Almería - 04/08 18:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Nassr x Almería - 04/08 18:00 - Canal11",
@@ -57,6 +50,13 @@
       "guid": ""
     },
     {
+      "title": "Fenerbahçe x Sturm Graz - 05/08 19:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Sturm Graz - 05/08 19:00 - SportTV +",
+      "pubDate": "Wed, 05 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "Arsenal x Real Betis - 05/08 19:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Real Betis - 05/08 19:30 - SportTV 1",
@@ -78,9 +78,16 @@
       "guid": ""
     },
     {
-      "title": "Ajax x Shelbourne - 06/08 19:00 - SportTV 1",
+      "title": "PAOK x Anderlecht - 06/08 18:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Shelbourne - 06/08 19:00 - SportTV 1",
+      "description": "PAOK x Anderlecht - 06/08 18:45 - SportTV 1",
+      "pubDate": "Thu, 06 Aug 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x Shelbourne - 06/08 19:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x Shelbourne - 06/08 19:00 - SportTV +",
       "pubDate": "Thu, 06 Aug 2026 19:00:00",
       "guid": ""
     },
@@ -274,6 +281,13 @@
       "guid": ""
     },
     {
+      "title": "Botafogo x Fluminense - 09/08 01:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Botafogo x Fluminense - 09/08 01:00 - Canal11",
+      "pubDate": "Sun, 09 Aug 2026 01:00:00",
+      "guid": ""
+    },
+    {
       "title": "Farense x Torreense - 09/08 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x Torreense - 09/08 11:00 - SportTV 1",
@@ -306,13 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Johor FC x Chelsea - 09/08 13:00 - SportTV 5",
       "pubDate": "Sun, 09 Aug 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kilmarnock x Celtic - 09/08 13:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kilmarnock x Celtic - 09/08 13:30 - SportTV 3",
-      "pubDate": "Sun, 09 Aug 2026 13:30:00",
       "guid": ""
     }
   ]

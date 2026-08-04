@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Olympiacos x NEC - 04/08 19:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos x NEC - 04/08 19:00 - SportTV +",
-      "pubDate": "Tue, 04 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sparta Praha x Lyon - 04/08 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sparta Praha x Lyon - 04/08 19:00 - SportTV 1",
-      "pubDate": "Tue, 04 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ipswich Town x Le Havre - 04/08 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ipswich Town x Le Havre - 04/08 19:45 - SportTV 6",
-      "pubDate": "Tue, 04 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Villarreal CF x Levante - 05/08 09:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal CF x Levante - 05/08 09:00 - SportTV 1",
@@ -71,10 +50,10 @@
       "guid": ""
     },
     {
-      "title": "PAOK x Anderlecht - 06/08 18:45 - SportTV 1",
+      "title": "Debreceni x FC Kobenhavn - 06/08 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "PAOK x Anderlecht - 06/08 18:45 - SportTV 1",
-      "pubDate": "Thu, 06 Aug 2026 18:45:00",
+      "description": "Debreceni x FC Kobenhavn - 06/08 18:00 - SportTV 1",
+      "pubDate": "Thu, 06 Aug 2026 18:00:00",
       "guid": ""
     },
     {
@@ -313,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Johor FC x Chelsea - 09/08 13:00 - SportTV 5",
       "pubDate": "Sun, 09 Aug 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kilmarnock x Celtic - 09/08 13:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kilmarnock x Celtic - 09/08 13:30 - SportTV 3",
+      "pubDate": "Sun, 09 Aug 2026 13:30:00",
       "guid": ""
     }
   ]

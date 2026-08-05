@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Team K League x Manchester City - 05/08 12:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Team K League x Manchester City - 05/08 12:00 - SportTV 1",
-      "pubDate": "Wed, 05 Aug 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Juventus - 05/08 12:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Juventus - 05/08 12:30 - SportTV 2",
-      "pubDate": "Wed, 05 Aug 2026 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "AGF Aarhus x Sabah - 05/08 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AGF Aarhus x Sabah - 05/08 17:30 - Canal11",
@@ -267,13 +253,6 @@
       "guid": ""
     },
     {
-      "title": "Feirense x FC Felgueiras - 09/08 11:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x FC Felgueiras - 09/08 11:00 - SportTV 3",
-      "pubDate": "Sun, 09 Aug 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "AD Marco 09 x Paços de Ferreira - 09/08 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Marco 09 x Paços de Ferreira - 09/08 11:00 - Canal11",
@@ -320,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Mirassol - 09/08 15:00 - Canal11",
       "pubDate": "Sun, 09 Aug 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x FC Felgueiras - 09/08 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x FC Felgueiras - 09/08 15:30 - SportTV 3",
+      "pubDate": "Sun, 09 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AFS x Sporting - 09/08 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AFS x Sporting - 09/08 15:30 - SportTV 2",
+      "pubDate": "Sun, 09 Aug 2026 15:30:00",
       "guid": ""
     }
   ]

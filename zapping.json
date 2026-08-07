@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Bayern München x Aston Villa - 07/08 13:00 - LiveModeTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Aston Villa - 07/08 13:00 - LiveModeTV",
-      "pubDate": "Fri, 07 Aug 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "VfL Bochum x Hertha BSC - 07/08 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "VfL Bochum x Hertha BSC - 07/08 19:30 - DAZN 1",
@@ -130,6 +123,13 @@
       "title": "FC Porto (Jun.A S19) x Feirense (Jun.A S19) - 08/08 17:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x Feirense (Jun.A S19) - 08/08 17:00 - PortoCanal",
+      "pubDate": "Sat, 08 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SKN St. Polten (Feminino) x Sporting (Feminino) - 08/08 17:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SKN St. Polten (Feminino) x Sporting (Feminino) - 08/08 17:00 - SportingTv",
       "pubDate": "Sat, 08 Aug 2026 17:00:00",
       "guid": ""
     },
@@ -313,13 +313,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x Sporting - 09/08 15:30 - SportTV 2",
       "pubDate": "Sun, 09 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
-      "pubDate": "Sun, 09 Aug 2026 16:00:00",
       "guid": ""
     }
   ]

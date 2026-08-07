@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Arizona Cardinals (Fut. Americano) x Carolina Panthers (Fut. Americano) - 07/08 01:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arizona Cardinals (Fut. Americano) x Carolina Panthers (Fut. Americano) - 07/08 01:00 - DAZN",
-      "pubDate": "Fri, 07 Aug 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wolverhampton x Port Vale - 07/08 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolverhampton x Port Vale - 07/08 19:45 - SportTV 3",
@@ -319,6 +312,13 @@
       "title": "Gil Vicente x Rio Ave - 09/08 20:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x Rio Ave - 09/08 20:30 - SportTV 2",
+      "pubDate": "Sun, 09 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x SC Braga - 09/08 20:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x SC Braga - 09/08 20:30 - V+",
       "pubDate": "Sun, 09 Aug 2026 20:30:00",
       "guid": ""
     }

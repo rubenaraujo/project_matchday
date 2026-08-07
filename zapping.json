@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Bayern München x Aston Villa - 07/08 13:00 - LiveModeTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Aston Villa - 07/08 13:00 - LiveModeTV",
+      "pubDate": "Fri, 07 Aug 2026 13:00:00",
+      "guid": ""
+    },
+    {
       "title": "VfL Bochum x Hertha BSC - 07/08 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "VfL Bochum x Hertha BSC - 07/08 19:30 - DAZN 1",
@@ -47,6 +54,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x Louletano - 08/08 11:00 - Canal11",
       "pubDate": "Sat, 08 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Internazionale - 08/08 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Internazionale - 08/08 12:00 - DAZN 1",
+      "pubDate": "Sat, 08 Aug 2026 12:00:00",
       "guid": ""
     },
     {
@@ -306,20 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
       "pubDate": "Sun, 09 Aug 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 09 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x Vianense - 09/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x Vianense - 09/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 09 Aug 2026 17:00:00",
       "guid": ""
     }
   ]

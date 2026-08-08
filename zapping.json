@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Barcelona x Nottingham Forest - 08/08 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Nottingham Forest - 08/08 20:00 - SportTV 4",
-      "pubDate": "Sat, 08 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Udinese x Barcelona - 08/08 21:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Barcelona - 08/08 21:00 - SportTV 4",
@@ -306,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estudiantes x Univ. Católica - 12/08 01:30 - SportTV 1",
       "pubDate": "Wed, 12 Aug 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Kobenhavn x Debreceni - 12/08 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Kobenhavn x Debreceni - 12/08 17:00 - SportTV 1",
+      "pubDate": "Wed, 12 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Everton - 12/08 17:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Everton - 12/08 17:15 - SportTV 2",
+      "pubDate": "Wed, 12 Aug 2026 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Leeds United x Manchester United - 12/08 19:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leeds United x Manchester United - 12/08 19:30 - SportTV 1",
+      "pubDate": "Wed, 12 Aug 2026 19:30:00",
       "guid": ""
     }
   ]

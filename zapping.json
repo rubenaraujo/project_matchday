@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "West Ham x Portsmouth - 08/08 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Portsmouth - 08/08 15:00 - SportTV 2",
-      "pubDate": "Sat, 08 Aug 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Swansea City x Birmingham City - 08/08 15:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Swansea City x Birmingham City - 08/08 15:00 - SportTV 3",
-      "pubDate": "Sat, 08 Aug 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brighton  Hove Albion x Roma - 08/08 15:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brighton  Hove Albion x Roma - 08/08 15:00 - SportTV 5",
-      "pubDate": "Sat, 08 Aug 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo x Casa Pia AC - 08/08 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x Casa Pia AC - 08/08 15:30 - SportTV 1",
-      "pubDate": "Sat, 08 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "SC Covilhã x U. Santarém - 08/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Covilhã x U. Santarém - 08/08 17:00 - C11 Stream",
@@ -299,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense x SC Braga - 09/08 20:30 - V+",
       "pubDate": "Sun, 09 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Athletico Paranaense - 09/08 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Athletico Paranaense - 09/08 22:30 - Canal11",
+      "pubDate": "Sun, 09 Aug 2026 22:30:00",
       "guid": ""
     }
   ]

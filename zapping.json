@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Covilhã x U. Santarém - 08/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x U. Santarém - 08/08 17:00 - C11 Stream",
-      "pubDate": "Sat, 08 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x Atlético CP - 08/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Atlético CP - 08/08 17:00 - C11 Stream",
-      "pubDate": "Sat, 08 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Feirense (Jun.A S19) - 08/08 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Feirense (Jun.A S19) - 08/08 17:00 - PortoCanal",
-      "pubDate": "Sat, 08 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SKN St. Polten (Feminino) x Sporting (Feminino) - 08/08 17:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SKN St. Polten (Feminino) x Sporting (Feminino) - 08/08 17:00 - SportingTv",
-      "pubDate": "Sat, 08 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Belenenses x Caldas SC - 08/08 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x Caldas SC - 08/08 17:30 - Canal11",
-      "pubDate": "Sat, 08 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC x FC Arouca - 08/08 18:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC x FC Arouca - 08/08 18:00 - SportTV 2",
@@ -292,6 +257,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x FC Porto - 10/08 18:00 - SportTV +",
       "pubDate": "Mon, 10 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x Leixões - 10/08 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x Leixões - 10/08 18:00 - BTv",
+      "pubDate": "Mon, 10 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x Est. Amadora (S23) - 10/08 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x Est. Amadora (S23) - 10/08 20:00 - Canal11",
+      "pubDate": "Mon, 10 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Nacional - 10/08 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Nacional - 10/08 20:15 - SportTV 1",
+      "pubDate": "Mon, 10 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (S23) x Torreense (S23) - 11/08 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (S23) x Torreense (S23) - 11/08 11:00 - C11 Stream",
+      "pubDate": "Tue, 11 Aug 2026 11:00:00",
       "guid": ""
     }
   ]

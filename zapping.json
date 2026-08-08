@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Chelsea x Milan - 08/08 13:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Milan - 08/08 13:00 - SportTV 2",
-      "pubDate": "Sat, 08 Aug 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x Portimonense - 08/08 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x Portimonense - 08/08 14:00 - SportTV +",
-      "pubDate": "Sat, 08 Aug 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Apolonia Fier (Feminino) - 08/08 14:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Apolonia Fier (Feminino) - 08/08 14:30 - Canal11",
-      "pubDate": "Sat, 08 Aug 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "West Ham x Portsmouth - 08/08 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "West Ham x Portsmouth - 08/08 15:00 - SportTV 2",
@@ -305,6 +284,20 @@
       "title": "Benfica x Académico - 09/08 20:30 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Académico - 09/08 20:30 - BTv",
+      "pubDate": "Sun, 09 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Rio Ave - 09/08 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Rio Ave - 09/08 20:30 - SportTV 2",
+      "pubDate": "Sun, 09 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x SC Braga - 09/08 20:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x SC Braga - 09/08 20:30 - V+",
       "pubDate": "Sun, 09 Aug 2026 20:30:00",
       "guid": ""
     }

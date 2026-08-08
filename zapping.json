@@ -15,20 +15,6 @@
       "guid": ""
     },
     {
-      "title": "CD Mafra x Vitória Sernache - 08/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x Vitória Sernache - 08/08 20:00 - Canal11",
-      "pubDate": "Sat, 08 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x Sporting - 08/08 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Sporting - 08/08 20:30 - SportTV 1",
-      "pubDate": "Sat, 08 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Udinese x Barcelona - 08/08 21:00 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Barcelona - 08/08 21:00 - SportTV 4",
@@ -292,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "NEC x Olympiacos - 11/08 18:30 - SportTV 2",
       "pubDate": "Tue, 11 Aug 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sturm Graz x Fenerbahçe - 11/08 19:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sturm Graz x Fenerbahçe - 11/08 19:30 - SportTV 4",
+      "pubDate": "Tue, 11 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Sparta Praha - 11/08 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Sparta Praha - 11/08 20:00 - SportTV 1",
+      "pubDate": "Tue, 11 Aug 2026 20:00:00",
       "guid": ""
     }
   ]

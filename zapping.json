@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Cruzeiro x Mirassol - 09/08 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cruzeiro x Mirassol - 09/08 15:00 - Canal11",
-      "pubDate": "Sun, 09 Aug 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x FC Felgueiras - 09/08 15:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x FC Felgueiras - 09/08 15:30 - SportTV 3",
-      "pubDate": "Sun, 09 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AFS x Sporting - 09/08 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AFS x Sporting - 09/08 15:30 - SportTV 2",
-      "pubDate": "Sun, 09 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
@@ -313,6 +292,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Corinthians - 14/08 01:30 - SportTV 1",
       "pubDate": "Fri, 14 Aug 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cienciano x Botafogo - 14/08 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cienciano x Botafogo - 14/08 01:30 - SportTV 2",
+      "pubDate": "Fri, 14 Aug 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Parma x Vicenza/Catania - 14/08 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Parma x Vicenza/Catania - 14/08 17:00 - SportTV 2",
+      "pubDate": "Fri, 14 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Feirense - 14/08 18:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Feirense - 14/08 18:00 - SportTV +",
+      "pubDate": "Fri, 14 Aug 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Santos x Athletico Paranaense - 09/08 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santos x Athletico Paranaense - 09/08 22:30 - Canal11",
-      "pubDate": "Sun, 09 Aug 2026 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Argentinos Juniors x Racing Club - 10/08 00:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Argentinos Juniors x Racing Club - 10/08 00:15 - SportTV 1",
@@ -320,6 +313,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Bayer Leverkusen - 15/08 15:00 - SportTV 6",
       "pubDate": "Sat, 15 Aug 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x GD Chaves - 15/08 15:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x GD Chaves - 15/08 15:30 - SportingTv",
+      "pubDate": "Sat, 15 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Est. Amadora - 15/08 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Est. Amadora - 15/08 15:30 - SportTV 1",
+      "pubDate": "Sat, 15 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Manchester United - 15/08 15:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Manchester United - 15/08 15:45 - SportTV 2",
+      "pubDate": "Sat, 15 Aug 2026 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Lille - 15/08 16:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Lille - 15/08 16:00 - SportTV 7",
+      "pubDate": "Sat, 15 Aug 2026 16:00:00",
       "guid": ""
     }
   ]

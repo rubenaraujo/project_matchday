@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x FC Alverca - 09/08 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x FC Alverca - 09/08 18:00 - SportTV 1",
-      "pubDate": "Sun, 09 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Palmeiras x Internacional - 09/08 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Internacional - 09/08 20:00 - Canal11",
@@ -320,6 +313,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Benevento/Ravenna - 14/08 20:15 - SportTV 2",
       "pubDate": "Fri, 14 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x UD Oliveirense - 14/08 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x UD Oliveirense - 14/08 20:30 - Canal11",
+      "pubDate": "Fri, 14 Aug 2026 20:30:00",
       "guid": ""
     }
   ]

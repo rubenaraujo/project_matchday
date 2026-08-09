@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Udinese x Barcelona - 08/08 21:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Barcelona - 08/08 21:00 - SportTV 4",
-      "pubDate": "Sat, 08 Aug 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tigre x River Plate - 08/08 21:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tigre x River Plate - 08/08 21:00 - SportTV 3",
-      "pubDate": "Sat, 08 Aug 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x Vélez Sarsfield - 08/08 23:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Vélez Sarsfield - 08/08 23:15 - SportTV 7",
-      "pubDate": "Sat, 08 Aug 2026 23:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Botafogo x Fluminense - 09/08 01:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Botafogo x Fluminense - 09/08 01:00 - Canal11",
-      "pubDate": "Sun, 09 Aug 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Farense x Torreense - 09/08 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x Torreense - 09/08 11:00 - SportTV 1",
@@ -320,6 +292,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Manchester United - 12/08 19:30 - SportTV 1",
       "pubDate": "Wed, 12 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia (S23) x Gil Vicente (S23) - 12/08 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Gil Vicente (S23) - 12/08 20:00 - Canal11",
+      "pubDate": "Wed, 12 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Aston Villa - 12/08 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Aston Villa - 12/08 20:00 - SportTV 5",
+      "pubDate": "Wed, 12 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Palmeiras x Cerro Porteño - 12/08 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Palmeiras x Cerro Porteño - 12/08 23:00 - SportTV 1",
+      "pubDate": "Wed, 12 Aug 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cruzeiro x Flamengo - 13/08 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cruzeiro x Flamengo - 13/08 01:30 - SportTV 1",
+      "pubDate": "Thu, 13 Aug 2026 01:30:00",
       "guid": ""
     }
   ]

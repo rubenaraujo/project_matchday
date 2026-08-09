@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rangers x Hibernian - 09/08 16:00 - SportTV 6",
-      "pubDate": "Sun, 09 Aug 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trofense x Varzim - 09/08 17:00 - C11 Stream",
@@ -313,6 +306,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x Feirense - 14/08 18:00 - SportTV +",
       "pubDate": "Fri, 14 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Faisaly FC - 14/08 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Faisaly FC - 14/08 19:00 - SportTV 4",
+      "pubDate": "Fri, 14 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Corum FK - 14/08 19:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Corum FK - 14/08 19:30 - SportTV 3",
+      "pubDate": "Fri, 14 Aug 2026 19:30:00",
       "guid": ""
     }
   ]

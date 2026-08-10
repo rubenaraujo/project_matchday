@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Argentinos Juniors x Racing Club - 10/08 00:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentinos Juniors x Racing Club - 10/08 00:15 - SportTV 1",
-      "pubDate": "Mon, 10 Aug 2026 00:15:00",
-      "guid": ""
-    },
-    {
       "title": "Lusitânia de Lourosa x FC Porto - 10/08 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitânia de Lourosa x FC Porto - 10/08 18:00 - SportTV +",
@@ -340,6 +333,13 @@
       "title": "Everton x Lille - 15/08 16:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Everton x Lille - 15/08 16:00 - SportTV 7",
+      "pubDate": "Sat, 15 Aug 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Stuttgart - 15/08 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Stuttgart - 15/08 16:00 - SportTV 3",
       "pubDate": "Sat, 15 Aug 2026 16:00:00",
       "guid": ""
     }

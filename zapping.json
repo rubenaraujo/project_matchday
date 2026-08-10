@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Académico (S23) x Est. Amadora (S23) - 10/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (S23) x Est. Amadora (S23) - 10/08 20:00 - Canal11",
-      "pubDate": "Mon, 10 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara x Nacional - 10/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara x Nacional - 10/08 20:15 - SportTV 1",
-      "pubDate": "Mon, 10 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "FC Famalicão (S23) x Torreense (S23) - 11/08 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (S23) x Torreense (S23) - 11/08 11:00 - C11 Stream",
@@ -334,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x Benfica - 15/08 14:00 - SportTV +",
       "pubDate": "Sat, 15 Aug 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sandgames Figueira (Praia Feminino) x ACD O Sótão (Praia Feminino) - 15/08 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sandgames Figueira (Praia Feminino) x ACD O Sótão (Praia Feminino) - 15/08 14:00 - Canal11",
+      "pubDate": "Sat, 15 Aug 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Bayer Leverkusen - 15/08 15:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Bayer Leverkusen - 15/08 15:00 - SportTV 6",
+      "pubDate": "Sat, 15 Aug 2026 15:00:00",
       "guid": ""
     }
   ]

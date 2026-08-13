@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Palmeiras x Cerro Porteño - 12/08 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Cerro Porteño - 12/08 23:00 - SportTV 1",
-      "pubDate": "Wed, 12 Aug 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cruzeiro x Flamengo - 13/08 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cruzeiro x Flamengo - 13/08 01:30 - SportTV 1",
-      "pubDate": "Thu, 13 Aug 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Fe x River Plate - 13/08 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Fe x River Plate - 13/08 01:30 - SportTV 2",
@@ -333,6 +319,13 @@
       "title": "Gençlerbirligi x Fenerbahçe - 15/08 19:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gençlerbirligi x Fenerbahçe - 15/08 19:30 - SportTV 6",
+      "pubDate": "Sat, 15 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Kaiserslautern x Karlsruher SC - 15/08 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kaiserslautern x Karlsruher SC - 15/08 19:30 - DAZN 3",
       "pubDate": "Sat, 15 Aug 2026 19:30:00",
       "guid": ""
     }

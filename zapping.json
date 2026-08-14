@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Wolverhampton x Blackburn Rovers - 14/08 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolverhampton x Blackburn Rovers - 14/08 20:00 - SportTV 5",
-      "pubDate": "Fri, 14 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Vitória SC - 14/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Vitória SC - 14/08 20:15 - SportTV 1",
-      "pubDate": "Fri, 14 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Benevento/Ravenna - 14/08 20:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Benevento/Ravenna - 14/08 20:15 - SportTV 2",
-      "pubDate": "Fri, 14 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x UD Oliveirense - 14/08 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x UD Oliveirense - 14/08 20:30 - Canal11",
-      "pubDate": "Fri, 14 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético CP x CD Mafra - 15/08 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP x CD Mafra - 15/08 11:00 - Canal11",
@@ -278,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Amarante FC x Lusitânia de Lourosa - 16/08 14:00 - SportTV +",
       "pubDate": "Sun, 16 Aug 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Manchester City - 16/08 15:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Manchester City - 16/08 15:00 - SportTV 3",
+      "pubDate": "Sun, 16 Aug 2026 15:00:00",
       "guid": ""
     }
   ]

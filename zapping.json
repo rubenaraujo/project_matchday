@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Parma x Catania - 14/08 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Parma x Catania - 14/08 17:00 - SportTV 2",
-      "pubDate": "Fri, 14 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Holstein Kiel x FC St. Pauli - 14/08 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Holstein Kiel x FC St. Pauli - 14/08 17:30 - DAZN 1",
-      "pubDate": "Fri, 14 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Al-Faisaly FC - 14/08 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Faisaly FC - 14/08 19:00 - SportTV 4",
-      "pubDate": "Fri, 14 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Corum FK - 14/08 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Corum FK - 14/08 19:30 - SportTV 3",
-      "pubDate": "Fri, 14 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad (B) x Castellón - 14/08 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad (B) x Castellón - 14/08 19:30 - DAZN 1",
-      "pubDate": "Fri, 14 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Wolverhampton x Blackburn Rovers - 14/08 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolverhampton x Blackburn Rovers - 14/08 20:00 - SportTV 5",
@@ -299,6 +264,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feyenoord x Go Ahead Eagles - 16/08 13:30 - DAZN 1",
       "pubDate": "Sun, 16 Aug 2026 13:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Derrotado MF1 x Derrotado MF2 - 16/08 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Derrotado MF1 x Derrotado MF2 - 16/08 14:00 - Canal11",
+      "pubDate": "Sun, 16 Aug 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Amarante FC x Lusitânia de Lourosa - 16/08 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amarante FC x Lusitânia de Lourosa - 16/08 14:00 - SportTV +",
+      "pubDate": "Sun, 16 Aug 2026 14:00:00",
       "guid": ""
     }
   ]

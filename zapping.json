@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (B) x GD Chaves - 15/08 15:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x GD Chaves - 15/08 15:30 - SportingTv",
-      "pubDate": "Sat, 15 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Milan - 15/08 15:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Milan - 15/08 15:45 - SportTV 2",
-      "pubDate": "Sat, 15 Aug 2026 15:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Stuttgart - 15/08 16:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Stuttgart - 15/08 16:00 - SportTV 3",
-      "pubDate": "Sat, 15 Aug 2026 16:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC (B) x Leça FC - 15/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (B) x Leça FC - 15/08 17:00 - C11 Stream",
@@ -271,6 +250,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória Sernache x SC Covilhã - 16/08 17:00 - C11 Stream",
       "pubDate": "Sun, 16 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Ascoli - 16/08 17:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Ascoli - 16/08 17:30 - SportTV 3",
+      "pubDate": "Sun, 16 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Caldas SC x Lusitano GC - 16/08 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caldas SC x Lusitano GC - 16/08 17:30 - Canal11",
+      "pubDate": "Sun, 16 Aug 2026 17:30:00",
       "guid": ""
     }
   ]

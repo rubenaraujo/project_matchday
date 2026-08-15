@@ -1,37 +1,9 @@
 {
   "items": [
     {
-      "title": "Alavés x Getafe CF - 15/08 18:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Getafe CF - 15/08 18:30 - DAZN 1",
-      "pubDate": "Sat, 15 Aug 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Fateh - 15/08 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Fateh - 15/08 19:00 - SportTV 3",
-      "pubDate": "Sat, 15 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Excelsior x PSV - 15/08 19:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Excelsior x PSV - 15/08 19:00 - DAZN 2",
-      "pubDate": "Sat, 15 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Kaiserslautern x Karlsruher SC - 15/08 19:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kaiserslautern x Karlsruher SC - 15/08 19:30 - DAZN 3",
-      "pubDate": "Sat, 15 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Gençlerbirligi x Fenerbahçe - 15/08 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gençlerbirligi x Fenerbahçe - 15/08 19:30 - SportTV 7",
       "pubDate": "Sat, 15 Aug 2026 19:30:00",
       "guid": ""
     },
@@ -264,6 +236,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Varzim x AD Marco 09 - 16/08 20:00 - Canal11",
       "pubDate": "Sun, 16 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Camarões (Feminino) x Malawi (Feminino) - 16/08 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Camarões (Feminino) x Malawi (Feminino) - 16/08 20:00 - SportTV 4",
+      "pubDate": "Sun, 16 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Mantova 1911 - 16/08 20:15 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Mantova 1911 - 16/08 20:15 - SportTV 6",
+      "pubDate": "Sun, 16 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão x Marítimo - 16/08 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão x Marítimo - 16/08 20:30 - SportTV 2",
+      "pubDate": "Sun, 16 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Gil Vicente - 16/08 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Gil Vicente - 16/08 20:30 - SportTV 1",
+      "pubDate": "Sun, 16 Aug 2026 20:30:00",
       "guid": ""
     }
   ]

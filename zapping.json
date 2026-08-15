@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Leiria x Benfica - 15/08 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x Benfica - 15/08 14:00 - SportTV +",
-      "pubDate": "Sat, 15 Aug 2026 14:00:00",
-      "guid": ""
-    },
-    {
       "title": "Newcastle x Bayer Leverkusen - 15/08 15:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Bayer Leverkusen - 15/08 15:00 - SportTV 6",
@@ -36,16 +29,9 @@
       "guid": ""
     },
     {
-      "title": "AD Pastéis (Praia Feminino) x GD Ilha (Praia Feminino) - 15/08 15:30 - Canal11",
+      "title": "Manchester United x Milan - 15/08 15:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Pastéis (Praia Feminino) x GD Ilha (Praia Feminino) - 15/08 15:30 - Canal11",
-      "pubDate": "Sat, 15 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Milan x Manchester United - 15/08 15:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Milan x Manchester United - 15/08 15:45 - SportTV 2",
+      "description": "Manchester United x Milan - 15/08 15:45 - SportTV 2",
       "pubDate": "Sat, 15 Aug 2026 15:45:00",
       "guid": ""
     },
@@ -298,6 +284,13 @@
       "title": "S. João Ver x Fafe - 16/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "S. João Ver x Fafe - 16/08 17:00 - C11 Stream",
+      "pubDate": "Sun, 16 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória Sernache x SC Covilhã - 16/08 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória Sernache x SC Covilhã - 16/08 17:00 - C11 Stream",
       "pubDate": "Sun, 16 Aug 2026 17:00:00",
       "guid": ""
     }

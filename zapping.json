@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Arsenal x Manchester City - 16/08 15:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Manchester City - 16/08 15:00 - SportTV 3",
-      "pubDate": "Sun, 16 Aug 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões x CD Tondela - 16/08 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x CD Tondela - 16/08 15:30 - SportTV 2",
-      "pubDate": "Sun, 16 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x Estoril Praia - 16/08 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x Estoril Praia - 16/08 15:30 - SportTV 1",
-      "pubDate": "Sun, 16 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sandgames Figueira (Praia Feminino) x AD Pastéis (Praia Feminino) - 16/08 15:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sandgames Figueira (Praia Feminino) x AD Pastéis (Praia Feminino) - 16/08 15:30 - Canal11",
-      "pubDate": "Sun, 16 Aug 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Ajax x Heerenveen - 16/08 15:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Heerenveen - 16/08 15:45 - DAZN 2",
@@ -313,6 +285,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dinamo Zagreb x Viking - 18/08 20:00 - DAZN",
       "pubDate": "Tue, 18 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Independiente Rivadavia x Fluminense - 18/08 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente Rivadavia x Fluminense - 18/08 23:00 - SportTV 1",
+      "pubDate": "Tue, 18 Aug 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Recoleta x Boca Juniors - 18/08 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Recoleta x Boca Juniors - 18/08 23:00 - SportTV 2",
+      "pubDate": "Tue, 18 Aug 2026 23:00:00",
       "guid": ""
     }
   ]

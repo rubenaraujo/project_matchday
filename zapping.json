@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Lens x PSG - 16/08 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x PSG - 16/08 19:45 - SportTV 3",
-      "pubDate": "Sun, 16 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Varzim x AD Marco 09 - 16/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Varzim x AD Marco 09 - 16/08 20:00 - Canal11",
-      "pubDate": "Sun, 16 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Camarões (Feminino) x Malawi (Feminino) - 16/08 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Camarões (Feminino) x Malawi (Feminino) - 16/08 20:00 - SportTV 4",
-      "pubDate": "Sun, 16 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Mantova 1911 - 16/08 20:15 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Mantova 1911 - 16/08 20:15 - SportTV 6",
-      "pubDate": "Sun, 16 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x Marítimo - 16/08 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Marítimo - 16/08 20:30 - SportTV 2",
-      "pubDate": "Sun, 16 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga x Gil Vicente - 16/08 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Gil Vicente - 16/08 20:30 - SportTV 1",
@@ -292,6 +257,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Fayha x Al-Hilal - 20/08 19:00 - SportTV 1",
       "pubDate": "Thu, 20 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Austria Wien - 20/08 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Austria Wien - 20/08 20:00 - SportTV 5",
+      "pubDate": "Thu, 20 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Alavés - 20/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Alavés - 20/08 20:00 - DAZN 1",
+      "pubDate": "Thu, 20 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Macará x Santos - 20/08 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Macará x Santos - 20/08 23:00 - SportTV 2",
+      "pubDate": "Thu, 20 Aug 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olimpia x Vasco - 20/08 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olimpia x Vasco - 20/08 23:00 - SportTV 1",
+      "pubDate": "Thu, 20 Aug 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Texans (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 21/08 01:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Texans (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 21/08 01:00 - DAZN",
+      "pubDate": "Fri, 21 Aug 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Botafogo x Cienciano - 21/08 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Botafogo x Cienciano - 21/08 01:30 - SportTV 2",
+      "pubDate": "Fri, 21 Aug 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Rosario Central - 21/08 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Rosario Central - 21/08 01:30 - SportTV 1",
+      "pubDate": "Fri, 21 Aug 2026 01:30:00",
       "guid": ""
     }
   ]

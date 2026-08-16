@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "S. João Ver x Fafe - 16/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "S. João Ver x Fafe - 16/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 16 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória Sernache x SC Covilhã - 16/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória Sernache x SC Covilhã - 16/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 16 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Ascoli - 16/08 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Ascoli - 16/08 17:30 - SportTV 3",
-      "pubDate": "Sun, 16 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Lusitano GC - 16/08 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Lusitano GC - 16/08 17:30 - Canal11",
-      "pubDate": "Sun, 16 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (B) x Farense - 16/08 18:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (B) x Farense - 16/08 18:00 - PortoCanal",
@@ -277,6 +249,34 @@
       "title": "Moreirense (S23) x FC Famalicão (S23) - 19/08 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense (S23) x FC Famalicão (S23) - 19/08 20:00 - Canal11",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x LASK Linz - 19/08 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x LASK Linz - 19/08 20:00 - SportTV 5",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Málaga CF - 19/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Málaga CF - 19/08 20:00 - DAZN 1",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Slovan Bratislava x NK Celje - 19/08 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Slovan Bratislava x NK Celje - 19/08 20:00 - DAZN",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hapoel Beer Sheva x Sabah - 19/08 20:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hapoel Beer Sheva x Sabah - 19/08 20:00 - DAZN",
       "pubDate": "Wed, 19 Aug 2026 20:00:00",
       "guid": ""
     }

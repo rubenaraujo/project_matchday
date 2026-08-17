@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x Gil Vicente - 16/08 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Gil Vicente - 16/08 20:30 - SportTV 1",
-      "pubDate": "Sun, 16 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Sassuolo x Cesena FC - 17/08 17:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sassuolo x Cesena FC - 17/08 17:30 - SportTV 2",
@@ -102,6 +95,13 @@
       "title": "Torreense (S23) x Portimonense (S23) - 18/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense (S23) x Portimonense (S23) - 18/08 17:00 - C11 Stream",
+      "pubDate": "Tue, 18 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x Estoril Praia (S23) - 18/08 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x Estoril Praia (S23) - 18/08 17:00 - C11 Stream",
       "pubDate": "Tue, 18 Aug 2026 17:00:00",
       "guid": ""
     },
@@ -313,6 +313,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Erzurumspor FK x Galatasaray - 21/08 19:30 - SportTV 3",
       "pubDate": "Fri, 21 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Strasbourg - 21/08 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Strasbourg - 21/08 19:45 - SportTV 2",
+      "pubDate": "Fri, 21 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Coventry City - 21/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Coventry City - 21/08 20:00 - DAZN 1",
+      "pubDate": "Fri, 21 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Real Sociedad - 21/08 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Real Sociedad - 21/08 20:00 - DAZN 2",
+      "pubDate": "Fri, 21 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Córdoba x Girona - 21/08 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Córdoba x Girona - 21/08 20:00 - DAZN 3",
+      "pubDate": "Fri, 21 Aug 2026 20:00:00",
       "guid": ""
     }
   ]

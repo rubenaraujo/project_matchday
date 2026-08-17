@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Cardiff City x Wrexham - 17/08 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cardiff City x Wrexham - 17/08 20:00 - SportTV 4",
-      "pubDate": "Mon, 17 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Elche CF - 17/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Elche CF - 17/08 20:00 - DAZN 1",
-      "pubDate": "Mon, 17 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Jun.B S17) x Torreense (Jun.B S17) - 17/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.B S17) x Torreense (Jun.B S17) - 17/08 20:00 - Canal11",
-      "pubDate": "Mon, 17 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Palermo x Lecce - 17/08 20:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palermo x Lecce - 17/08 20:15 - SportTV 2",
-      "pubDate": "Mon, 17 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Benfica - 17/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Benfica - 17/08 20:15 - SportTV 1",
-      "pubDate": "Mon, 17 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Lanús x Independiente - 17/08 21:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lanús x Independiente - 17/08 21:00 - SportTV 6",
@@ -327,6 +292,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Tondela x Académica OAF - 21/08 20:15 - SportTV 1",
       "pubDate": "Fri, 21 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Fafe x Vitória SC - 21/08 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fafe x Vitória SC - 21/08 20:30 - Canal11",
+      "pubDate": "Fri, 21 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses x U. Santarém - 22/08 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x U. Santarém - 22/08 11:00 - Canal11",
+      "pubDate": "Sat, 22 Aug 2026 11:00:00",
       "guid": ""
     }
   ]

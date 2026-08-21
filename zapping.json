@@ -8,20 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Botafogo x Cienciano - 21/08 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Botafogo x Cienciano - 21/08 01:30 - SportTV 2",
-      "pubDate": "Fri, 21 Aug 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Rosario Central - 21/08 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Rosario Central - 21/08 01:30 - SportTV 1",
-      "pubDate": "Fri, 21 Aug 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Azerbaijão (Voleibol Feminino) x Portugal (Voleibol Feminino) - 21/08 16:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Azerbaijão (Voleibol Feminino) x Portugal (Voleibol Feminino) - 21/08 16:00 - RTP2",
@@ -334,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x FC Alverca - 22/08 20:30 - SportTV 1",
       "pubDate": "Sat, 22 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Real Madrid - 22/08 20:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Real Madrid - 22/08 20:30 - DAZN 1",
+      "pubDate": "Sat, 22 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x Leça FC - 23/08 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x Leça FC - 23/08 11:00 - Canal11",
+      "pubDate": "Sun, 23 Aug 2026 11:00:00",
       "guid": ""
     }
   ]

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Marseille x Strasbourg - 21/08 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Strasbourg - 21/08 19:45 - SportTV 2",
-      "pubDate": "Fri, 21 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Coventry City - 21/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Coventry City - 21/08 20:00 - DAZN 1",
-      "pubDate": "Fri, 21 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Real Sociedad - 21/08 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Real Sociedad - 21/08 20:00 - DAZN 2",
-      "pubDate": "Fri, 21 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Córdoba x Girona - 21/08 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Córdoba x Girona - 21/08 20:00 - DAZN 3",
-      "pubDate": "Fri, 21 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Tondela x Académica OAF - 21/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Académica OAF - 21/08 20:15 - SportTV 1",
-      "pubDate": "Fri, 21 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Fafe x Vitória SC - 21/08 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fafe x Vitória SC - 21/08 20:30 - Canal11",
-      "pubDate": "Fri, 21 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S18) x Kosovo (Feminino S18) - 22/08 09:30 - RTP Play",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S18) x Kosovo (Feminino S18) - 22/08 09:30 - RTP Play",
@@ -327,6 +285,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "França (Voleibol) x Portugal (Voleibol) - 23/08 13:00 - RTP2",
       "pubDate": "Sun, 23 Aug 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x FC Groningen - 23/08 13:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x FC Groningen - 23/08 13:30 - DAZN 3",
+      "pubDate": "Sun, 23 Aug 2026 13:30:00",
       "guid": ""
     }
   ]

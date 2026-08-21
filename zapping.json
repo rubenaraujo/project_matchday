@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Houston Texans (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 21/08 01:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Texans (Fut. Americano) x Las Vegas Raiders (Fut. Americano) - 21/08 01:00 - DAZN",
-      "pubDate": "Fri, 21 Aug 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Azerbaijão (Voleibol Feminino) x Portugal (Voleibol Feminino) - 21/08 16:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Azerbaijão (Voleibol Feminino) x Portugal (Voleibol Feminino) - 21/08 16:00 - RTP2",
@@ -334,6 +327,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "USC Paredes x Leça FC - 23/08 11:00 - Canal11",
       "pubDate": "Sun, 23 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x AFS - 23/08 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x AFS - 23/08 11:00 - SportTV 1",
+      "pubDate": "Sun, 23 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "West Bromwich x Burnley - 23/08 12:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Bromwich x Burnley - 23/08 12:00 - SportTV 2",
+      "pubDate": "Sun, 23 Aug 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SpVgg Greuther Fürth x VfL Bochum - 23/08 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SpVgg Greuther Fürth x VfL Bochum - 23/08 12:00 - DAZN 1",
+      "pubDate": "Sun, 23 Aug 2026 12:00:00",
       "guid": ""
     }
   ]

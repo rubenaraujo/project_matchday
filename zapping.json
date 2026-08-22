@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Trofense x S. João Ver - 22/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trofense x S. João Ver - 22/08 17:00 - C11 Stream",
-      "pubDate": "Sat, 22 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x CD Mafra - 22/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x CD Mafra - 22/08 17:00 - C11 Stream",
-      "pubDate": "Sat, 22 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SV Eintracht Trier 05 x RB Leipzig - 22/08 17:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SV Eintracht Trier 05 x RB Leipzig - 22/08 17:00 - DAZN 2",
-      "pubDate": "Sat, 22 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Moreirense (Jun.A S19) - 22/08 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Moreirense (Jun.A S19) - 22/08 17:00 - PortoCanal",
-      "pubDate": "Sat, 22 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Monza - 22/08 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Monza - 22/08 17:30 - SportTV 3",
-      "pubDate": "Sat, 22 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Brentford x Tottenham - 22/08 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brentford x Tottenham - 22/08 17:30 - DAZN 1",
-      "pubDate": "Sat, 22 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Udinese x Como 1907 - 22/08 17:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Como 1907 - 22/08 17:30 - SportTV 7",
-      "pubDate": "Sat, 22 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "SC Covilhã x Atlético CP - 22/08 18:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Covilhã x Atlético CP - 22/08 18:00 - Canal11",
@@ -285,6 +236,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trabzonspor x Basaksehir - 23/08 17:00 - SportTV 5",
       "pubDate": "Sun, 23 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x Vitória Sernache - 23/08 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x Vitória Sernache - 23/08 17:30 - Canal11",
+      "pubDate": "Sun, 23 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Venezia x Lecce - 23/08 17:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Venezia x Lecce - 23/08 17:30 - SportTV 6",
+      "pubDate": "Sun, 23 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Frosinone x Juventus - 23/08 17:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Frosinone x Juventus - 23/08 17:30 - SportTV 3",
+      "pubDate": "Sun, 23 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x FC Famalicão - 23/08 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x FC Famalicão - 23/08 18:00 - SportTV 2",
+      "pubDate": "Sun, 23 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe CF x Racing Santander - 23/08 18:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe CF x Racing Santander - 23/08 18:30 - DAZN 1",
+      "pubDate": "Sun, 23 Aug 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Benfica (Andebol) - 23/08 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Benfica (Andebol) - 23/08 19:00 - RTP2",
+      "pubDate": "Sun, 23 Aug 2026 19:00:00",
       "guid": ""
     }
   ]

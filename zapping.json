@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Covilhã x Atlético CP - 22/08 18:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Covilhã x Atlético CP - 22/08 18:00 - Canal11",
-      "pubDate": "Sat, 22 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x Torreense - 22/08 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x Torreense - 22/08 18:00 - SportTV 4",
-      "pubDate": "Sat, 22 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Estoril Praia x Rio Ave - 22/08 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Rio Ave - 22/08 18:00 - SportTV 2",
-      "pubDate": "Sat, 22 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "Valencia CF x Celta de Vigo - 22/08 18:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia CF x Celta de Vigo - 22/08 18:30 - DAZN 3",
@@ -278,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Andebol) x Benfica (Andebol) - 23/08 19:00 - RTP2",
       "pubDate": "Sun, 23 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Sassuolo - 23/08 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Sassuolo - 23/08 19:45 - SportTV 6",
+      "pubDate": "Sun, 23 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Rennes - 23/08 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Rennes - 23/08 19:45 - SportTV 4",
+      "pubDate": "Sun, 23 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Milan - 23/08 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Milan - 23/08 19:45 - SportTV 3",
+      "pubDate": "Sun, 23 Aug 2026 19:45:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses x U. Santarém - 22/08 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x U. Santarém - 22/08 11:00 - Canal11",
-      "pubDate": "Sat, 22 Aug 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leixões x UD Leiria - 22/08 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões x UD Leiria - 22/08 11:00 - SportTV 1",
-      "pubDate": "Sat, 22 Aug 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Wehen Wiesbaden x Bayer Leverkusen - 22/08 12:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wehen Wiesbaden x Bayer Leverkusen - 22/08 12:00 - DAZN 2",
@@ -341,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Cambuur x Feyenoord - 23/08 15:45 - DAZN 3",
       "pubDate": "Sun, 23 Aug 2026 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético de Madrid x Villarreal CF - 23/08 16:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético de Madrid x Villarreal CF - 23/08 16:00 - DAZN 2",
+      "pubDate": "Sun, 23 Aug 2026 16:00:00",
       "guid": ""
     }
   ]

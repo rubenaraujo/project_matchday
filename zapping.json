@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Newcastle x Liverpool - 23/08 16:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Liverpool - 23/08 16:30 - DAZN 1",
-      "pubDate": "Sun, 23 Aug 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x Vianense - 23/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x Vianense - 23/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 23 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Caldas SC x Louletano - 23/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Caldas SC x Louletano - 23/08 17:00 - C11 Stream",
-      "pubDate": "Sun, 23 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Trabzonspor x Basaksehir - 23/08 17:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trabzonspor x Basaksehir - 23/08 17:00 - SportTV 5",
-      "pubDate": "Sun, 23 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense x Vitória Sernache - 23/08 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense x Vitória Sernache - 23/08 17:30 - Canal11",
-      "pubDate": "Sun, 23 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Venezia x Lecce - 23/08 17:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Venezia x Lecce - 23/08 17:30 - SportTV 6",
-      "pubDate": "Sun, 23 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Frosinone x Juventus - 23/08 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Frosinone x Juventus - 23/08 17:30 - SportTV 3",
-      "pubDate": "Sun, 23 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Clara x FC Famalicão - 23/08 18:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x FC Famalicão - 23/08 18:00 - SportTV 2",
@@ -285,6 +236,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Ettifaq x Al-Nassr - 25/08 19:00 - SportTV 1",
       "pubDate": "Tue, 25 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Southampton x West Ham - 25/08 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Southampton x West Ham - 25/08 19:45 - SportTV 2",
+      "pubDate": "Tue, 25 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sheffield Wed. x Wolverhampton - 25/08 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sheffield Wed. x Wolverhampton - 25/08 19:45 - SportTV 7",
+      "pubDate": "Tue, 25 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Ipswich Town x Leicester City - 25/08 19:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ipswich Town x Leicester City - 25/08 19:45 - SportTV +",
+      "pubDate": "Tue, 25 Aug 2026 19:45:00",
       "guid": ""
     }
   ]

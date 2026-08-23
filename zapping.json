@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Getafe CF x Racing Santander - 23/08 18:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe CF x Racing Santander - 23/08 18:30 - DAZN 1",
-      "pubDate": "Sun, 23 Aug 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Benfica (Andebol) - 23/08 19:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Benfica (Andebol) - 23/08 19:00 - RTP2",
-      "pubDate": "Sun, 23 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Atalanta x Sassuolo - 23/08 19:45 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atalanta x Sassuolo - 23/08 19:45 - SportTV 6",
@@ -271,6 +257,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia CF x Real Betis - 25/08 20:00 - DAZN 1",
       "pubDate": "Tue, 25 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "LASK Linz x Celtic - 25/08 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LASK Linz x Celtic - 25/08 20:00 - SportTV 5",
+      "pubDate": "Tue, 25 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bodo/Glimt x NEC - 25/08 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bodo/Glimt x NEC - 25/08 20:00 - DAZN 2",
+      "pubDate": "Tue, 25 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (Feminino S20) x Portugal (Feminino S20) - 26/08 10:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (Feminino S20) x Portugal (Feminino S20) - 26/08 10:00 - Canal11",
+      "pubDate": "Wed, 26 Aug 2026 10:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Voleibol Feminino) x Portugal (Voleibol Feminino) - 26/08 12:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Voleibol Feminino) x Portugal (Voleibol Feminino) - 26/08 12:30 - RTP2",
+      "pubDate": "Wed, 26 Aug 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rapid Wien x Hearts - 26/08 17:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rapid Wien x Hearts - 26/08 17:45 - Canal11",
+      "pubDate": "Wed, 26 Aug 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x West Bromwich - 26/08 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x West Bromwich - 26/08 19:45 - SportTV 2",
+      "pubDate": "Wed, 26 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Charlton Athletic - 26/08 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Charlton Athletic - 26/08 19:45 - SportTV 1",
+      "pubDate": "Wed, 26 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Preston North End x Everton - 26/08 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Preston North End x Everton - 26/08 20:00 - SportTV 7",
+      "pubDate": "Wed, 26 Aug 2026 20:00:00",
       "guid": ""
     }
   ]

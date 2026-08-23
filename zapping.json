@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Derrotado MF1 x Derrotado MF2 - 23/08 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Derrotado MF1 x Derrotado MF2 - 23/08 11:00 - Canal11",
-      "pubDate": "Sun, 23 Aug 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "França (Voleibol) x Portugal (Voleibol) - 23/08 13:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França (Voleibol) x Portugal (Voleibol) - 23/08 13:00 - RTP2",
-      "pubDate": "Sun, 23 Aug 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x FC Groningen - 23/08 13:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x FC Groningen - 23/08 13:30 - DAZN 3",
-      "pubDate": "Sun, 23 Aug 2026 13:30:00",
-      "guid": ""
-    },
-    {
       "title": "Angers x Lille - 23/08 14:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angers x Lille - 23/08 14:00 - SportTV 3",
@@ -57,9 +36,9 @@
       "guid": ""
     },
     {
-      "title": "Finalista 1 x Finalista 2 - 23/08 15:00 - Canal11",
+      "title": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 23/08 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Finalista 1 x Finalista 2 - 23/08 15:00 - Canal11",
+      "description": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 23/08 15:00 - Canal11",
       "pubDate": "Sun, 23 Aug 2026 15:00:00",
       "guid": ""
     },
@@ -306,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Feirense x FC Porto - 24/08 20:15 - SportTV 3",
       "pubDate": "Mon, 24 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Málaga CF x Deportivo - 24/08 20:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Málaga CF x Deportivo - 24/08 20:30 - DAZN 2",
+      "pubDate": "Mon, 24 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Talleres x Rosario Central - 25/08 01:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Talleres x Rosario Central - 25/08 01:15 - SportTV 1",
+      "pubDate": "Tue, 25 Aug 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Voleibol) x Sérvia (Voleibol) - 25/08 10:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Voleibol) x Sérvia (Voleibol) - 25/08 10:00 - RTP2",
+      "pubDate": "Tue, 25 Aug 2026 10:00:00",
       "guid": ""
     }
   ]

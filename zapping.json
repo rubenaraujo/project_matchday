@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Atalanta x Sassuolo - 23/08 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Sassuolo - 23/08 19:45 - SportTV 6",
-      "pubDate": "Sun, 23 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x PSG - 23/08 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x PSG - 23/08 19:45 - SportTV 4",
-      "pubDate": "Sun, 23 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Milan - 23/08 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Milan - 23/08 19:45 - SportTV 3",
-      "pubDate": "Sun, 23 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S18) x Marrocos (Feminino S18) - 23/08 20:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S18) x Marrocos (Feminino S18) - 23/08 20:00 - RTP Play",
-      "pubDate": "Sun, 23 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x FC Arouca - 23/08 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x FC Arouca - 23/08 20:30 - SportTV 1",
-      "pubDate": "Sun, 23 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Elche CF x Barcelona - 23/08 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche CF x Barcelona - 23/08 20:30 - DAZN 1",
@@ -312,6 +277,13 @@
       "title": "Preston North End x Everton - 26/08 20:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Preston North End x Everton - 26/08 20:00 - SportTV 7",
+      "pubDate": "Wed, 26 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Fenerbahçe - 26/08 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Fenerbahçe - 26/08 20:00 - SportTV 5",
       "pubDate": "Wed, 26 Aug 2026 20:00:00",
       "guid": ""
     }

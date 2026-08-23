@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Elche CF x Barcelona - 23/08 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche CF x Barcelona - 23/08 20:30 - DAZN 1",
-      "pubDate": "Sun, 23 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Vélez Sarsfield - 23/08 23:15 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Vélez Sarsfield - 23/08 23:15 - SportTV 2",
@@ -284,6 +277,20 @@
       "title": "Lyon x Fenerbahçe - 26/08 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lyon x Fenerbahçe - 26/08 20:00 - SportTV 5",
+      "pubDate": "Wed, 26 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Real Sociedad - 26/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Real Sociedad - 26/08 20:00 - DAZN 1",
+      "pubDate": "Wed, 26 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Viking x Dinamo Zagreb - 26/08 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Viking x Dinamo Zagreb - 26/08 20:00 - DAZN 2",
       "pubDate": "Wed, 26 Aug 2026 20:00:00",
       "guid": ""
     }

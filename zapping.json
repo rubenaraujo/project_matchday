@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Roma x Fiorentina - 24/08 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Fiorentina - 24/08 19:45 - SportTV 2",
-      "pubDate": "Mon, 24 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (S23) x Gil Vicente (S23) - 24/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (S23) x Gil Vicente (S23) - 24/08 20:00 - Canal11",
-      "pubDate": "Mon, 24 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fulham x Chelsea - 24/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fulham x Chelsea - 24/08 20:00 - DAZN 1",
-      "pubDate": "Mon, 24 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Casa Pia AC - 24/08 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Casa Pia AC - 24/08 20:15 - SportTV 1",
-      "pubDate": "Mon, 24 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x FC Porto - 24/08 20:15 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x FC Porto - 24/08 20:15 - SportTV 3",
-      "pubDate": "Mon, 24 Aug 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Málaga CF x Deportivo - 24/08 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Málaga CF x Deportivo - 24/08 20:30 - DAZN 2",
-      "pubDate": "Mon, 24 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Botafogo x Athletico Paranaense - 25/08 00:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Botafogo x Athletico Paranaense - 25/08 00:00 - Canal11",
@@ -320,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Anderlecht x Kairat - 27/08 19:30 - Canal11",
       "pubDate": "Thu, 27 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Athletic Bilbao - 27/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Athletic Bilbao - 27/08 20:00 - DAZN 1",
+      "pubDate": "Thu, 27 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Osasuna - 27/08 20:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Osasuna - 27/08 20:30 - DAZN 2",
+      "pubDate": "Thu, 27 Aug 2026 20:30:00",
       "guid": ""
     }
   ]

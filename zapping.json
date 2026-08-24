@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Vélez Sarsfield - 23/08 23:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Vélez Sarsfield - 23/08 23:15 - SportTV 2",
-      "pubDate": "Sun, 23 Aug 2026 23:15:00",
-      "guid": ""
-    },
-    {
       "title": "Tennessee Titans (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 24/08 01:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tennessee Titans (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 24/08 01:00 - DAZN",
@@ -327,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal Andebol (Andebol  S23) x Kosovo Andebol (Andebol) - 27/08 16:30 - RTP Play",
       "pubDate": "Thu, 27 Aug 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Qarabag x FC Twente - 27/08 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Qarabag x FC Twente - 27/08 17:00 - SportTV 1",
+      "pubDate": "Thu, 27 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Ararat-Armenia x Universitatea Craiova - 27/08 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Ararat-Armenia x Universitatea Craiova - 27/08 17:00 - Canal11",
+      "pubDate": "Thu, 27 Aug 2026 17:00:00",
       "guid": ""
     }
   ]

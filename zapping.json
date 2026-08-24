@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Racing Club x Boca Juniors - 24/08 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Boca Juniors - 24/08 01:30 - SportTV 1",
-      "pubDate": "Mon, 24 Aug 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Países Baixos (Voleibol Feminino) x Portugal (Voleibol Feminino) - 24/08 12:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Países Baixos (Voleibol Feminino) x Portugal (Voleibol Feminino) - 24/08 12:30 - RTP2",
@@ -334,6 +327,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Ararat-Armenia x Universitatea Craiova - 27/08 17:00 - Canal11",
       "pubDate": "Thu, 27 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x FC Sion - 27/08 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x FC Sion - 27/08 19:00 - SportTV 4",
+      "pubDate": "Thu, 27 Aug 2026 19:00:00",
       "guid": ""
     }
   ]

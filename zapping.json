@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Tennessee Titans (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 24/08 01:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tennessee Titans (Fut. Americano) x Seattle Seahawks (Fut. Americano) - 24/08 01:00 - DAZN",
-      "pubDate": "Mon, 24 Aug 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Países Baixos (Voleibol Feminino) x Portugal (Voleibol Feminino) - 24/08 12:30 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Países Baixos (Voleibol Feminino) x Portugal (Voleibol Feminino) - 24/08 12:30 - RTP2",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x FC Sion - 27/08 19:00 - SportTV 4",
       "pubDate": "Thu, 27 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AGF Aarhus x Benfica - 27/08 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AGF Aarhus x Benfica - 27/08 19:00 - SportTV 5",
+      "pubDate": "Thu, 27 Aug 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Austria Wien x SC Braga - 27/08 19:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Austria Wien x SC Braga - 27/08 19:30 - SportTV 1",
+      "pubDate": "Thu, 27 Aug 2026 19:30:00",
       "guid": ""
     }
   ]

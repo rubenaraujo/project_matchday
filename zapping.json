@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "LASK Linz x Celtic - 25/08 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LASK Linz x Celtic - 25/08 20:00 - SportTV 5",
-      "pubDate": "Tue, 25 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (Feminino S20) x Portugal (Feminino S20) - 26/08 10:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Feminino S20) x Portugal (Feminino S20) - 26/08 10:00 - Canal11",
@@ -285,6 +278,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Villarreal CF - 28/08 20:30 - DAZN 3",
       "pubDate": "Fri, 28 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Leixões - 29/08 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Leixões - 29/08 11:00 - SportTV 1",
+      "pubDate": "Sat, 29 Aug 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x Penalva do Castelo - 29/08 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x Penalva do Castelo - 29/08 11:00 - Canal11",
+      "pubDate": "Sat, 29 Aug 2026 11:00:00",
       "guid": ""
     }
   ]

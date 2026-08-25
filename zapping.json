@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estoril Praia (S23) x Moreirense (S23) - 25/08 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia (S23) x Moreirense (S23) - 25/08 11:00 - C11 Stream",
-      "pubDate": "Tue, 25 Aug 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões (S23) x UD Leiria (S23) - 25/08 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x UD Leiria (S23) - 25/08 17:00 - C11 Stream",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Stuttgart - 28/08 19:30 - DAZN 2",
       "pubDate": "Fri, 28 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Milan x Venezia - 28/08 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Milan x Venezia - 28/08 19:45 - SportTV 2",
+      "pubDate": "Fri, 28 Aug 2026 19:45:00",
       "guid": ""
     }
   ]

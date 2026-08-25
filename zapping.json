@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Botafogo x Athletico Paranaense - 25/08 00:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Botafogo x Athletico Paranaense - 25/08 00:00 - Canal11",
-      "pubDate": "Tue, 25 Aug 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Talleres x Rosario Central - 25/08 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Talleres x Rosario Central - 25/08 01:15 - SportTV 1",
@@ -333,6 +326,13 @@
       "title": "UD Leiria x CD Tondela - 28/08 18:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria x CD Tondela - 28/08 18:00 - SportTV +",
+      "pubDate": "Fri, 28 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Elche CF - 28/08 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Elche CF - 28/08 18:00 - DAZN 1",
       "pubDate": "Fri, 28 Aug 2026 18:00:00",
       "guid": ""
     }

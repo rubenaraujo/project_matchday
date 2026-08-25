@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Leixões (S23) x UD Leiria (S23) - 25/08 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (S23) x UD Leiria (S23) - 25/08 17:00 - C11 Stream",
-      "pubDate": "Tue, 25 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália Andebol (Andebol) x Portugal Andebol (Andebol  S23) - 25/08 19:00 - RTP Play",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália Andebol (Andebol) x Portugal Andebol (Andebol  S23) - 25/08 19:00 - RTP Play",
-      "pubDate": "Tue, 25 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ettifaq x Al-Nassr - 25/08 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ettifaq x Al-Nassr - 25/08 19:00 - SportTV 1",
-      "pubDate": "Tue, 25 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Southampton x West Ham - 25/08 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Southampton x West Ham - 25/08 19:45 - SportTV 2",
@@ -313,6 +292,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Milan x Venezia - 28/08 19:45 - SportTV 2",
       "pubDate": "Fri, 28 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x PSG - 28/08 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x PSG - 28/08 19:45 - SportTV 3",
+      "pubDate": "Fri, 28 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Birmingham City - 28/08 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Birmingham City - 28/08 20:00 - SportTV 7",
+      "pubDate": "Fri, 28 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Beira-Mar x U. Lamas - 28/08 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Beira-Mar x U. Lamas - 28/08 20:00 - Canal11",
+      "pubDate": "Fri, 28 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x Manchester City - 28/08 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x Manchester City - 28/08 20:00 - DAZN 1",
+      "pubDate": "Fri, 28 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x Sporting - 28/08 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x Sporting - 28/08 20:15 - SportTV 1",
+      "pubDate": "Fri, 28 Aug 2026 20:15:00",
       "guid": ""
     }
   ]

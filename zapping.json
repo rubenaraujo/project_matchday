@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Rapid Wien x Hearts - 26/08 17:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rapid Wien x Hearts - 26/08 17:45 - Canal11",
-      "pubDate": "Wed, 26 Aug 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x West Bromwich - 26/08 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x West Bromwich - 26/08 19:45 - SportTV 2",
-      "pubDate": "Wed, 26 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Charlton Athletic - 26/08 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Charlton Athletic - 26/08 19:45 - SportTV 1",
-      "pubDate": "Wed, 26 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Preston North End x Everton - 26/08 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Preston North End x Everton - 26/08 20:00 - SportTV 7",
-      "pubDate": "Wed, 26 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Fenerbahçe - 26/08 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Fenerbahçe - 26/08 20:00 - SportTV 5",
-      "pubDate": "Wed, 26 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Real Sociedad - 26/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Real Sociedad - 26/08 20:00 - DAZN 1",
-      "pubDate": "Wed, 26 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Viking x Dinamo Zagreb - 26/08 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Viking x Dinamo Zagreb - 26/08 20:00 - DAZN 2",
-      "pubDate": "Wed, 26 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AEK x Levski Sofia - 26/08 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AEK x Levski Sofia - 26/08 20:00 - DAZN 3",
-      "pubDate": "Wed, 26 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "NK Celje x Slovan Bratislava - 26/08 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "NK Celje x Slovan Bratislava - 26/08 20:00 - DAZN 4",
-      "pubDate": "Wed, 26 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Santa Fe - 27/08 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Santa Fe - 27/08 01:30 - SportTV 1",
@@ -348,6 +285,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Alverca x Santa Clara - 29/08 15:30 - SportTV 2",
       "pubDate": "Sat, 29 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Marítimo - 29/08 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Marítimo - 29/08 15:30 - SportTV 3",
+      "pubDate": "Sat, 29 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Semi Finalista 3 x Semi Finalista 4 - 29/08 15:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Semi Finalista 3 x Semi Finalista 4 - 29/08 15:30 - Canal11",
+      "pubDate": "Sat, 29 Aug 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Real Betis - 29/08 16:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Real Betis - 29/08 16:00 - DAZN 3",
+      "pubDate": "Sat, 29 Aug 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Lens - 29/08 16:15 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Lens - 29/08 16:15 - SportTV 4",
+      "pubDate": "Sat, 29 Aug 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Fátima x Benf. Castelo Branco - 29/08 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Fátima x Benf. Castelo Branco - 29/08 17:00 - Canal11",
+      "pubDate": "Sat, 29 Aug 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Kholood x Al-Ahli Jeddah - 29/08 17:05 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Kholood x Al-Ahli Jeddah - 29/08 17:05 - SportTV 5",
+      "pubDate": "Sat, 29 Aug 2026 17:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Frosinone - 29/08 17:30 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Frosinone - 29/08 17:30 - SportTV 7",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Newcastle - 29/08 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Newcastle - 29/08 17:30 - DAZN 1",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Hamburger SV - 29/08 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Hamburger SV - 29/08 17:30 - DAZN 2",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00",
       "guid": ""
     }
   ]

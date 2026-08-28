@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Ajax x FC Sion - 27/08 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x FC Sion - 27/08 19:00 - SportTV 4",
-      "pubDate": "Thu, 27 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AGF Aarhus x Benfica - 27/08 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AGF Aarhus x Benfica - 27/08 19:00 - SportTV 5",
-      "pubDate": "Thu, 27 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Austria Wien x SC Braga - 27/08 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Austria Wien x SC Braga - 27/08 19:30 - SportTV 1",
-      "pubDate": "Thu, 27 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Luton Town - 27/08 19:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Luton Town - 27/08 19:30 - SportTV 3",
-      "pubDate": "Thu, 27 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Anderlecht x Kairat - 27/08 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Anderlecht x Kairat - 27/08 19:30 - Canal11",
-      "pubDate": "Thu, 27 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Athletic Bilbao - 27/08 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Athletic Bilbao - 27/08 20:00 - DAZN 1",
-      "pubDate": "Thu, 27 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Osasuna - 27/08 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Osasuna - 27/08 20:30 - DAZN 2",
-      "pubDate": "Thu, 27 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Estudiantes x Barracas Central - 27/08 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estudiantes x Barracas Central - 27/08 23:00 - SportTV 1",
-      "pubDate": "Thu, 27 Aug 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 28/08 14:15 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "ACD O Sótão (Praia) x Vila Flor SC (Praia) - 28/08 14:15 - Canal11",
@@ -166,6 +110,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Alavés x Villarreal CF - 28/08 20:30 - DAZN 3",
       "pubDate": "Fri, 28 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia Eagles (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 29/08 01:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia Eagles (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 29/08 01:00 - DAZN",
+      "pubDate": "Sat, 29 Aug 2026 01:00:00",
       "guid": ""
     },
     {
@@ -334,6 +285,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fiorentina x Frosinone - 29/08 17:30 - SportTV 7",
       "pubDate": "Sat, 29 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Newcastle - 29/08 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Newcastle - 29/08 17:30 - DAZN 1",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Hamburger SV - 29/08 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Hamburger SV - 29/08 17:30 - DAZN 2",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico x FC Porto - 29/08 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico x FC Porto - 29/08 18:00 - SportTV 1",
+      "pubDate": "Sat, 29 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Espanyol - 29/08 18:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Espanyol - 29/08 18:00 - DAZN 3",
+      "pubDate": "Sat, 29 Aug 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Goztepe - 29/08 19:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Goztepe - 29/08 19:30 - SportTV 6",
+      "pubDate": "Sat, 29 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Nürnberg x Arminia Bielefeld - 29/08 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Nürnberg x Arminia Bielefeld - 29/08 19:30 - DAZN 2",
+      "pubDate": "Sat, 29 Aug 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Parma - 29/08 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Parma - 29/08 19:45 - SportTV 2",
+      "pubDate": "Sat, 29 Aug 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Le Havre - 29/08 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Le Havre - 29/08 19:45 - SportTV 3",
+      "pubDate": "Sat, 29 Aug 2026 19:45:00",
       "guid": ""
     }
   ]

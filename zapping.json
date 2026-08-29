@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Philadelphia Eagles (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 29/08 01:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia Eagles (Fut. Americano) x Cincinnati Bengals (Fut. Americano) - 29/08 01:00 - DAZN",
-      "pubDate": "Sat, 29 Aug 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x Lanús - 29/08 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Lanús - 29/08 01:30 - SportTV 1",
-      "pubDate": "Sat, 29 Aug 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portimonense x Leixões - 29/08 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense x Leixões - 29/08 11:00 - SportTV 1",
@@ -333,6 +319,20 @@
       "title": "AFS x Feirense - 30/08 14:00 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AFS x Feirense - 30/08 14:00 - SportTV +",
+      "pubDate": "Sun, 30 Aug 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Nice - 30/08 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Nice - 30/08 14:00 - SportTV 3",
+      "pubDate": "Sun, 30 Aug 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Brighton  Hove Albion - 30/08 14:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Brighton  Hove Albion - 30/08 14:00 - DAZN 1",
       "pubDate": "Sun, 30 Aug 2026 14:00:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Vasco x Cruzeiro - 30/08 01:20 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Cruzeiro - 30/08 01:20 - Canal11",
-      "pubDate": "Sun, 30 Aug 2026 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Feminino) x Celta de Vigo (Feminino) - 30/08 11:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Feminino) x Celta de Vigo (Feminino) - 30/08 11:00 - PortoCanal",
@@ -334,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense (S23) x Portimonense (S23) - 01/09 11:00 - C11 Stream",
       "pubDate": "Tue, 01 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora (S23) x Sporting (S23) - 01/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora (S23) x Sporting (S23) - 01/09 17:00 - Canal11",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Felgueiras (S23) x Estoril Praia (S23) - 01/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Felgueiras (S23) x Estoril Praia (S23) - 01/09 17:00 - C11 Stream",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

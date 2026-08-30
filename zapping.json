@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Paços de Ferreira x Fafe - 29/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Fafe - 29/08 20:00 - Canal11",
-      "pubDate": "Sat, 29 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético Mineiro x Vitória - 29/08 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Mineiro x Vitória - 29/08 22:30 - Canal11",
-      "pubDate": "Sat, 29 Aug 2026 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vasco x Cruzeiro - 30/08 01:20 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco x Cruzeiro - 30/08 01:20 - Canal11",
@@ -274,6 +260,13 @@
       "guid": ""
     },
     {
+      "title": "Osasuna x Getafe CF - 31/08 18:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Getafe CF - 31/08 18:30 - DAZN 3",
+      "pubDate": "Mon, 31 Aug 2026 18:30:00",
+      "guid": ""
+    },
+    {
       "title": "Amedspor SK x Trabzonspor - 31/08 19:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Amedspor SK x Trabzonspor - 31/08 19:30 - SportTV 3",
@@ -292,6 +285,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Aston Villa x Arsenal - 31/08 20:00 - DAZN 1",
       "pubDate": "Mon, 31 Aug 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Estoril Praia - 31/08 20:15 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Estoril Praia - 31/08 20:15 - BTv",
+      "pubDate": "Mon, 31 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Vitória SC - 31/08 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Vitória SC - 31/08 20:15 - SportTV 1",
+      "pubDate": "Mon, 31 Aug 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Rayo Vallecano - 31/08 20:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Rayo Vallecano - 31/08 20:30 - DAZN 2",
+      "pubDate": "Mon, 31 Aug 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estudiantes x Newell´s Old Boys - 31/08 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estudiantes x Newell´s Old Boys - 31/08 23:00 - SportTV 2",
+      "pubDate": "Mon, 31 Aug 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela (S23) x Santa Clara (S23) - 01/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela (S23) x Santa Clara (S23) - 01/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 01 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x FC Famalicão (S23) - 01/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x FC Famalicão (S23) - 01/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 01 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense (S23) x Portimonense (S23) - 01/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense (S23) x Portimonense (S23) - 01/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 01 Sep 2026 11:00:00",
       "guid": ""
     }
   ]

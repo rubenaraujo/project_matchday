@@ -1,111 +1,6 @@
 {
   "items": [
     {
-      "title": "Rennes x Le Mans - 30/08 16:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Le Mans - 30/08 16:15 - SportTV 7",
-      "pubDate": "Sun, 30 Aug 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Ipswich Town - 30/08 16:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Ipswich Town - 30/08 16:30 - DAZN 2",
-      "pubDate": "Sun, 30 Aug 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Augsburg x Schalke 04 - 30/08 16:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Augsburg x Schalke 04 - 30/08 16:30 - DAZN 3",
-      "pubDate": "Sun, 30 Aug 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x Belenenses - 30/08 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x Belenenses - 30/08 17:00 - Canal11",
-      "pubDate": "Sun, 30 Aug 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Como 1907 - 30/08 17:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Como 1907 - 30/08 17:30 - SportTV 4",
-      "pubDate": "Sun, 30 Aug 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (B) x FC Penafiel - 30/08 18:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (B) x FC Penafiel - 30/08 18:00 - PortoCanal",
-      "pubDate": "Sun, 30 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (B) x Farense - 30/08 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x Farense - 30/08 18:00 - SportingTv",
-      "pubDate": "Sun, 30 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Moreirense - 30/08 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Moreirense - 30/08 18:00 - SportTV 2",
-      "pubDate": "Sun, 30 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Felgueiras x GD Chaves - 30/08 18:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Felgueiras x GD Chaves - 30/08 18:00 - SportTV 6",
-      "pubDate": "Sun, 30 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cádiz x Valladolid - 30/08 18:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cádiz x Valladolid - 30/08 18:00 - DAZN 4",
-      "pubDate": "Sun, 30 Aug 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Valencia CF - 30/08 18:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Valencia CF - 30/08 18:30 - DAZN 1",
-      "pubDate": "Sun, 30 Aug 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Banfield x River Plate - 30/08 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Banfield x River Plate - 30/08 19:00 - SportTV 7",
-      "pubDate": "Sun, 30 Aug 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Samsunspor x Fenerbahçe - 30/08 19:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Samsunspor x Fenerbahçe - 30/08 19:30 - SportTV +",
-      "pubDate": "Sun, 30 Aug 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Cagliari x Internazionale - 30/08 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Internazionale - 30/08 19:45 - SportTV 3",
-      "pubDate": "Sun, 30 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Marseille - 30/08 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Marseille - 30/08 19:45 - SportTV 4",
-      "pubDate": "Sun, 30 Aug 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Corinthians x Santos - 30/08 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Corinthians x Santos - 30/08 20:00 - Canal11",
@@ -299,6 +194,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sassuolo x Frosinone - 02/09 14:00 - SportTV 1",
       "pubDate": "Wed, 02 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (S23) x Académico (S23) - 02/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Académico (S23) - 02/09 17:00 - Canal11",
+      "pubDate": "Wed, 02 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Venezia - 02/09 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Venezia - 02/09 17:00 - SportTV 1",
+      "pubDate": "Wed, 02 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "VfL Osnabrück x Bayern München - 02/09 19:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "VfL Osnabrück x Bayern München - 02/09 19:45 - DAZN 1",
+      "pubDate": "Wed, 02 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Burnley x Middlesbrough - 02/09 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burnley x Middlesbrough - 02/09 20:00 - SportTV 3",
+      "pubDate": "Wed, 02 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Falkirk x Rangers - 02/09 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Falkirk x Rangers - 02/09 20:00 - SportTV 2",
+      "pubDate": "Wed, 02 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tubarão (Futsal) x Jaraguá Futsal (Futsal) - 02/09 22:15 - LNF TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tubarão (Futsal) x Jaraguá Futsal (Futsal) - 02/09 22:15 - LNF TV",
+      "pubDate": "Wed, 02 Sep 2026 22:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Vélez Sarsfield - 03/09 01:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Vélez Sarsfield - 03/09 01:15 - SportTV 1",
+      "pubDate": "Thu, 03 Sep 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Diriyah x Al-Qadisiyah - 03/09 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Diriyah x Al-Qadisiyah - 03/09 19:00 - SportTV 3",
+      "pubDate": "Thu, 03 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toulouse x Lille - 03/09 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toulouse x Lille - 03/09 19:45 - SportTV 1",
+      "pubDate": "Thu, 03 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Hibernian x Hearts - 03/09 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hibernian x Hearts - 03/09 19:45 - SportTV 5",
+      "pubDate": "Thu, 03 Sep 2026 19:45:00",
       "guid": ""
     }
   ]

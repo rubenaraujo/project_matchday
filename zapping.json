@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Corinthians x Santos - 30/08 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Santos - 30/08 20:00 - Canal11",
-      "pubDate": "Sun, 30 Aug 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x Gil Vicente - 30/08 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x Gil Vicente - 30/08 20:30 - SportTV 1",
-      "pubDate": "Sun, 30 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Athletic Bilbao - 30/08 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Athletic Bilbao - 30/08 20:30 - DAZN 2",
-      "pubDate": "Sun, 30 Aug 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Mirassol x Palmeiras - 30/08 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mirassol x Palmeiras - 30/08 22:30 - Canal11",
@@ -264,6 +243,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hibernian x Hearts - 03/09 19:45 - SportTV 5",
       "pubDate": "Thu, 03 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Hellas Verona - 03/09 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Hellas Verona - 03/09 20:00 - SportTV 2",
+      "pubDate": "Thu, 03 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Auxerre - 04/09 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Auxerre - 04/09 18:00 - SportTV 3",
+      "pubDate": "Fri, 04 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Shabab x Al-Hilal - 04/09 19:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Shabab x Al-Hilal - 04/09 19:00 - SportTV 4",
+      "pubDate": "Fri, 04 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Genoa x Como 1907 - 04/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Genoa x Como 1907 - 04/09 19:45 - SportTV 2",
+      "pubDate": "Fri, 04 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x Caldas SC - 04/09 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x Caldas SC - 04/09 20:00 - Canal11",
+      "pubDate": "Fri, 04 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Monaco - 04/09 20:05 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Monaco - 04/09 20:05 - SportTV 3",
+      "pubDate": "Fri, 04 Sep 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Moreirense - 04/09 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Moreirense - 04/09 20:15 - SportTV 1",
+      "pubDate": "Fri, 04 Sep 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x Sporting (S23) - 05/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Sporting (S23) - 05/09 11:00 - Canal11",
+      "pubDate": "Sat, 05 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x FC Porto - 05/09 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x FC Porto - 05/09 11:00 - SportTV 1",
+      "pubDate": "Sat, 05 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vianense x Paços de Ferreira - 05/09 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vianense x Paços de Ferreira - 05/09 14:00 - Canal11",
+      "pubDate": "Sat, 05 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel x Académica OAF - 05/09 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel x Académica OAF - 05/09 14:00 - SportTV +",
+      "pubDate": "Sat, 05 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Torino - 05/09 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Torino - 05/09 14:00 - SportTV 1",
+      "pubDate": "Sat, 05 Sep 2026 14:00:00",
       "guid": ""
     }
   ]

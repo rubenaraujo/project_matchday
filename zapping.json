@@ -246,9 +246,23 @@
       "guid": ""
     },
     {
+      "title": "Hannover 96 x Karlsruher SC - 04/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hannover 96 x Karlsruher SC - 04/09 17:30 - DAZN 1",
+      "pubDate": "Fri, 04 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
       "title": "Lyon x Auxerre - 04/09 18:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lyon x Auxerre - 04/09 18:00 - SportTV 3",
+      "pubDate": "Fri, 04 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Basaksehir x Galatasaray - 04/09 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Basaksehir x Galatasaray - 04/09 18:00 - SportTV 5",
       "pubDate": "Fri, 04 Sep 2026 18:00:00",
       "guid": ""
     },
@@ -257,6 +271,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Shabab x Al-Hilal - 04/09 19:00 - SportTV 4",
       "pubDate": "Fri, 04 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x FC Köln - 04/09 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x FC Köln - 04/09 19:30 - DAZN 3",
+      "pubDate": "Fri, 04 Sep 2026 19:30:00",
       "guid": ""
     },
     {
@@ -270,6 +291,20 @@
       "title": "U. Santarém x Caldas SC - 04/09 20:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "U. Santarém x Caldas SC - 04/09 20:00 - Canal11",
+      "pubDate": "Fri, 04 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Real Madrid - 04/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Real Madrid - 04/09 20:00 - DAZN 1",
+      "pubDate": "Fri, 04 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ipswich Town x Liverpool - 04/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ipswich Town x Liverpool - 04/09 20:00 - DAZN 2",
       "pubDate": "Fri, 04 Sep 2026 20:00:00",
       "guid": ""
     },
@@ -302,52 +337,17 @@
       "guid": ""
     },
     {
+      "title": "Newcastle x Bournemouth - 05/09 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Bournemouth - 05/09 12:30 - DAZN 1",
+      "pubDate": "Sat, 05 Sep 2026 12:30:00",
+      "guid": ""
+    },
+    {
       "title": "Vianense x Paços de Ferreira - 05/09 14:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vianense x Paços de Ferreira - 05/09 14:00 - Canal11",
       "pubDate": "Sat, 05 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x Académica OAF - 05/09 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x Académica OAF - 05/09 14:00 - SportTV +",
-      "pubDate": "Sat, 05 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Torino - 05/09 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Torino - 05/09 14:00 - SportTV 1",
-      "pubDate": "Sat, 05 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x Torreense - 05/09 15:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x Torreense - 05/09 15:30 - BTv",
-      "pubDate": "Sat, 05 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x FC Famalicão - 05/09 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x FC Famalicão - 05/09 15:30 - SportTV 2",
-      "pubDate": "Sat, 05 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Sporting - 05/09 15:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Sporting - 05/09 15:30 - SportTV 5",
-      "pubDate": "Sat, 05 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x FC Lorient - 05/09 16:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x FC Lorient - 05/09 16:15 - SportTV 2",
-      "pubDate": "Sat, 05 Sep 2026 16:15:00",
       "guid": ""
     }
   ]

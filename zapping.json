@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Hilal x Al-Ahli Jeddah - 01/09 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Ahli Jeddah - 01/09 19:00 - SportTV 1",
-      "pubDate": "Tue, 01 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HEBC x Borussia Dortmund - 01/09 19:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HEBC x Borussia Dortmund - 01/09 19:45 - DAZN 1",
-      "pubDate": "Tue, 01 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel (S23) x Leixões (S23) - 01/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel (S23) x Leixões (S23) - 01/09 20:00 - Canal11",
-      "pubDate": "Tue, 01 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Monza - 01/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Monza - 01/09 20:00 - SportTV 2",
-      "pubDate": "Tue, 01 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stoke City x Norwich City - 01/09 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Norwich City - 01/09 20:00 - SportTV 3",
-      "pubDate": "Tue, 01 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sassuolo x Frosinone - 02/09 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sassuolo x Frosinone - 02/09 14:00 - SportTV 1",
@@ -313,6 +278,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Napoli - 05/09 17:00 - SportTV 3",
       "pubDate": "Sat, 05 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hull City x Aston Villa - 05/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hull City x Aston Villa - 05/09 17:30 - DAZN 1",
+      "pubDate": "Sat, 05 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Racing Santander - 05/09 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Racing Santander - 05/09 17:30 - DAZN 2",
+      "pubDate": "Sat, 05 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Bayern München - 05/09 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Bayern München - 05/09 17:30 - DAZN 3",
+      "pubDate": "Sat, 05 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x Benfica - 05/09 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x Benfica - 05/09 18:00 - SportTV 1",
+      "pubDate": "Sat, 05 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x SC Braga - 05/09 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x SC Braga - 05/09 18:00 - SportTV 4",
+      "pubDate": "Sat, 05 Sep 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Vizela (S23) x Santa Clara (S23) - 01/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela (S23) x Santa Clara (S23) - 01/09 11:00 - C11 Stream",
-      "pubDate": "Tue, 01 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Farense (S23) x FC Famalicão (S23) - 01/09 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense (S23) x FC Famalicão (S23) - 01/09 11:00 - C11 Stream",
@@ -348,6 +341,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 05/09 16:30 - Canal11",
       "pubDate": "Sat, 05 Sep 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (B) x Trofense - 05/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (B) x Trofense - 05/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 05 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

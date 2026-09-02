@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Sassuolo x Frosinone - 02/09 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Frosinone - 02/09 14:00 - SportTV 1",
-      "pubDate": "Wed, 02 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Kolos Kovalivka (Feminino) x Torreense (Feminino) - 02/09 16:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kolos Kovalivka (Feminino) x Torreense (Feminino) - 02/09 16:00 - Online",
-      "pubDate": "Wed, 02 Sep 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (S23) x Académico (S23) - 02/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x Académico (S23) - 02/09 17:00 - Canal11",
-      "pubDate": "Wed, 02 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Udinese x Venezia - 02/09 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Udinese x Venezia - 02/09 17:00 - SportTV 1",
-      "pubDate": "Wed, 02 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "VfL Osnabrück x Bayern München - 02/09 19:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "VfL Osnabrück x Bayern München - 02/09 19:45 - DAZN 1",
@@ -347,6 +319,13 @@
       "title": "Varzim x USC Paredes - 05/09 18:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Varzim x USC Paredes - 05/09 18:30 - Canal11",
+      "pubDate": "Sat, 05 Sep 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Póvoa AC (Andebol) x Benfica (Andebol) - 05/09 18:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Póvoa AC (Andebol) x Benfica (Andebol) - 05/09 18:30 - AndebolTV",
       "pubDate": "Sat, 05 Sep 2026 18:30:00",
       "guid": ""
     }

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Tubarão (Futsal) x Jaraguá Futsal (Futsal) - 02/09 22:15 - LNF TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tubarão (Futsal) x Jaraguá Futsal (Futsal) - 02/09 22:15 - LNF TV",
-      "pubDate": "Wed, 02 Sep 2026 22:15:00",
-      "guid": ""
-    },
-    {
       "title": "Vélez Sarsfield x Boca Juniors - 03/09 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vélez Sarsfield x Boca Juniors - 03/09 01:15 - SportTV 1",
@@ -327,6 +320,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dynamo Dresden x VfL Bochum - 05/09 19:30 - DAZN 2",
       "pubDate": "Sat, 05 Sep 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Atalanta - 05/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Atalanta - 05/09 19:45 - SportTV 3",
+      "pubDate": "Sat, 05 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "St. Mirren x Celtic - 05/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "St. Mirren x Celtic - 05/09 20:00 - SportTV 5",
+      "pubDate": "Sat, 05 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal CF x Deportivo - 05/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal CF x Deportivo - 05/09 20:00 - DAZN 1",
+      "pubDate": "Sat, 05 Sep 2026 20:00:00",
       "guid": ""
     }
   ]

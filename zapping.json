@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "VfL Osnabrück x Bayern München - 02/09 19:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "VfL Osnabrück x Bayern München - 02/09 19:45 - DAZN 1",
-      "pubDate": "Wed, 02 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Burnley x Middlesbrough - 02/09 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Middlesbrough - 02/09 20:00 - SportTV 3",
-      "pubDate": "Wed, 02 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Falkirk x Rangers - 02/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Falkirk x Rangers - 02/09 20:00 - SportTV 2",
-      "pubDate": "Wed, 02 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Tubarão (Futsal) x Jaraguá Futsal (Futsal) - 02/09 22:15 - LNF TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tubarão (Futsal) x Jaraguá Futsal (Futsal) - 02/09 22:15 - LNF TV",
@@ -327,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x Benfica (Andebol) - 05/09 18:30 - AndebolTV",
       "pubDate": "Sat, 05 Sep 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ittihad Jeddah x Al-Nassr - 05/09 19:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ittihad Jeddah x Al-Nassr - 05/09 19:00 - SportTV 7",
+      "pubDate": "Sat, 05 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x PSV - 05/09 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x PSV - 05/09 19:00 - DAZN 4",
+      "pubDate": "Sat, 05 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dynamo Dresden x VfL Bochum - 05/09 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dynamo Dresden x VfL Bochum - 05/09 19:30 - DAZN 2",
+      "pubDate": "Sat, 05 Sep 2026 19:30:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Vélez Sarsfield x Boca Juniors - 03/09 01:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vélez Sarsfield x Boca Juniors - 03/09 01:15 - SportTV 1",
-      "pubDate": "Thu, 03 Sep 2026 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Diriyah x Al-Qadisiyah - 03/09 19:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Diriyah x Al-Qadisiyah - 03/09 19:00 - SportTV 3",
@@ -341,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal CF x Deportivo - 05/09 20:00 - DAZN 1",
       "pubDate": "Sat, 05 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Nacional - 05/09 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Nacional - 05/09 20:30 - SportTV 2",
+      "pubDate": "Sat, 05 Sep 2026 20:30:00",
       "guid": ""
     }
   ]

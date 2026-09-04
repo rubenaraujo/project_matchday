@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "title": "Hannover 96 x Karlsruher SC - 04/09 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hannover 96 x Karlsruher SC - 04/09 17:30 - DAZN 1",
-      "pubDate": "Fri, 04 Sep 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Auxerre - 04/09 18:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Auxerre - 04/09 18:00 - SportTV 3",
-      "pubDate": "Fri, 04 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Basaksehir x Galatasaray - 04/09 18:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Basaksehir x Galatasaray - 04/09 18:00 - SportTV 5",
-      "pubDate": "Fri, 04 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Shabab x Al-Hilal - 04/09 19:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Shabab x Al-Hilal - 04/09 19:00 - SportTV 4",
-      "pubDate": "Fri, 04 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x CD Bidasoa (Andebol) - 04/09 19:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x CD Bidasoa (Andebol) - 04/09 19:00 - SportingTv",
-      "pubDate": "Fri, 04 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x FC Köln - 04/09 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x FC Köln - 04/09 19:30 - DAZN 3",
-      "pubDate": "Fri, 04 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Como 1907 - 04/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Como 1907 - 04/09 19:45 - SportTV 2",
-      "pubDate": "Fri, 04 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "U. Santarém x Caldas SC - 04/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Caldas SC - 04/09 20:00 - Canal11",
-      "pubDate": "Fri, 04 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Real Madrid - 04/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Real Madrid - 04/09 20:00 - DAZN 1",
-      "pubDate": "Fri, 04 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ipswich Town x Liverpool - 04/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ipswich Town x Liverpool - 04/09 20:00 - DAZN 2",
-      "pubDate": "Fri, 04 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Monaco - 04/09 20:05 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Monaco - 04/09 20:05 - SportTV 3",
-      "pubDate": "Fri, 04 Sep 2026 20:05:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Moreirense - 04/09 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Moreirense - 04/09 20:15 - SportTV 1",
-      "pubDate": "Fri, 04 Sep 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões (S23) x Sporting (S23) - 05/09 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x Sporting (S23) - 05/09 11:00 - Canal11",
@@ -341,6 +257,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Futsal) x Sporting (Futsal) - 05/09 21:00 - Canal11",
       "pubDate": "Sat, 05 Sep 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fluminense x Vasco - 06/09 01:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fluminense x Vasco - 06/09 01:00 - Canal11",
+      "pubDate": "Sun, 06 Sep 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leça FC x Fafe - 06/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leça FC x Fafe - 06/09 11:00 - Canal11",
+      "pubDate": "Sun, 06 Sep 2026 11:00:00",
       "guid": ""
     }
   ]

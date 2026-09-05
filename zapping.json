@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester City x Coventry City - 05/09 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Coventry City - 05/09 15:00 - DAZN 1",
-      "pubDate": "Sat, 05 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Bidasoa (Andebol) x FC Porto (Andebol) - 05/09 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Bidasoa (Andebol) x FC Porto (Andebol) - 05/09 15:00 - PortoCanal",
-      "pubDate": "Sat, 05 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Atlético de Madrid - 05/09 15:15 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Atlético de Madrid - 05/09 15:15 - DAZN 2",
-      "pubDate": "Sat, 05 Sep 2026 15:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (B) x Torreense - 05/09 15:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (B) x Torreense - 05/09 15:30 - BTv",
-      "pubDate": "Sat, 05 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x FC Famalicão - 05/09 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x FC Famalicão - 05/09 15:30 - SportTV 2",
-      "pubDate": "Sat, 05 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Sporting - 05/09 15:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Sporting - 05/09 15:30 - SportTV 4",
-      "pubDate": "Sat, 05 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x FC Lorient - 05/09 16:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x FC Lorient - 05/09 16:15 - SportTV 5",
-      "pubDate": "Sat, 05 Sep 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 05/09 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 05/09 16:30 - Canal11",
-      "pubDate": "Sat, 05 Sep 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC (B) x Trofense - 05/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (B) x Trofense - 05/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 05 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CD Mafra x SC Covilhã - 05/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Mafra x SC Covilhã - 05/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 05 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Napoli - 05/09 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Napoli - 05/09 17:00 - SportTV 3",
-      "pubDate": "Sat, 05 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Hull City x Aston Villa - 05/09 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Hull City x Aston Villa - 05/09 17:30 - DAZN 1",
@@ -292,6 +215,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara x Rio Ave - 06/09 15:30 - SportTV 1",
       "pubDate": "Sun, 06 Sep 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Amarante FC - 06/09 15:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Amarante FC - 06/09 15:30 - SportTV 6",
+      "pubDate": "Sun, 06 Sep 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x UD Oliveirense - 06/09 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x UD Oliveirense - 06/09 16:00 - C11 Stream",
+      "pubDate": "Sun, 06 Sep 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Freamunde x Aparecida - 06/09 16:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Freamunde x Aparecida - 06/09 16:00 - ABola TV",
+      "pubDate": "Sun, 06 Sep 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x Rennes - 06/09 16:15 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x Rennes - 06/09 16:15 - SportTV 3",
+      "pubDate": "Sun, 06 Sep 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Chelsea - 06/09 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Chelsea - 06/09 16:30 - DAZN 1",
+      "pubDate": "Sun, 06 Sep 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x FC Augsburg - 06/09 16:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x FC Augsburg - 06/09 16:30 - DAZN 4",
+      "pubDate": "Sun, 06 Sep 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "S. João Ver x AD Marco 09 - 06/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "S. João Ver x AD Marco 09 - 06/09 17:00 - Canal11",
+      "pubDate": "Sun, 06 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Louletano x Lusitano GC - 06/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Louletano x Lusitano GC - 06/09 17:00 - C11 Stream",
+      "pubDate": "Sun, 06 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

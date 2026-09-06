@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Vitória SC x Casa Pia AC - 06/09 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x Casa Pia AC - 06/09 18:00 - SportTV 2",
-      "pubDate": "Sun, 06 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rosario Central x Newell´s Old Boys - 06/09 18:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Newell´s Old Boys - 06/09 18:45 - SportTV 5",
-      "pubDate": "Sun, 06 Sep 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Paris FC - 06/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Paris FC - 06/09 19:45 - SportTV 4",
-      "pubDate": "Sun, 06 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x AC Milan - 06/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x AC Milan - 06/09 19:45 - SportTV 3",
-      "pubDate": "Sun, 06 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Remo x Flamengo - 06/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Remo x Flamengo - 06/09 20:00 - Canal11",
-      "pubDate": "Sun, 06 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Sevilla FC - 06/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Sevilla FC - 06/09 20:00 - DAZN 1",
-      "pubDate": "Sun, 06 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Gil Vicente x Académico - 06/09 20:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gil Vicente x Académico - 06/09 20:30 - SportTV 1",
@@ -250,6 +208,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 08/09 20:00 - Canal11",
       "pubDate": "Tue, 08 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fluminense x Platense - 08/09 23:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fluminense x Platense - 08/09 23:00 - SportTV 1",
+      "pubDate": "Tue, 08 Sep 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Fe x Vasco - 08/09 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Fe x Vasco - 08/09 23:00 - SportTV 2",
+      "pubDate": "Tue, 08 Sep 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x São Paulo - 09/09 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x São Paulo - 09/09 01:30 - SportTV 1",
+      "pubDate": "Wed, 09 Sep 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (S23) x FC Vizela (S23) - 09/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x FC Vizela (S23) - 09/09 17:00 - Canal11",
+      "pubDate": "Wed, 09 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Viking - 09/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Viking - 09/09 17:45 - DAZN 2",
+      "pubDate": "Wed, 09 Sep 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Feyenoord - 09/09 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Feyenoord - 09/09 17:45 - DAZN 1",
+      "pubDate": "Wed, 09 Sep 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Veszprém (Andebol) x FC Porto (Andebol) - 09/09 17:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Veszprém (Andebol) x FC Porto (Andebol) - 09/09 17:45 - PortoCanal",
+      "pubDate": "Wed, 09 Sep 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Abha Club - 09/09 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Abha Club - 09/09 19:00 - SportTV 1",
+      "pubDate": "Wed, 09 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 09/09 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 09/09 19:00 - Canal11",
+      "pubDate": "Wed, 09 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Galatasaray - 09/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Galatasaray - 09/09 20:00 - SportTV 5",
+      "pubDate": "Wed, 09 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "St. Johnstone x Celtic - 09/09 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "St. Johnstone x Celtic - 09/09 20:00 - SportTV 3",
+      "pubDate": "Wed, 09 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Leeds United - 09/09 20:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Leeds United - 09/09 20:00 - SportTV 2",
+      "pubDate": "Wed, 09 Sep 2026 20:00:00",
       "guid": ""
     }
   ]

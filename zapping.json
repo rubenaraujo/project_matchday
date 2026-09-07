@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Cagliari x Lecce - 07/09 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cagliari x Lecce - 07/09 17:30 - SportTV 2",
-      "pubDate": "Mon, 07 Sep 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitânia de Lourosa x AFS - 07/09 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitânia de Lourosa x AFS - 07/09 18:00 - SportTV +",
-      "pubDate": "Mon, 07 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe CF x Celta de Vigo - 07/09 18:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe CF x Celta de Vigo - 07/09 18:00 - DAZN 1",
-      "pubDate": "Mon, 07 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Neom SC - 07/09 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Neom SC - 07/09 19:00 - SportTV 3",
-      "pubDate": "Mon, 07 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "CE Sabadell x Córdoba - 07/09 19:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CE Sabadell x Córdoba - 07/09 19:30 - DAZN 2",
@@ -340,6 +312,13 @@
       "title": "Palmeiras x LDU Quito - 09/09 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x LDU Quito - 09/09 23:00 - SportTV 1",
+      "pubDate": "Wed, 09 Sep 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Atlético Mineiro - 09/09 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Atlético Mineiro - 09/09 23:00 - SportTV 2",
       "pubDate": "Wed, 09 Sep 2026 23:00:00",
       "guid": ""
     }

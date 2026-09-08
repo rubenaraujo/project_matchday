@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Portimonense (S23) x FC Felgueiras (S23) - 08/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense (S23) x FC Felgueiras (S23) - 08/09 11:00 - C11 Stream",
-      "pubDate": "Tue, 08 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Estoril Praia (S23) x FC Famalicão (S23) - 08/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia (S23) x FC Famalicão (S23) - 08/09 11:00 - C11 Stream",
-      "pubDate": "Tue, 08 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (S23) x Torreense (S23) - 08/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x Torreense (S23) - 08/09 11:00 - C11 Stream",
-      "pubDate": "Tue, 08 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Manchester City (Jun.A S19) - 08/09 12:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Manchester City (Jun.A S19) - 08/09 12:00 - PortoCanal",
-      "pubDate": "Tue, 08 Sep 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Praia) x Bielorrússia (Praia) - 08/09 14:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Praia) x Bielorrússia (Praia) - 08/09 14:15 - SportTV 1",
@@ -348,6 +320,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bayern München x Bodo/Glimt - 10/09 20:00 - DAZN 2",
       "pubDate": "Thu, 10 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x RB Leipzig - 10/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x RB Leipzig - 10/09 20:00 - DAZN 3",
+      "pubDate": "Thu, 10 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Slavia Praha x Lens - 10/09 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Slavia Praha x Lens - 10/09 20:00 - DAZN 4",
+      "pubDate": "Thu, 10 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora x SC Braga - 10/09 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora x SC Braga - 10/09 20:15 - SportTV 1",
+      "pubDate": "Thu, 10 Sep 2026 20:15:00",
       "guid": ""
     }
   ]

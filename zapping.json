@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Club Brugge x Aston Villa - 08/09 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Club Brugge x Aston Villa - 08/09 17:45 - DAZN 1",
-      "pubDate": "Tue, 08 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "AEK x LASK Linz - 08/09 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AEK x LASK Linz - 08/09 17:45 - DAZN 2",
-      "pubDate": "Tue, 08 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Qadisiyah x Al-Ahli Jeddah - 08/09 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Qadisiyah x Al-Ahli Jeddah - 08/09 19:00 - SportTV 1",
-      "pubDate": "Tue, 08 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Lincoln City - 08/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Lincoln City - 08/09 19:45 - SportTV 3",
-      "pubDate": "Tue, 08 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bolton Wanderers x West Ham - 08/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bolton Wanderers x West Ham - 08/09 20:00 - SportTV 2",
-      "pubDate": "Tue, 08 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Manchester City - 08/09 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Manchester City - 08/09 20:00 - SportTV 5",
-      "pubDate": "Tue, 08 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Internazionale - 08/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Internazionale - 08/09 20:00 - DAZN 1",
-      "pubDate": "Tue, 08 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund x Villarreal CF - 08/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Villarreal CF - 08/09 20:00 - DAZN 2",
-      "pubDate": "Tue, 08 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lille x Real Betis - 08/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lille x Real Betis - 08/09 20:00 - DAZN 3",
-      "pubDate": "Tue, 08 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 08/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 08/09 20:00 - Canal11",
-      "pubDate": "Tue, 08 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Fluminense x Platense - 08/09 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Fluminense x Platense - 08/09 23:00 - SportTV 1",
@@ -334,6 +264,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suíça (Praia Feminino) x Portugal (Praia Feminino) - 11/09 11:45 - SportTV 1",
       "pubDate": "Fri, 11 Sep 2026 11:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S17) x Islândia (Feminino S17) - 11/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S17) x Islândia (Feminino S17) - 11/09 15:00 - Canal11",
+      "pubDate": "Fri, 11 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Praia) x Portugal (Praia) - 11/09 15:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Praia) x Portugal (Praia) - 11/09 15:45 - SportTV 1",
+      "pubDate": "Fri, 11 Sep 2026 15:45:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Nürnberg x Hannover 96 - 11/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Nürnberg x Hannover 96 - 11/09 17:30 - DAZN 1",
+      "pubDate": "Fri, 11 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Leixões - 11/09 18:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Leixões - 11/09 18:45 - SportTV +",
+      "pubDate": "Fri, 11 Sep 2026 18:45:00",
       "guid": ""
     }
   ]

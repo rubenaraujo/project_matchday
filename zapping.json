@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Praia) x Bielorrússia (Praia) - 08/09 14:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia) x Bielorrússia (Praia) - 08/09 14:15 - SportTV 1",
-      "pubDate": "Tue, 08 Sep 2026 14:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S17) x Dinamarca (Feminino S17) - 08/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S17) x Dinamarca (Feminino S17) - 08/09 15:00 - Canal11",
-      "pubDate": "Tue, 08 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (S23) x Gil Vicente (S23) - 08/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (S23) x Gil Vicente (S23) - 08/09 15:00 - C11 Stream",
-      "pubDate": "Tue, 08 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora (S23) x UD Leiria (S23) - 08/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora (S23) x UD Leiria (S23) - 08/09 17:00 - Canal11",
-      "pubDate": "Tue, 08 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico (S23) x Moreirense (S23) - 08/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (S23) x Moreirense (S23) - 08/09 17:00 - C11 Stream",
-      "pubDate": "Tue, 08 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Club Brugge x Aston Villa - 08/09 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Club Brugge x Aston Villa - 08/09 17:45 - DAZN 1",
@@ -341,6 +306,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Est. Amadora x SC Braga - 10/09 20:15 - SportTV 1",
       "pubDate": "Thu, 10 Sep 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Independiente del Valle x Flamengo - 11/09 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Independiente del Valle x Flamengo - 11/09 01:30 - SportTV 1",
+      "pubDate": "Fri, 11 Sep 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cienciano x Montevideo City - 11/09 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cienciano x Montevideo City - 11/09 01:30 - SportTV 2",
+      "pubDate": "Fri, 11 Sep 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Los Angeles Rams (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 11/09 01:35 - Netflix",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Los Angeles Rams (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 11/09 01:35 - Netflix",
+      "pubDate": "Fri, 11 Sep 2026 01:35:00",
+      "guid": ""
+    },
+    {
+      "title": "Suíça (Praia Feminino) x Portugal (Praia Feminino) - 11/09 11:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suíça (Praia Feminino) x Portugal (Praia Feminino) - 11/09 11:45 - SportTV 1",
+      "pubDate": "Fri, 11 Sep 2026 11:45:00",
       "guid": ""
     }
   ]

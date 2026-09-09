@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Jun.A S19) x Galatasaray (Jun.A S19) - 09/09 14:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Jun.A S19) x Galatasaray (Jun.A S19) - 09/09 14:00 - SportingTv",
-      "pubDate": "Wed, 09 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (S23) x FC Vizela (S23) - 09/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (S23) x FC Vizela (S23) - 09/09 17:00 - Canal11",
-      "pubDate": "Wed, 09 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Stuttgart x Viking - 09/09 17:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Viking - 09/09 17:45 - DAZN 2",
@@ -25,13 +11,6 @@
       "title": "Barcelona x Feyenoord - 09/09 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Barcelona x Feyenoord - 09/09 17:45 - DAZN 1",
-      "pubDate": "Wed, 09 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Veszprém (Andebol) x FC Porto (Andebol) - 09/09 17:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Veszprém (Andebol) x FC Porto (Andebol) - 09/09 17:45 - PortoCanal",
       "pubDate": "Wed, 09 Sep 2026 17:45:00",
       "guid": ""
     },
@@ -334,6 +313,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal) x Portimonense (Futsal) - 11/09 21:15 - Canal11",
       "pubDate": "Fri, 11 Sep 2026 21:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Central Córdoba S.Estero - 12/09 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Central Córdoba S.Estero - 12/09 01:30 - SportTV 1",
+      "pubDate": "Sat, 12 Sep 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x CD Mafra - 12/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x CD Mafra - 12/09 11:00 - Canal11",
+      "pubDate": "Sat, 12 Sep 2026 11:00:00",
       "guid": ""
     }
   ]

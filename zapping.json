@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "title": "Stuttgart x Viking - 09/09 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Viking - 09/09 17:45 - DAZN 2",
-      "pubDate": "Wed, 09 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Feyenoord - 09/09 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Feyenoord - 09/09 17:45 - DAZN 1",
-      "pubDate": "Wed, 09 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Abha Club - 09/09 19:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Abha Club - 09/09 19:00 - SportTV 1",
-      "pubDate": "Wed, 09 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 09/09 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x França (Futsal Feminino) - 09/09 19:00 - Canal11",
-      "pubDate": "Wed, 09 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona (Andebol) x Skanderborg AGF (Andebol) - 09/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona (Andebol) x Skanderborg AGF (Andebol) - 09/09 19:45 - SportTV 4",
-      "pubDate": "Wed, 09 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Galatasaray - 09/09 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Galatasaray - 09/09 20:00 - SportTV 5",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "St. Johnstone x Celtic - 09/09 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "St. Johnstone x Celtic - 09/09 20:00 - SportTV 3",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chelsea x Leeds United - 09/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chelsea x Leeds United - 09/09 20:00 - SportTV 2",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Charlton Athletic x QPR - 09/09 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Charlton Athletic x QPR - 09/09 20:00 - SportTV 6",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Atlético de Madrid - 09/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Atlético de Madrid - 09/09 20:00 - DAZN 1",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Slovan Bratislava - 09/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Slovan Bratislava - 09/09 20:00 - DAZN 2",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Arsenal - 09/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Arsenal - 09/09 20:00 - DAZN 3",
-      "pubDate": "Wed, 09 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Moreirense x Benfica - 09/09 20:45 - TVI",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moreirense x Benfica - 09/09 20:45 - TVI",
@@ -327,6 +243,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Oliveirense x CD Mafra - 12/09 11:00 - Canal11",
       "pubDate": "Sat, 12 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x CD Tondela - 12/09 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x CD Tondela - 12/09 11:00 - SportTV 1",
+      "pubDate": "Sat, 12 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.B S17) x Estoril Praia (Jun.B S17) - 12/09 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.B S17) x Estoril Praia (Jun.B S17) - 12/09 11:00 - SportingTv",
+      "pubDate": "Sat, 12 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "VfL Bochum x SpVgg Greuther Fürth - 12/09 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "VfL Bochum x SpVgg Greuther Fürth - 12/09 12:00 - DAZN 1",
+      "pubDate": "Sat, 12 Sep 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Alavés - 12/09 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Alavés - 12/09 13:00 - DAZN 3",
+      "pubDate": "Sat, 12 Sep 2026 13:00:00",
       "guid": ""
     }
   ]

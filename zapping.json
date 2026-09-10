@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 10/09 13:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 10/09 13:00 - SportTV 1",
-      "pubDate": "Thu, 10 Sep 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Praia) x Suíça (Praia) - 10/09 14:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Praia) x Suíça (Praia) - 10/09 14:30 - SportTV 1",
-      "pubDate": "Thu, 10 Sep 2026 14:30:00",
-      "guid": ""
-    },
-    {
       "title": "Colômbia (Feminino S20) x Portugal (Feminino S20) - 10/09 17:00 - Online",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Colômbia (Feminino S20) x Portugal (Feminino S20) - 10/09 17:00 - Online",
@@ -67,6 +53,13 @@
       "title": "Slavia Praha x Lens - 10/09 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Slavia Praha x Lens - 10/09 20:00 - DAZN 4",
+      "pubDate": "Thu, 10 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Leixões (Voleibol Feminino) - 10/09 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Leixões (Voleibol Feminino) - 10/09 20:00 - PortoCanal",
       "pubDate": "Thu, 10 Sep 2026 20:00:00",
       "guid": ""
     },
@@ -288,6 +281,20 @@
       "guid": ""
     },
     {
+      "title": "Madeira SAD (Andebol Feminino) x AA S. Pedro do Sul (Andebol Feminino) - 12/09 15:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Madeira SAD (Andebol Feminino) x AA S. Pedro do Sul (Andebol Feminino) - 12/09 15:00 - AndebolTV",
+      "pubDate": "Sat, 12 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x FC Porto (Andebol) - 12/09 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x FC Porto (Andebol) - 12/09 15:00 - BTv",
+      "pubDate": "Sat, 12 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Osasuna x Espanyol - 12/09 15:15 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Espanyol - 12/09 15:15 - DAZN 3",
@@ -327,20 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Strasbourg x Monaco - 12/09 16:15 - SportTV 7",
       "pubDate": "Sat, 12 Sep 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Lusitano GC x SC Covilhã - 12/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lusitano GC x SC Covilhã - 12/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 12 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Leões Porto Salvo (Futsal) x Ferreira do Zêzere (Futsal) - 12/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x Ferreira do Zêzere (Futsal) - 12/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 12 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

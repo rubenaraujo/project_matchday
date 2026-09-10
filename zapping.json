@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Andebol) x GOG (Andebol) - 10/09 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x GOG (Andebol) - 10/09 19:45 - SportingTv",
-      "pubDate": "Thu, 10 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester United x Sabah - 10/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester United x Sabah - 10/09 20:00 - DAZN 1",
-      "pubDate": "Thu, 10 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Bodo/Glimt - 10/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Bodo/Glimt - 10/09 20:00 - DAZN 2",
-      "pubDate": "Thu, 10 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x RB Leipzig - 10/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x RB Leipzig - 10/09 20:00 - DAZN 3",
-      "pubDate": "Thu, 10 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Slavia Praha x Lens - 10/09 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Slavia Praha x Lens - 10/09 20:00 - DAZN 4",
-      "pubDate": "Thu, 10 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Leixões (Voleibol Feminino) - 10/09 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Leixões (Voleibol Feminino) - 10/09 20:00 - PortoCanal",
-      "pubDate": "Thu, 10 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x SC Braga - 10/09 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x SC Braga - 10/09 20:15 - SportTV 1",
-      "pubDate": "Thu, 10 Sep 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Independiente del Valle x Flamengo - 11/09 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Independiente del Valle x Flamengo - 11/09 01:30 - SportTV 1",
@@ -319,6 +270,27 @@
       "title": "Lusitano GC x SC Covilhã - 12/09 17:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lusitano GC x SC Covilhã - 12/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 12 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal) x Ferreira do Zêzere (Futsal) - 12/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal) x Ferreira do Zêzere (Futsal) - 12/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 12 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x AC Milan - 12/09 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x AC Milan - 12/09 17:00 - SportTV 3",
+      "pubDate": "Sat, 12 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia (Feminino) x FC Porto (Feminino) - 12/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia (Feminino) x FC Porto (Feminino) - 12/09 17:00 - Canal11",
       "pubDate": "Sat, 12 Sep 2026 17:00:00",
       "guid": ""
     }

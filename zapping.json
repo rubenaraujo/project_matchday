@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Estudiantes x Corinthians - 10/09 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Estudiantes x Corinthians - 10/09 01:30 - SportTV 1",
-      "pubDate": "Thu, 10 Sep 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 10/09 13:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Praia Feminino) x Ucrânia (Praia Feminino) - 10/09 13:00 - SportTV 1",
@@ -327,6 +320,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Louletano x U. Santarém - 12/09 16:00 - C11 Stream",
       "pubDate": "Sat, 12 Sep 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Monaco - 12/09 16:15 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Monaco - 12/09 16:15 - SportTV 7",
+      "pubDate": "Sat, 12 Sep 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Lusitano GC x SC Covilhã - 12/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lusitano GC x SC Covilhã - 12/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 12 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leões Porto Salvo (Futsal) x Ferreira do Zêzere (Futsal) - 12/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leões Porto Salvo (Futsal) x Ferreira do Zêzere (Futsal) - 12/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 12 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

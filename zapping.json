@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Torreense x Leixões - 11/09 18:45 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Leixões - 11/09 18:45 - SportTV +",
-      "pubDate": "Fri, 11 Sep 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ahli Jeddah x Al-Hazm - 11/09 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ahli Jeddah x Al-Hazm - 11/09 19:00 - SportTV 5",
-      "pubDate": "Fri, 11 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x SC Braga (Futsal) - 11/09 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x SC Braga (Futsal) - 11/09 19:30 - Canal11",
-      "pubDate": "Fri, 11 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Union Berlin x Schalke 04 - 11/09 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Union Berlin x Schalke 04 - 11/09 19:30 - DAZN 1",
-      "pubDate": "Fri, 11 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rennes x Marseille - 11/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rennes x Marseille - 11/09 19:45 - SportTV 3",
-      "pubDate": "Fri, 11 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Venezia x Fiorentina - 11/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Venezia x Fiorentina - 11/09 19:45 - SportTV 2",
-      "pubDate": "Fri, 11 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Wrexham - 11/09 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Wrexham - 11/09 20:00 - SportTV 6",
-      "pubDate": "Fri, 11 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla FC x Valencia CF - 11/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla FC x Valencia CF - 11/09 20:00 - DAZN 2",
-      "pubDate": "Fri, 11 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x Eléctrico (Futsal) - 11/09 20:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Eléctrico (Futsal) - 11/09 20:30 - C11 Stream",
-      "pubDate": "Fri, 11 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Benfica - 11/09 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Benfica - 11/09 20:45 - SportTV 1",
-      "pubDate": "Fri, 11 Sep 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Portimonense (Futsal) - 11/09 21:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Portimonense (Futsal) - 11/09 21:15 - Canal11",
-      "pubDate": "Fri, 11 Sep 2026 21:15:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Central Córdoba S.Estero - 12/09 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Central Córdoba S.Estero - 12/09 01:30 - SportTV 1",
@@ -334,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Khaleej x Al-Nassr - 12/09 19:00 - SportTV 7",
       "pubDate": "Sat, 12 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 12/09 19:15 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 12/09 19:15 - C11 Stream",
+      "pubDate": "Sat, 12 Sep 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Cagliari - 12/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Cagliari - 12/09 19:45 - SportTV 3",
+      "pubDate": "Sat, 12 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Lyon - 12/09 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Lyon - 12/09 19:45 - SportTV 5",
+      "pubDate": "Sat, 12 Sep 2026 19:45:00",
       "guid": ""
     }
   ]

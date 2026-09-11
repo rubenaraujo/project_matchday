@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha (Praia) x Portugal (Praia) - 11/09 15:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Praia) x Portugal (Praia) - 11/09 15:45 - SportTV 1",
-      "pubDate": "Fri, 11 Sep 2026 15:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Nürnberg x Hannover 96 - 11/09 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Nürnberg x Hannover 96 - 11/09 17:30 - DAZN 1",
-      "pubDate": "Fri, 11 Sep 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "Torreense x Leixões - 11/09 18:45 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torreense x Leixões - 11/09 18:45 - SportTV +",
@@ -334,6 +320,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Artística de Avanca (Andebol) x GC Santo Tirso (Andebol) - 12/09 18:00 - AndebolTV",
       "pubDate": "Sat, 12 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal) x UPVN (Futsal) - 12/09 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x UPVN (Futsal) - 12/09 19:00 - Canal11",
+      "pubDate": "Sat, 12 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Khaleej x Al-Nassr - 12/09 19:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Khaleej x Al-Nassr - 12/09 19:00 - SportTV 7",
+      "pubDate": "Sat, 12 Sep 2026 19:00:00",
       "guid": ""
     }
   ]

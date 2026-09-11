@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Suíça (Praia Feminino) x Portugal (Praia Feminino) - 11/09 11:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça (Praia Feminino) x Portugal (Praia Feminino) - 11/09 11:45 - SportTV 1",
-      "pubDate": "Fri, 11 Sep 2026 11:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino S17) x Islândia (Feminino S17) - 11/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S17) x Islândia (Feminino S17) - 11/09 15:00 - Canal11",
-      "pubDate": "Fri, 11 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Praia) x Portugal (Praia) - 11/09 15:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Praia) x Portugal (Praia) - 11/09 15:45 - SportTV 1",
@@ -197,9 +183,16 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Andebol) x FC Porto (Andebol) - 12/09 15:00 - BTv",
+      "title": "Benfica (Andebol) x FC Porto (Andebol) - 12/09 15:00 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x FC Porto (Andebol) - 12/09 15:00 - BTv",
+      "description": "Benfica (Andebol) x FC Porto (Andebol) - 12/09 15:00 - ABola TV",
+      "pubDate": "Sat, 12 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses (Andebol) x Póvoa AC (Andebol) - 12/09 15:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses (Andebol) x Póvoa AC (Andebol) - 12/09 15:00 - AndebolTV",
       "pubDate": "Sat, 12 Sep 2026 15:00:00",
       "guid": ""
     },
@@ -235,6 +228,13 @@
       "title": "Louletano x U. Santarém - 12/09 16:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Louletano x U. Santarém - 12/09 16:00 - C11 Stream",
+      "pubDate": "Sat, 12 Sep 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Andebol) x Vitória SC (Andebol) - 12/09 16:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Andebol) x Vitória SC (Andebol) - 12/09 16:00 - AndebolTV",
       "pubDate": "Sat, 12 Sep 2026 16:00:00",
       "guid": ""
     },
@@ -330,17 +330,10 @@
       "guid": ""
     },
     {
-      "title": "Benfica (Futsal) x UPVN (Futsal) - 12/09 19:00 - Canal11",
+      "title": "Artística de Avanca (Andebol) x GC Santo Tirso (Andebol) - 12/09 18:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x UPVN (Futsal) - 12/09 19:00 - Canal11",
-      "pubDate": "Sat, 12 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Khaleej x Al-Nassr - 12/09 19:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Khaleej x Al-Nassr - 12/09 19:00 - SportTV 7",
-      "pubDate": "Sat, 12 Sep 2026 19:00:00",
+      "description": "Artística de Avanca (Andebol) x GC Santo Tirso (Andebol) - 12/09 18:00 - AndebolTV",
+      "pubDate": "Sat, 12 Sep 2026 18:00:00",
       "guid": ""
     }
   ]

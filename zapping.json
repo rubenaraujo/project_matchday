@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Giants (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 14/09 01:20 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Giants (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 14/09 01:20 - DAZN",
-      "pubDate": "Mon, 14 Sep 2026 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S17) x País de Gales (Feminino S17) - 14/09 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S17) x País de Gales (Feminino S17) - 14/09 11:00 - Canal11",
@@ -333,6 +326,20 @@
       "title": "Sunderland x AZ Alkmaar - 16/09 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sunderland x AZ Alkmaar - 16/09 20:00 - DAZN 3",
+      "pubDate": "Wed, 16 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Anderlecht x Lyon - 16/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Anderlecht x Lyon - 16/09 20:00 - DAZN 1",
+      "pubDate": "Wed, 16 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x NK Celje - 16/09 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x NK Celje - 16/09 20:00 - DAZN 4",
       "pubDate": "Wed, 16 Sep 2026 20:00:00",
       "guid": ""
     }

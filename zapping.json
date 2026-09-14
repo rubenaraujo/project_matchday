@@ -1,24 +1,38 @@
 {
   "items": [
     {
-      "title": "Minnesota Vikings (Fut. Americano) x Green Bay Packers (Fut. Americano) - 13/09 21:25 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Vikings (Fut. Americano) x Green Bay Packers (Fut. Americano) - 13/09 21:25 - DAZN",
-      "pubDate": "Sun, 13 Sep 2026 21:25:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente x San Lorenzo - 13/09 23:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente x San Lorenzo - 13/09 23:15 - SportTV 2",
-      "pubDate": "Sun, 13 Sep 2026 23:15:00",
-      "guid": ""
-    },
-    {
       "title": "New York Giants (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 14/09 01:20 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Giants (Fut. Americano) x Dallas Cowboys (Fut. Americano) - 14/09 01:20 - DAZN",
       "pubDate": "Mon, 14 Sep 2026 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S17) x País de Gales (Feminino S17) - 14/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S17) x País de Gales (Feminino S17) - 14/09 11:00 - Canal11",
+      "pubDate": "Mon, 14 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense (S23) x SC Braga (S23) - 14/09 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense (S23) x SC Braga (S23) - 14/09 13:00 - Canal11",
+      "pubDate": "Mon, 14 Sep 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria (S23) x Benfica (S23) - 14/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x Benfica (S23) - 14/09 15:00 - Canal11",
+      "pubDate": "Mon, 14 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Shamal x Al-Ittihad Jeddah - 14/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Shamal x Al-Ittihad Jeddah - 14/09 17:00 - Canal11",
+      "pubDate": "Mon, 14 Sep 2026 17:00:00",
       "guid": ""
     },
     {
@@ -64,6 +78,13 @@
       "guid": ""
     },
     {
+      "title": "Al-Ahli Jeddah x Pakhtakor - 14/09 19:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Pakhtakor - 14/09 19:15 - Canal11",
+      "pubDate": "Mon, 14 Sep 2026 19:15:00",
+      "guid": ""
+    },
+    {
       "title": "Internazionale x Udinese - 14/09 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Internazionale x Udinese - 14/09 19:45 - SportTV 3",
@@ -99,9 +120,58 @@
       "guid": ""
     },
     {
+      "title": "Gil Vicente (S23) x Portimonense (S23) - 15/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente (S23) x Portimonense (S23) - 15/09 11:00 - Canal11",
+      "pubDate": "Tue, 15 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x Leixões (S23) - 15/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x Leixões (S23) - 15/09 11:00 - C11 Stream",
+      "pubDate": "Tue, 15 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel (S23) x Santa Clara (S23) - 15/09 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel (S23) x Santa Clara (S23) - 15/09 13:00 - Canal11",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (S23) x Académico (S23) - 15/09 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (S23) x Académico (S23) - 15/09 15:00 - Canal11",
+      "pubDate": "Tue, 15 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela (S23) x Marítimo (S23) - 15/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela (S23) x Marítimo (S23) - 15/09 15:00 - C11 Stream",
+      "pubDate": "Tue, 15 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (S23) x Rio Ave (S23) - 15/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (S23) x Rio Ave (S23) - 15/09 15:00 - C11 Stream",
+      "pubDate": "Tue, 15 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Genoa x SüdTirol - 15/09 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genoa x SüdTirol - 15/09 17:00 - SportTV 2",
+      "pubDate": "Tue, 15 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al Ain x Al-Nassr - 15/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al Ain x Al-Nassr - 15/09 17:00 - Canal11",
       "pubDate": "Tue, 15 Sep 2026 17:00:00",
       "guid": ""
     },
@@ -124,6 +194,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ajax x Willem II - 15/09 19:00 - DAZN 4",
       "pubDate": "Tue, 15 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hilal x Al-Gharafa - 15/09 19:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hilal x Al-Gharafa - 15/09 19:15 - Canal11",
+      "pubDate": "Tue, 15 Sep 2026 19:15:00",
       "guid": ""
     },
     {
@@ -190,6 +267,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Jun.B S17) x Sporting (Jun.B S17) - 16/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Jun.B S17) x Sporting (Jun.B S17) - 16/09 11:00 - Canal11",
+      "pubDate": "Wed, 16 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Omonia x Celta de Vigo - 16/09 17:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Omonia x Celta de Vigo - 16/09 17:45 - DAZN 2",
@@ -250,62 +334,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sunderland x AZ Alkmaar - 16/09 20:00 - DAZN 3",
       "pubDate": "Wed, 16 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Anderlecht x Lyon - 16/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Anderlecht x Lyon - 16/09 20:00 - DAZN 1",
-      "pubDate": "Wed, 16 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x NK Celje - 16/09 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x NK Celje - 16/09 20:00 - DAZN 4",
-      "pubDate": "Wed, 16 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Barcelona x Racing Santander - 16/09 20:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Barcelona x Racing Santander - 16/09 20:30 - DAZN 2",
-      "pubDate": "Wed, 16 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "LDU Quito x Palmeiras - 16/09 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LDU Quito x Palmeiras - 16/09 23:00 - SportTV 1",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético Mineiro x Santos - 16/09 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Mineiro x Santos - 16/09 23:00 - SportTV 2",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Independiente Rivadavia x Atlético Tucumán - 16/09 23:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Independiente Rivadavia x Atlético Tucumán - 16/09 23:00 - SportTV 3",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Estudiantes - 17/09 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Estudiantes - 17/09 01:30 - SportTV 1",
-      "pubDate": "Thu, 17 Sep 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Norwich City - 17/09 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Norwich City - 17/09 19:30 - SportTV 1",
-      "pubDate": "Thu, 17 Sep 2026 19:30:00",
       "guid": ""
     }
   ]

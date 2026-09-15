@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (S23) x Académico (S23) - 15/09 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (S23) x Académico (S23) - 15/09 15:00 - Canal11",
-      "pubDate": "Tue, 15 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Vizela (S23) x Marítimo (S23) - 15/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela (S23) x Marítimo (S23) - 15/09 15:00 - C11 Stream",
-      "pubDate": "Tue, 15 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão (S23) x Rio Ave (S23) - 15/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (S23) x Rio Ave (S23) - 15/09 15:00 - C11 Stream",
-      "pubDate": "Tue, 15 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x SüdTirol - 15/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x SüdTirol - 15/09 17:00 - SportTV 2",
-      "pubDate": "Tue, 15 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al Ain x Al-Nassr - 15/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al Ain x Al-Nassr - 15/09 17:00 - Canal11",
-      "pubDate": "Tue, 15 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Rayo Vallecano x Espanyol - 15/09 18:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rayo Vallecano x Espanyol - 15/09 18:00 - DAZN 2",
@@ -341,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real SC x Académica OAF - 18/09 20:30 - Canal11",
       "pubDate": "Fri, 18 Sep 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x Torreense (Feminino) - 19/09 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x Torreense (Feminino) - 19/09 11:00 - C11 Stream",
+      "pubDate": "Sat, 19 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Imortal DC x CD Tondela - 19/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Imortal DC x CD Tondela - 19/09 11:00 - Canal11",
+      "pubDate": "Sat, 19 Sep 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
+      "pubDate": "Sat, 19 Sep 2026 12:30:00",
       "guid": ""
     }
   ]

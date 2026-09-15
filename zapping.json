@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Rayo Vallecano x Espanyol - 15/09 18:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rayo Vallecano x Espanyol - 15/09 18:00 - DAZN 2",
-      "pubDate": "Tue, 15 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Alavés x Valencia CF - 15/09 19:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alavés x Valencia CF - 15/09 19:00 - DAZN 3",
-      "pubDate": "Tue, 15 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x Willem II - 15/09 19:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Willem II - 15/09 19:00 - DAZN 4",
-      "pubDate": "Tue, 15 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Hilal x Al-Gharafa - 15/09 19:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Gharafa - 15/09 19:15 - Canal11",
-      "pubDate": "Tue, 15 Sep 2026 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "West Ham x Fulham - 15/09 19:45 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "West Ham x Fulham - 15/09 19:45 - SportTV +",
-      "pubDate": "Tue, 15 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Pisa - 15/09 20:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Pisa - 15/09 20:00 - SportTV 4",
-      "pubDate": "Tue, 15 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Reading x Brentford - 15/09 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Reading x Brentford - 15/09 20:00 - SportTV 3",
-      "pubDate": "Tue, 15 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ipswich Town x Arsenal - 15/09 20:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ipswich Town x Arsenal - 15/09 20:00 - SportTV 2",
-      "pubDate": "Tue, 15 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Tottenham - 15/09 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Tottenham - 15/09 20:00 - SportTV 1",
-      "pubDate": "Tue, 15 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche CF x Real Madrid - 15/09 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche CF x Real Madrid - 15/09 20:30 - DAZN 1",
-      "pubDate": "Tue, 15 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel (S23) x Santa Clara (S23) - 15/09 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel (S23) x Santa Clara (S23) - 15/09 20:30 - Canal11",
-      "pubDate": "Tue, 15 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Platense x Fluminense - 15/09 23:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Platense x Fluminense - 15/09 23:00 - SportTV 1",
@@ -327,6 +250,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
       "pubDate": "Sat, 19 Sep 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Naval 1893 x FC Felgueiras - 19/09 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Naval 1893 x FC Felgueiras - 19/09 14:00 - Canal11",
+      "pubDate": "Sat, 19 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Torino - 19/09 14:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Torino - 19/09 14:00 - SportTV 5",
+      "pubDate": "Sat, 19 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense (Futsal) x Benfica (Futsal) - 19/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense (Futsal) x Benfica (Futsal) - 19/09 15:00 - C11 Stream",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Power FC (Feminino) x Valadares Gaia (Feminino) - 19/09 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Power FC (Feminino) x Valadares Gaia (Feminino) - 19/09 15:00 - C11 Stream",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 19/09 15:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 19/09 15:00 - SportTV 6",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Jun.B S17) x Sporting (Jun.B S17) - 16/09 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Jun.B S17) x Sporting (Jun.B S17) - 16/09 11:00 - Canal11",
-      "pubDate": "Wed, 16 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
       "title": "Omonia x Celta de Vigo - 16/09 17:45 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Omonia x Celta de Vigo - 16/09 17:45 - DAZN 2",
@@ -148,6 +141,27 @@
       "guid": ""
     },
     {
+      "title": "Levski Sofia x Red Bull Salzburg - 17/09 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levski Sofia x Red Bull Salzburg - 17/09 17:45 - DAZN 2",
+      "pubDate": "Thu, 17 Sep 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "OFI x TSG Hoffenheim - 17/09 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OFI x TSG Hoffenheim - 17/09 17:45 - DAZN 3",
+      "pubDate": "Thu, 17 Sep 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Getafe CF - 17/09 18:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Getafe CF - 17/09 18:00 - DAZN 4",
+      "pubDate": "Thu, 17 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Manchester City x Norwich City - 17/09 19:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Norwich City - 17/09 19:30 - SportTV 1",
@@ -159,6 +173,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Andebol) x RK Partizan (Andebol) - 17/09 19:45 - PortoCanal",
       "pubDate": "Thu, 17 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lillestrom x Torreense - 17/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lillestrom x Torreense - 17/09 20:00 - DAZN 1",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Bournemouth - 17/09 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Bournemouth - 17/09 20:00 - DAZN 2",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Besiktas x Marseille - 17/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Besiktas x Marseille - 17/09 20:00 - DAZN 3",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x NEC - 17/09 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x NEC - 17/09 20:00 - DAZN 4",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Buffalo Bills (Fut. Americano) x Detroit Lions (Fut. Americano) - 18/09 01:15 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Buffalo Bills (Fut. Americano) x Detroit Lions (Fut. Americano) - 18/09 01:15 - DAZN",
+      "pubDate": "Fri, 18 Sep 2026 01:15:00",
       "guid": ""
     },
     {
@@ -176,10 +225,31 @@
       "guid": ""
     },
     {
+      "title": "Wolfsburg x Darmstadt 98 - 18/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolfsburg x Darmstadt 98 - 18/09 17:30 - DAZN 1",
+      "pubDate": "Fri, 18 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
       "title": "Sporting (Feminino) x Marítimo (Feminino) - 18/09 18:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Feminino) x Marítimo (Feminino) - 18/09 18:30 - Canal11",
       "pubDate": "Fri, 18 Sep 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x 1. FC Union Berlin - 18/09 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x 1. FC Union Berlin - 18/09 19:30 - DAZN 1",
+      "pubDate": "Fri, 18 Sep 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Albacete x Córdoba - 18/09 19:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Albacete x Córdoba - 18/09 19:30 - DAZN 4",
+      "pubDate": "Fri, 18 Sep 2026 19:30:00",
       "guid": ""
     },
     {
@@ -200,6 +270,20 @@
       "title": "Bristol City x Watford - 18/09 20:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bristol City x Watford - 18/09 20:00 - SportTV 3",
+      "pubDate": "Fri, 18 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Chelsea - 18/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Chelsea - 18/09 20:00 - DAZN 1",
+      "pubDate": "Fri, 18 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Elche CF - 18/09 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Elche CF - 18/09 20:00 - DAZN 3",
       "pubDate": "Fri, 18 Sep 2026 20:00:00",
       "guid": ""
     },
@@ -225,6 +309,13 @@
       "guid": ""
     },
     {
+      "title": "Karlsruher SC x FC Nürnberg - 19/09 12:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Karlsruher SC x FC Nürnberg - 19/09 12:00 - DAZN 4",
+      "pubDate": "Sat, 19 Sep 2026 12:00:00",
+      "guid": ""
+    },
+    {
       "title": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
@@ -232,101 +323,17 @@
       "guid": ""
     },
     {
-      "title": "Naval 1893 x FC Felgueiras - 19/09 14:00 - Canal11",
+      "title": "Tottenham x Aston Villa - 19/09 12:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Naval 1893 x FC Felgueiras - 19/09 14:00 - Canal11",
-      "pubDate": "Sat, 19 Sep 2026 14:00:00",
+      "description": "Tottenham x Aston Villa - 19/09 12:30 - DAZN 1",
+      "pubDate": "Sat, 19 Sep 2026 12:30:00",
       "guid": ""
     },
     {
-      "title": "Bologna x Torino - 19/09 14:00 - SportTV 5",
+      "title": "Osasuna x Rayo Vallecano - 19/09 13:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Bologna x Torino - 19/09 14:00 - SportTV 5",
-      "pubDate": "Sat, 19 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portimonense (Futsal) x Benfica (Futsal) - 19/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense (Futsal) x Benfica (Futsal) - 19/09 15:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Power FC (Feminino) x Valadares Gaia (Feminino) - 19/09 15:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Power FC (Feminino) x Valadares Gaia (Feminino) - 19/09 15:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 19/09 15:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 19/09 15:00 - SportTV 6",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Wrexham x Southampton - 19/09 15:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wrexham x Southampton - 19/09 15:00 - SportTV +",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 19/09 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 19/09 15:00 - PortoCanal",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Marítimo - 19/09 15:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Marítimo - 19/09 15:30 - SportTV 1",
-      "pubDate": "Sat, 19 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Nacional x FC Famalicão - 19/09 15:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nacional x FC Famalicão - 19/09 15:30 - SportTV 2",
-      "pubDate": "Sat, 19 Sep 2026 15:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Paris FC x Strasbourg - 19/09 16:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paris FC x Strasbourg - 19/09 16:15 - SportTV 5",
-      "pubDate": "Sat, 19 Sep 2026 16:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Eléctrico (Futsal) x Rio Ave (Futsal) - 19/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eléctrico (Futsal) x Rio Ave (Futsal) - 19/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Torreense (Futsal) - 19/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Torreense (Futsal) - 19/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense x FC Penafiel - 19/09 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense x FC Penafiel - 19/09 17:00 - Canal11",
-      "pubDate": "Sat, 19 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Futsal Feminino) x Torreense (Futsal Feminino) - 19/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal Feminino) x Torreense (Futsal Feminino) - 19/09 17:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 17:00:00",
+      "description": "Osasuna x Rayo Vallecano - 19/09 13:00 - DAZN 2",
+      "pubDate": "Sat, 19 Sep 2026 13:00:00",
       "guid": ""
     }
   ]

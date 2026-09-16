@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Platense x Fluminense - 15/09 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Platense x Fluminense - 15/09 23:00 - SportTV 1",
-      "pubDate": "Tue, 15 Sep 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vasco x Santa Fe - 15/09 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Santa Fe - 15/09 23:00 - SportTV 2",
-      "pubDate": "Tue, 15 Sep 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "São Paulo x Boca Juniors - 16/09 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "São Paulo x Boca Juniors - 16/09 01:30 - SportTV 1",
@@ -285,6 +271,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 19/09 15:00 - SportTV 6",
       "pubDate": "Sat, 19 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wrexham x Southampton - 19/09 15:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wrexham x Southampton - 19/09 15:00 - SportTV +",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 19/09 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x Rio Ave (Jun.A S19) - 19/09 15:00 - PortoCanal",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gil Vicente x Marítimo - 19/09 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gil Vicente x Marítimo - 19/09 15:30 - SportTV 1",
+      "pubDate": "Sat, 19 Sep 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x FC Famalicão - 19/09 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x FC Famalicão - 19/09 15:30 - SportTV 2",
+      "pubDate": "Sat, 19 Sep 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Paris FC x Strasbourg - 19/09 16:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paris FC x Strasbourg - 19/09 16:15 - SportTV 5",
+      "pubDate": "Sat, 19 Sep 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Eléctrico (Futsal) x Rio Ave (Futsal) - 19/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eléctrico (Futsal) x Rio Ave (Futsal) - 19/09 17:00 - C11 Stream",
+      "pubDate": "Sat, 19 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Levski Sofia x Red Bull Salzburg - 17/09 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levski Sofia x Red Bull Salzburg - 17/09 17:45 - DAZN 2",
-      "pubDate": "Thu, 17 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "OFI x TSG Hoffenheim - 17/09 17:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OFI x TSG Hoffenheim - 17/09 17:45 - DAZN 3",
-      "pubDate": "Thu, 17 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Getafe CF - 17/09 18:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Getafe CF - 17/09 18:00 - DAZN 4",
-      "pubDate": "Thu, 17 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x Norwich City - 17/09 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Norwich City - 17/09 19:30 - SportTV 1",
-      "pubDate": "Thu, 17 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Andebol) x RK Partizan (Andebol) - 17/09 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x RK Partizan (Andebol) - 17/09 19:45 - PortoCanal",
-      "pubDate": "Thu, 17 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lillestrom x Torreense - 17/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lillestrom x Torreense - 17/09 20:00 - DAZN 1",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Bournemouth - 17/09 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Bournemouth - 17/09 20:00 - DAZN 2",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Besiktas x Marseille - 17/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Besiktas x Marseille - 17/09 20:00 - DAZN 3",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x NEC - 17/09 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x NEC - 17/09 20:00 - DAZN 4",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Buffalo Bills (Fut. Americano) x Detroit Lions (Fut. Americano) - 18/09 01:15 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Buffalo Bills (Fut. Americano) x Detroit Lions (Fut. Americano) - 18/09 01:15 - DAZN",
@@ -320,6 +257,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Futsal) x Nun´Álvares (Futsal) - 19/09 17:00 - PortoCanal",
       "pubDate": "Sat, 19 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nottingham Forest x Coventry City - 19/09 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nottingham Forest x Coventry City - 19/09 17:30 - DAZN 1",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Racing Santander - 19/09 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Racing Santander - 19/09 17:30 - DAZN 2",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Borussia Dortmund - 19/09 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Borussia Dortmund - 19/09 17:30 - DAZN 3",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00",
       "guid": ""
     }
   ]

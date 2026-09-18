@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Bristol City x Watford - 18/09 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bristol City x Watford - 18/09 20:00 - SportTV 3",
-      "pubDate": "Fri, 18 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brentford x Chelsea - 18/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brentford x Chelsea - 18/09 20:00 - DAZN 1",
-      "pubDate": "Fri, 18 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanyol x Elche CF - 18/09 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanyol x Elche CF - 18/09 20:00 - DAZN 3",
-      "pubDate": "Fri, 18 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real SC x Académica OAF - 18/09 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real SC x Académica OAF - 18/09 20:30 - Canal11",
-      "pubDate": "Fri, 18 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC (Feminino) x Torreense (Feminino) - 19/09 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (Feminino) x Torreense (Feminino) - 19/09 11:00 - C11 Stream",
@@ -281,10 +253,45 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Andebol) x Benfica (Andebol) - 19/09 18:30 - ABola TV",
+      "title": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/09 19:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Benfica (Andebol) - 19/09 18:30 - ABola TV",
-      "pubDate": "Sat, 19 Sep 2026 18:30:00",
+      "description": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/09 19:00 - C11 Stream",
+      "pubDate": "Sat, 19 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x Excelsior - 19/09 19:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x Excelsior - 19/09 19:00 - DAZN 4",
+      "pubDate": "Sat, 19 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Venezia x Lazio - 19/09 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Venezia x Lazio - 19/09 19:45 - SportTV 4",
+      "pubDate": "Sat, 19 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Rennes - 19/09 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Rennes - 19/09 19:45 - SportTV 5",
+      "pubDate": "Sat, 19 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Beira-Mar x Belenenses - 19/09 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Beira-Mar x Belenenses - 19/09 20:00 - Canal11",
+      "pubDate": "Sat, 19 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla FC x Barcelona - 19/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla FC x Barcelona - 19/09 20:00 - DAZN 1",
+      "pubDate": "Sat, 19 Sep 2026 20:00:00",
       "guid": ""
     }
   ]

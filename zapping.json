@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Buffalo Bills (Fut. Americano) x Detroit Lions (Fut. Americano) - 18/09 01:15 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Buffalo Bills (Fut. Americano) x Detroit Lions (Fut. Americano) - 18/09 01:15 - DAZN",
-      "pubDate": "Fri, 18 Sep 2026 01:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Flamengo x Independiente del Valle - 18/09 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Flamengo x Independiente del Valle - 18/09 01:30 - SportTV 1",
-      "pubDate": "Fri, 18 Sep 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Montevideo City x Cienciano - 18/09 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Montevideo City x Cienciano - 18/09 01:30 - SportTV 2",
-      "pubDate": "Fri, 18 Sep 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Wolfsburg x Darmstadt 98 - 18/09 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Wolfsburg x Darmstadt 98 - 18/09 17:30 - DAZN 1",
@@ -319,6 +298,20 @@
       "title": "Trabzonspor x Galatasaray - 19/09 18:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Trabzonspor x Galatasaray - 19/09 18:00 - SportTV 2",
+      "pubDate": "Sat, 19 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Artística de Avanca (Andebol) x ABC (Andebol) - 19/09 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Artística de Avanca (Andebol) x ABC (Andebol) - 19/09 18:00 - AndebolTV",
+      "pubDate": "Sat, 19 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Águas Santas (Andebol) x Marítimo (Andebol) - 19/09 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águas Santas (Andebol) x Marítimo (Andebol) - 19/09 18:00 - AndebolTV",
       "pubDate": "Sat, 19 Sep 2026 18:00:00",
       "guid": ""
     }

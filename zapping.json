@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Wolfsburg x Darmstadt 98 - 18/09 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Wolfsburg x Darmstadt 98 - 18/09 17:30 - DAZN 1",
-      "pubDate": "Fri, 18 Sep 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Feminino) x Marítimo (Feminino) - 18/09 18:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Feminino) x Marítimo (Feminino) - 18/09 18:30 - Canal11",
-      "pubDate": "Fri, 18 Sep 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x 1. FC Union Berlin - 18/09 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x 1. FC Union Berlin - 18/09 19:30 - DAZN 1",
-      "pubDate": "Fri, 18 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Albacete x Córdoba - 18/09 19:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Albacete x Córdoba - 18/09 19:30 - DAZN 4",
-      "pubDate": "Fri, 18 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Monza x Sassuolo - 18/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monza x Sassuolo - 18/09 19:45 - SportTV 2",
-      "pubDate": "Fri, 18 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Lens - 18/09 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Lens - 18/09 19:45 - SportTV 1",
-      "pubDate": "Fri, 18 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Bristol City x Watford - 18/09 20:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bristol City x Watford - 18/09 20:00 - SportTV 3",
@@ -319,6 +277,13 @@
       "title": "Póvoa AC (Andebol) x AD Carvalhos (Andebol) - 19/09 18:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Póvoa AC (Andebol) x AD Carvalhos (Andebol) - 19/09 18:30 - AndebolTV",
+      "pubDate": "Sat, 19 Sep 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Benfica (Andebol) - 19/09 18:30 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Benfica (Andebol) - 19/09 18:30 - ABola TV",
       "pubDate": "Sat, 19 Sep 2026 18:30:00",
       "guid": ""
     }

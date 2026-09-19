@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Vitória SC (Feminino) x Torreense (Feminino) - 19/09 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Feminino) x Torreense (Feminino) - 19/09 11:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Imortal DC x CD Tondela - 19/09 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Imortal DC x CD Tondela - 19/09 11:00 - Canal11",
-      "pubDate": "Sat, 19 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Karlsruher SC x FC Nürnberg - 19/09 12:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Karlsruher SC x FC Nürnberg - 19/09 12:00 - DAZN 4",
-      "pubDate": "Sat, 19 Sep 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Millwall x West Ham - 19/09 12:30 - SportTV 1",
-      "pubDate": "Sat, 19 Sep 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Tottenham x Aston Villa - 19/09 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Aston Villa - 19/09 12:30 - DAZN 1",
-      "pubDate": "Sat, 19 Sep 2026 12:30:00",
-      "guid": ""
-    },
-    {
       "title": "Osasuna x Rayo Vallecano - 19/09 13:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Osasuna x Rayo Vallecano - 19/09 13:00 - DAZN 2",
@@ -176,6 +141,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (S23) x Torreense (S23) - 19/09 17:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Torreense (S23) - 19/09 17:00 - BTv",
+      "pubDate": "Sat, 19 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
       "title": "Nottingham Forest x Coventry City - 19/09 17:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Nottingham Forest x Coventry City - 19/09 17:30 - DAZN 1",
@@ -267,6 +239,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Futsal  Jun.A S19) x Dínamo Sanjoanense (Futsal  Jun.A S19) - 19/09 19:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal  Jun.A S19) x Dínamo Sanjoanense (Futsal  Jun.A S19) - 19/09 19:00 - BTv",
+      "pubDate": "Sat, 19 Sep 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "Venezia x Lazio - 19/09 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Venezia x Lazio - 19/09 19:45 - SportTV 4",
@@ -292,13 +271,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sevilla FC x Barcelona - 19/09 20:00 - DAZN 1",
       "pubDate": "Sat, 19 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x FC Arouca - 19/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x FC Arouca - 19/09 20:30 - SportTV 1",
-      "pubDate": "Sat, 19 Sep 2026 20:30:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Leões Porto Salvo (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 19/09 18:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 19/09 18:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/09 19:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Nun´Álvares (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/09 19:00 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Venezia x Lazio - 19/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Venezia x Lazio - 19/09 19:45 - SportTV 4",
-      "pubDate": "Sat, 19 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Rennes - 19/09 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Rennes - 19/09 19:45 - SportTV 5",
-      "pubDate": "Sat, 19 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Beira-Mar x Belenenses - 19/09 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Beira-Mar x Belenenses - 19/09 20:00 - Canal11",
-      "pubDate": "Sat, 19 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sevilla FC x Barcelona - 19/09 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sevilla FC x Barcelona - 19/09 20:00 - DAZN 1",
-      "pubDate": "Sat, 19 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x FC Arouca - 19/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x FC Arouca - 19/09 20:30 - SportTV 1",
-      "pubDate": "Sat, 19 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Novasemente (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 19/09 20:30 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novasemente (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 19/09 20:30 - C11 Stream",
@@ -236,6 +187,125 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Futsal) x Sporting (Futsal) - 20/09 17:00 - C11 Stream",
       "pubDate": "Sun, 20 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Marco 09 x FC Maia Lidador - 20/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Marco 09 x FC Maia Lidador - 20/09 17:00 - Canal11",
+      "pubDate": "Sun, 20 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Atalanta - 20/09 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Atalanta - 20/09 17:00 - SportTV 4",
+      "pubDate": "Sun, 20 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Maia Futsal (Futsal Feminino) - 20/09 17:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Maia Futsal (Futsal Feminino) - 20/09 17:30 - C11 Stream",
+      "pubDate": "Sun, 20 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo x Real Betis - 20/09 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x Real Betis - 20/09 17:30 - DAZN 3",
+      "pubDate": "Sun, 20 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal CF x Levante - 20/09 17:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal CF x Levante - 20/09 17:30 - DAZN 4",
+      "pubDate": "Sun, 20 Sep 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UPVN (Futsal) x Leões Porto Salvo (Futsal) - 20/09 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UPVN (Futsal) x Leões Porto Salvo (Futsal) - 20/09 18:00 - C11 Stream",
+      "pubDate": "Sun, 20 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x SC Braga - 20/09 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x SC Braga - 20/09 18:00 - SportTV 2",
+      "pubDate": "Sun, 20 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Casa Pia AC - 20/09 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Casa Pia AC - 20/09 18:00 - SportTV 3",
+      "pubDate": "Sun, 20 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 20/09 18:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 20/09 18:00 - SportTV 7",
+      "pubDate": "Sun, 20 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Paderborn 07 x TSG Hoffenheim - 20/09 18:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Paderborn 07 x TSG Hoffenheim - 20/09 18:30 - DAZN 2",
+      "pubDate": "Sun, 20 Sep 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "San Lorenzo x Boca Juniors - 20/09 18:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Lorenzo x Boca Juniors - 20/09 18:45 - SportTV 5",
+      "pubDate": "Sun, 20 Sep 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "AC Milan x Lecce - 20/09 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AC Milan x Lecce - 20/09 19:45 - SportTV 4",
+      "pubDate": "Sun, 20 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x PSG - 20/09 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x PSG - 20/09 19:45 - SportTV 6",
+      "pubDate": "Sun, 20 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia CF x Real Sociedad - 20/09 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia CF x Real Sociedad - 20/09 20:00 - DAZN 1",
+      "pubDate": "Sun, 20 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Benfica - 20/09 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Benfica - 20/09 20:30 - SportTV 1",
+      "pubDate": "Sun, 20 Sep 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Argentinos Juniors - 20/09 21:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Argentinos Juniors - 20/09 21:00 - SportTV 2",
+      "pubDate": "Sun, 20 Sep 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dallas Cowboys (Fut. Americano) x Washington Commanders (Fut. Americano) - 20/09 21:25 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dallas Cowboys (Fut. Americano) x Washington Commanders (Fut. Americano) - 20/09 21:25 - DAZN 2",
+      "pubDate": "Sun, 20 Sep 2026 21:25:00",
       "guid": ""
     }
   ]

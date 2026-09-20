@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Novasemente (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 19/09 20:30 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Novasemente (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 19/09 20:30 - C11 Stream",
-      "pubDate": "Sat, 19 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Huracán - 19/09 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Huracán - 19/09 23:00 - SportTV 2",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sacavenense x Farense - 20/09 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sacavenense x Farense - 20/09 11:00 - Canal11",
@@ -306,6 +292,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Dallas Cowboys (Fut. Americano) x Washington Commanders (Fut. Americano) - 20/09 21:25 - DAZN 2",
       "pubDate": "Sun, 20 Sep 2026 21:25:00",
+      "guid": ""
+    },
+    {
+      "title": "Kansas City Chiefs (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 21/09 01:20 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kansas City Chiefs (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 21/09 01:20 - DAZN",
+      "pubDate": "Mon, 21 Sep 2026 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria (S23) x Gil Vicente (S23) - 21/09 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x Gil Vicente (S23) - 21/09 16:00 - Canal11",
+      "pubDate": "Mon, 21 Sep 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x SC Braga (Feminino) - 21/09 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x SC Braga (Feminino) - 21/09 18:00 - PortoCanal",
+      "pubDate": "Mon, 21 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x Estoril Praia (S23) - 22/09 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x Estoril Praia (S23) - 22/09 17:00 - Canal11",
+      "pubDate": "Tue, 22 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

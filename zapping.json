@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto x Benfica - 20/09 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Benfica - 20/09 20:30 - SportTV 1",
-      "pubDate": "Sun, 20 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rosario Central x Argentinos Juniors - 20/09 21:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Argentinos Juniors - 20/09 21:00 - SportTV 2",
-      "pubDate": "Sun, 20 Sep 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dallas Cowboys (Fut. Americano) x Washington Commanders (Fut. Americano) - 20/09 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Cowboys (Fut. Americano) x Washington Commanders (Fut. Americano) - 20/09 21:25 - DAZN 2",
-      "pubDate": "Sun, 20 Sep 2026 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "Kansas City Chiefs (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 21/09 01:20 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kansas City Chiefs (Fut. Americano) x Indianapolis Colts (Fut. Americano) - 21/09 01:20 - DAZN",
@@ -40,6 +19,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Feminino) x SC Braga (Feminino) - 21/09 18:00 - PortoCanal",
       "pubDate": "Mon, 21 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x AD Fundão (Futsal) - 21/09 19:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x AD Fundão (Futsal) - 21/09 19:30 - C11 Stream",
+      "pubDate": "Mon, 21 Sep 2026 19:30:00",
       "guid": ""
     },
     {
@@ -120,6 +106,13 @@
       "guid": ""
     },
     {
+      "title": "Costa do Marfim x Gana - 24/09 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Costa do Marfim x Gana - 24/09 20:00 - SportTV 5",
+      "pubDate": "Thu, 24 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Rio Ave (S23) x FC Penafiel (S23) - 25/09 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rio Ave (S23) x FC Penafiel (S23) - 25/09 11:00 - C11 Stream",
@@ -131,6 +124,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (S23) x Benfica (S23) - 25/09 14:00 - C11 Stream",
       "pubDate": "Fri, 25 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Tanzânia x Guiné-Bissau - 25/09 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tanzânia x Guiné-Bissau - 25/09 14:00 - SportTV 1",
+      "pubDate": "Fri, 25 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bulgária (S21) x Portugal (S21) - 25/09 16:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bulgária (S21) x Portugal (S21) - 25/09 16:30 - Canal11",
+      "pubDate": "Fri, 25 Sep 2026 16:30:00",
       "guid": ""
     },
     {
@@ -162,13 +169,6 @@
       "guid": ""
     },
     {
-      "title": "Polónia x Bósnia - 25/09 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia x Bósnia - 25/09 19:45 - SportTV 7",
-      "pubDate": "Fri, 25 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Suécia x Roménia - 25/09 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suécia x Roménia - 25/09 19:45 - SportTV 4",
@@ -176,10 +176,31 @@
       "guid": ""
     },
     {
-      "title": "Hungria x Ucrânia - 25/09 19:45 - SportTV 6",
+      "title": "Polónia x Bósnia - 25/09 19:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria x Ucrânia - 25/09 19:45 - SportTV 6",
+      "description": "Polónia x Bósnia - 25/09 19:45 - SportTV 5",
       "pubDate": "Fri, 25 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Egipto x Angola - 25/09 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Egipto x Angola - 25/09 20:00 - SportTV 6",
+      "pubDate": "Fri, 25 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal x Moçambique - 25/09 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal x Moçambique - 25/09 20:00 - SportTV 7",
+      "pubDate": "Fri, 25 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mali x Cabo Verde - 25/09 20:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mali x Cabo Verde - 25/09 20:00 - SportTV 3",
+      "pubDate": "Fri, 25 Sep 2026 20:00:00",
       "guid": ""
     },
     {
@@ -299,6 +320,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal) x Portimonense (Futsal) - 26/09 20:30 - Canal11",
       "pubDate": "Sat, 26 Sep 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x Racing Power FC (Feminino) - 27/09 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x Racing Power FC (Feminino) - 27/09 11:00 - Canal11",
+      "pubDate": "Sun, 27 Sep 2026 11:00:00",
       "guid": ""
     }
   ]

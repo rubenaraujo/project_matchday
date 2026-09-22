@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Juventus (Feminino) x Benfica (Feminino) - 22/09 20:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus (Feminino) x Benfica (Feminino) - 22/09 20:00 - RTP2",
-      "pubDate": "Tue, 22 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Gibraltar x São Tomé e Príncipe - 23/09 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gibraltar x São Tomé e Príncipe - 23/09 17:00 - SportTV 1",
@@ -18,6 +11,13 @@
       "title": "Marítimo (Andebol) x Póvoa AC (Andebol) - 23/09 17:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Andebol) x Póvoa AC (Andebol) - 23/09 17:00 - AndebolTV",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brondby IF (Feminino) x Sporting (Feminino) - 23/09 17:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brondby IF (Feminino) x Sporting (Feminino) - 23/09 17:00 - SportingTv",
       "pubDate": "Wed, 23 Sep 2026 17:00:00",
       "guid": ""
     },

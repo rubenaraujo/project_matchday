@@ -8,48 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Portugal x País de Gales - 24/09 19:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal x País de Gales - 24/09 19:45 - RTP1",
-      "pubDate": "Thu, 24 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sérvia x Grécia - 24/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sérvia x Grécia - 24/09 19:45 - SportTV 4",
-      "pubDate": "Thu, 24 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos x Alemanha - 24/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos x Alemanha - 24/09 19:45 - SportTV 2",
-      "pubDate": "Thu, 24 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega x Dinamarca - 24/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x Dinamarca - 24/09 19:45 - SportTV 3",
-      "pubDate": "Thu, 24 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Kosovo x Rep. Irlanda - 24/09 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kosovo x Rep. Irlanda - 24/09 19:45 - SportTV 6",
-      "pubDate": "Thu, 24 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Costa do Marfim x Gana - 24/09 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Costa do Marfim x Gana - 24/09 20:00 - SportTV 5",
-      "pubDate": "Thu, 24 Sep 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Green Bay Packers (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 25/09 01:15 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Green Bay Packers (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 25/09 01:15 - DAZN",
@@ -67,6 +25,13 @@
       "title": "Tanzânia x Guiné-Bissau - 25/09 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Tanzânia x Guiné-Bissau - 25/09 14:00 - SportTV 1",
+      "pubDate": "Fri, 25 Sep 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Senegal x Moçambique - 25/09 14:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Senegal x Moçambique - 25/09 14:00 - SportTV 5",
       "pubDate": "Fri, 25 Sep 2026 14:00:00",
       "guid": ""
     },
@@ -123,6 +88,13 @@
       "title": "Polónia x Bósnia - 25/09 19:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia x Bósnia - 25/09 19:45 - SportTV 5",
+      "pubDate": "Fri, 25 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Hungria x Ucrânia - 25/09 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hungria x Ucrânia - 25/09 19:45 - SportTV 7",
       "pubDate": "Fri, 25 Sep 2026 19:45:00",
       "guid": ""
     },
@@ -320,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sport Canidelo x FC Foz - 27/09 16:00 - ABola TV",
       "pubDate": "Sun, 27 Sep 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Futsal) x Benfica (Futsal) - 27/09 16:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Futsal) x Benfica (Futsal) - 27/09 16:45 - Canal11",
+      "pubDate": "Sun, 27 Sep 2026 16:45:00",
       "guid": ""
     }
   ]

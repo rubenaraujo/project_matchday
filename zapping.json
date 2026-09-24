@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Andorra x Malta - 24/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Andorra x Malta - 24/09 17:00 - SportTV 2",
-      "pubDate": "Thu, 24 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Kosner Baskonia (Basket) x Olympiacos (Basket) - 24/09 19:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kosner Baskonia (Basket) x Olympiacos (Basket) - 24/09 19:30 - SportTV 7",
@@ -54,6 +47,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Costa do Marfim x Gana - 24/09 20:00 - SportTV 5",
       "pubDate": "Thu, 24 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Green Bay Packers (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 25/09 01:15 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Green Bay Packers (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 25/09 01:15 - DAZN",
+      "pubDate": "Fri, 25 Sep 2026 01:15:00",
       "guid": ""
     },
     {
@@ -165,6 +165,13 @@
       "title": "Leões Porto Salvo (Futsal Feminino) x Benfica (Futsal Feminino) - 26/09 15:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leões Porto Salvo (Futsal Feminino) x Benfica (Futsal Feminino) - 26/09 15:00 - Canal11",
+      "pubDate": "Sat, 26 Sep 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ABC (Andebol) x Benfica (Andebol) - 26/09 15:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ABC (Andebol) x Benfica (Andebol) - 26/09 15:00 - BTv",
       "pubDate": "Sat, 26 Sep 2026 15:00:00",
       "guid": ""
     },
@@ -281,9 +288,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Jun.C S15) x Paços de Ferreira (Jun.C S15) - 27/09 11:00 - PortoCanal",
+      "title": "Benfica (Jun.C S15) x FC Alverca (Jun.C S15) - 27/09 11:00 - BTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.C S15) x Paços de Ferreira (Jun.C S15) - 27/09 11:00 - PortoCanal",
+      "description": "Benfica (Jun.C S15) x FC Alverca (Jun.C S15) - 27/09 11:00 - BTv",
       "pubDate": "Sun, 27 Sep 2026 11:00:00",
       "guid": ""
     },
@@ -313,20 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sport Canidelo x FC Foz - 27/09 16:00 - ABola TV",
       "pubDate": "Sun, 27 Sep 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Benfica (Futsal) - 27/09 16:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Benfica (Futsal) - 27/09 16:45 - Canal11",
-      "pubDate": "Sun, 27 Sep 2026 16:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Marítimo (Feminino) - 27/09 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Marítimo (Feminino) - 27/09 17:00 - C11 Stream",
-      "pubDate": "Sun, 27 Sep 2026 17:00:00",
       "guid": ""
     }
   ]

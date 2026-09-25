@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Marítimo (S23) x Benfica (S23) - 25/09 14:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (S23) x Benfica (S23) - 25/09 14:00 - C11 Stream",
-      "pubDate": "Fri, 25 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tanzânia x Guiné-Bissau - 25/09 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tanzânia x Guiné-Bissau - 25/09 14:00 - SportTV 1",
-      "pubDate": "Fri, 25 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Moçambique x Senegal - 25/09 14:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moçambique x Senegal - 25/09 14:00 - SportTV 5",
-      "pubDate": "Fri, 25 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bulgária (S21) x Portugal (S21) - 25/09 16:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bulgária (S21) x Portugal (S21) - 25/09 16:30 - Canal11",
-      "pubDate": "Fri, 25 Sep 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Geórgia x Irl. Norte - 25/09 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Geórgia x Irl. Norte - 25/09 17:00 - SportTV 1",
-      "pubDate": "Fri, 25 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arménia x Letónia - 25/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arménia x Letónia - 25/09 17:00 - SportTV 2",
-      "pubDate": "Fri, 25 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 25/09 18:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x Sporting (Voleibol Feminino) - 25/09 18:00 - PortoCanal",
@@ -341,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Gibraltar x Andorra - 27/09 17:00 - SportTV 5",
       "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria x Kosovo - 27/09 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria x Kosovo - 27/09 17:00 - SportTV 4",
+      "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Basket) x Unicaja (Basket) - 27/09 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Basket) x Unicaja (Basket) - 27/09 18:00 - DAZN 1",
+      "pubDate": "Sun, 27 Sep 2026 18:00:00",
       "guid": ""
     }
   ]

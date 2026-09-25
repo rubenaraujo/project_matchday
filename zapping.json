@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Kosner Baskonia (Basket) x Olympiacos (Basket) - 24/09 19:30 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Kosner Baskonia (Basket) x Olympiacos (Basket) - 24/09 19:30 - SportTV 7",
-      "pubDate": "Thu, 24 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Green Bay Packers (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 25/09 01:15 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Green Bay Packers (Fut. Americano) x Atlanta Falcons (Fut. Americano) - 25/09 01:15 - DAZN",
@@ -299,6 +292,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Futsal) x Benfica (Futsal) - 27/09 16:45 - Canal11",
       "pubDate": "Sun, 27 Sep 2026 16:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Feminino) x Marítimo (Feminino) - 27/09 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Feminino) x Marítimo (Feminino) - 27/09 17:00 - C11 Stream",
+      "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sérvia x Países Baixos - 27/09 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sérvia x Países Baixos - 27/09 17:00 - SportTV 3",
+      "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca x País de Gales - 27/09 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca x País de Gales - 27/09 17:00 - SportTV 2",
+      "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gibraltar x Andorra - 27/09 17:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gibraltar x Andorra - 27/09 17:00 - SportTV 5",
+      "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Áustria x Kosovo - 27/09 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Áustria x Kosovo - 27/09 17:00 - SportTV 4",
+      "pubDate": "Sun, 27 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Basket) x Unicaja (Basket) - 27/09 18:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Basket) x Unicaja (Basket) - 27/09 18:00 - DAZN 1",
+      "pubDate": "Sun, 27 Sep 2026 18:00:00",
       "guid": ""
     }
   ]

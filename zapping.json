@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Leões Porto Salvo (Futsal) x Portimonense (Futsal) - 26/09 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leões Porto Salvo (Futsal) x Portimonense (Futsal) - 26/09 20:30 - Canal11",
-      "pubDate": "Sat, 26 Sep 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Futsal Feijó (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/09 21:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Futsal Feijó (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 26/09 21:00 - C11 Stream",
-      "pubDate": "Sat, 26 Sep 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sousense x Rayo Ciudad Alcobendas CF - 27/09 10:30 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sousense x Rayo Ciudad Alcobendas CF - 27/09 10:30 - ABola TV",
@@ -271,6 +257,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Guiné-Bissau x Nigéria - 29/09 17:00 - SportTV 2",
       "pubDate": "Tue, 29 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cabo Verde x Ruanda - 29/09 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cabo Verde x Ruanda - 29/09 17:00 - SportTV 1",
+      "pubDate": "Tue, 29 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia x Bielorrússia - 29/09 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia x Bielorrússia - 29/09 17:00 - SportTV 3",
+      "pubDate": "Tue, 29 Sep 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Anadolu Efes (Basket) x Real Madrid (Basket) - 29/09 18:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Anadolu Efes (Basket) x Real Madrid (Basket) - 29/09 18:00 - SportTV 5",
+      "pubDate": "Tue, 29 Sep 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Omã x Kuwait - 29/09 18:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Omã x Kuwait - 29/09 18:30 - SportTV 4",
+      "pubDate": "Tue, 29 Sep 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha x Croácia - 29/09 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha x Croácia - 29/09 19:45 - SportTV 1",
+      "pubDate": "Tue, 29 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x Inglaterra - 29/09 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x Inglaterra - 29/09 19:45 - SportTV 2",
+      "pubDate": "Tue, 29 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Escócia x Suíça - 29/09 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Escócia x Suíça - 29/09 19:45 - SportTV 3",
+      "pubDate": "Tue, 29 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslováquia x Cazaquistão - 29/09 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslováquia x Cazaquistão - 29/09 19:45 - SportTV 6",
+      "pubDate": "Tue, 29 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Bathco BM Torrelavega (Andebol) - 29/09 19:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Bathco BM Torrelavega (Andebol) - 29/09 19:45 - BTv",
+      "pubDate": "Tue, 29 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (S23) x FC Penafiel (S23) - 29/09 20:15 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (S23) x FC Penafiel (S23) - 29/09 20:15 - C11 Stream",
+      "pubDate": "Tue, 29 Sep 2026 20:15:00",
       "guid": ""
     }
   ]

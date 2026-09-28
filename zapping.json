@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Leixões (S23) x FC Vizela (S23) - 28/09 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leixões (S23) x FC Vizela (S23) - 28/09 16:00 - Canal11",
-      "pubDate": "Mon, 28 Sep 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Geórgia x Ucrânia - 28/09 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Geórgia x Ucrânia - 28/09 17:00 - SportTV 1",
-      "pubDate": "Mon, 28 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arménia x Montenegro - 28/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arménia x Montenegro - 28/09 17:00 - SportTV 2",
-      "pubDate": "Mon, 28 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Letónia x Chipre - 28/09 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia x Chipre - 28/09 17:00 - SportTV 3",
-      "pubDate": "Mon, 28 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 28/09 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Ferreira do Zêzere (Futsal) - 28/09 19:30 - Canal11",
-      "pubDate": "Mon, 28 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Leganés x Castellón - 28/09 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Leganés x Castellón - 28/09 19:30 - DAZN 1",
-      "pubDate": "Mon, 28 Sep 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Irl. Norte x Hungria - 28/09 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Irl. Norte x Hungria - 28/09 19:45 - SportTV 4",
@@ -253,6 +211,13 @@
       "guid": ""
     },
     {
+      "title": "Torreense (Feminino) x FC Kharkiv (Feminino) - 30/09 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Feminino) x FC Kharkiv (Feminino) - 30/09 20:00 - SportTV 1",
+      "pubDate": "Wed, 30 Sep 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Azerbaijão x Liechtenstein - 01/10 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Azerbaijão x Liechtenstein - 01/10 17:00 - SportTV 2",
@@ -334,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
       "pubDate": "Fri, 02 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Roménia (S18) - 02/10 17:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Roménia (S18) - 02/10 17:15 - Canal11",
+      "pubDate": "Fri, 02 Oct 2026 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Ucrânia x Irl. Norte - 02/10 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ucrânia x Irl. Norte - 02/10 19:45 - SportTV 6",
+      "pubDate": "Fri, 02 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "França x Itália - 02/10 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "França x Itália - 02/10 19:45 - SportTV 1",
+      "pubDate": "Fri, 02 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
+      "pubDate": "Fri, 02 Oct 2026 19:45:00",
       "guid": ""
     }
   ]

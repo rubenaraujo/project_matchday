@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Dallas Cowboys (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 27/09 21:25 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Cowboys (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 27/09 21:25 - DAZN",
-      "pubDate": "Sun, 27 Sep 2026 21:25:00",
-      "guid": ""
-    },
-    {
-      "title": "Denver Broncos (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 28/09 01:20 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Denver Broncos (Fut. Americano) x Los Angeles Rams (Fut. Americano) - 28/09 01:20 - DAZN",
-      "pubDate": "Mon, 28 Sep 2026 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões (S23) x FC Vizela (S23) - 28/09 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões (S23) x FC Vizela (S23) - 28/09 16:00 - Canal11",
@@ -327,6 +313,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S20) x Chéquia (S20) - 02/10 15:00 - Canal11",
       "pubDate": "Fri, 02 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chipre x Arménia - 02/10 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chipre x Arménia - 02/10 17:00 - SportTV 1",
+      "pubDate": "Fri, 02 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
+      "pubDate": "Fri, 02 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Roménia (S18) - 02/10 17:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Roménia (S18) - 02/10 17:15 - Canal11",
+      "pubDate": "Fri, 02 Oct 2026 17:15:00",
       "guid": ""
     }
   ]

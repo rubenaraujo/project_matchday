@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Irl. Norte x Hungria - 28/09 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Irl. Norte x Hungria - 28/09 19:45 - SportTV 4",
-      "pubDate": "Mon, 28 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Suécia x Polónia - 28/09 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suécia x Polónia - 28/09 19:45 - SportTV 3",
-      "pubDate": "Mon, 28 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bélgica x França - 28/09 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x França - 28/09 19:45 - SportTV 1",
-      "pubDate": "Mon, 28 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Turquia x Itália - 28/09 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turquia x Itália - 28/09 19:45 - SportTV 2",
-      "pubDate": "Mon, 28 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Roménia x Bósnia - 28/09 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roménia x Bósnia - 28/09 19:45 - SportTV 6",
-      "pubDate": "Mon, 28 Sep 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Fundão (Futsal) x UPVN (Futsal) - 28/09 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Fundão (Futsal) x UPVN (Futsal) - 28/09 21:00 - Canal11",
-      "pubDate": "Mon, 28 Sep 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S20) x Suíça (S20) - 29/09 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S20) x Suíça (S20) - 29/09 11:00 - Canal11",
@@ -190,6 +148,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Feminino) x Brondby IF (Feminino) - 30/09 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Feminino) x Brondby IF (Feminino) - 30/09 19:45 - SportingTv",
+      "pubDate": "Wed, 30 Sep 2026 19:45:00",
+      "guid": ""
+    },
+    {
       "title": "Benfica (Feminino) x Bayern München (Feminino) - 30/09 20:00 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Feminino) x Bayern München (Feminino) - 30/09 20:00 - RTP2",
@@ -309,6 +274,13 @@
       "guid": ""
     },
     {
+      "title": "Deportivo x FC Porto - 02/10 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x FC Porto - 02/10 18:00 - PortoCanal",
+      "pubDate": "Fri, 02 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Ucrânia x Irl. Norte - 02/10 19:45 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ucrânia x Irl. Norte - 02/10 19:45 - SportTV 6",
@@ -327,6 +299,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
       "pubDate": "Fri, 02 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bélgica x Turquia - 02/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bélgica x Turquia - 02/10 19:45 - SportTV 2",
+      "pubDate": "Fri, 02 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bósnia x Suécia - 02/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bósnia x Suécia - 02/10 19:45 - SportTV 3",
+      "pubDate": "Fri, 02 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 02/10 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 02/10 20:00 - Canal11",
+      "pubDate": "Fri, 02 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Boston Bruins (Hóquei no Gelo  Seniores) - 03/10 01:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Boston Bruins (Hóquei no Gelo  Seniores) - 03/10 01:00 - SportTV 1",
+      "pubDate": "Sat, 03 Oct 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S16) x Roménia (S16) - 03/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S16) x Roménia (S16) - 03/10 11:00 - Canal11",
+      "pubDate": "Sat, 03 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia x Albânia - 03/10 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia x Albânia - 03/10 14:00 - SportTV 2",
+      "pubDate": "Sat, 03 Oct 2026 14:00:00",
       "guid": ""
     }
   ]

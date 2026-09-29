@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S20) x Suíça (S20) - 29/09 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S20) x Suíça (S20) - 29/09 11:00 - Canal11",
-      "pubDate": "Tue, 29 Sep 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Santa Clara (S23) x FC Felgueiras (S23) - 29/09 12:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara (S23) x FC Felgueiras (S23) - 29/09 12:00 - C11 Stream",
-      "pubDate": "Tue, 29 Sep 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "Moçambique x Sudão - 29/09 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moçambique x Sudão - 29/09 14:00 - SportTV 1",
@@ -253,16 +239,16 @@
       "guid": ""
     },
     {
-      "title": "Chipre x Arménia - 02/10 17:00 - SportTV 1",
+      "title": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Chipre x Arménia - 02/10 17:00 - SportTV 1",
+      "description": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
       "pubDate": "Fri, 02 Oct 2026 17:00:00",
       "guid": ""
     },
     {
-      "title": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
+      "title": "Chipre x Arménia - 02/10 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia x Montenegro - 02/10 17:00 - SportTV 2",
+      "description": "Chipre x Arménia - 02/10 17:00 - SportTV 3",
       "pubDate": "Fri, 02 Oct 2026 17:00:00",
       "guid": ""
     },
@@ -274,9 +260,9 @@
       "guid": ""
     },
     {
-      "title": "Deportivo x FC Porto - 02/10 18:00 - PortoCanal",
+      "title": "Deportivo x FC Porto - 02/10 18:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x FC Porto - 02/10 18:00 - PortoCanal",
+      "description": "Deportivo x FC Porto - 02/10 18:00 - SportTV 1",
       "pubDate": "Fri, 02 Oct 2026 18:00:00",
       "guid": ""
     },
@@ -288,13 +274,6 @@
       "guid": ""
     },
     {
-      "title": "França x Itália - 02/10 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Itália - 02/10 19:45 - SportTV 1",
-      "pubDate": "Fri, 02 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
@@ -302,16 +281,23 @@
       "guid": ""
     },
     {
-      "title": "Bélgica x Turquia - 02/10 19:45 - SportTV 2",
+      "title": "França x Itália - 02/10 19:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Turquia - 02/10 19:45 - SportTV 2",
+      "description": "França x Itália - 02/10 19:45 - SportTV 2",
       "pubDate": "Fri, 02 Oct 2026 19:45:00",
       "guid": ""
     },
     {
-      "title": "Bósnia x Suécia - 02/10 19:45 - SportTV 3",
+      "title": "Bélgica x Turquia - 02/10 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Bósnia x Suécia - 02/10 19:45 - SportTV 3",
+      "description": "Bélgica x Turquia - 02/10 19:45 - SportTV 3",
+      "pubDate": "Fri, 02 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bósnia x Suécia - 02/10 19:45 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bósnia x Suécia - 02/10 19:45 - SportTV 5",
       "pubDate": "Fri, 02 Oct 2026 19:45:00",
       "guid": ""
     },
@@ -330,17 +316,17 @@
       "guid": ""
     },
     {
+      "title": "Boca Juniors x Unión - 03/10 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Unión - 03/10 01:30 - SportTV 1",
+      "pubDate": "Sat, 03 Oct 2026 01:30:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal (S16) x Roménia (S16) - 03/10 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S16) x Roménia (S16) - 03/10 11:00 - Canal11",
       "pubDate": "Sat, 03 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Finlândia x Albânia - 03/10 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Finlândia x Albânia - 03/10 14:00 - SportTV 2",
-      "pubDate": "Sat, 03 Oct 2026 14:00:00",
       "guid": ""
     }
   ]

@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Moçambique x Sudão - 29/09 14:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moçambique x Sudão - 29/09 14:00 - SportTV 1",
-      "pubDate": "Tue, 29 Sep 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Guiné-Bissau x Nigéria - 29/09 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Guiné-Bissau x Nigéria - 29/09 17:00 - SportTV 2",
-      "pubDate": "Tue, 29 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cabo Verde x Ruanda - 29/09 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cabo Verde x Ruanda - 29/09 17:00 - SportTV 1",
-      "pubDate": "Tue, 29 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Finlândia x Bielorrússia - 29/09 17:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Finlândia x Bielorrússia - 29/09 17:00 - SportTV 3",
-      "pubDate": "Tue, 29 Sep 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "HC Buzau (Andebol) x Águas Santas (Andebol) - 29/09 17:45 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "HC Buzau (Andebol) x Águas Santas (Andebol) - 29/09 17:45 - ABola TV",
-      "pubDate": "Tue, 29 Sep 2026 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Anadolu Efes (Basket) x Real Madrid (Basket) - 29/09 18:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Anadolu Efes (Basket) x Real Madrid (Basket) - 29/09 18:00 - SportTV 5",
       "pubDate": "Tue, 29 Sep 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S18) x Uzbequistão (S18) - 29/09 18:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S18) x Uzbequistão (S18) - 29/09 18:15 - Canal11",
-      "pubDate": "Tue, 29 Sep 2026 18:15:00",
       "guid": ""
     },
     {
@@ -327,6 +285,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S16) x Roménia (S16) - 03/10 11:00 - Canal11",
       "pubDate": "Sat, 03 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Finlândia x Albânia - 03/10 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Finlândia x Albânia - 03/10 14:00 - SportTV 2",
+      "pubDate": "Sat, 03 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Futsal) x Miramar Império (Futsal) - 03/10 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Futsal) x Miramar Império (Futsal) - 03/10 15:00 - PortoCanal",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valadares Gaia (Feminino) x Vitória SC (Feminino) - 03/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valadares Gaia (Feminino) x Vitória SC (Feminino) - 03/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00",
       "guid": ""
     }
   ]

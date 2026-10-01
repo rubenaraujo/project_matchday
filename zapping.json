@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Azerbaijão x Liechtenstein - 01/10 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Azerbaijão x Liechtenstein - 01/10 17:00 - SportTV 2",
-      "pubDate": "Thu, 01 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca x Portugal - 01/10 19:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca x Portugal - 01/10 19:45 - RTP1",
-      "pubDate": "Thu, 01 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Rep. Irlanda x Áustria - 01/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rep. Irlanda x Áustria - 01/10 19:45 - SportTV 6",
-      "pubDate": "Thu, 01 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Grécia x Países Baixos - 01/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Grécia x Países Baixos - 01/10 19:45 - SportTV 4",
-      "pubDate": "Thu, 01 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "País de Gales x Noruega - 01/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "País de Gales x Noruega - 01/10 19:45 - SportTV 3",
-      "pubDate": "Thu, 01 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Alemanha x Sérvia - 01/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha x Sérvia - 01/10 19:45 - SportTV 2",
-      "pubDate": "Thu, 01 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
       "title": "Platense x Estudiantes - 02/10 01:15 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Platense x Estudiantes - 02/10 01:15 - SportTV 1",
@@ -341,6 +299,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Basket Feminino) x Benfica (Basket Feminino) - 04/10 11:30 - SportingTv",
       "pubDate": "Sun, 04 Oct 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sola HK (Andebol Feminino) x Borussia Dortmund (Andebol Feminino) - 04/10 13:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sola HK (Andebol Feminino) x Borussia Dortmund (Andebol Feminino) - 04/10 13:00 - SportTV 7",
+      "pubDate": "Sun, 04 Oct 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense (Futsal) x AD Fundão (Futsal) - 04/10 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense (Futsal) x AD Fundão (Futsal) - 04/10 13:00 - Canal11",
+      "pubDate": "Sun, 04 Oct 2026 13:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Platense x Estudiantes - 02/10 01:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Platense x Estudiantes - 02/10 01:15 - SportTV 1",
-      "pubDate": "Fri, 02 Oct 2026 01:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Cleveland Browns (Fut. Americano) x Pittsburgh Steelers (Fut. Americano) - 02/10 01:15 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cleveland Browns (Fut. Americano) x Pittsburgh Steelers (Fut. Americano) - 02/10 01:15 - DAZN",
-      "pubDate": "Fri, 02 Oct 2026 01:15:00",
-      "guid": ""
-    },
-    {
       "title": "Cazaquistão x Moldávia - 02/10 15:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cazaquistão x Moldávia - 02/10 15:00 - SportTV 2",
@@ -348,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Power FC (Feminino) x FC Porto (Feminino) - 04/10 16:30 - Canal11",
       "pubDate": "Sun, 04 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Malta x Andorra - 04/10 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Malta x Andorra - 04/10 17:00 - SportTV 4",
+      "pubDate": "Sun, 04 Oct 2026 17:00:00",
       "guid": ""
     }
   ]

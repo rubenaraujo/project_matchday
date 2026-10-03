@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Ucrânia x Irl. Norte - 02/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia x Irl. Norte - 02/10 19:45 - SportTV 6",
-      "pubDate": "Fri, 02 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia x Roménia - 02/10 19:45 - SportTV 4",
-      "pubDate": "Fri, 02 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "França x Itália - 02/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Itália - 02/10 19:45 - SportTV 2",
-      "pubDate": "Fri, 02 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bélgica x Turquia - 02/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Turquia - 02/10 19:45 - SportTV 3",
-      "pubDate": "Fri, 02 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bósnia x Suécia - 02/10 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bósnia x Suécia - 02/10 19:45 - SportTV 5",
-      "pubDate": "Fri, 02 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 02/10 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Espanha (Futsal Feminino) - 02/10 20:00 - Canal11",
-      "pubDate": "Fri, 02 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Boston Bruins (Hóquei no Gelo  Seniores) - 03/10 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Winnipeg Jets (Hóquei no Gelo  Seniores) x Boston Bruins (Hóquei no Gelo  Seniores) - 03/10 01:00 - SportTV 1",
@@ -327,6 +285,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Países Baixos x Sérvia - 04/10 19:45 - SportTV 4",
       "pubDate": "Sun, 04 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Rep. Irlanda x Israel - 04/10 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rep. Irlanda x Israel - 04/10 19:45 - SportTV 6",
+      "pubDate": "Sun, 04 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Talleres x Belgrano - 04/10 21:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Talleres x Belgrano - 04/10 21:00 - SportTV 5",
+      "pubDate": "Sun, 04 Oct 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "San Francisco 49ers (Fut. Americano) x Denver Broncos (Fut. Americano) - 04/10 21:25 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "San Francisco 49ers (Fut. Americano) x Denver Broncos (Fut. Americano) - 04/10 21:25 - DAZN",
+      "pubDate": "Sun, 04 Oct 2026 21:25:00",
+      "guid": ""
+    },
+    {
+      "title": "Carolina Panthers (Fut. Americano) x Detroit Lions (Fut. Americano) - 05/10 01:20 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Carolina Panthers (Fut. Americano) x Detroit Lions (Fut. Americano) - 05/10 01:20 - DAZN",
+      "pubDate": "Mon, 05 Oct 2026 01:20:00",
+      "guid": ""
+    },
+    {
+      "title": "UPVN (Futsal) x Torreense (Futsal) - 05/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UPVN (Futsal) x Torreense (Futsal) - 05/10 11:00 - Canal11",
+      "pubDate": "Mon, 05 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chipre x Letónia - 05/10 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chipre x Letónia - 05/10 17:00 - SportTV 1",
+      "pubDate": "Mon, 05 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Carvalhos (Andebol) x Artística de Avanca (Andebol) - 05/10 18:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Carvalhos (Andebol) x Artística de Avanca (Andebol) - 05/10 18:00 - AndebolTV",
+      "pubDate": "Mon, 05 Oct 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica (Futsal) x Leões Porto Salvo (Futsal) - 03/10 21:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x Leões Porto Salvo (Futsal) - 03/10 21:15 - Canal11",
-      "pubDate": "Sat, 03 Oct 2026 21:15:00",
-      "guid": ""
-    },
-    {
       "title": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Seattle Kraken (Hóquei no Gelo  Seniores) - 04/10 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Seattle Kraken (Hóquei no Gelo  Seniores) - 04/10 00:00 - SportTV 2",
@@ -246,13 +239,6 @@
       "guid": ""
     },
     {
-      "title": "Rio Ave (S23) x Moreirense (S23) - 06/10 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x Moreirense (S23) - 06/10 17:00 - C11 Stream",
-      "pubDate": "Tue, 06 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Escócia x Eslovénia - 06/10 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Escócia x Eslovénia - 06/10 19:45 - SportTV 3",
@@ -292,6 +278,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angola x Malawi - 06/10 20:00 - SportTV 6",
       "pubDate": "Tue, 06 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 07/10 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 07/10 00:00 - SportTV 2",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Argentina x Benin - 07/10 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Argentina x Benin - 07/10 00:00 - SportTV 1",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "KidsUs Manresa (Basket) x Ratiopharm Ulm (Basket) - 07/10 19:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "KidsUs Manresa (Basket) x Ratiopharm Ulm (Basket) - 07/10 19:30 - SportTV 3",
+      "pubDate": "Wed, 07 Oct 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Washington Capitals (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 08/10 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Washington Capitals (Hóquei no Gelo  Seniores) x Pittsburgh Penguins (Hóquei no Gelo  Seniores) - 08/10 00:30 - SportTV 2",
+      "pubDate": "Thu, 08 Oct 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Barcelona (Andebol) x CS Dinamo Bucuresti (Andebol) - 08/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Barcelona (Andebol) x CS Dinamo Bucuresti (Andebol) - 08/10 19:45 - SportTV 3",
+      "pubDate": "Thu, 08 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brasil (Praia) x Portugal (Praia) - 09/10 14:30 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brasil (Praia) x Portugal (Praia) - 09/10 14:30 - SportTV +",
+      "pubDate": "Fri, 09 Oct 2026 14:30:00",
       "guid": ""
     }
   ]

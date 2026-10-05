@@ -12,6 +12,12 @@ function loader(show) {
     }
 }
 
+function showError() {
+    document.getElementById('loader').style.display = 'none';
+    document.getElementById('table').style.display = 'none';
+    document.getElementById('error-message').style.display = 'block';
+}
+
 loader(true);
 
 fetch(rssUrl)
@@ -105,4 +111,5 @@ fetch(rssUrl)
     })
     .catch(error => {
         console.error(error);
+        showError();
     });

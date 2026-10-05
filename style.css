@@ -21,6 +21,14 @@ body {
     font-family: sans-serif;
 }
 
+#error-message {
+    display: none;
+    text-align: center;
+    padding: 40px 20px;
+    font-size: 1.1em;
+    color: #ff6b6b;
+}
+
 #table {
     display: none;
 }

@@ -60,6 +60,11 @@ td {
     border: none;
 }
 
+thead th {
+    font-weight: bold;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
 td {
     max-width: 300px;
     white-space: nowrap;

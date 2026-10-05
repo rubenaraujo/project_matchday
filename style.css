@@ -57,6 +57,15 @@ body {
     width: 300px;
 }
 
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
 table {
     border-collapse: collapse;
     margin: 20px auto;

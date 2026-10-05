@@ -21,6 +21,17 @@ To use this project, simply open the `index.html` file in a web browser. The pag
 
 This project uses a modern, minimalist design with a black and white color scheme. The table is fully responsive and will adapt to different screen sizes.
 
+## Development
+
+```sh
+npm install        # installs eslint + vitest
+npm run lint       # lint JS
+npm test           # unit tests for lib/matchParser.js
+
+pip install -r requirements-dev.txt
+pytest             # unit tests for rss2json.py
+```
+
 ## Try it
 
 https://rubenaraujo.github.io/project_matchday

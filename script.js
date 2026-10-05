@@ -18,17 +18,10 @@ function showError() {
     document.getElementById('error-message').style.display = 'block';
 }
 
-loader(true);
+let latestItems = [];
+let resizeTimeout = null;
 
-fetch(rssUrl)
-    .then(response => {
-        if (!response.ok) {
-            throw new Error('Network response was not ok');
-        }
-        return response.json();
-    })
-    .then(data => {
-        const items = data.items;
+function renderTable(items) {
         let html = "";
 
         items.forEach(item => {
@@ -107,7 +100,32 @@ fetch(rssUrl)
                 element.style.backgroundColor = colorMap[key];
             });
         });
-        loader(false)
+}
+
+// Re-render (debounced) when crossing the mobile/desktop breakpoint,
+// so the layout updates without needing a page reload.
+window.addEventListener('resize', () => {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(() => {
+        if (latestItems.length > 0) {
+            renderTable(latestItems);
+        }
+    }, 200);
+});
+
+loader(true);
+
+fetch(rssUrl)
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    })
+    .then(data => {
+        latestItems = data.items;
+        renderTable(latestItems);
+        loader(false);
     })
     .catch(error => {
         console.error(error);

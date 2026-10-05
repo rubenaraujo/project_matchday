@@ -1,7 +1,7 @@
 // Minimal ESLint flat config for this static, dependency-free site.
 module.exports = [
     {
-        files: ["eslint.config.js"],
+        files: ["eslint.config.js", "lib/matchParser.js"],
         languageOptions: {
             ecmaVersion: 2021,
             sourceType: "commonjs",
@@ -13,7 +13,7 @@ module.exports = [
     },
     {
         files: ["**/*.js"],
-        ignores: ["eslint.config.js", "channel-icons.json"],
+        ignores: ["eslint.config.js", "lib/matchParser.js", "channel-icons.json"],
         languageOptions: {
             ecmaVersion: 2021,
             sourceType: "script",
@@ -26,7 +26,9 @@ module.exports = [
                 clearTimeout: "readonly",
                 // Declared in constants.js, used by script.js
                 rssUrl: "readonly",
-                channelIconsUrl: "readonly"
+                channelIconsUrl: "readonly",
+                // Declared in lib/matchParser.js, used by script.js
+                MatchParser: "readonly"
             }
         },
         rules: {

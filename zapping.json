@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Talleres x Belgrano - 04/10 21:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Talleres x Belgrano - 04/10 21:00 - SportTV 5",
-      "pubDate": "Sun, 04 Oct 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "San Francisco 49ers (Fut. Americano) x Denver Broncos (Fut. Americano) - 04/10 21:25 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Francisco 49ers (Fut. Americano) x Denver Broncos (Fut. Americano) - 04/10 21:25 - DAZN",
-      "pubDate": "Sun, 04 Oct 2026 21:25:00",
-      "guid": ""
-    },
-    {
       "title": "Carolina Panthers (Fut. Americano) x Detroit Lions (Fut. Americano) - 05/10 01:20 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Carolina Panthers (Fut. Americano) x Detroit Lions (Fut. Americano) - 05/10 01:20 - DAZN",
@@ -313,6 +299,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x Heerenveen - 09/10 19:00 - DAZN 3",
       "pubDate": "Fri, 09 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Anadolu Efes (Basket) - 09/10 19:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Anadolu Efes (Basket) - 09/10 19:15 - SportTV 5",
+      "pubDate": "Fri, 09 Oct 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Werder Bremen - 09/10 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Werder Bremen - 09/10 19:30 - DAZN 1",
+      "pubDate": "Fri, 09 Oct 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lens x Lyon - 09/10 19:45 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lens x Lyon - 09/10 19:45 - SportTV 6",
+      "pubDate": "Fri, 09 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "West Ham x QPR - 09/10 20:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "West Ham x QPR - 09/10 20:00 - SportTV 4",
+      "pubDate": "Fri, 09 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Málaga CF x Espanyol - 09/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Málaga CF x Espanyol - 09/10 20:00 - DAZN 2",
+      "pubDate": "Fri, 09 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Sporting - 09/10 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Sporting - 09/10 20:15 - SportTV 1",
+      "pubDate": "Fri, 09 Oct 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "U. Santarém x Lusitano GC - 09/10 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "U. Santarém x Lusitano GC - 09/10 21:00 - Canal11",
+      "pubDate": "Fri, 09 Oct 2026 21:00:00",
       "guid": ""
     }
   ]

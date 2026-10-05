@@ -70,11 +70,6 @@ function renderTable(items) {
                 const g = Math.floor(Math.random() * 256);
                 const b = Math.floor(Math.random() * 256);
                 colorMap[key] = `rgba(${r}, ${g}, ${b}, 0.1)`;
-                if (Object.values(colorMap).some(color => {
-                    return color === `rgba(${r}, ${g}, ${b}, 0.1)` || color === `rgba(26, 26, 26, 0.1)`;
-                })) {
-                    colorMap[key] = `rgba(${r}, ${g}, ${b}, 0.1)`;
-                }
             }
 
             if (window.innerWidth <= 800) {

@@ -4,7 +4,7 @@ function loader(show) {
     var loader = document.getElementById('loader');
     var table = document.getElementById('table');
     if (show) {
-        loader.style.display = 'block';
+        loader.style.display = 'flex';
         table.style.display = 'none';
     } else {
         loader.style.display = 'none';

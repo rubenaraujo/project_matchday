@@ -94,10 +94,6 @@ td {
     overflow: hidden;
 }
 
-.provider {
-    text-align: left;
-}
-
 a {
     color: #fff;
     text-decoration: none;
@@ -105,10 +101,6 @@ a {
 
 tbody tr {
     display: table-row;
-}
-
-tbody tr.hide {
-    display: none;
 }
 
 .footer {

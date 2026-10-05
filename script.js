@@ -20,6 +20,7 @@ function showError() {
 
 let latestItems = [];
 let resizeTimeout = null;
+let channelIconsBase64 = {};
 
 function renderTable(items) {
         let html = "";
@@ -115,14 +116,22 @@ window.addEventListener('resize', () => {
 
 loader(true);
 
-fetch(rssUrl)
-    .then(response => {
+Promise.all([
+    fetch(rssUrl).then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    }),
+    fetch(channelIconsUrl).then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
         }
         return response.json();
     })
-    .then(data => {
+])
+    .then(([data, icons]) => {
+        channelIconsBase64 = icons;
         latestItems = data.items;
         renderTable(latestItems);
         loader(false);

@@ -12,8 +12,20 @@ module.exports = [
         }
     },
     {
+        files: ["**/*.test.js"],
+        languageOptions: {
+            ecmaVersion: 2021,
+            sourceType: "module",
+            globals: {
+                describe: "readonly",
+                it: "readonly",
+                expect: "readonly"
+            }
+        }
+    },
+    {
         files: ["**/*.js"],
-        ignores: ["eslint.config.js", "lib/matchParser.js", "channel-icons.json"],
+        ignores: ["eslint.config.js", "lib/matchParser.js", "**/*.test.js", "channel-icons.json"],
         languageOptions: {
             ecmaVersion: 2021,
             sourceType: "script",

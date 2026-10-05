@@ -4,9 +4,11 @@
   "private": true,
   "description": "A simple web page that displays the next football matches and in which Portuguese channels they can be watched.",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "vitest run"
   },
   "devDependencies": {
-    "eslint": "^9.0.0"
+    "eslint": "^9.0.0",
+    "vitest": "^5.0.0"
   }
 }

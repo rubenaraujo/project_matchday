@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Chipre x Letónia - 05/10 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chipre x Letónia - 05/10 17:00 - SportTV 1",
-      "pubDate": "Mon, 05 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S18) x Turquia (S18) - 05/10 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S18) x Turquia (S18) - 05/10 17:00 - Canal11",
-      "pubDate": "Mon, 05 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Carvalhos (Andebol) x Artística de Avanca (Andebol) - 05/10 18:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Carvalhos (Andebol) x Artística de Avanca (Andebol) - 05/10 18:00 - AndebolTV",
-      "pubDate": "Mon, 05 Oct 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Vitória SC (Andebol) - 05/10 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Vitória SC (Andebol) - 05/10 18:00 - SportingTv",
-      "pubDate": "Mon, 05 Oct 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferreira do Zêzere (Futsal) x Rio Ave (Futsal) - 05/10 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferreira do Zêzere (Futsal) x Rio Ave (Futsal) - 05/10 19:00 - Canal11",
-      "pubDate": "Mon, 05 Oct 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ucrânia x Hungria - 05/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia x Hungria - 05/10 19:45 - SportTV 6",
-      "pubDate": "Mon, 05 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Roménia x Suécia - 05/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roménia x Suécia - 05/10 19:45 - SportTV 4",
-      "pubDate": "Mon, 05 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "França x Bélgica - 05/10 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Bélgica - 05/10 19:45 - SportTV 1",
-      "pubDate": "Mon, 05 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bósnia x Polónia - 05/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bósnia x Polónia - 05/10 19:45 - SportTV 3",
-      "pubDate": "Mon, 05 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália x Turquia - 05/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália x Turquia - 05/10 19:45 - SportTV 2",
-      "pubDate": "Mon, 05 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x FC Famalicão (Futsal) - 05/10 20:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x FC Famalicão (Futsal) - 05/10 20:45 - Canal11",
-      "pubDate": "Mon, 05 Oct 2026 20:45:00",
-      "guid": ""
-    },
-    {
       "title": "UD Leiria (S23) x Santa Clara (S23) - 06/10 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "UD Leiria (S23) x Santa Clara (S23) - 06/10 11:00 - C11 Stream",
@@ -165,6 +88,13 @@
       "title": "Águas Santas (Andebol) x Flensburg-Handewitt (Andebol) - 06/10 19:45 - ABola TV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águas Santas (Andebol) x Flensburg-Handewitt (Andebol) - 06/10 19:45 - ABola TV",
+      "pubDate": "Tue, 06 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "TT Holstebro (Andebol) x Benfica (Andebol) - 06/10 19:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "TT Holstebro (Andebol) x Benfica (Andebol) - 06/10 19:45 - BTv",
       "pubDate": "Tue, 06 Oct 2026 19:45:00",
       "guid": ""
     },
@@ -348,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Tondela x Torreense - 10/10 11:00 - SportTV 1",
       "pubDate": "Sat, 10 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leça FC x AD Marco 09 - 10/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leça FC x AD Marco 09 - 10/10 11:00 - Canal11",
+      "pubDate": "Sat, 10 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.A S19) x CD Mafra (Jun.A S19) - 10/10 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.A S19) x CD Mafra (Jun.A S19) - 10/10 11:00 - SportingTv",
+      "pubDate": "Sat, 10 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "1. FC Magdeburg x Hannover 96 - 10/10 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "1. FC Magdeburg x Hannover 96 - 10/10 12:00 - DAZN 3",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Leeds United - 10/10 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Leeds United - 10/10 12:30 - DAZN 1",
+      "pubDate": "Sat, 10 Oct 2026 12:30:00",
       "guid": ""
     }
   ]

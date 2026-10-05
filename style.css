@@ -31,7 +31,7 @@
 body {
     background-color: #1a1a1a;
     color: #fff;
-    font-family: sans-serif;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 
 #error-message {
@@ -67,7 +67,8 @@ body {
 }
 
 table {
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0 8px;
     margin: 20px auto;
     width: 100%;
     max-width: 800px;
@@ -76,15 +77,19 @@ table {
 
 th,
 td {
-    padding: 10px;
+    padding: 12px 10px;
     text-align: center;
     vertical-align: middle;
     border: none;
 }
 
 thead th {
-    font-weight: bold;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    font-weight: 700;
+    font-size: 0.85em;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #9a9a9a;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
 }
 
 td {
@@ -92,6 +97,8 @@ td {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
+    font-size: 1.05em;
+    font-weight: 500;
 }
 
 a {
@@ -101,6 +108,26 @@ a {
 
 tbody tr {
     display: table-row;
+    background-color: rgba(255, 255, 255, 0.05);
+    transition: background-color 0.15s ease;
+}
+
+tbody tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+tbody tr td:first-child {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+tbody tr td:last-child {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
 }
 
 .footer {

@@ -26,14 +26,13 @@ function renderTable(items) {
         let html = "";
 
         items.forEach(item => {
-            const data = item.description;
-            const columns = data.split(' - ');
+            const match = MatchParser.parseMatchDescription(item.description);
 
-            //remove spaces from channels
-            columns[2] = columns[2].replace(/ /g, "");
+            if (!match) {
+                return;
+            }
 
-            const channelNames = columns[2].split(' ');
-            const key = columns[1].substring(0, 5); // get first 5 chars of first column
+            const { date, game, teamNames, channelNames, key } = match;
 
             let channelIcons = '';
 
@@ -56,14 +55,6 @@ function renderTable(items) {
                 channelIcons += `<img src="data:image/png;base64,${icon}" alt="${channelName}" title="${channelName}" class="channel-icon" />`;
             });
 
-            if (columns.some(column => {
-                return /Jun.A|S15|S16|S17|S18|S19|S20|S21|S23|Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal/.test(column);
-            })) {
-                return;
-            }
-
-            let teamNames = columns[0].split(' x ');
-
             // generate a random background color with 0.1 alpha if it doesn't exist in the map
             if (!colorMap[key]) {
                 const r = Math.floor(Math.random() * 256);
@@ -74,14 +65,14 @@ function renderTable(items) {
 
             if (window.innerWidth <= 800) {
                 html += `<tr data-key="${key}">
-                   <td class="date">${columns[1]}</td>
-                   <td class="team-names" data-teams="${columns[0]}"><span>${teamNames[0]}</span>${teamNames[1]}</td>
+                   <td class="date">${date}</td>
+                   <td class="team-names" data-teams="${game}"><span>${teamNames[0]}</span>${teamNames[1]}</td>
                    <td class="channel-icons">${channelIcons}</td>
                  </tr>`;
             } else {
                 html += `<tr data-key="${key}">
-                   <td class="date">${columns[1]}</td>
-                   <td class="game">${columns[0]}</td>
+                   <td class="date">${date}</td>
+                   <td class="game">${game}</td>
                    <td class="channel-icons">${channelIcons}</td>
                  </tr>`;
             }

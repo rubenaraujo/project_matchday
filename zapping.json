@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "UD Leiria (S23) x Santa Clara (S23) - 06/10 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria (S23) x Santa Clara (S23) - 06/10 11:00 - C11 Stream",
-      "pubDate": "Tue, 06 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S16) x Turquia (S16) - 06/10 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S16) x Turquia (S16) - 06/10 11:00 - Canal11",
-      "pubDate": "Tue, 06 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S17) x Dinamarca (S17) - 06/10 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S17) x Dinamarca (S17) - 06/10 13:00 - Canal11",
-      "pubDate": "Tue, 06 Oct 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Cazaquistão x Ilhas Faroé - 06/10 15:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cazaquistão x Ilhas Faroé - 06/10 15:00 - SportTV 2",
-      "pubDate": "Tue, 06 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Índia x Uruguai - 06/10 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Índia x Uruguai - 06/10 15:00 - SportTV 1",
-      "pubDate": "Tue, 06 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S19) x Áustria (S19) - 06/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S19) x Áustria (S19) - 06/10 15:00 - Canal11",
-      "pubDate": "Tue, 06 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave (S23) x Moreirense (S23) - 06/10 17:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x Moreirense (S23) - 06/10 17:00 - C11 Stream",
-      "pubDate": "Tue, 06 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S21) x Chéquia (S21) - 06/10 17:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S21) x Chéquia (S21) - 06/10 17:30 - Canal11",
@@ -348,6 +299,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Genoa x Fiorentina - 10/10 14:00 - SportTV 1",
       "pubDate": "Sat, 10 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Augsburg x Bayern München - 10/10 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Augsburg x Bayern München - 10/10 14:30 - DAZN 4",
+      "pubDate": "Sat, 10 Oct 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vianense x USC Paredes - 10/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vianense x USC Paredes - 10/10 15:00 - Canal11",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória Sernache x Louletano - 10/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória Sernache x Louletano - 10/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00",
       "guid": ""
     }
   ]

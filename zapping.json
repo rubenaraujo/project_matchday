@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "Portugal (S21) x Chéquia (S21) - 06/10 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S21) x Chéquia (S21) - 06/10 17:30 - Canal11",
-      "pubDate": "Tue, 06 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Hóquei Feminino) x Itália (Hóquei Feminino) - 06/10 18:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Hóquei Feminino) x Itália (Hóquei Feminino) - 06/10 18:00 - RTP2",
-      "pubDate": "Tue, 06 Oct 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Escócia x Eslovénia - 06/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Escócia x Eslovénia - 06/10 19:45 - SportTV 3",
-      "pubDate": "Tue, 06 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Croácia x Espanha - 06/10 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Croácia x Espanha - 06/10 19:45 - SportTV 1",
-      "pubDate": "Tue, 06 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Inglaterra x Chéquia - 06/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Inglaterra x Chéquia - 06/10 19:45 - SportTV 2",
-      "pubDate": "Tue, 06 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Suíça x Macedónia do Norte - 06/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça x Macedónia do Norte - 06/10 19:45 - SportTV 4",
-      "pubDate": "Tue, 06 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Águas Santas (Andebol) x Flensburg-Handewitt (Andebol) - 06/10 19:45 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águas Santas (Andebol) x Flensburg-Handewitt (Andebol) - 06/10 19:45 - ABola TV",
-      "pubDate": "Tue, 06 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "TT Holstebro (Andebol) x Benfica (Andebol) - 06/10 19:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "TT Holstebro (Andebol) x Benfica (Andebol) - 06/10 19:45 - BTv",
-      "pubDate": "Tue, 06 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Angola x Malawi - 06/10 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angola x Malawi - 06/10 20:00 - SportTV 6",
-      "pubDate": "Tue, 06 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 07/10 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 07/10 00:00 - SportTV 2",
@@ -120,6 +57,13 @@
       "guid": ""
     },
     {
+      "title": "Países Baixos (Futsal Feminino) x Portugal (Futsal Feminino) - 08/10 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos (Futsal Feminino) x Portugal (Futsal Feminino) - 08/10 18:00 - Canal11",
+      "pubDate": "Thu, 08 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Barcelona (Andebol) x CS Dinamo Bucuresti (Andebol) - 08/10 19:45 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Barcelona (Andebol) x CS Dinamo Bucuresti (Andebol) - 08/10 19:45 - SportTV 3",
@@ -138,6 +82,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Fateh x Al-Ahli Jeddah - 09/10 15:55 - SportTV 1",
       "pubDate": "Fri, 09 Oct 2026 15:55:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Chéquia (Futsal Feminino) - 09/10 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Chéquia (Futsal Feminino) - 09/10 17:00 - Canal11",
+      "pubDate": "Fri, 09 Oct 2026 17:00:00",
       "guid": ""
     },
     {
@@ -186,6 +137,13 @@
       "title": "PSV x Heerenveen - 09/10 19:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "PSV x Heerenveen - 09/10 19:00 - DAZN 3",
+      "pubDate": "Fri, 09 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Irl. Norte (Feminino) x Portugal (Feminino) - 09/10 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Irl. Norte (Feminino) x Portugal (Feminino) - 09/10 19:00 - Canal11",
       "pubDate": "Fri, 09 Oct 2026 19:00:00",
       "guid": ""
     },
@@ -319,6 +277,27 @@
       "title": "Vitória Sernache x Louletano - 10/10 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória Sernache x Louletano - 10/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gyori ETO (Andebol Feminino) x Metz Handball (Andebol Feminino) - 10/10 15:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gyori ETO (Andebol Feminino) x Metz Handball (Andebol Feminino) - 10/10 15:00 - SportTV 5",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x CP Esgueira (Basket) - 10/10 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x CP Esgueira (Basket) - 10/10 15:00 - SportingTv",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Bournemouth - 10/10 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Bournemouth - 10/10 15:00 - DAZN 1",
       "pubDate": "Sat, 10 Oct 2026 15:00:00",
       "guid": ""
     }

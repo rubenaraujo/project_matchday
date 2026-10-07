@@ -8,13 +8,6 @@
       "guid": ""
     },
     {
-      "title": "Argentina x Benin - 07/10 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Argentina x Benin - 07/10 00:00 - SportTV 1",
-      "pubDate": "Wed, 07 Oct 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Brasil (Hóquei Feminino) x Portugal (Hóquei Feminino) - 07/10 17:15 - RTP2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Brasil (Hóquei Feminino) x Portugal (Hóquei Feminino) - 07/10 17:15 - RTP2",
@@ -299,6 +292,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chelsea x Bournemouth - 10/10 15:00 - DAZN 1",
       "pubDate": "Sat, 10 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Brentford - 10/10 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Brentford - 10/10 15:00 - DAZN 2",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Atlético de Madrid - 10/10 15:15 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Atlético de Madrid - 10/10 15:15 - DAZN 3",
+      "pubDate": "Sat, 10 Oct 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x Santa Clara - 10/10 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x Santa Clara - 10/10 15:30 - SportTV 3",
+      "pubDate": "Sat, 10 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x FC Porto - 10/10 15:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x FC Porto - 10/10 15:30 - SportTV 6",
+      "pubDate": "Sat, 10 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Eléctrico (Futsal) x SC Braga (Futsal) - 10/10 16:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eléctrico (Futsal) x SC Braga (Futsal) - 10/10 16:30 - C11 Stream",
+      "pubDate": "Sat, 10 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Parma - 10/10 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Parma - 10/10 17:00 - SportTV 2",
+      "pubDate": "Sat, 10 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Caykur Rizespor x Fenerbahçe - 10/10 17:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caykur Rizespor x Fenerbahçe - 10/10 17:00 - SportTV 4",
+      "pubDate": "Sat, 10 Oct 2026 17:00:00",
       "guid": ""
     }
   ]

@@ -1,52 +1,10 @@
 {
   "items": [
     {
-      "title": "Brasil (Praia) x Portugal (Praia) - 09/10 14:30 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brasil (Praia) x Portugal (Praia) - 09/10 14:30 - SportTV +",
-      "pubDate": "Fri, 09 Oct 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Fateh x Al-Ahli Jeddah - 09/10 15:55 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Fateh x Al-Ahli Jeddah - 09/10 15:55 - SportTV 1",
-      "pubDate": "Fri, 09 Oct 2026 15:55:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Futsal Feminino) x Chéquia (Futsal Feminino) - 09/10 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Futsal Feminino) x Chéquia (Futsal Feminino) - 09/10 17:00 - Canal11",
-      "pubDate": "Fri, 09 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Praia) x Paraguai (Praia) - 09/10 17:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Praia) x Paraguai (Praia) - 09/10 17:30 - SportTV 5",
       "pubDate": "Fri, 09 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "1. FC Heidenheim 1846 x Kaiserslautern - 09/10 17:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "1. FC Heidenheim 1846 x Kaiserslautern - 09/10 17:30 - DAZN 2",
-      "pubDate": "Fri, 09 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x AFS - 09/10 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x AFS - 09/10 18:00 - SportTV +",
-      "pubDate": "Fri, 09 Oct 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Kasimpasa - 09/10 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Kasimpasa - 09/10 18:00 - SportTV 4",
-      "pubDate": "Fri, 09 Oct 2026 18:00:00",
       "guid": ""
     },
     {
@@ -274,13 +232,6 @@
       "guid": ""
     },
     {
-      "title": "Casa Pia AC x Santa Clara - 10/10 15:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Santa Clara - 10/10 15:30 - SportTV 3",
-      "pubDate": "Sat, 10 Oct 2026 15:30:00",
-      "guid": ""
-    },
-    {
       "title": "Leixões x FC Porto - 10/10 15:30 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leixões x FC Porto - 10/10 15:30 - SportTV 6",
@@ -340,6 +291,27 @@
       "title": "Espanha (Praia) x Portugal (Praia) - 10/10 17:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Praia) x Portugal (Praia) - 10/10 17:30 - SportTV 5",
+      "pubDate": "Sat, 10 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x Tottenham - 10/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x Tottenham - 10/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 10 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Getafe CF - 10/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Getafe CF - 10/10 17:30 - DAZN 2",
+      "pubDate": "Sat, 10 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x Eintracht Frankfurt - 10/10 17:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x Eintracht Frankfurt - 10/10 17:30 - DAZN 4",
       "pubDate": "Sat, 10 Oct 2026 17:30:00",
       "guid": ""
     }

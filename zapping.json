@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Instituto x Boca Juniors - 09/10 23:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Instituto x Boca Juniors - 09/10 23:30 - SportTV 1",
-      "pubDate": "Fri, 09 Oct 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "CD Tondela x Torreense - 10/10 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CD Tondela x Torreense - 10/10 11:00 - SportTV 1",
@@ -281,16 +274,16 @@
       "guid": ""
     },
     {
-      "title": "Al-Hilal x Al-Ittihad Jeddah - 10/10 19:00 - SportTV 4",
+      "title": "Pick Szeged (Andebol) x Sporting (Andebol) - 10/10 19:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hilal x Al-Ittihad Jeddah - 10/10 19:00 - SportTV 4",
+      "description": "Pick Szeged (Andebol) x Sporting (Andebol) - 10/10 19:00 - SportingTv",
       "pubDate": "Sat, 10 Oct 2026 19:00:00",
       "guid": ""
     },
     {
-      "title": "Pick Szeged (Andebol) x Sporting (Andebol) - 10/10 19:00 - SportingTv",
+      "title": "Al-Hilal x Al-Ittihad Jeddah - 10/10 19:00 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Pick Szeged (Andebol) x Sporting (Andebol) - 10/10 19:00 - SportingTv",
+      "description": "Al-Hilal x Al-Ittihad Jeddah - 10/10 19:00 - SportTV 7",
       "pubDate": "Sat, 10 Oct 2026 19:00:00",
       "guid": ""
     },
@@ -299,13 +292,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Fundão (Futsal) x Benfica (Futsal) - 10/10 19:30 - Canal11",
       "pubDate": "Sat, 10 Oct 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Toulouse - 10/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Toulouse - 10/10 19:45 - SportTV 7",
-      "pubDate": "Sat, 10 Oct 2026 19:45:00",
       "guid": ""
     },
     {
@@ -320,6 +306,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Napoli x Frosinone - 10/10 19:45 - SportTV 5",
       "pubDate": "Sat, 10 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Villarreal CF - 10/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Villarreal CF - 10/10 20:00 - DAZN 1",
+      "pubDate": "Sat, 10 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x NEC - 10/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x NEC - 10/10 20:00 - DAZN 2",
+      "pubDate": "Sat, 10 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Vizela x Sporting - 10/10 20:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela x Sporting - 10/10 20:30 - SportTV 6",
+      "pubDate": "Sat, 10 Oct 2026 20:30:00",
       "guid": ""
     }
   ]

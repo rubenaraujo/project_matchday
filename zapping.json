@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Vizela x Sporting - 10/10 20:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x Sporting - 10/10 20:30 - SportTV 6",
-      "pubDate": "Sat, 10 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Casa Pia AC x Santa Clara - 10/10 20:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Casa Pia AC x Santa Clara - 10/10 20:30 - SportTV 4",
-      "pubDate": "Sat, 10 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Leões Porto Salvo (Futsal) - 10/10 21:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Leões Porto Salvo (Futsal) - 10/10 21:15 - Canal11",
-      "pubDate": "Sat, 10 Oct 2026 21:15:00",
-      "guid": ""
-    },
-    {
       "title": "River Plate x Estudiantes Río Cuarto - 11/10 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "River Plate x Estudiantes Río Cuarto - 11/10 01:30 - SportTV 2",
@@ -229,6 +208,118 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Freiburg x Schalke 04 - 11/10 16:30 - DAZN 2",
       "pubDate": "Sun, 11 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sassuolo x AC Milan - 11/10 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sassuolo x AC Milan - 11/10 17:00 - SportTV 2",
+      "pubDate": "Sun, 11 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Quinta dos Lombos (Basket Feminino) x CP Esgueira (Basket Feminino) - 11/10 17:15 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Quinta dos Lombos (Basket Feminino) x CP Esgueira (Basket Feminino) - 11/10 17:15 - DAZN",
+      "pubDate": "Sun, 11 Oct 2026 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Praia) x Brasil (Praia) - 11/10 17:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Praia) x Brasil (Praia) - 11/10 17:30 - SportTV 3",
+      "pubDate": "Sun, 11 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Osasuna - 11/10 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Osasuna - 11/10 17:30 - DAZN 3",
+      "pubDate": "Sun, 11 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Vitória SC - 11/10 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Vitória SC - 11/10 18:00 - BTv",
+      "pubDate": "Sun, 11 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x Académica OAF - 11/10 18:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x Académica OAF - 11/10 18:00 - SportTV 4",
+      "pubDate": "Sun, 11 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GDESSA (Basket Feminino) x SC Coimbrões (Basket Feminino) - 11/10 18:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GDESSA (Basket Feminino) x SC Coimbrões (Basket Feminino) - 11/10 18:00 - DAZN",
+      "pubDate": "Sun, 11 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 11/10 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino) x Finlândia (Futsal Feminino) - 11/10 19:00 - Canal11",
+      "pubDate": "Sun, 11 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cagliari x Juventus - 11/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cagliari x Juventus - 11/10 19:45 - SportTV 2",
+      "pubDate": "Sun, 11 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Troyes x Marseille - 11/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Troyes x Marseille - 11/10 19:45 - SportTV 3",
+      "pubDate": "Sun, 11 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Santander x Valencia CF - 11/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Santander x Valencia CF - 11/10 20:00 - DAZN 1",
+      "pubDate": "Sun, 11 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Arouca x Est. Amadora - 11/10 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Arouca x Est. Amadora - 11/10 20:30 - SportTV 1",
+      "pubDate": "Sun, 11 Oct 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rosario Central x Independiente Rivadavia - 11/10 21:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rosario Central x Independiente Rivadavia - 11/10 21:00 - SportTV 4",
+      "pubDate": "Sun, 11 Oct 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Seattle Seahawks (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 11/10 21:25 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Seattle Seahawks (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 11/10 21:25 - DAZN 2",
+      "pubDate": "Sun, 11 Oct 2026 21:25:00",
+      "guid": ""
+    },
+    {
+      "title": "Palmeiras x Corinthians - 11/10 21:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Palmeiras x Corinthians - 11/10 21:30 - Canal11",
+      "pubDate": "Sun, 11 Oct 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bahia x Mirassol - 11/10 23:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bahia x Mirassol - 11/10 23:30 - Canal11",
+      "pubDate": "Sun, 11 Oct 2026 23:30:00",
       "guid": ""
     }
   ]

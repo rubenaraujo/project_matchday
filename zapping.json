@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlanta Falcons (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 12/10 01:20 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlanta Falcons (Fut. Americano) x Baltimore Ravens (Fut. Americano) - 12/10 01:20 - DAZN 2",
-      "pubDate": "Mon, 12 Oct 2026 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (Feminino S23) x Bélgica (Feminino S23) - 12/10 11:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Feminino S23) x Bélgica (Feminino S23) - 12/10 11:30 - Canal11",
@@ -137,6 +130,13 @@
       "title": "Sabah x Slavia Praha - 13/10 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sabah x Slavia Praha - 13/10 17:45 - DAZN 1",
+      "pubDate": "Tue, 13 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Baník Karviná (Andebol) x Benfica (Andebol) - 13/10 17:45 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Baník Karviná (Andebol) x Benfica (Andebol) - 13/10 17:45 - BTv",
       "pubDate": "Tue, 13 Oct 2026 17:45:00",
       "guid": ""
     },
@@ -333,6 +333,13 @@
       "title": "CS Dinamo Bucuresti (Andebol) x FC Barcelona (Andebol) - 15/10 17:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CS Dinamo Bucuresti (Andebol) x FC Barcelona (Andebol) - 15/10 17:45 - SportTV 2",
+      "pubDate": "Thu, 15 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Sunderland - 15/10 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Sunderland - 15/10 17:45 - DAZN 1",
       "pubDate": "Thu, 15 Oct 2026 17:45:00",
       "guid": ""
     }

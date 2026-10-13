@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Portimonense (S23) x Académico (S23) - 13/10 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense (S23) x Académico (S23) - 13/10 11:00 - Canal11",
-      "pubDate": "Tue, 13 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Moreirense (S23) x Santa Clara (S23) - 13/10 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moreirense (S23) x Santa Clara (S23) - 13/10 13:00 - Canal11",
-      "pubDate": "Tue, 13 Oct 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Villarreal CF (Jun.A S19) x Napoli (Jun.A S19) - 13/10 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Villarreal CF (Jun.A S19) x Napoli (Jun.A S19) - 13/10 15:00 - DAZN 1",
-      "pubDate": "Tue, 13 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão (S23) x Est. Amadora (S23) - 13/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão (S23) x Est. Amadora (S23) - 13/10 15:00 - Canal11",
-      "pubDate": "Tue, 13 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Sadd x Al-Hilal - 13/10 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Sadd x Al-Hilal - 13/10 17:00 - Canal11",
-      "pubDate": "Tue, 13 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
       "title": "Lens x Sporting - 13/10 17:45 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Lens x Sporting - 13/10 17:45 - SportTV 5",
@@ -341,6 +306,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estudiantes x Flamengo - 16/10 01:30 - SportTV 1",
       "pubDate": "Fri, 16 Oct 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Riyadh x Al-Hilal - 16/10 16:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Riyadh x Al-Hilal - 16/10 16:00 - SportTV 1",
+      "pubDate": "Fri, 16 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Energie Cottbus x FC Nürnberg - 16/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Energie Cottbus x FC Nürnberg - 16/10 17:30 - DAZN 1",
+      "pubDate": "Fri, 16 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ittihad Jeddah x Al-Shabab - 16/10 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ittihad Jeddah x Al-Shabab - 16/10 19:00 - SportTV 6",
+      "pubDate": "Fri, 16 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Panathinaikos (Basket) x Hapoel Tel Aviv (Basket) - 16/10 19:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Panathinaikos (Basket) x Hapoel Tel Aviv (Basket) - 16/10 19:15 - SportTV 5",
+      "pubDate": "Fri, 16 Oct 2026 19:15:00",
       "guid": ""
     }
   ]

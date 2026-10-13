@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "title": "Lens x Sporting - 13/10 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Sporting - 13/10 17:45 - SportTV 5",
-      "pubDate": "Tue, 13 Oct 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sabah x Slavia Praha - 13/10 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sabah x Slavia Praha - 13/10 17:45 - DAZN 1",
-      "pubDate": "Tue, 13 Oct 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Baník Karviná (Andebol) x Benfica (Andebol) - 13/10 17:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Baník Karviná (Andebol) x Benfica (Andebol) - 13/10 17:45 - BTv",
-      "pubDate": "Tue, 13 Oct 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Feminino) x Irl. Norte (Feminino) - 13/10 19:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino) x Irl. Norte (Feminino) - 13/10 19:15 - Canal11",
-      "pubDate": "Tue, 13 Oct 2026 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Águas Santas (Andebol) x Fraikin BM Granollers (Andebol) - 13/10 19:45 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Águas Santas (Andebol) x Fraikin BM Granollers (Andebol) - 13/10 19:45 - ABola TV",
-      "pubDate": "Tue, 13 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Stoke City x Middlesbrough - 13/10 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stoke City x Middlesbrough - 13/10 20:00 - SportTV 1",
-      "pubDate": "Tue, 13 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia Basket (Basket) x Olympiacos (Basket) - 13/10 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia Basket (Basket) x Olympiacos (Basket) - 13/10 20:00 - SportTV 3",
-      "pubDate": "Tue, 13 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Manchester United - 13/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Manchester United - 13/10 20:00 - DAZN 1",
-      "pubDate": "Tue, 13 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Barcelona - 13/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Barcelona - 13/10 20:00 - DAZN 2",
-      "pubDate": "Tue, 13 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal x Lille - 13/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal x Lille - 13/10 20:00 - DAZN 3",
-      "pubDate": "Tue, 13 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Viking x Bayern München - 13/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Viking x Bayern München - 13/10 20:00 - DAZN 4",
-      "pubDate": "Tue, 13 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Hóquei) x Espanha (Hóquei) - 13/10 21:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Hóquei) x Espanha (Hóquei) - 13/10 21:45 - RTP1",
-      "pubDate": "Tue, 13 Oct 2026 21:45:00",
-      "guid": ""
-    },
-    {
       "title": "Boca Juniors x Vasco - 14/10 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boca Juniors x Vasco - 14/10 01:30 - SportTV 1",
@@ -334,6 +250,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Panathinaikos (Basket) x Hapoel Tel Aviv (Basket) - 16/10 19:15 - SportTV 5",
       "pubDate": "Fri, 16 Oct 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Eintracht Frankfurt x FC Köln - 16/10 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eintracht Frankfurt x FC Köln - 16/10 19:30 - DAZN 2",
+      "pubDate": "Fri, 16 Oct 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leganés x Córdoba - 16/10 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leganés x Córdoba - 16/10 19:30 - DAZN 3",
+      "pubDate": "Fri, 16 Oct 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Mans x Toulouse - 16/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Mans x Toulouse - 16/10 19:45 - SportTV 3",
+      "pubDate": "Fri, 16 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Frosinone x Sassuolo - 16/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Frosinone x Sassuolo - 16/10 19:45 - SportTV 2",
+      "pubDate": "Fri, 16 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Burnley x Wolverhampton - 16/10 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Burnley x Wolverhampton - 16/10 20:00 - SportTV 1",
+      "pubDate": "Fri, 16 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Futsal) x Dinamarca (Futsal) - 16/10 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal) x Dinamarca (Futsal) - 16/10 20:00 - Canal11",
+      "pubDate": "Fri, 16 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Deportivo x Levante - 16/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Deportivo x Levante - 16/10 20:00 - DAZN 1",
+      "pubDate": "Fri, 16 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CP Esgueira (Basket) x FC Porto (Basket) - 16/10 21:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CP Esgueira (Basket) x FC Porto (Basket) - 16/10 21:00 - DAZN 4",
+      "pubDate": "Fri, 16 Oct 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Talleres - 17/10 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Talleres - 17/10 01:30 - SportTV 1",
+      "pubDate": "Sat, 17 Oct 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x FC Porto (Feminino) - 17/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x FC Porto (Feminino) - 17/10 11:00 - Canal11",
+      "pubDate": "Sat, 17 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Power FC (Feminino) x SC Braga (Feminino) - 17/10 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Power FC (Feminino) x SC Braga (Feminino) - 17/10 11:00 - C11 Stream",
+      "pubDate": "Sat, 17 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Everton x Chelsea - 17/10 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Everton x Chelsea - 17/10 12:30 - DAZN 1",
+      "pubDate": "Sat, 17 Oct 2026 12:30:00",
       "guid": ""
     }
   ]

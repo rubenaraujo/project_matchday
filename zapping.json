@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Nassr x Neftchi - 12/10 19:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Neftchi - 12/10 19:15 - Canal11",
-      "pubDate": "Mon, 12 Oct 2026 19:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Udinese - 12/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Udinese - 12/10 19:45 - SportTV 2",
-      "pubDate": "Mon, 12 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Coventry City x Newcastle - 12/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Coventry City x Newcastle - 12/10 20:00 - DAZN 1",
-      "pubDate": "Mon, 12 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Levante x Sevilla FC - 12/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Levante x Sevilla FC - 12/10 20:00 - DAZN 2",
-      "pubDate": "Mon, 12 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Tenerife x Girona - 12/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tenerife x Girona - 12/10 20:00 - DAZN 3",
-      "pubDate": "Mon, 12 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Famalicão x FC Alverca - 12/10 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Famalicão x FC Alverca - 12/10 20:15 - SportTV 1",
-      "pubDate": "Mon, 12 Oct 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Chapecoense x Athletico Paranaense - 12/10 23:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chapecoense x Athletico Paranaense - 12/10 23:30 - Canal11",
-      "pubDate": "Mon, 12 Oct 2026 23:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Suíça (Hóquei) x Portugal (Hóquei) - 13/10 00:00 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça (Hóquei) x Portugal (Hóquei) - 13/10 00:00 - RTP1",
-      "pubDate": "Tue, 13 Oct 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "Portimonense (S23) x Académico (S23) - 13/10 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense (S23) x Académico (S23) - 13/10 11:00 - Canal11",
@@ -320,6 +264,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Red Bull Salzburg x AC Milan - 15/10 17:45 - DAZN 2",
       "pubDate": "Thu, 15 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lyon x Crystal Palace - 15/10 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lyon x Crystal Palace - 15/10 17:45 - DAZN 3",
+      "pubDate": "Thu, 15 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Hajduk Split x Ajax - 15/10 17:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hajduk Split x Ajax - 15/10 17:45 - DAZN 4",
+      "pubDate": "Thu, 15 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ahli Jeddah x Al-Nassr - 15/10 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ahli Jeddah x Al-Nassr - 15/10 19:00 - SportTV 1",
+      "pubDate": "Thu, 15 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Andebol) x Fuchse Berlin (Andebol) - 15/10 19:45 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Andebol) x Fuchse Berlin (Andebol) - 15/10 19:45 - PortoCanal",
+      "pubDate": "Thu, 15 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Pick Szeged (Andebol) - 15/10 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Pick Szeged (Andebol) - 15/10 19:45 - SportingTv",
+      "pubDate": "Thu, 15 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Celtic - 15/10 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Celtic - 15/10 20:00 - SportTV 5",
+      "pubDate": "Thu, 15 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Kobenhavn x SC Braga - 15/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Kobenhavn x SC Braga - 15/10 20:00 - DAZN 1",
+      "pubDate": "Thu, 15 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Juventus - 15/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Juventus - 15/10 20:00 - DAZN 2",
+      "pubDate": "Thu, 15 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Olympiacos - 15/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Olympiacos - 15/10 20:00 - DAZN 3",
+      "pubDate": "Thu, 15 Oct 2026 20:00:00",
       "guid": ""
     }
   ]

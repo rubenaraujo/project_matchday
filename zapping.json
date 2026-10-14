@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "title": "U. Santarém x Gil Vicente - 14/10 19:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "U. Santarém x Gil Vicente - 14/10 19:00 - Canal11",
-      "pubDate": "Wed, 14 Oct 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x FC Porto - 14/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x FC Porto - 14/10 20:00 - SportTV 5",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Lincoln City x West Ham - 14/10 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lincoln City x West Ham - 14/10 20:00 - SportTV 1",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Reyer Venezia (Basket) x Turk Telekom (Basket) - 14/10 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Reyer Venezia (Basket) x Turk Telekom (Basket) - 14/10 20:00 - SportTV 3",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City x PSG - 14/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x PSG - 14/10 20:00 - DAZN 1",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Real Madrid - 14/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Real Madrid - 14/10 20:00 - DAZN 2",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Aston Villa x Fenerbahçe - 14/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aston Villa x Fenerbahçe - 14/10 20:00 - DAZN 3",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bodo/Glimt x Borussia Dortmund - 14/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bodo/Glimt x Borussia Dortmund - 14/10 20:00 - DAZN 4",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Itália (Hóquei) x Portugal (Hóquei) - 14/10 21:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Hóquei) x Portugal (Hóquei) - 14/10 21:45 - RTP1",
-      "pubDate": "Wed, 14 Oct 2026 21:45:00",
-      "guid": ""
-    },
-    {
       "title": "Atlético Mineiro x Montevideo City - 14/10 23:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético Mineiro x Montevideo City - 14/10 23:00 - SportTV 2",
@@ -313,6 +250,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "1. FC Union Berlin x Borussia Dortmund - 17/10 14:30 - DAZN 4",
       "pubDate": "Sat, 17 Oct 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x Valadares Gaia (Feminino) - 17/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x Valadares Gaia (Feminino) - 17/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 17 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Ipswich Town - 17/10 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Ipswich Town - 17/10 15:00 - DAZN 1",
+      "pubDate": "Sat, 17 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Liverpool - 17/10 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Liverpool - 17/10 15:00 - DAZN 2",
+      "pubDate": "Sat, 17 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal CF x Elche CF - 17/10 15:15 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal CF x Elche CF - 17/10 15:15 - DAZN 3",
+      "pubDate": "Sat, 17 Oct 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Novasemente (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 17/10 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Novasemente (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 17/10 16:00 - C11 Stream",
+      "pubDate": "Sat, 17 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x Benfica (Voleibol) - 17/10 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x Benfica (Voleibol) - 17/10 16:00 - SportTV 2",
+      "pubDate": "Sat, 17 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x PSG - 17/10 16:15 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x PSG - 17/10 16:15 - SportTV 4",
+      "pubDate": "Sat, 17 Oct 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 17/10 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 17/10 17:00 - C11 Stream",
+      "pubDate": "Sat, 17 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Internazionale - 17/10 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Internazionale - 17/10 17:00 - SportTV 1",
+      "pubDate": "Sat, 17 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Alanyaspor - 17/10 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Alanyaspor - 17/10 17:00 - SportTV 3",
+      "pubDate": "Sat, 17 Oct 2026 17:00:00",
       "guid": ""
     }
   ]

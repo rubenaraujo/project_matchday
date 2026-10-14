@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Boca Juniors x Vasco - 14/10 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Vasco - 14/10 01:30 - SportTV 1",
-      "pubDate": "Wed, 14 Oct 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Real Betis (Jun.A S19) x FC Porto (Jun.A S19) - 14/10 15:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Betis (Jun.A S19) x FC Porto (Jun.A S19) - 14/10 15:00 - PortoCanal",
@@ -334,6 +327,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Everton x Chelsea - 17/10 12:30 - DAZN 1",
       "pubDate": "Sat, 17 Oct 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Atlético de Madrid - 17/10 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Atlético de Madrid - 17/10 13:00 - DAZN 3",
+      "pubDate": "Sat, 17 Oct 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Venezia x Napoli - 17/10 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Venezia x Napoli - 17/10 14:00 - SportTV 1",
+      "pubDate": "Sat, 17 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Gençlerbirligi x Galatasaray - 17/10 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Gençlerbirligi x Galatasaray - 17/10 14:00 - SportTV 3",
+      "pubDate": "Sat, 17 Oct 2026 14:00:00",
       "guid": ""
     }
   ]

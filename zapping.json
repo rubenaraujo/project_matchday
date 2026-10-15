@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Andebol) x Fuchse Berlin (Andebol) - 15/10 19:45 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Andebol) x Fuchse Berlin (Andebol) - 15/10 19:45 - PortoCanal",
-      "pubDate": "Thu, 15 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x Pick Szeged (Andebol) - 15/10 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x Pick Szeged (Andebol) - 15/10 19:45 - SportingTv",
-      "pubDate": "Thu, 15 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Celtic - 15/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Celtic - 15/10 20:00 - SportTV 5",
-      "pubDate": "Thu, 15 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Kobenhavn x SC Braga - 15/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Kobenhavn x SC Braga - 15/10 20:00 - DAZN 1",
-      "pubDate": "Thu, 15 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celta de Vigo x Juventus - 15/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celta de Vigo x Juventus - 15/10 20:00 - DAZN 2",
-      "pubDate": "Thu, 15 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Olympiacos - 15/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Olympiacos - 15/10 20:00 - DAZN 3",
-      "pubDate": "Thu, 15 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Sturm Graz - 15/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Sturm Graz - 15/10 20:00 - DAZN 4",
-      "pubDate": "Thu, 15 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Angola (Hóquei) x Portugal (Hóquei) - 15/10 21:15 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Angola (Hóquei) x Portugal (Hóquei) - 15/10 21:15 - RTP1",
-      "pubDate": "Thu, 15 Oct 2026 21:15:00",
-      "guid": ""
-    },
-    {
       "title": "Estudiantes x Flamengo - 16/10 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Estudiantes x Flamengo - 16/10 01:30 - SportTV 1",
@@ -313,6 +257,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 17/10 17:00 - PortoCanal",
       "pubDate": "Sat, 17 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Newcastle x Aston Villa - 17/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Newcastle x Aston Villa - 17/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 17 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Barcelona - 17/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Barcelona - 17/10 17:30 - DAZN 2",
+      "pubDate": "Sat, 17 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x RB Leipzig - 17/10 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x RB Leipzig - 17/10 17:30 - DAZN 3",
+      "pubDate": "Sat, 17 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 17/10 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal Feminino) x Santa Luzia (Futsal Feminino) - 17/10 19:00 - C11 Stream",
+      "pubDate": "Sat, 17 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Torreense (Futsal Feminino) - 17/10 19:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Torreense (Futsal Feminino) - 17/10 19:00 - C11 Stream",
+      "pubDate": "Sat, 17 Oct 2026 19:00:00",
       "guid": ""
     }
   ]

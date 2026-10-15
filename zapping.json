@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Atlético Mineiro x Montevideo City - 14/10 23:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Mineiro x Montevideo City - 14/10 23:00 - SportTV 2",
-      "pubDate": "Wed, 14 Oct 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sarmiento de Junín x River Plate - 14/10 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sarmiento de Junín x River Plate - 14/10 23:00 - SportTV 1",
-      "pubDate": "Wed, 14 Oct 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fluminense x Palmeiras - 15/10 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fluminense x Palmeiras - 15/10 01:30 - SportTV 1",
-      "pubDate": "Thu, 15 Oct 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 15/10 02:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Colorado Avalanche (Hóquei no Gelo  Seniores) x Dallas Stars (Hóquei no Gelo  Seniores) - 15/10 02:30 - SportTV 3",
-      "pubDate": "Thu, 15 Oct 2026 02:30:00",
-      "guid": ""
-    },
-    {
       "title": "CS Dinamo Bucuresti (Andebol) x FC Barcelona (Andebol) - 15/10 17:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CS Dinamo Bucuresti (Andebol) x FC Barcelona (Andebol) - 15/10 17:45 - SportTV 2",
@@ -211,6 +183,13 @@
       "guid": ""
     },
     {
+      "title": "CAB Madeira (Basket Feminino) x Benfica (Basket Feminino) - 17/10 11:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CAB Madeira (Basket Feminino) x Benfica (Basket Feminino) - 17/10 11:00 - DAZN",
+      "pubDate": "Sat, 17 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Everton x Chelsea - 17/10 12:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Everton x Chelsea - 17/10 12:30 - DAZN 1",
@@ -274,6 +253,13 @@
       "guid": ""
     },
     {
+      "title": "Sporting (Basket Feminino) x SC Coimbrões (Basket Feminino) - 17/10 15:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket Feminino) x SC Coimbrões (Basket Feminino) - 17/10 15:00 - DAZN",
+      "pubDate": "Sat, 17 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Villarreal CF x Elche CF - 17/10 15:15 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal CF x Elche CF - 17/10 15:15 - DAZN 3",
@@ -291,6 +277,13 @@
       "title": "Sporting (Voleibol) x Benfica (Voleibol) - 17/10 16:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol) x Benfica (Voleibol) - 17/10 16:00 - SportTV 2",
+      "pubDate": "Sat, 17 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Sanjoanense (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 17/10 16:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Sanjoanense (Basket Feminino) x Quinta dos Lombos (Basket Feminino) - 17/10 16:00 - DAZN",
       "pubDate": "Sat, 17 Oct 2026 16:00:00",
       "guid": ""
     },

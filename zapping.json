@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Burnley x Wolverhampton - 16/10 20:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Burnley x Wolverhampton - 16/10 20:00 - SportTV 1",
-      "pubDate": "Fri, 16 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Levante - 16/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Levante - 16/10 20:00 - DAZN 1",
-      "pubDate": "Fri, 16 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket) x FC Porto (Basket) - 16/10 21:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket) x FC Porto (Basket) - 16/10 21:00 - DAZN 4",
-      "pubDate": "Fri, 16 Oct 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Mirassol x Internacional - 17/10 00:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Mirassol x Internacional - 17/10 00:00 - Canal11",
@@ -292,6 +271,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x Amarante FC - 17/10 20:15 - SportTV 1",
       "pubDate": "Sat, 17 Oct 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletico Paranaense x Palmeiras - 17/10 23:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletico Paranaense x Palmeiras - 17/10 23:30 - Canal11",
+      "pubDate": "Sat, 17 Oct 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Benfica (Feminino) - 18/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Benfica (Feminino) - 18/10 11:00 - Canal11",
+      "pubDate": "Sun, 18 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Lecce - 18/10 11:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Lecce - 18/10 11:30 - SportTV 1",
+      "pubDate": "Sun, 18 Oct 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Francisco Franco (Basket Feminino) x Benfica (Basket Feminino) - 18/10 11:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Francisco Franco (Basket Feminino) x Benfica (Basket Feminino) - 18/10 11:30 - DAZN",
+      "pubDate": "Sun, 18 Oct 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Racing Santander - 18/10 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Racing Santander - 18/10 13:00 - DAZN 3",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Como 1907 - 18/10 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Como 1907 - 18/10 14:00 - SportTV 1",
+      "pubDate": "Sun, 18 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Angers x Marseille - 18/10 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Angers x Marseille - 18/10 14:00 - SportTV 2",
+      "pubDate": "Sun, 18 Oct 2026 14:00:00",
       "guid": ""
     }
   ]

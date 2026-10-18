@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Málaga CF x Real Sociedad - 18/10 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Málaga CF x Real Sociedad - 18/10 17:30 - DAZN 3",
-      "pubDate": "Sun, 18 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket Feminino) x BC Barcelos (Basket Feminino) - 18/10 18:30 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket Feminino) x BC Barcelos (Basket Feminino) - 18/10 18:30 - DAZN",
-      "pubDate": "Sun, 18 Oct 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Club x Independiente - 18/10 18:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Independiente - 18/10 18:45 - SportTV 5",
-      "pubDate": "Sun, 18 Oct 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x FC Famalicão - 18/10 19:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x FC Famalicão - 18/10 19:30 - SportTV 1",
-      "pubDate": "Sun, 18 Oct 2026 19:30:00",
-      "guid": ""
-    },
-    {
       "title": "Belenenses x FC Arouca - 18/10 19:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Belenenses x FC Arouca - 18/10 19:45 - Canal11",
@@ -239,6 +211,13 @@
       "guid": ""
     },
     {
+      "title": "Ottawa Senators (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 22/10 00:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 22/10 00:30 - SportTV 3",
+      "pubDate": "Thu, 22 Oct 2026 00:30:00",
+      "guid": ""
+    },
+    {
       "title": "Palmeiras x Fluminense - 22/10 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Fluminense - 22/10 01:30 - SportTV 1",
@@ -250,6 +229,104 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
       "pubDate": "Thu, 22 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
+      "pubDate": "Fri, 23 Oct 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
+      "pubDate": "Fri, 23 Oct 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ittihad Jeddah x Al-Diriyah - 23/10 16:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ittihad Jeddah x Al-Diriyah - 23/10 16:30 - SportTV 1",
+      "pubDate": "Fri, 23 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x FC Vizela - 23/10 18:45 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x FC Vizela - 23/10 18:45 - SportTV +",
+      "pubDate": "Fri, 23 Oct 2026 18:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Qadisiyah x Al-Hilal - 23/10 19:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Qadisiyah x Al-Hilal - 23/10 19:00 - SportTV 5",
+      "pubDate": "Fri, 23 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Nice - 23/10 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Nice - 23/10 19:45 - SportTV 3",
+      "pubDate": "Fri, 23 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Monza - 23/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Monza - 23/10 19:45 - SportTV 2",
+      "pubDate": "Fri, 23 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Paços de Ferreira x Leça FC - 23/10 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Paços de Ferreira x Leça FC - 23/10 20:30 - Canal11",
+      "pubDate": "Fri, 23 Oct 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x Marítimo - 23/10 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x Marítimo - 23/10 20:45 - SportTV 1",
+      "pubDate": "Fri, 23 Oct 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x Vitória SC (Feminino) - 24/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x Vitória SC (Feminino) - 24/10 11:00 - Canal11",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 24/10 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 24/10 11:00 - PortoCanal",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Charlton Athletic x Norwich City - 24/10 12:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Charlton Athletic x Norwich City - 24/10 12:30 - SportTV 4",
+      "pubDate": "Sat, 24 Oct 2026 12:30:00",
       "guid": ""
     }
   ]

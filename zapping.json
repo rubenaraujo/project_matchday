@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Athletico Paranaense x Palmeiras - 17/10 23:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletico Paranaense x Palmeiras - 17/10 23:30 - Canal11",
-      "pubDate": "Sat, 17 Oct 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Marítimo (Feminino) x Benfica (Feminino) - 18/10 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Marítimo (Feminino) x Benfica (Feminino) - 18/10 11:00 - Canal11",
@@ -18,6 +11,13 @@
       "title": "Udinese x Lecce - 18/10 11:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Lecce - 18/10 11:30 - SportTV 1",
+      "pubDate": "Sun, 18 Oct 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Francisco Franco (Basket Feminino) x Benfica (Basket Feminino) - 18/10 11:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Francisco Franco (Basket Feminino) x Benfica (Basket Feminino) - 18/10 11:30 - DAZN",
       "pubDate": "Sun, 18 Oct 2026 11:30:00",
       "guid": ""
     },
@@ -278,6 +278,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x Gil Vicente - 19/10 20:15 - SportTV 1",
       "pubDate": "Mon, 19 Oct 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Maia Futsal (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/10 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Maia Futsal (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/10 21:00 - Canal11",
+      "pubDate": "Mon, 19 Oct 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Carvalhos (Andebol) x Benfica (Andebol) - 19/10 21:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Carvalhos (Andebol) x Benfica (Andebol) - 19/10 21:00 - BTv",
+      "pubDate": "Mon, 19 Oct 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.A S19) x PSV (Jun.A S19) - 20/10 12:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.A S19) x PSV (Jun.A S19) - 20/10 12:00 - PortoCanal",
+      "pubDate": "Tue, 20 Oct 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sabah x Borussia Dortmund - 20/10 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sabah x Borussia Dortmund - 20/10 17:45 - DAZN 1",
+      "pubDate": "Tue, 20 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Slavia Praha - 20/10 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Slavia Praha - 20/10 17:45 - DAZN 2",
+      "pubDate": "Tue, 20 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Neom SC - 20/10 19:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Neom SC - 20/10 19:00 - SportTV 1",
+      "pubDate": "Tue, 20 Oct 2026 19:00:00",
       "guid": ""
     }
   ]

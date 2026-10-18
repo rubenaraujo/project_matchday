@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Belenenses x FC Arouca - 18/10 19:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Belenenses x FC Arouca - 18/10 19:45 - Canal11",
-      "pubDate": "Sun, 18 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lyon x Nice - 18/10 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lyon x Nice - 18/10 19:45 - SportTV 6",
-      "pubDate": "Sun, 18 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Lazio - 18/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Lazio - 18/10 19:45 - SportTV 2",
-      "pubDate": "Sun, 18 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x Sevilla FC - 18/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x Sevilla FC - 18/10 20:00 - DAZN 1",
-      "pubDate": "Sun, 18 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Bahia x Flamengo - 18/10 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bahia x Flamengo - 18/10 22:30 - Canal11",
@@ -43,10 +15,24 @@
       "guid": ""
     },
     {
+      "title": "FC Vizela (S23) x FC Felgueiras (S23) - 19/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Vizela (S23) x FC Felgueiras (S23) - 19/10 15:00 - Canal11",
+      "pubDate": "Mon, 19 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Al-Fayha x Al-Ahli Jeddah - 19/10 16:05 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Fayha x Al-Ahli Jeddah - 19/10 16:05 - SportTV 1",
       "pubDate": "Mon, 19 Oct 2026 16:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (S23) x Moreirense (S23) - 19/10 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Moreirense (S23) - 19/10 17:00 - Canal11",
+      "pubDate": "Mon, 19 Oct 2026 17:00:00",
       "guid": ""
     },
     {
@@ -67,6 +53,13 @@
       "title": "Al-Hilal x Al-Hazm - 19/10 19:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Hilal x Al-Hazm - 19/10 19:00 - SportTV 3",
+      "pubDate": "Mon, 19 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (S23) x Estoril Praia (S23) - 19/10 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (S23) x Estoril Praia (S23) - 19/10 19:00 - Canal11",
       "pubDate": "Mon, 19 Oct 2026 19:00:00",
       "guid": ""
     },
@@ -120,6 +113,20 @@
       "guid": ""
     },
     {
+      "title": "UD Leiria (S23) x Torreense (S23) - 20/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x Torreense (S23) - 20/10 15:00 - Canal11",
+      "pubDate": "Tue, 20 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City (Jun.A S19) x AEK (Jun.A S19) - 20/10 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City (Jun.A S19) x AEK (Jun.A S19) - 20/10 15:00 - DAZN 1",
+      "pubDate": "Tue, 20 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Sabah x Borussia Dortmund - 20/10 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sabah x Borussia Dortmund - 20/10 17:45 - DAZN 1",
@@ -148,6 +155,13 @@
       "guid": ""
     },
     {
+      "title": "Portugal (Futsal Feminino S19) x Ucrânia (Futsal Feminino S19) - 20/10 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino S19) x Ucrânia (Futsal Feminino S19) - 20/10 19:00 - Canal11",
+      "pubDate": "Tue, 20 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Porto x PSV - 20/10 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x PSV - 20/10 20:00 - SportTV 5",
@@ -169,10 +183,38 @@
       "guid": ""
     },
     {
+      "title": "Manchester City x AEK - 20/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x AEK - 20/10 20:00 - DAZN 2",
+      "pubDate": "Tue, 20 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Liverpool x Villarreal CF - 20/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Liverpool x Villarreal CF - 20/10 20:00 - DAZN 3",
+      "pubDate": "Tue, 20 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Atlético de Madrid - 20/10 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Atlético de Madrid - 20/10 20:00 - DAZN 4",
+      "pubDate": "Tue, 20 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Vasco x Boca Juniors - 21/10 01:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco x Boca Juniors - 21/10 01:30 - SportTV 1",
       "pubDate": "Wed, 21 Oct 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Jun.A S19) x RB Leipzig (Jun.A S19) - 21/10 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Jun.A S19) x RB Leipzig (Jun.A S19) - 21/10 15:00 - DAZN 1",
+      "pubDate": "Wed, 21 Oct 2026 15:00:00",
       "guid": ""
     },
     {
@@ -197,9 +239,44 @@
       "guid": ""
     },
     {
+      "title": "Portugal (Futsal Feminino S19) x Ucrânia (Futsal Feminino S19) - 21/10 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Futsal Feminino S19) x Ucrânia (Futsal Feminino S19) - 21/10 19:00 - Canal11",
+      "pubDate": "Wed, 21 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
       "title": "Sporting x LASK Linz - 21/10 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting x LASK Linz - 21/10 20:00 - SportTV 5",
+      "pubDate": "Wed, 21 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Arsenal - 21/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Arsenal - 21/10 20:00 - DAZN 1",
+      "pubDate": "Wed, 21 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x RB Leipzig - 21/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x RB Leipzig - 21/10 20:00 - DAZN 2",
+      "pubDate": "Wed, 21 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Feyenoord - 21/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Feyenoord - 21/10 20:00 - DAZN 3",
+      "pubDate": "Wed, 21 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Shakhtar Donetsk - 21/10 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Shakhtar Donetsk - 21/10 20:00 - DAZN 4",
       "pubDate": "Wed, 21 Oct 2026 20:00:00",
       "guid": ""
     },
@@ -225,6 +302,34 @@
       "guid": ""
     },
     {
+      "title": "Kairat x Panathinaikos - 22/10 15:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kairat x Panathinaikos - 22/10 15:30 - DAZN 2",
+      "pubDate": "Thu, 22 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferencváros x Torreense - 22/10 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferencváros x Torreense - 22/10 17:45 - DAZN 1",
+      "pubDate": "Thu, 22 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventus x Rennes - 22/10 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventus x Rennes - 22/10 17:45 - DAZN 2",
+      "pubDate": "Thu, 22 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Lech Poznan x Sunderland - 22/10 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lech Poznan x Sunderland - 22/10 17:45 - DAZN 3",
+      "pubDate": "Thu, 22 Oct 2026 17:45:00",
+      "guid": ""
+    },
+    {
       "title": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
@@ -232,101 +337,10 @@
       "guid": ""
     },
     {
-      "title": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
+      "title": "SC Braga x Gent - 22/10 20:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
-      "pubDate": "Fri, 23 Oct 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ittihad Jeddah x Al-Diriyah - 23/10 16:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Diriyah - 23/10 16:30 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "GD Chaves x FC Vizela - 23/10 18:45 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GD Chaves x FC Vizela - 23/10 18:45 - SportTV +",
-      "pubDate": "Fri, 23 Oct 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Qadisiyah x Al-Hilal - 23/10 19:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Qadisiyah x Al-Hilal - 23/10 19:00 - SportTV 5",
-      "pubDate": "Fri, 23 Oct 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Brest x Nice - 23/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Brest x Nice - 23/10 19:45 - SportTV 3",
-      "pubDate": "Fri, 23 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Monza - 23/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Monza - 23/10 19:45 - SportTV 2",
-      "pubDate": "Fri, 23 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Paços de Ferreira x Leça FC - 23/10 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Leça FC - 23/10 20:30 - Canal11",
-      "pubDate": "Fri, 23 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC x Marítimo - 23/10 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x Marítimo - 23/10 20:45 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
-      "pubDate": "Sat, 24 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
-      "pubDate": "Sat, 24 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Feminino) x Vitória SC (Feminino) - 24/10 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Feminino) x Vitória SC (Feminino) - 24/10 11:00 - Canal11",
-      "pubDate": "Sat, 24 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 24/10 11:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 24/10 11:00 - PortoCanal",
-      "pubDate": "Sat, 24 Oct 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Charlton Athletic x Norwich City - 24/10 12:30 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Charlton Athletic x Norwich City - 24/10 12:30 - SportTV 4",
-      "pubDate": "Sat, 24 Oct 2026 12:30:00",
+      "description": "SC Braga x Gent - 22/10 20:00 - DAZN 1",
+      "pubDate": "Thu, 22 Oct 2026 20:00:00",
       "guid": ""
     }
   ]

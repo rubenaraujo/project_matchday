@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Jun.A S19) x PSV (Jun.A S19) - 20/10 12:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x PSV (Jun.A S19) - 20/10 12:00 - PortoCanal",
-      "pubDate": "Tue, 20 Oct 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria (S23) x Torreense (S23) - 20/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria (S23) x Torreense (S23) - 20/10 15:00 - Canal11",
-      "pubDate": "Tue, 20 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Manchester City (Jun.A S19) x AEK (Jun.A S19) - 20/10 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City (Jun.A S19) x AEK (Jun.A S19) - 20/10 15:00 - DAZN 1",
-      "pubDate": "Tue, 20 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Sabah x Borussia Dortmund - 20/10 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sabah x Borussia Dortmund - 20/10 17:45 - DAZN 1",
@@ -277,6 +256,13 @@
       "title": "Partizan (Basket) x Crvena Zvezda (Basket) - 22/10 19:45 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Partizan (Basket) x Crvena Zvezda (Basket) - 22/10 19:45 - SportTV 4",
+      "pubDate": "Thu, 22 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x IFK Kristianstad (Andebol) - 22/10 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x IFK Kristianstad (Andebol) - 22/10 19:45 - SportingTv",
       "pubDate": "Thu, 22 Oct 2026 19:45:00",
       "guid": ""
     },

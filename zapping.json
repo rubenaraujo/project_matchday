@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Tottenham x Coventry City - 19/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Tottenham x Coventry City - 19/10 20:00 - DAZN 1",
-      "pubDate": "Mon, 19 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Gil Vicente - 19/10 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Gil Vicente - 19/10 20:15 - SportTV 1",
-      "pubDate": "Mon, 19 Oct 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Maia Futsal (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/10 21:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Maia Futsal (Futsal Feminino) x GD Árvore (Futsal Feminino) - 19/10 21:00 - Canal11",
-      "pubDate": "Mon, 19 Oct 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Carvalhos (Andebol) x Benfica (Andebol) - 19/10 21:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Carvalhos (Andebol) x Benfica (Andebol) - 19/10 21:00 - BTv",
-      "pubDate": "Mon, 19 Oct 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Corinthians x Vitória - 20/10 00:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Corinthians x Vitória - 20/10 00:00 - Canal11",
@@ -313,6 +285,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Partizan (Basket) x Crvena Zvezda (Basket) - 22/10 19:45 - SportTV 4",
       "pubDate": "Thu, 22 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
+      "pubDate": "Thu, 22 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 22/10 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 22/10 20:00 - PortoCanal",
+      "pubDate": "Thu, 22 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x Gent - 22/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x Gent - 22/10 20:00 - DAZN 1",
+      "pubDate": "Thu, 22 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bournemouth x AC Milan - 22/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bournemouth x AC Milan - 22/10 20:00 - DAZN 2",
+      "pubDate": "Thu, 22 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Celtic x Celta de Vigo - 22/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celtic x Celta de Vigo - 22/10 20:00 - DAZN 3",
+      "pubDate": "Thu, 22 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x Cleveland Cavaliers (Basket) - 23/10 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x Cleveland Cavaliers (Basket) - 23/10 00:00 - SportTV 1",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
+      "pubDate": "Fri, 23 Oct 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Oklahoma City Thunder (Basket) x Denver Nuggets (Basket) - 23/10 02:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oklahoma City Thunder (Basket) x Denver Nuggets (Basket) - 23/10 02:30 - SportTV 1",
+      "pubDate": "Fri, 23 Oct 2026 02:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
+      "pubDate": "Fri, 23 Oct 2026 14:30:00",
       "guid": ""
     }
   ]

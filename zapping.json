@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "New York Knicks (Basket) x Philadelphia 76ers (Basket) - 21/10 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Knicks (Basket) x Philadelphia 76ers (Basket) - 21/10 00:00 - SportTV 2",
-      "pubDate": "Wed, 21 Oct 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Vasco x Boca Juniors - 21/10 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Boca Juniors - 21/10 01:30 - SportTV 1",
-      "pubDate": "Wed, 21 Oct 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 21/10 02:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 21/10 02:30 - SportTV 2",
@@ -348,6 +334,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Remo - 24/10 00:00 - Canal11",
       "pubDate": "Sat, 24 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chicago Blackhawks (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 24/10 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chicago Blackhawks (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 24/10 01:00 - SportTV 2",
+      "pubDate": "Sat, 24 Oct 2026 01:00:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting x LASK Linz - 21/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x LASK Linz - 21/10 20:00 - SportTV 5",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x Arsenal - 21/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x Arsenal - 21/10 20:00 - DAZN 1",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Madrid x RB Leipzig - 21/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Madrid x RB Leipzig - 21/10 20:00 - DAZN 2",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Betis x Feyenoord - 21/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Betis x Feyenoord - 21/10 20:00 - DAZN 3",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Internazionale x Shakhtar Donetsk - 21/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Internazionale x Shakhtar Donetsk - 21/10 20:00 - DAZN 4",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket) x BK Prievidza (Basket) - 21/10 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket) x BK Prievidza (Basket) - 21/10 20:00 - BTv",
-      "pubDate": "Wed, 21 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Montevideo City x Atlético Mineiro - 21/10 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Montevideo City x Atlético Mineiro - 21/10 23:00 - SportTV 1",
-      "pubDate": "Wed, 21 Oct 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Ottawa Senators (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 22/10 00:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ottawa Senators (Hóquei no Gelo  Seniores) x Florida Panthers (Hóquei no Gelo  Seniores) - 22/10 00:30 - SportTV 3",
@@ -306,6 +257,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Remo - 24/10 00:00 - Canal11",
       "pubDate": "Sat, 24 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chicago Blackhawks (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 24/10 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chicago Blackhawks (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 24/10 01:00 - SportTV 2",
+      "pubDate": "Sat, 24 Oct 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x Vitória SC (Feminino) - 24/10 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x Vitória SC (Feminino) - 24/10 11:00 - Canal11",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 24/10 11:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x Rio Ave (Jun.B S17) - 24/10 11:00 - PortoCanal",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hertha BSC x Arminia Bielefeld - 24/10 12:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hertha BSC x Arminia Bielefeld - 24/10 12:00 - DAZN 2",
+      "pubDate": "Sat, 24 Oct 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Charlton Athletic x Norwich City - 24/10 12:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Charlton Athletic x Norwich City - 24/10 12:30 - SportTV 4",
+      "pubDate": "Sat, 24 Oct 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Manchester City - 24/10 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Manchester City - 24/10 12:30 - DAZN 1",
+      "pubDate": "Sat, 24 Oct 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Elche CF - 24/10 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Elche CF - 24/10 13:00 - DAZN 3",
+      "pubDate": "Sat, 24 Oct 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Feirense x Benfica - 24/10 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Feirense x Benfica - 24/10 14:00 - SportTV +",
+      "pubDate": "Sat, 24 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Sassuolo - 24/10 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Sassuolo - 24/10 14:00 - SportTV 2",
+      "pubDate": "Sat, 24 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x SV 07 Elversberg - 24/10 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x SV 07 Elversberg - 24/10 14:30 - DAZN 4",
+      "pubDate": "Sat, 24 Oct 2026 14:30:00",
       "guid": ""
     }
   ]

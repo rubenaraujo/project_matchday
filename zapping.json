@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 21/10 02:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Antonio Spurs (Basket) x Oklahoma City Thunder (Basket) - 21/10 02:30 - SportTV 2",
-      "pubDate": "Wed, 21 Oct 2026 02:30:00",
-      "guid": ""
-    },
-    {
       "title": "Real Madrid (Jun.A S19) x RB Leipzig (Jun.A S19) - 21/10 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Real Madrid (Jun.A S19) x RB Leipzig (Jun.A S19) - 21/10 15:00 - DAZN 1",
@@ -341,6 +334,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Chicago Blackhawks (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 24/10 01:00 - SportTV 2",
       "pubDate": "Sat, 24 Oct 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Leixões - 24/10 11:00 - SportTV 1",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x Portimonense - 24/10 11:00 - SportingTv",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00",
       "guid": ""
     }
   ]

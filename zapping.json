@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "title": "Partizan (Basket) x Crvena Zvezda (Basket) - 22/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Partizan (Basket) x Crvena Zvezda (Basket) - 22/10 19:45 - SportTV 4",
-      "pubDate": "Thu, 22 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Andebol) x IFK Kristianstad (Andebol) - 22/10 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x IFK Kristianstad (Andebol) - 22/10 19:45 - SportingTv",
-      "pubDate": "Thu, 22 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Omonia x Benfica - 22/10 20:00 - SportTV 5",
-      "pubDate": "Thu, 22 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 22/10 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Esquimo Dos Hermanas (Voleibol Feminino) - 22/10 20:00 - PortoCanal",
-      "pubDate": "Thu, 22 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x Gent - 22/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x Gent - 22/10 20:00 - DAZN 1",
-      "pubDate": "Thu, 22 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x AC Milan - 22/10 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x AC Milan - 22/10 20:00 - DAZN 2",
-      "pubDate": "Thu, 22 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Celtic x Celta de Vigo - 22/10 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Celtic x Celta de Vigo - 22/10 20:00 - DAZN 3",
-      "pubDate": "Thu, 22 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ajax x Atalanta - 22/10 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ajax x Atalanta - 22/10 20:00 - DAZN 4",
-      "pubDate": "Thu, 22 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Philadelphia 76ers (Basket) x Cleveland Cavaliers (Basket) - 23/10 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia 76ers (Basket) x Cleveland Cavaliers (Basket) - 23/10 00:00 - SportTV 1",
@@ -306,6 +250,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Racing Santander x Espanyol - 24/10 15:15 - DAZN 3",
       "pubDate": "Sat, 24 Oct 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Feminino) x Sporting (Feminino) - 24/10 15:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x Sporting (Feminino) - 24/10 15:30 - Canal11",
+      "pubDate": "Sat, 24 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Est. Amadora x Casa Pia AC - 24/10 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora x Casa Pia AC - 24/10 15:30 - SportTV 1",
+      "pubDate": "Sat, 24 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "USC Paredes x Trofense - 24/10 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "USC Paredes x Trofense - 24/10 16:00 - C11 Stream",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Francisco Franco (Basket Feminino) x GDR André de Resende (Basket Feminino) - 24/10 16:00 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Francisco Franco (Basket Feminino) x GDR André de Resende (Basket Feminino) - 24/10 16:00 - DAZN",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Roma - 24/10 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Roma - 24/10 17:00 - SportTV 3",
+      "pubDate": "Sat, 24 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Tottenham - 24/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Tottenham - 24/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 24 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia CF x Villarreal CF - 24/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia CF x Villarreal CF - 24/10 17:30 - DAZN 2",
+      "pubDate": "Sat, 24 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Eintracht Frankfurt - 24/10 17:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Eintracht Frankfurt - 24/10 17:30 - DAZN 4",
+      "pubDate": "Sat, 24 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Torreense (Feminino) - 24/10 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Torreense (Feminino) - 24/10 18:00 - Canal11",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Futsal Feijó (Futsal Feminino) x Maia Futsal (Futsal Feminino) - 24/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Futsal Feijó (Futsal Feminino) x Maia Futsal (Futsal Feminino) - 24/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 24/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x GD Árvore (Futsal Feminino) - 24/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 24/10 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 24/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "LA Lakers (Basket) x Golden State Warriors (Basket) - 22/10 03:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Lakers (Basket) x Golden State Warriors (Basket) - 22/10 03:00 - SportTV 2",
-      "pubDate": "Thu, 22 Oct 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Kairat x Panathinaikos - 22/10 15:30 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kairat x Panathinaikos - 22/10 15:30 - DAZN 2",
@@ -333,6 +326,20 @@
       "title": "Portimonense (Futsal) x Rio Ave (Futsal) - 24/10 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portimonense (Futsal) x Rio Ave (Futsal) - 24/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Everton - 24/10 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Everton - 24/10 15:00 - DAZN 1",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Coventry City x Fulham - 24/10 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Coventry City x Fulham - 24/10 15:00 - DAZN 2",
       "pubDate": "Sat, 24 Oct 2026 15:00:00",
       "guid": ""
     }

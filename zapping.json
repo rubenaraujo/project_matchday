@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Philadelphia 76ers (Basket) x Cleveland Cavaliers (Basket) - 23/10 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia 76ers (Basket) x Cleveland Cavaliers (Basket) - 23/10 00:00 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Flamengo x Estudiantes - 23/10 01:30 - SportTV 2",
-      "pubDate": "Fri, 23 Oct 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Oklahoma City Thunder (Basket) x Denver Nuggets (Basket) - 23/10 02:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oklahoma City Thunder (Basket) x Denver Nuggets (Basket) - 23/10 02:30 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 02:30:00",
-      "guid": ""
-    },
-    {
       "title": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
@@ -333,6 +312,13 @@
       "title": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 24/10 18:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ferreira do Zêzere (Futsal) x Eléctrico (Futsal) - 24/10 18:00 - C11 Stream",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x FC Arouca - 24/10 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x FC Arouca - 24/10 18:00 - SportTV 2",
       "pubDate": "Sat, 24 Oct 2026 18:00:00",
       "guid": ""
     }

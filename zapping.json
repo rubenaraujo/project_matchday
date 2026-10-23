@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Faisaly FC x Al-Nassr - 23/10 14:30 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (S23) x Benfica (S23) - 23/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (S23) x Benfica (S23) - 23/10 15:00 - Canal11",
-      "pubDate": "Fri, 23 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ittihad Jeddah x Al-Diriyah - 23/10 16:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al-Diriyah - 23/10 16:30 - SportTV 1",
-      "pubDate": "Fri, 23 Oct 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "VfL Bochum x Wolfsburg - 23/10 17:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "VfL Bochum x Wolfsburg - 23/10 17:30 - DAZN 1",
-      "pubDate": "Fri, 23 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
       "title": "GD Chaves x FC Vizela - 23/10 18:45 - SportTV +",
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Chaves x FC Vizela - 23/10 18:45 - SportTV +",
@@ -340,6 +312,20 @@
       "title": "Farense x FC Penafiel - 24/10 18:00 - SportTV 6",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Farense x FC Penafiel - 24/10 18:00 - SportTV 6",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GC Santo Tirso (Andebol) x FC Porto (Andebol) - 24/10 18:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GC Santo Tirso (Andebol) x FC Porto (Andebol) - 24/10 18:00 - PortoCanal",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x CA Madalena (Voleibol) - 24/10 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x CA Madalena (Voleibol) - 24/10 18:00 - SportingTv",
       "pubDate": "Sat, 24 Oct 2026 18:00:00",
       "guid": ""
     }

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "Lens x Paris FC - 24/10 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Paris FC - 24/10 19:45 - SportTV 4",
-      "pubDate": "Sat, 24 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lazio x Parma - 24/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lazio x Parma - 24/10 19:45 - SportTV 3",
-      "pubDate": "Sat, 24 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Deportivo - 24/10 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Deportivo - 24/10 20:00 - DAZN 1",
-      "pubDate": "Sat, 24 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x FC Porto - 24/10 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x FC Porto - 24/10 20:30 - SportTV 1",
-      "pubDate": "Sat, 24 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga (Futsal) x Sporting (Futsal) - 24/10 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga (Futsal) x Sporting (Futsal) - 24/10 20:30 - Canal11",
-      "pubDate": "Sat, 24 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 24/10 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol Feminino) x PV Colégio Efanor (Voleibol Feminino) - 24/10 20:30 - SportingTv",
-      "pubDate": "Sat, 24 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Palmeiras x Red Bull Bragantino - 24/10 22:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Red Bull Bragantino - 24/10 22:30 - Canal11",
@@ -257,6 +215,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rennes x Strasbourg - 25/10 16:15 - SportTV 4",
       "pubDate": "Sun, 25 Oct 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "UPVN (Futsal) x FC Famalicão (Futsal) - 25/10 16:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UPVN (Futsal) x FC Famalicão (Futsal) - 25/10 16:30 - C11 Stream",
+      "pubDate": "Sun, 25 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x Bayern München - 25/10 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x Bayern München - 25/10 16:30 - DAZN 1",
+      "pubDate": "Sun, 25 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sunderland x Leeds United - 25/10 16:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sunderland x Leeds United - 25/10 16:30 - DAZN 2",
+      "pubDate": "Sun, 25 Oct 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Lecce x Juventus - 25/10 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lecce x Juventus - 25/10 17:00 - SportTV 3",
+      "pubDate": "Sun, 25 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol) x Marítimo (Andebol) - 25/10 17:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol) x Marítimo (Andebol) - 25/10 17:00 - BTv",
+      "pubDate": "Sun, 25 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "BC Barcelos (Basket Feminino) x GDESSA (Basket Feminino) - 25/10 17:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "BC Barcelos (Basket Feminino) x GDESSA (Basket Feminino) - 25/10 17:30 - DAZN",
+      "pubDate": "Sun, 25 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Levante - 25/10 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Levante - 25/10 17:30 - DAZN 3",
+      "pubDate": "Sun, 25 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x Vitória SC - 25/10 18:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x Vitória SC - 25/10 18:00 - Canal11",
+      "pubDate": "Sun, 25 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave x FC Famalicão - 25/10 18:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave x FC Famalicão - 25/10 18:00 - SportTV 6",
+      "pubDate": "Sun, 25 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x SC Braga - 25/10 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x SC Braga - 25/10 18:00 - SportTV 2",
+      "pubDate": "Sun, 25 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x Póvoa AC (Andebol) - 25/10 18:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x Póvoa AC (Andebol) - 25/10 18:30 - SportingTv",
+      "pubDate": "Sun, 25 Oct 2026 18:30:00",
       "guid": ""
     }
   ]

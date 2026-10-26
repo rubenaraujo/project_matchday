@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "River Plate x Racing Club - 25/10 22:15 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Racing Club - 25/10 22:15 - SportTV 7",
-      "pubDate": "Sun, 25 Oct 2026 22:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Philadelphia 76ers (Basket) x Detroit Pistons (Basket) - 25/10 23:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia 76ers (Basket) x Detroit Pistons (Basket) - 25/10 23:30 - SportTV 2",
-      "pubDate": "Sun, 25 Oct 2026 23:30:00",
-      "guid": ""
-    },
-    {
       "title": "Neftchi x Al-Ittihad Jeddah - 26/10 13:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Neftchi x Al-Ittihad Jeddah - 26/10 13:45 - Canal11",
@@ -313,6 +299,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Académico - 28/10 20:30 - SportTV 1",
       "pubDate": "Wed, 28 Oct 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santos x Palmeiras - 28/10 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santos x Palmeiras - 28/10 22:30 - Canal11",
+      "pubDate": "Wed, 28 Oct 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 29/10 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 29/10 00:00 - SportTV 1",
+      "pubDate": "Thu, 29 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético Tucumán x Platense - 29/10 00:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético Tucumán x Platense - 29/10 00:15 - SportTV 2",
+      "pubDate": "Thu, 29 Oct 2026 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "LA Clippers (Basket) x LA Lakers (Basket) - 29/10 02:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "LA Clippers (Basket) x LA Lakers (Basket) - 29/10 02:30 - SportTV 1",
+      "pubDate": "Thu, 29 Oct 2026 02:30:00",
       "guid": ""
     }
   ]

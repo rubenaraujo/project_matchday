@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Rio Ave (S23) x Sporting (S23) - 27/10 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave (S23) x Sporting (S23) - 27/10 15:00 - Canal11",
-      "pubDate": "Tue, 27 Oct 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hamburger SV x Eintracht Frankfurt - 27/10 17:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hamburger SV x Eintracht Frankfurt - 27/10 17:00 - DAZN 1",
-      "pubDate": "Tue, 27 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rot-Weiss Essen x RB Leipzig - 27/10 17:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rot-Weiss Essen x RB Leipzig - 27/10 17:00 - DAZN 2",
-      "pubDate": "Tue, 27 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Lazio - 27/10 17:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Lazio - 27/10 17:30 - SportTV 2",
-      "pubDate": "Tue, 27 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Shamal x Al-Hilal - 27/10 18:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Shamal x Al-Hilal - 27/10 18:15 - Canal11",
-      "pubDate": "Tue, 27 Oct 2026 18:15:00",
-      "guid": ""
-    },
-    {
       "title": "Valencia Basket (Basket) x Fenerbahçe (Basket) - 27/10 19:30 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Valencia Basket (Basket) x Fenerbahçe (Basket) - 27/10 19:30 - SportTV 5",
@@ -313,6 +278,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Skanderborg AGF (Andebol) x FC Barcelona (Andebol) - 29/10 19:45 - SportTV 5",
       "pubDate": "Thu, 29 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Gil Vicente - 29/10 20:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Gil Vicente - 29/10 20:45 - SportTV 1",
+      "pubDate": "Thu, 29 Oct 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 29/10 22:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 29/10 22:00 - DAZN 1",
+      "pubDate": "Thu, 29 Oct 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vasco x Flamengo - 29/10 23:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vasco x Flamengo - 29/10 23:00 - Canal11",
+      "pubDate": "Thu, 29 Oct 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlanta Hawks (Basket) x Cleveland Cavaliers (Basket) - 30/10 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlanta Hawks (Basket) x Cleveland Cavaliers (Basket) - 30/10 00:00 - SportTV 2",
+      "pubDate": "Fri, 30 Oct 2026 00:00:00",
       "guid": ""
     }
   ]

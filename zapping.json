@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Valencia Basket (Basket) x Fenerbahçe (Basket) - 27/10 19:30 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia Basket (Basket) x Fenerbahçe (Basket) - 27/10 19:30 - SportTV 5",
-      "pubDate": "Tue, 27 Oct 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Cagliari - 27/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Cagliari - 27/10 19:45 - SportTV 2",
-      "pubDate": "Tue, 27 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Torino x Como 1907 - 27/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torino x Como 1907 - 27/10 19:45 - SportTV 7",
-      "pubDate": "Tue, 27 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund x Werder Bremen - 27/10 19:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund x Werder Bremen - 27/10 19:45 - DAZN 1",
-      "pubDate": "Tue, 27 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Köln x 1. FC Union Berlin - 27/10 19:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Köln x 1. FC Union Berlin - 27/10 19:45 - DAZN 2",
-      "pubDate": "Tue, 27 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Fleetwood Town x Arsenal - 27/10 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fleetwood Town x Arsenal - 27/10 20:00 - SportTV 3",
-      "pubDate": "Tue, 27 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Marítimo - 27/10 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Marítimo - 27/10 20:15 - SportTV 1",
-      "pubDate": "Tue, 27 Oct 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "New York Knicks (Basket) x Detroit Pistons (Basket) - 28/10 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New York Knicks (Basket) x Detroit Pistons (Basket) - 28/10 00:00 - SportTV 1",
@@ -306,6 +257,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x Cleveland Cavaliers (Basket) - 30/10 00:00 - SportTV 2",
       "pubDate": "Fri, 30 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Konyaspor x Galatasaray - 30/10 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Konyaspor x Galatasaray - 30/10 17:00 - SportTV 1",
+      "pubDate": "Fri, 30 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arminia Bielefeld x Eintracht Braunschweig - 30/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arminia Bielefeld x Eintracht Braunschweig - 30/10 17:30 - DAZN 2",
+      "pubDate": "Fri, 30 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Le Havre x PSG - 30/10 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Le Havre x PSG - 30/10 18:00 - SportTV 2",
+      "pubDate": "Fri, 30 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Shabab x Al-Ahli Jeddah - 30/10 18:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Shabab x Al-Ahli Jeddah - 30/10 18:00 - SportTV 3",
+      "pubDate": "Fri, 30 Oct 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 30/10 19:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x AD Sanjoanense (Hóquei) - 30/10 19:00 - PortoCanal",
+      "pubDate": "Fri, 30 Oct 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SV 07 Elversberg x Mainz - 30/10 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SV 07 Elversberg x Mainz - 30/10 19:30 - DAZN 3",
+      "pubDate": "Fri, 30 Oct 2026 19:30:00",
       "guid": ""
     }
   ]

@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Manchester City x Brighton  Hove Albion - 28/10 19:30 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Manchester City x Brighton  Hove Albion - 28/10 19:30 - SportTV 6",
-      "pubDate": "Wed, 28 Oct 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Genoa x Juventus - 28/10 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Genoa x Juventus - 28/10 19:45 - SportTV 2",
-      "pubDate": "Wed, 28 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Monza x Napoli - 28/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monza x Napoli - 28/10 19:45 - SportTV 7",
-      "pubDate": "Wed, 28 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bournemouth x Aston Villa - 28/10 19:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bournemouth x Aston Villa - 28/10 19:45 - SportTV 5",
-      "pubDate": "Wed, 28 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayern München x 1. FC Magdeburg - 28/10 19:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayern München x 1. FC Magdeburg - 28/10 19:45 - DAZN 1",
-      "pubDate": "Wed, 28 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x FC Nürnberg - 28/10 19:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x FC Nürnberg - 28/10 19:45 - DAZN 2",
-      "pubDate": "Wed, 28 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Arsenal (Feminino) x Benfica (Feminino) - 28/10 20:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Arsenal (Feminino) x Benfica (Feminino) - 28/10 20:00 - RTP2",
-      "pubDate": "Wed, 28 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Liverpool x Chelsea - 28/10 20:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Liverpool x Chelsea - 28/10 20:00 - SportTV 3",
-      "pubDate": "Wed, 28 Oct 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto x Académico - 28/10 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto x Académico - 28/10 20:30 - SportTV 1",
-      "pubDate": "Wed, 28 Oct 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Santos x Palmeiras - 28/10 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santos x Palmeiras - 28/10 22:30 - Canal11",
-      "pubDate": "Wed, 28 Oct 2026 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 29/10 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 29/10 00:00 - SportTV 1",
@@ -257,6 +187,118 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Villarreal CF x Espanyol - 30/10 20:00 - DAZN 2",
       "pubDate": "Fri, 30 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Lens - 30/10 20:05 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Lens - 30/10 20:05 - SportTV 2",
+      "pubDate": "Fri, 30 Oct 2026 20:05:00",
+      "guid": ""
+    },
+    {
+      "title": "Casa Pia AC x Sporting - 30/10 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Casa Pia AC x Sporting - 30/10 20:15 - SportTV 1",
+      "pubDate": "Fri, 30 Oct 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 30/10 22:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 30/10 22:00 - SportTV 3",
+      "pubDate": "Fri, 30 Oct 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 30/10 22:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 30/10 22:00 - DAZN 1",
+      "pubDate": "Fri, 30 Oct 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Corinthians x Mirassol - 30/10 23:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Corinthians x Mirassol - 30/10 23:00 - Canal11",
+      "pubDate": "Fri, 30 Oct 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Racing Club x Aldosivi - 31/10 00:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Racing Club x Aldosivi - 31/10 00:15 - SportTV 1",
+      "pubDate": "Sat, 31 Oct 2026 00:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Amarante FC x FC Porto - 31/10 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amarante FC x FC Porto - 31/10 11:00 - SportTV 1",
+      "pubDate": "Sat, 31 Oct 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kaiserslautern x Hertha BSC - 31/10 12:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kaiserslautern x Hertha BSC - 31/10 12:00 - DAZN 3",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "ACD Gulpilhares (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 31/10 12:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ACD Gulpilhares (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 31/10 12:00 - DAZN 4",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Manchester United - 31/10 12:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Manchester United - 31/10 12:30 - DAZN 1",
+      "pubDate": "Sat, 31 Oct 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Levante x Atlético de Madrid - 31/10 13:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Levante x Atlético de Madrid - 31/10 13:00 - DAZN 2",
+      "pubDate": "Sat, 31 Oct 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Torreense - 31/10 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Torreense - 31/10 14:00 - SportTV +",
+      "pubDate": "Sat, 31 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bologna x Monza - 31/10 14:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bologna x Monza - 31/10 14:00 - SportTV 4",
+      "pubDate": "Sat, 31 Oct 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x Stuttgart - 31/10 14:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x Stuttgart - 31/10 14:30 - DAZN 3",
+      "pubDate": "Sat, 31 Oct 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leça FC x Varzim - 31/10 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leça FC x Varzim - 31/10 15:00 - Canal11",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x U. Santarém - 31/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x U. Santarém - 31/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
       "guid": ""
     }
   ]

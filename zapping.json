@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 29/10 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Minnesota Timberwolves (Basket) x Golden State Warriors (Basket) - 29/10 00:00 - SportTV 1",
-      "pubDate": "Thu, 29 Oct 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético Tucumán x Platense - 29/10 00:15 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Tucumán x Platense - 29/10 00:15 - SportTV 2",
-      "pubDate": "Thu, 29 Oct 2026 00:15:00",
-      "guid": ""
-    },
-    {
-      "title": "LA Clippers (Basket) x LA Lakers (Basket) - 29/10 02:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "LA Clippers (Basket) x LA Lakers (Basket) - 29/10 02:30 - SportTV 1",
-      "pubDate": "Thu, 29 Oct 2026 02:30:00",
-      "guid": ""
-    },
-    {
       "title": "ElPozo Murcia Costa Cálida (Futsal) x Benfica (Futsal) - 29/10 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "ElPozo Murcia Costa Cálida (Futsal) x Benfica (Futsal) - 29/10 16:00 - Canal11",
@@ -298,6 +277,48 @@
       "title": "Atlético CP x U. Santarém - 31/10 15:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético CP x U. Santarém - 31/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x Louletano - 31/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x Louletano - 31/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x SC Braga (Feminino) - 31/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x SC Braga (Feminino) - 31/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC (Feminino) x Racing Power FC (Feminino) - 31/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Feminino) x Racing Power FC (Feminino) - 31/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Voleibol Feminino) x Sporting (Voleibol Feminino) - 31/10 15:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Voleibol Feminino) x Sporting (Voleibol Feminino) - 31/10 15:00 - RTP2",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester City x Brighton  Hove Albion - 31/10 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester City x Brighton  Hove Albion - 31/10 15:00 - DAZN 1",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 31/10 15:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 31/10 15:00 - DAZN 4",
       "pubDate": "Sat, 31 Oct 2026 15:00:00",
       "guid": ""
     }

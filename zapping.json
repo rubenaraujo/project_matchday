@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "ElPozo Murcia Costa Cálida (Futsal) x Benfica (Futsal) - 29/10 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ElPozo Murcia Costa Cálida (Futsal) x Benfica (Futsal) - 29/10 16:00 - Canal11",
-      "pubDate": "Thu, 29 Oct 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sparta Praha (Feminino) x Torreense (Feminino) - 29/10 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sparta Praha (Feminino) x Torreense (Feminino) - 29/10 17:00 - SportTV 1",
-      "pubDate": "Thu, 29 Oct 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Frosinone x Lecce - 29/10 17:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Frosinone x Lecce - 29/10 17:30 - SportTV 3",
-      "pubDate": "Thu, 29 Oct 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "GOG (Andebol) x Sporting (Andebol) - 29/10 17:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "GOG (Andebol) x Sporting (Andebol) - 29/10 17:45 - SportingTv",
-      "pubDate": "Thu, 29 Oct 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Nassr x Al-Kholood - 29/10 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Nassr x Al-Kholood - 29/10 18:00 - SportTV 4",
-      "pubDate": "Thu, 29 Oct 2026 18:00:00",
-      "guid": ""
-    },
-    {
       "title": "SC Braga x FC Famalicão - 29/10 18:45 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Braga x FC Famalicão - 29/10 18:45 - SportTV 2",
@@ -137,6 +102,13 @@
       "title": "FC Barcelona (Basket) x Valencia Basket (Basket) - 30/10 19:30 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Barcelona (Basket) x Valencia Basket (Basket) - 30/10 19:30 - SportTV 7",
+      "pubDate": "Fri, 30 Oct 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões (Voleibol) x Sporting (Voleibol) - 30/10 19:30 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões (Voleibol) x Sporting (Voleibol) - 30/10 19:30 - SportTV 6",
       "pubDate": "Fri, 30 Oct 2026 19:30:00",
       "guid": ""
     },
@@ -312,6 +284,13 @@
       "title": "Manchester City x Brighton  Hove Albion - 31/10 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Brighton  Hove Albion - 31/10 15:00 - DAZN 1",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 31/10 15:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 31/10 15:00 - DAZN 4",
       "pubDate": "Sat, 31 Oct 2026 15:00:00",
       "guid": ""
     }

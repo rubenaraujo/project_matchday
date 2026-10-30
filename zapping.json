@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Vasco x Flamengo - 29/10 23:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vasco x Flamengo - 29/10 23:00 - Canal11",
-      "pubDate": "Thu, 29 Oct 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlanta Hawks (Basket) x Cleveland Cavaliers (Basket) - 30/10 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlanta Hawks (Basket) x Cleveland Cavaliers (Basket) - 30/10 00:00 - SportTV 2",
-      "pubDate": "Fri, 30 Oct 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Green Bay Packers (Fut. Americano) x Carolina Panthers (Fut. Americano) - 30/10 00:15 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Green Bay Packers (Fut. Americano) x Carolina Panthers (Fut. Americano) - 30/10 00:15 - DAZN",
-      "pubDate": "Fri, 30 Oct 2026 00:15:00",
-      "guid": ""
-    },
-    {
       "title": "Konyaspor x Galatasaray - 30/10 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Konyaspor x Galatasaray - 30/10 17:00 - SportTV 1",
@@ -320,6 +299,48 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Udinese x Roma - 31/10 17:00 - SportTV 2",
       "pubDate": "Sat, 31 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense x Belenenses - 31/10 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense x Belenenses - 31/10 17:30 - Canal11",
+      "pubDate": "Sat, 31 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 31/10 17:30 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 31/10 17:30 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Tottenham x Crystal Palace - 31/10 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Tottenham x Crystal Palace - 31/10 17:30 - DAZN 2",
+      "pubDate": "Sat, 31 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x Borussia Dortmund - 31/10 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x Borussia Dortmund - 31/10 17:30 - DAZN 1",
+      "pubDate": "Sat, 31 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Rangers x Aberdeen - 31/10 17:30 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rangers x Aberdeen - 31/10 17:30 - SportTV 4",
+      "pubDate": "Sat, 31 Oct 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (B) x GD Chaves - 31/10 18:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (B) x GD Chaves - 31/10 18:00 - BTv",
+      "pubDate": "Sat, 31 Oct 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "title": "SC Braga x FC Famalicão - 29/10 18:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x FC Famalicão - 29/10 18:45 - SportTV 2",
-      "pubDate": "Thu, 29 Oct 2026 18:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei) x AD Valongo (Hóquei) - 29/10 19:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei) x AD Valongo (Hóquei) - 29/10 19:00 - DAZN 1",
-      "pubDate": "Thu, 29 Oct 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Atalanta - 29/10 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Atalanta - 29/10 19:45 - SportTV 3",
-      "pubDate": "Thu, 29 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Everton x Newcastle - 29/10 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Everton x Newcastle - 29/10 19:45 - SportTV 7",
-      "pubDate": "Thu, 29 Oct 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x Gil Vicente - 29/10 20:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Gil Vicente - 29/10 20:45 - SportTV 1",
-      "pubDate": "Thu, 29 Oct 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 29/10 22:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x UD Oliveirense (Hóquei) - 29/10 22:00 - DAZN 1",
-      "pubDate": "Thu, 29 Oct 2026 22:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vasco x Flamengo - 29/10 23:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vasco x Flamengo - 29/10 23:00 - Canal11",
@@ -54,6 +12,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlanta Hawks (Basket) x Cleveland Cavaliers (Basket) - 30/10 00:00 - SportTV 2",
       "pubDate": "Fri, 30 Oct 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Green Bay Packers (Fut. Americano) x Carolina Panthers (Fut. Americano) - 30/10 00:15 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Green Bay Packers (Fut. Americano) x Carolina Panthers (Fut. Americano) - 30/10 00:15 - DAZN",
+      "pubDate": "Fri, 30 Oct 2026 00:15:00",
       "guid": ""
     },
     {
@@ -292,6 +257,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Hóquei Feminino) x Escola Livre (Hóquei Feminino) - 31/10 15:00 - DAZN 4",
       "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Trofense x AD Marco 09 - 31/10 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Trofense x AD Marco 09 - 31/10 15:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Rayo Vallecano x Celta de Vigo - 31/10 15:15 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rayo Vallecano x Celta de Vigo - 31/10 15:15 - DAZN 2",
+      "pubDate": "Sat, 31 Oct 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Moreirense x Est. Amadora - 31/10 15:30 - V+",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moreirense x Est. Amadora - 31/10 15:30 - V+",
+      "pubDate": "Sat, 31 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Leixões x Sporting - 31/10 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Leixões x Sporting - 31/10 15:30 - SportTV 1",
+      "pubDate": "Sat, 31 Oct 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Maia Futsal (Futsal Feminino) x Torreense (Futsal Feminino) - 31/10 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Maia Futsal (Futsal Feminino) x Torreense (Futsal Feminino) - 31/10 16:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Árvore (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 31/10 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Árvore (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 31/10 16:00 - C11 Stream",
+      "pubDate": "Sat, 31 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Goztepe SK - 31/10 16:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Goztepe SK - 31/10 16:00 - SportTV +",
+      "pubDate": "Sat, 31 Oct 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Futsal) x CDRC São Martinho de Mouros (Futsal) - 31/10 17:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Futsal) x CDRC São Martinho de Mouros (Futsal) - 31/10 17:00 - PortoCanal",
+      "pubDate": "Sat, 31 Oct 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Udinese x Roma - 31/10 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Udinese x Roma - 31/10 17:00 - SportTV 2",
+      "pubDate": "Sat, 31 Oct 2026 17:00:00",
       "guid": ""
     }
   ]

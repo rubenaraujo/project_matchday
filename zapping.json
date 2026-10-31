@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "title": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 30/10 22:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vegas Golden Knights (Hóquei no Gelo  Seniores) x New Jersey Devils (Hóquei no Gelo  Seniores) - 30/10 22:00 - SportTV 3",
-      "pubDate": "Fri, 30 Oct 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 30/10 22:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x HC Braga (Hóquei) - 30/10 22:00 - DAZN 1",
-      "pubDate": "Fri, 30 Oct 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Corinthians x Mirassol - 30/10 23:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corinthians x Mirassol - 30/10 23:00 - Canal11",
-      "pubDate": "Fri, 30 Oct 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Racing Club x Aldosivi - 31/10 00:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Racing Club x Aldosivi - 31/10 00:15 - SportTV 1",
-      "pubDate": "Sat, 31 Oct 2026 00:15:00",
-      "guid": ""
-    },
-    {
       "title": "Amarante FC x FC Porto - 31/10 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Amarante FC x FC Porto - 31/10 11:00 - SportTV 1",
@@ -306,6 +278,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Águas Santas (Andebol) x ABC (Andebol) - 31/10 18:30 - AndebolTV",
       "pubDate": "Sat, 31 Oct 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AC Milan x Internazionale - 31/10 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AC Milan x Internazionale - 31/10 19:45 - SportTV 2",
+      "pubDate": "Sat, 31 Oct 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 31/10 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Benfica (Futsal Feminino) - 31/10 20:00 - Canal11",
+      "pubDate": "Sat, 31 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Aston Villa x Fulham - 31/10 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aston Villa x Fulham - 31/10 20:00 - DAZN 2",
+      "pubDate": "Sat, 31 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Barcelona x Alavés - 31/10 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Barcelona x Alavés - 31/10 20:00 - DAZN 1",
+      "pubDate": "Sat, 31 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ajax x AZ Alkmaar - 31/10 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ajax x AZ Alkmaar - 31/10 20:00 - DAZN 3",
+      "pubDate": "Sat, 31 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Carvalhos (Andebol) x GC Santo Tirso (Andebol) - 31/10 20:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Carvalhos (Andebol) x GC Santo Tirso (Andebol) - 31/10 20:00 - AndebolTV",
+      "pubDate": "Sat, 31 Oct 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Estoril Praia - 31/10 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Estoril Praia - 31/10 20:30 - SportTV 1",
+      "pubDate": "Sat, 31 Oct 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Hóquei) x FC Porto (Hóquei) - 31/10 21:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Hóquei) x FC Porto (Hóquei) - 31/10 21:30 - DAZN",
+      "pubDate": "Sat, 31 Oct 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vélez Sarsfield x San Lorenzo - 31/10 22:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vélez Sarsfield x San Lorenzo - 31/10 22:15 - SportTV 2",
+      "pubDate": "Sat, 31 Oct 2026 22:15:00",
       "guid": ""
     }
   ]

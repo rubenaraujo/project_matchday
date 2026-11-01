@@ -1,101 +1,24 @@
 {
   "items": [
     {
-      "title": "Académico x Rio Ave - 01/11 18:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico x Rio Ave - 01/11 18:00 - SportTV 4",
-      "pubDate": "Sun, 01 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo x Santa Clara - 01/11 18:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo x Santa Clara - 01/11 18:00 - SportTV 2",
-      "pubDate": "Sun, 01 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x River Plate - 01/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x River Plate - 01/11 18:00 - SportTV 1",
-      "pubDate": "Sun, 01 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "China (Feminino S17) x Brasil (Feminino S17) - 01/11 18:00 - LiveModeTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "China (Feminino S17) x Brasil (Feminino S17) - 01/11 18:00 - LiveModeTV",
-      "pubDate": "Sun, 01 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Esgueira (Basket Feminino) x Sporting (Basket Feminino) - 01/11 18:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Esgueira (Basket Feminino) x Sporting (Basket Feminino) - 01/11 18:30 - DAZN 3",
-      "pubDate": "Sun, 01 Nov 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Clube K (Voleibol Feminino) - 01/11 19:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Clube K (Voleibol Feminino) - 01/11 19:00 - PortoCanal",
-      "pubDate": "Sun, 01 Nov 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Juventus x Napoli - 01/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventus x Napoli - 01/11 19:45 - SportTV 3",
-      "pubDate": "Sun, 01 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Toulouse - 01/11 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Toulouse - 01/11 19:45 - SportTV 6",
-      "pubDate": "Sun, 01 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "USC Paredes x S. João Ver - 01/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "USC Paredes x S. João Ver - 01/11 20:00 - Canal11",
-      "pubDate": "Sun, 01 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 01/11 20:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 01/11 20:00 - DAZN",
-      "pubDate": "Sun, 01 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Athletic Bilbao x Real Sociedad - 01/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletic Bilbao x Real Sociedad - 01/11 20:00 - DAZN 1",
-      "pubDate": "Sun, 01 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Braga x FC Famalicão - 01/11 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Braga x FC Famalicão - 01/11 20:30 - SportTV 1",
-      "pubDate": "Sun, 01 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Orlando Magic (Basket) x Boston Celtics (Basket) - 01/11 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Orlando Magic (Basket) x Boston Celtics (Basket) - 01/11 20:30 - SportTV 2",
-      "pubDate": "Sun, 01 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Anaheim Ducks (Hóquei no Gelo  Seniores) x Ottawa Senators (Hóquei no Gelo  Seniores) - 02/11 01:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Anaheim Ducks (Hóquei no Gelo  Seniores) x Ottawa Senators (Hóquei no Gelo  Seniores) - 02/11 01:00 - SportTV 2",
       "pubDate": "Mon, 02 Nov 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Pakhtakor x Al-Nassr - 02/11 13:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Pakhtakor x Al-Nassr - 02/11 13:45 - Canal11",
+      "pubDate": "Mon, 02 Nov 2026 13:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Sadd x Al-Ahli Jeddah - 02/11 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Sadd x Al-Ahli Jeddah - 02/11 16:00 - Canal11",
+      "pubDate": "Mon, 02 Nov 2026 16:00:00",
       "guid": ""
     },
     {
@@ -110,6 +33,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x Feirense - 02/11 18:00 - SportTV +",
       "pubDate": "Mon, 02 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ittihad Jeddah x Al Ain - 02/11 18:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ittihad Jeddah x Al Ain - 02/11 18:15 - Canal11",
+      "pubDate": "Mon, 02 Nov 2026 18:15:00",
       "guid": ""
     },
     {
@@ -169,6 +99,13 @@
       "guid": ""
     },
     {
+      "title": "Est. Amadora (S23) x Santa Clara (S23) - 03/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Est. Amadora (S23) x Santa Clara (S23) - 03/11 11:00 - Canal11",
+      "pubDate": "Tue, 03 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Shakhtar Donetsk (Jun.A S19) x Sporting (Jun.A S19) - 03/11 12:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Shakhtar Donetsk (Jun.A S19) x Sporting (Jun.A S19) - 03/11 12:00 - DAZN 1",
@@ -186,6 +123,13 @@
       "title": "Atlético de Madrid (Jun.A S19) x Bayern München (Jun.A S19) - 03/11 15:00 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Atlético de Madrid (Jun.A S19) x Bayern München (Jun.A S19) - 03/11 15:00 - DAZN 1",
+      "pubDate": "Tue, 03 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Académico (S23) x Torreense (S23) - 03/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académico (S23) x Torreense (S23) - 03/11 15:00 - Canal11",
       "pubDate": "Tue, 03 Nov 2026 15:00:00",
       "guid": ""
     },
@@ -250,6 +194,104 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Jun.A S19) x Napoli (Jun.A S19) - 04/11 12:00 - PortoCanal",
       "pubDate": "Wed, 04 Nov 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Buriram United x Kashima Antlers - 04/11 12:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Buriram United x Kashima Antlers - 04/11 12:15 - Canal11",
+      "pubDate": "Wed, 04 Nov 2026 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund (Jun.A S19) x Real Betis (Jun.A S19) - 04/11 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund (Jun.A S19) x Real Betis (Jun.A S19) - 04/11 15:00 - DAZN 1",
+      "pubDate": "Wed, 04 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "W45 x W46 - 04/11 15:00 - LiveModeTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "W45 x W46 - 04/11 15:00 - LiveModeTV",
+      "pubDate": "Wed, 04 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria (S23) x Estoril Praia (S23) - 04/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria (S23) x Estoril Praia (S23) - 04/11 15:00 - Canal11",
+      "pubDate": "Wed, 04 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.C S15) x Taboeira (Jun.C S15) - 04/11 16:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.C S15) x Taboeira (Jun.C S15) - 04/11 16:00 - PortoCanal",
+      "pubDate": "Wed, 04 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Penafiel (S23) x FC Famalicão (S23) - 04/11 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Penafiel (S23) x FC Famalicão (S23) - 04/11 17:00 - Canal11",
+      "pubDate": "Wed, 04 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fenerbahçe x Liverpool - 04/11 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fenerbahçe x Liverpool - 04/11 17:45 - DAZN 2",
+      "pubDate": "Wed, 04 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "AEK x Real Madrid - 04/11 17:45 - LiveModeTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AEK x Real Madrid - 04/11 17:45 - LiveModeTV",
+      "pubDate": "Wed, 04 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "W47 x W48 - 04/11 18:00 - LiveModeTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "W47 x W48 - 04/11 18:00 - LiveModeTV",
+      "pubDate": "Wed, 04 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hapoel Jerusalém (Basket) x Aris (Basket) - 04/11 19:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hapoel Jerusalém (Basket) x Aris (Basket) - 04/11 19:00 - SportTV 3",
+      "pubDate": "Wed, 04 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol) x Suíça (Andebol) - 04/11 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol) x Suíça (Andebol) - 04/11 19:00 - RTP2",
+      "pubDate": "Wed, 04 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Basket) x Asisa Joventut (Basket) - 04/11 19:30 - DAZN",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Basket) x Asisa Joventut (Basket) - 04/11 19:30 - DAZN",
+      "pubDate": "Wed, 04 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bristol City x Wolverhampton - 04/11 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bristol City x Wolverhampton - 04/11 20:00 - SportTV 1",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x Napoli - 04/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x Napoli - 04/11 20:00 - SportTV 5",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Vizela x Académica OAF - 01/11 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Vizela x Académica OAF - 01/11 11:00 - SportTV 1",
-      "pubDate": "Sun, 01 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Marítimo (Feminino) x FC Porto (Feminino) - 01/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marítimo (Feminino) x FC Porto (Feminino) - 01/11 11:00 - Canal11",
-      "pubDate": "Sun, 01 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Como 1907 x Venezia - 01/11 11:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Como 1907 x Venezia - 01/11 11:30 - SportTV 2",
-      "pubDate": "Sun, 01 Nov 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 01/11 12:00 - DAZN",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Hóquei Feminino) x AD Sanjoanense (Hóquei Feminino) - 01/11 12:00 - DAZN",
-      "pubDate": "Sun, 01 Nov 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC St. Pauli x FC Nürnberg - 01/11 12:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC St. Pauli x FC Nürnberg - 01/11 12:30 - DAZN 1",
-      "pubDate": "Sun, 01 Nov 2026 12:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Trabzonspor x Gazisehir Gaziantep - 01/11 13:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Trabzonspor x Gazisehir Gaziantep - 01/11 13:00 - SportTV 4",
-      "pubDate": "Sun, 01 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Falkirk x Celtic - 01/11 13:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Falkirk x Celtic - 01/11 13:00 - SportTV 1",
-      "pubDate": "Sun, 01 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Getafe CF x Sevilla FC - 01/11 13:00 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Getafe CF x Sevilla FC - 01/11 13:00 - DAZN 2",
@@ -309,9 +260,9 @@
       "guid": ""
     },
     {
-      "title": "Vencedor MF1 x Vencedor MF2 - 01/11 20:00 - DAZN",
+      "title": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 01/11 20:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Vencedor MF1 x Vencedor MF2 - 01/11 20:00 - DAZN",
+      "description": "OC Barcelos (Hóquei) x FC Porto (Hóquei) - 01/11 20:00 - DAZN",
       "pubDate": "Sun, 01 Nov 2026 20:00:00",
       "guid": ""
     },

@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "San Antonio Spurs (Basket) x Minnesota Timberwolves (Basket) - 01/11 00:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "San Antonio Spurs (Basket) x Minnesota Timberwolves (Basket) - 01/11 00:00 - SportTV 3",
-      "pubDate": "Sun, 01 Nov 2026 00:00:00",
-      "guid": ""
-    },
-    {
       "title": "FC Vizela x Académica OAF - 01/11 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Vizela x Académica OAF - 01/11 11:00 - SportTV 1",
@@ -320,6 +313,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vencedor MF1 x Vencedor MF2 - 01/11 20:00 - DAZN",
       "pubDate": "Sun, 01 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Real Sociedad - 01/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Real Sociedad - 01/11 20:00 - DAZN 1",
+      "pubDate": "Sun, 01 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga x FC Famalicão - 01/11 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga x FC Famalicão - 01/11 20:30 - SportTV 1",
+      "pubDate": "Sun, 01 Nov 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Orlando Magic (Basket) x Boston Celtics (Basket) - 01/11 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Orlando Magic (Basket) x Boston Celtics (Basket) - 01/11 20:30 - SportTV 2",
+      "pubDate": "Sun, 01 Nov 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Anaheim Ducks (Hóquei no Gelo  Seniores) x Ottawa Senators (Hóquei no Gelo  Seniores) - 02/11 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Anaheim Ducks (Hóquei no Gelo  Seniores) x Ottawa Senators (Hóquei no Gelo  Seniores) - 02/11 01:00 - SportTV 2",
+      "pubDate": "Mon, 02 Nov 2026 01:00:00",
       "guid": ""
     }
   ]

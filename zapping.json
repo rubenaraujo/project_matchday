@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "title": "Pakhtakor x Al-Nassr - 02/11 13:45 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Pakhtakor x Al-Nassr - 02/11 13:45 - Canal11",
-      "pubDate": "Mon, 02 Nov 2026 13:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Sadd x Al-Ahli Jeddah - 02/11 16:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Sadd x Al-Ahli Jeddah - 02/11 16:00 - Canal11",
-      "pubDate": "Mon, 02 Nov 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sassuolo x Fiorentina - 02/11 17:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sassuolo x Fiorentina - 02/11 17:30 - SportTV 1",
-      "pubDate": "Mon, 02 Nov 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Penafiel x Feirense - 02/11 18:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Penafiel x Feirense - 02/11 18:00 - SportTV +",
-      "pubDate": "Mon, 02 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Al-Ittihad Jeddah x Al Ain - 02/11 18:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Al Ain - 02/11 18:15 - Canal11",
-      "pubDate": "Mon, 02 Nov 2026 18:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Parma - 02/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Parma - 02/11 19:45 - SportTV 2",
-      "pubDate": "Mon, 02 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Newcastle x Everton - 02/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Newcastle x Everton - 02/11 20:00 - DAZN 1",
-      "pubDate": "Mon, 02 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Deportivo x Osasuna - 02/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Deportivo x Osasuna - 02/11 20:00 - DAZN 2",
-      "pubDate": "Mon, 02 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Mallorca x Cádiz - 02/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Mallorca x Cádiz - 02/11 20:00 - DAZN 3",
-      "pubDate": "Mon, 02 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Gil Vicente x Vitória SC - 02/11 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gil Vicente x Vitória SC - 02/11 20:15 - SportTV 1",
-      "pubDate": "Mon, 02 Nov 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica x FC Alverca - 02/11 20:15 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x FC Alverca - 02/11 20:15 - BTv",
-      "pubDate": "Mon, 02 Nov 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Boston Bruins (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 03/11 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Bruins (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 03/11 00:00 - SportTV 2",
@@ -89,6 +12,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Houston Rockets (Basket) x Boston Celtics (Basket) - 03/11 01:30 - SportTV 1",
       "pubDate": "Tue, 03 Nov 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S16) x Escócia (S16) - 03/11 09:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S16) x Escócia (S16) - 03/11 09:30 - SportTV 1",
+      "pubDate": "Tue, 03 Nov 2026 09:30:00",
       "guid": ""
     },
     {
@@ -106,9 +36,16 @@
       "guid": ""
     },
     {
-      "title": "Winner Match 6 x Winner Match 8 - 03/11 15:00 - SportTV 1",
+      "title": "Xilasedici VK (Voleibol) x Sporting (Voleibol) - 03/11 14:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Winner Match 6 x Winner Match 8 - 03/11 15:00 - SportTV 1",
+      "description": "Xilasedici VK (Voleibol) x Sporting (Voleibol) - 03/11 14:00 - SportingTv",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos (S16) x Ucrânia (S16) - 03/11 15:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos (S16) x Ucrânia (S16) - 03/11 15:00 - SportTV 1",
       "pubDate": "Tue, 03 Nov 2026 15:00:00",
       "guid": ""
     },
@@ -138,6 +75,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Galatasaray x Stuttgart - 03/11 17:45 - DAZN 1",
       "pubDate": "Tue, 03 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol Feminino) x Maccabi Ashdod (Voleibol Feminino) - 03/11 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x Maccabi Ashdod (Voleibol Feminino) - 03/11 19:30 - SportingTv",
+      "pubDate": "Tue, 03 Nov 2026 19:30:00",
       "guid": ""
     },
     {
@@ -204,9 +148,9 @@
       "guid": ""
     },
     {
-      "title": "W45 x W46 - 04/11 15:00 - LiveModeTV",
+      "title": "Japão (Feminino S17) x Coreia do Norte (Feminino S17) - 04/11 15:00 - LiveModeTV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "W45 x W46 - 04/11 15:00 - LiveModeTV",
+      "description": "Japão (Feminino S17) x Coreia do Norte (Feminino S17) - 04/11 15:00 - LiveModeTV",
       "pubDate": "Wed, 04 Nov 2026 15:00:00",
       "guid": ""
     },
@@ -239,16 +183,16 @@
       "guid": ""
     },
     {
-      "title": "AEK x Real Madrid - 04/11 17:45 - LiveModeTV",
+      "title": "AEK x Real Madrid - 04/11 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "AEK x Real Madrid - 04/11 17:45 - LiveModeTV",
+      "description": "AEK x Real Madrid - 04/11 17:45 - DAZN 1",
       "pubDate": "Wed, 04 Nov 2026 17:45:00",
       "guid": ""
     },
     {
-      "title": "W47 x W48 - 04/11 18:00 - LiveModeTV",
+      "title": "Brasil (Feminino S17) x Nigéria (Feminino S17) - 04/11 18:00 - LiveModeTV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "W47 x W48 - 04/11 18:00 - LiveModeTV",
+      "description": "Brasil (Feminino S17) x Nigéria (Feminino S17) - 04/11 18:00 - LiveModeTV",
       "pubDate": "Wed, 04 Nov 2026 18:00:00",
       "guid": ""
     },
@@ -267,9 +211,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Basket) x Asisa Joventut (Basket) - 04/11 19:30 - DAZN",
+      "title": "Maccabi Ashdod (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/11 19:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x Asisa Joventut (Basket) - 04/11 19:30 - DAZN",
+      "description": "Maccabi Ashdod (Voleibol Feminino) x Sporting (Voleibol Feminino) - 04/11 19:30 - SportingTv",
       "pubDate": "Wed, 04 Nov 2026 19:30:00",
       "guid": ""
     },
@@ -348,6 +292,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
       "pubDate": "Thu, 05 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AGF Aarhus x SC Braga - 05/11 17:45 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AGF Aarhus x SC Braga - 05/11 17:45 - DAZN 1",
+      "pubDate": "Thu, 05 Nov 2026 17:45:00",
       "guid": ""
     }
   ]

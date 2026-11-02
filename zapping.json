@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Anaheim Ducks (Hóquei no Gelo  Seniores) x Ottawa Senators (Hóquei no Gelo  Seniores) - 02/11 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Anaheim Ducks (Hóquei no Gelo  Seniores) x Ottawa Senators (Hóquei no Gelo  Seniores) - 02/11 01:00 - SportTV 2",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00",
-      "guid": ""
-    },
-    {
       "title": "Pakhtakor x Al-Nassr - 02/11 13:45 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Pakhtakor x Al-Nassr - 02/11 13:45 - Canal11",
@@ -292,6 +285,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto x Napoli - 04/11 20:00 - SportTV 5",
       "pubDate": "Wed, 04 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "RB Leipzig x Manchester City - 04/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "RB Leipzig x Manchester City - 04/11 20:00 - DAZN 1",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Slavia Praha x Arsenal - 04/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Slavia Praha x Arsenal - 04/11 20:00 - DAZN 2",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia Dortmund x Real Betis - 04/11 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia Dortmund x Real Betis - 04/11 20:00 - DAZN 3",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSV x Club Brugge - 04/11 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSV x Club Brugge - 04/11 20:00 - DAZN 4",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Belenenses (Futsal) x Reguilas Tires (Futsal) - 04/11 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses (Futsal) x Reguilas Tires (Futsal) - 04/11 20:30 - Canal11",
+      "pubDate": "Wed, 04 Nov 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletico Paranaense x Vasco - 04/11 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletico Paranaense x Vasco - 04/11 22:30 - Canal11",
+      "pubDate": "Wed, 04 Nov 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 05/11 00:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 05/11 00:30 - SportTV 2",
+      "pubDate": "Thu, 05 Nov 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Houston Rockets (Basket) x Minnesota Timberwolves (Basket) - 05/11 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Houston Rockets (Basket) x Minnesota Timberwolves (Basket) - 05/11 01:30 - SportTV 1",
+      "pubDate": "Thu, 05 Nov 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
+      "pubDate": "Thu, 05 Nov 2026 15:00:00",
       "guid": ""
     }
   ]

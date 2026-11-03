@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Est. Amadora (S23) x Santa Clara (S23) - 03/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora (S23) x Santa Clara (S23) - 03/11 11:00 - Canal11",
-      "pubDate": "Tue, 03 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Xilasedici VK (Voleibol) x Sporting (Voleibol) - 03/11 14:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Xilasedici VK (Voleibol) x Sporting (Voleibol) - 03/11 14:00 - SportingTv",
-      "pubDate": "Tue, 03 Nov 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos (S16) x Ucrânia (S16) - 03/11 15:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos (S16) x Ucrânia (S16) - 03/11 15:00 - SportTV 1",
-      "pubDate": "Tue, 03 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid (Jun.A S19) x Bayern München (Jun.A S19) - 03/11 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid (Jun.A S19) x Bayern München (Jun.A S19) - 03/11 15:00 - DAZN 1",
-      "pubDate": "Tue, 03 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Académico (S23) x Torreense (S23) - 03/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Académico (S23) x Torreense (S23) - 03/11 15:00 - Canal11",
-      "pubDate": "Tue, 03 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Shakhtar Donetsk x Sporting - 03/11 17:45 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Shakhtar Donetsk x Sporting - 03/11 17:45 - SportTV 5",
-      "pubDate": "Tue, 03 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Galatasaray x Stuttgart - 03/11 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Galatasaray x Stuttgart - 03/11 17:45 - DAZN 1",
-      "pubDate": "Tue, 03 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
       "title": "Sporting (Voleibol Feminino) x Maccabi Ashdod (Voleibol Feminino) - 03/11 19:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol Feminino) x Maccabi Ashdod (Voleibol Feminino) - 03/11 19:30 - SportingTv",
@@ -334,6 +285,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AZ Alkmaar x Juventus - 05/11 20:00 - DAZN 3",
       "pubDate": "Thu, 05 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Monaco x Nordsjaelland - 05/11 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monaco x Nordsjaelland - 05/11 20:00 - DAZN 4",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x Asterix Kieldrecht (Voleibol Feminino) - 05/11 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x Asterix Kieldrecht (Voleibol Feminino) - 05/11 20:00 - PortoCanal",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Palmeiras x Remo - 05/11 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Palmeiras x Remo - 05/11 22:30 - Canal11",
+      "pubDate": "Thu, 05 Nov 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cruzeiro x Bahia - 06/11 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cruzeiro x Bahia - 06/11 00:30 - Canal11",
+      "pubDate": "Fri, 06 Nov 2026 00:30:00",
       "guid": ""
     }
   ]

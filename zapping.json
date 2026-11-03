@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Boston Bruins (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 03/11 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Bruins (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 03/11 00:00 - SportTV 2",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Houston Rockets (Basket) x Boston Celtics (Basket) - 03/11 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Boston Celtics (Basket) - 03/11 01:30 - SportTV 1",
-      "pubDate": "Tue, 03 Nov 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Portugal (S16) x Escócia (S16) - 03/11 09:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (S16) x Escócia (S16) - 03/11 09:30 - SportTV 1",
@@ -299,6 +285,62 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AGF Aarhus x SC Braga - 05/11 17:45 - DAZN 1",
       "pubDate": "Thu, 05 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "AC Milan x Ferencváros - 05/11 17:45 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AC Milan x Ferencváros - 05/11 17:45 - DAZN 2",
+      "pubDate": "Thu, 05 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Lyon - 05/11 17:45 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Lyon - 05/11 17:45 - DAZN 3",
+      "pubDate": "Thu, 05 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Crystal Palace x TSG Hoffenheim - 05/11 17:45 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Crystal Palace x TSG Hoffenheim - 05/11 17:45 - DAZN 4",
+      "pubDate": "Thu, 05 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol  S17) x Áustria (Andebol  S17) - 05/11 19:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol  S17) x Áustria (Andebol  S17) - 05/11 19:00 - AndebolTV",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica x Lech Poznan - 05/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica x Lech Poznan - 05/11 20:00 - SportTV 5",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol  S19) x Espanha (Andebol  S19) - 05/11 20:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol  S19) x Espanha (Andebol  S19) - 05/11 20:00 - AndebolTV",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x FC Ararat-Armenia - 05/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x FC Ararat-Armenia - 05/11 20:00 - DAZN 1",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayer Leverkusen x Marseille - 05/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayer Leverkusen x Marseille - 05/11 20:00 - DAZN 2",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00",
       "guid": ""
     }
   ]

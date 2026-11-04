@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "FC Porto (Jun.A S19) x Napoli (Jun.A S19) - 04/11 12:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x Napoli (Jun.A S19) - 04/11 12:00 - PortoCanal",
-      "pubDate": "Wed, 04 Nov 2026 12:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Buriram United x Kashima Antlers - 04/11 12:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Buriram United x Kashima Antlers - 04/11 12:15 - Canal11",
-      "pubDate": "Wed, 04 Nov 2026 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Borussia Dortmund (Jun.A S19) x Real Betis (Jun.A S19) - 04/11 15:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Borussia Dortmund (Jun.A S19) x Real Betis (Jun.A S19) - 04/11 15:00 - DAZN 1",
-      "pubDate": "Wed, 04 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Japão (Feminino S17) x Coreia do Norte (Feminino S17) - 04/11 15:00 - LiveModeTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Japão (Feminino S17) x Coreia do Norte (Feminino S17) - 04/11 15:00 - LiveModeTV",
@@ -29,10 +8,10 @@
       "guid": ""
     },
     {
-      "title": "UD Leiria (S23) x Estoril Praia (S23) - 04/11 15:00 - Canal11",
+      "title": "Rennes x Olympiacos - 04/11 15:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria (S23) x Estoril Praia (S23) - 04/11 15:00 - Canal11",
-      "pubDate": "Wed, 04 Nov 2026 15:00:00",
+      "description": "Rennes x Olympiacos - 04/11 15:30 - DAZN 3",
+      "pubDate": "Wed, 04 Nov 2026 15:30:00",
       "guid": ""
     },
     {
@@ -197,6 +176,13 @@
       "guid": ""
     },
     {
+      "title": "Aldosivi x River Plate - 05/11 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Aldosivi x River Plate - 05/11 18:00 - SportTV 1",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
       "title": "Portugal (Andebol  S17) x Áustria (Andebol  S17) - 05/11 19:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portugal (Andebol  S17) x Áustria (Andebol  S17) - 05/11 19:00 - AndebolTV",
@@ -274,13 +260,6 @@
       "guid": ""
     },
     {
-      "title": "Al-Hazm x Al-Nassr - 06/11 14:55 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Hazm x Al-Nassr - 06/11 14:55 - SportTV 1",
-      "pubDate": "Fri, 06 Nov 2026 14:55:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Andebol  S17) x Áustria (Andebol  S17) - 06/11 15:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Andebol  S17) x Áustria (Andebol  S17) - 06/11 15:30 - AndebolTV",
@@ -288,10 +267,10 @@
       "guid": ""
     },
     {
-      "title": "Al-Ittihad Jeddah x Neom SC - 06/11 17:30 - SportTV 1",
+      "title": "Besiktas (Basket) x Zalgiris Kaunas (Basket) - 06/11 17:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Al-Ittihad Jeddah x Neom SC - 06/11 17:30 - SportTV 1",
-      "pubDate": "Fri, 06 Nov 2026 17:30:00",
+      "description": "Besiktas (Basket) x Zalgiris Kaunas (Basket) - 06/11 17:00 - SportTV 1",
+      "pubDate": "Fri, 06 Nov 2026 17:00:00",
       "guid": ""
     },
     {
@@ -323,10 +302,17 @@
       "guid": ""
     },
     {
-      "title": "Olympiacos (Basket) x Crvena Zvezda (Basket) - 06/11 19:15 - SportTV 5",
+      "title": "Hamburger SV x Borussia M´gladbach - 06/11 19:30 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Olympiacos (Basket) x Crvena Zvezda (Basket) - 06/11 19:15 - SportTV 5",
-      "pubDate": "Fri, 06 Nov 2026 19:15:00",
+      "description": "Hamburger SV x Borussia M´gladbach - 06/11 19:30 - DAZN 3",
+      "pubDate": "Fri, 06 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Venezia x Udinese - 06/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Venezia x Udinese - 06/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 06 Nov 2026 19:45:00",
       "guid": ""
     }
   ]

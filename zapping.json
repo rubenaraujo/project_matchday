@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Athletico Paranaense x Vasco - 04/11 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Athletico Paranaense x Vasco - 04/11 22:30 - Canal11",
-      "pubDate": "Wed, 04 Nov 2026 22:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 05/11 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Florida Panthers (Hóquei no Gelo  Seniores) x Chicago Blackhawks (Hóquei no Gelo  Seniores) - 05/11 00:30 - SportTV 2",
-      "pubDate": "Thu, 05 Nov 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Houston Rockets (Basket) x Minnesota Timberwolves (Basket) - 05/11 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Minnesota Timberwolves (Basket) - 05/11 01:30 - SportTV 1",
-      "pubDate": "Thu, 05 Nov 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
@@ -271,6 +250,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Leeds United x Tottenham - 07/11 12:30 - DAZN 1",
       "pubDate": "Sat, 07 Nov 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Málaga CF x Racing Santander - 07/11 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Málaga CF x Racing Santander - 07/11 13:00 - DAZN 3",
+      "pubDate": "Sat, 07 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x FC Penafiel - 07/11 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x FC Penafiel - 07/11 14:00 - SportTV +",
+      "pubDate": "Sat, 07 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torino x Lecce - 07/11 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torino x Lecce - 07/11 14:00 - SportTV 3",
+      "pubDate": "Sat, 07 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Mainz x Bayern München - 07/11 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Mainz x Bayern München - 07/11 14:30 - DAZN 4",
+      "pubDate": "Sat, 07 Nov 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "S. João Ver x Vitória SC - 07/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "S. João Ver x Vitória SC - 07/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Vianense x Leça FC - 07/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vianense x Leça FC - 07/11 15:00 - Canal11",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Caldas SC x UD Oliveirense - 07/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Caldas SC x UD Oliveirense - 07/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Futsal) x UD Sousel (Futsal) - 07/11 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Futsal) x UD Sousel (Futsal) - 07/11 15:00 - PortoCanal",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália (Andebol  S17) x Áustria (Andebol  S17) - 07/11 15:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália (Andebol  S17) x Áustria (Andebol  S17) - 07/11 15:00 - AndebolTV",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arsenal x Hull City - 07/11 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arsenal x Hull City - 07/11 15:00 - DAZN 1",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
       "guid": ""
     }
   ]

@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Itália (Andebol  S17) x Espanha (Andebol  S17) - 05/11 15:00 - AndebolTV",
-      "pubDate": "Thu, 05 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AGF Aarhus x SC Braga - 05/11 17:45 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AGF Aarhus x SC Braga - 05/11 17:45 - DAZN 1",
-      "pubDate": "Thu, 05 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "AC Milan x Ferencváros - 05/11 17:45 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AC Milan x Ferencváros - 05/11 17:45 - DAZN 2",
-      "pubDate": "Thu, 05 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Real Sociedad x Lyon - 05/11 17:45 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Real Sociedad x Lyon - 05/11 17:45 - DAZN 3",
-      "pubDate": "Thu, 05 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Crystal Palace x TSG Hoffenheim - 05/11 17:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Crystal Palace x TSG Hoffenheim - 05/11 17:45 - DAZN 4",
-      "pubDate": "Thu, 05 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Aldosivi x River Plate - 05/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Aldosivi x River Plate - 05/11 18:00 - SportTV 1",
-      "pubDate": "Thu, 05 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Andebol  S17) x Áustria (Andebol  S17) - 05/11 19:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol  S17) x Áustria (Andebol  S17) - 05/11 19:00 - AndebolTV",
-      "pubDate": "Thu, 05 Nov 2026 19:00:00",
-      "guid": ""
-    },
-    {
       "title": "Benfica x Lech Poznan - 05/11 20:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica x Lech Poznan - 05/11 20:00 - SportTV 5",
@@ -81,13 +32,6 @@
       "title": "AZ Alkmaar x Juventus - 05/11 20:00 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "AZ Alkmaar x Juventus - 05/11 20:00 - DAZN 3",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Monaco x Nordsjaelland - 05/11 20:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Monaco x Nordsjaelland - 05/11 20:00 - DAZN 4",
       "pubDate": "Thu, 05 Nov 2026 20:00:00",
       "guid": ""
     },
@@ -320,6 +264,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Arsenal x Hull City - 07/11 15:00 - DAZN 1",
       "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fulham x Newcastle - 07/11 15:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fulham x Newcastle - 07/11 15:00 - DAZN 2",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Basket) x Vitória SC (Basket) - 07/11 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Basket) x Vitória SC (Basket) - 07/11 15:00 - SportingTv",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanyol x Deportivo - 07/11 15:15 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanyol x Deportivo - 07/11 15:15 - DAZN 3",
+      "pubDate": "Sat, 07 Nov 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Nacional x Académico - 07/11 15:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nacional x Académico - 07/11 15:30 - SportTV 1",
+      "pubDate": "Sat, 07 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Académica OAF x Amarante FC - 07/11 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Académica OAF x Amarante FC - 07/11 15:30 - SportTV 2",
+      "pubDate": "Sat, 07 Nov 2026 15:30:00",
       "guid": ""
     }
   ]

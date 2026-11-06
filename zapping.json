@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Cruzeiro x Bahia - 06/11 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cruzeiro x Bahia - 06/11 00:30 - Canal11",
-      "pubDate": "Fri, 06 Nov 2026 00:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Golden State Warriors (Basket) x Miami Heat (Basket) - 06/11 03:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Golden State Warriors (Basket) x Miami Heat (Basket) - 06/11 03:00 - SportTV 1",
-      "pubDate": "Fri, 06 Nov 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Espanha (Andebol  S17) x Áustria (Andebol  S17) - 06/11 15:30 - AndebolTV",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Espanha (Andebol  S17) x Áustria (Andebol  S17) - 06/11 15:30 - AndebolTV",
@@ -92,6 +78,13 @@
       "guid": ""
     },
     {
+      "title": "Belenenses x Lusitano GC - 06/11 20:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Belenenses x Lusitano GC - 06/11 20:00 - C11 Stream",
+      "pubDate": "Fri, 06 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "FC Famalicão x FC Arouca - 06/11 20:45 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão x FC Arouca - 06/11 20:45 - SportTV 1",
@@ -130,6 +123,13 @@
       "title": "FC Felgueiras x Leixões - 07/11 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Felgueiras x Leixões - 07/11 11:00 - SportTV 1",
+      "pubDate": "Sat, 07 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo (Feminino) x Valadares Gaia (Feminino) - 07/11 11:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo (Feminino) x Valadares Gaia (Feminino) - 07/11 11:00 - C11 Stream",
       "pubDate": "Sat, 07 Nov 2026 11:00:00",
       "guid": ""
     },
@@ -327,6 +327,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Stuttgart x Werder Bremen - 07/11 17:30 - DAZN 3",
       "pubDate": "Sat, 07 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Luzia (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 07/11 18:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Luzia (Futsal Feminino) x Futsal Feijó (Futsal Feminino) - 07/11 18:00 - C11 Stream",
+      "pubDate": "Sat, 07 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Alverca x Casa Pia AC - 07/11 18:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Alverca x Casa Pia AC - 07/11 18:00 - SportTV 2",
+      "pubDate": "Sat, 07 Nov 2026 18:00:00",
       "guid": ""
     }
   ]

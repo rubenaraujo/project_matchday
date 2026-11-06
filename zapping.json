@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Benfica x Lech Poznan - 05/11 20:00 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica x Lech Poznan - 05/11 20:00 - SportTV 5",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Andebol  S19) x Espanha (Andebol  S19) - 05/11 20:00 - AndebolTV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Andebol  S19) x Espanha (Andebol  S19) - 05/11 20:00 - AndebolTV",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense x FC Ararat-Armenia - 05/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x FC Ararat-Armenia - 05/11 20:00 - DAZN 1",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Bayer Leverkusen x Marseille - 05/11 20:00 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bayer Leverkusen x Marseille - 05/11 20:00 - DAZN 2",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "AZ Alkmaar x Juventus - 05/11 20:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AZ Alkmaar x Juventus - 05/11 20:00 - DAZN 3",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Voleibol Feminino) x Asterix Avo (Voleibol Feminino) - 05/11 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Voleibol Feminino) x Asterix Avo (Voleibol Feminino) - 05/11 20:00 - PortoCanal",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Palmeiras x Remo - 05/11 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Palmeiras x Remo - 05/11 22:30 - Canal11",
-      "pubDate": "Thu, 05 Nov 2026 22:30:00",
-      "guid": ""
-    },
-    {
       "title": "Cruzeiro x Bahia - 06/11 00:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Cruzeiro x Bahia - 06/11 00:30 - Canal11",
@@ -148,10 +99,24 @@
       "guid": ""
     },
     {
+      "title": "Espanha (Futsal) x Portugal (Futsal) - 06/11 21:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Futsal) x Portugal (Futsal) - 06/11 21:30 - Canal11",
+      "pubDate": "Fri, 06 Nov 2026 21:30:00",
+      "guid": ""
+    },
+    {
       "title": "Vitória x Fluminense - 06/11 23:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória x Fluminense - 06/11 23:00 - Canal11",
       "pubDate": "Fri, 06 Nov 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Baltimore Ravens (Fut. Americano) x Jacksonville Jaguars (Fut. Americano) - 07/11 01:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Baltimore Ravens (Fut. Americano) x Jacksonville Jaguars (Fut. Americano) - 07/11 01:15 - DAZN 1",
+      "pubDate": "Sat, 07 Nov 2026 01:15:00",
       "guid": ""
     },
     {
@@ -299,6 +264,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Académica OAF x Amarante FC - 07/11 15:30 - SportTV 2",
       "pubDate": "Sat, 07 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Amedspor SK - 07/11 16:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Amedspor SK - 07/11 16:00 - SportTV 3",
+      "pubDate": "Sat, 07 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 07/11 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal Feminino) x Atlético CP (Futsal Feminino) - 07/11 17:00 - C11 Stream",
+      "pubDate": "Sat, 07 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal Feminino) x GD Árvore (Futsal Feminino) - 07/11 17:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal Feminino) x GD Árvore (Futsal Feminino) - 07/11 17:00 - C11 Stream",
+      "pubDate": "Sat, 07 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AA Espinho (Voleibol) x Benfica (Voleibol) - 07/11 17:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AA Espinho (Voleibol) x Benfica (Voleibol) - 07/11 17:00 - SportTV 7",
+      "pubDate": "Sat, 07 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Feminino) x SC Braga (Feminino) - 07/11 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Feminino) x SC Braga (Feminino) - 07/11 17:30 - Canal11",
+      "pubDate": "Sat, 07 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Andebol  S17) x Espanha (Andebol  S17) - 07/11 17:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Andebol  S17) x Espanha (Andebol  S17) - 07/11 17:30 - AndebolTV",
+      "pubDate": "Sat, 07 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Nottingham Forest x Manchester City - 07/11 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nottingham Forest x Manchester City - 07/11 17:30 - DAZN 1",
+      "pubDate": "Sat, 07 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Osasuna x Athletic Bilbao - 07/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Osasuna x Athletic Bilbao - 07/11 17:30 - DAZN 2",
+      "pubDate": "Sat, 07 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Stuttgart x Werder Bremen - 07/11 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stuttgart x Werder Bremen - 07/11 17:30 - DAZN 3",
+      "pubDate": "Sat, 07 Nov 2026 17:30:00",
       "guid": ""
     }
   ]

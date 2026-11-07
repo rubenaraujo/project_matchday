@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Espanha (Futsal) x Portugal (Futsal) - 06/11 21:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha (Futsal) x Portugal (Futsal) - 06/11 21:30 - Canal11",
-      "pubDate": "Fri, 06 Nov 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória x Fluminense - 06/11 23:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória x Fluminense - 06/11 23:00 - Canal11",
-      "pubDate": "Fri, 06 Nov 2026 23:00:00",
-      "guid": ""
-    },
-    {
       "title": "Baltimore Ravens (Fut. Americano) x Jacksonville Jaguars (Fut. Americano) - 07/11 01:15 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Baltimore Ravens (Fut. Americano) x Jacksonville Jaguars (Fut. Americano) - 07/11 01:15 - DAZN 1",
@@ -278,6 +264,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Basket Feminino) x União Sportiva (Basket Feminino) - 07/11 19:00 - BTv",
       "pubDate": "Sat, 07 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Hertha BSC x Wolfsburg - 07/11 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hertha BSC x Wolfsburg - 07/11 19:30 - DAZN 3",
+      "pubDate": "Sat, 07 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Roma x Sassuolo - 07/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roma x Sassuolo - 07/11 19:45 - SportTV 3",
+      "pubDate": "Sat, 07 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Troyes - 07/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Troyes - 07/11 19:45 - SportTV 4",
+      "pubDate": "Sat, 07 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Marco 09 x USC Paredes - 07/11 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Marco 09 x USC Paredes - 07/11 20:00 - Canal11",
+      "pubDate": "Sat, 07 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "St. Mirren x Rangers - 07/11 20:00 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "St. Mirren x Rangers - 07/11 20:00 - SportTV 7",
+      "pubDate": "Sat, 07 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Valencia CF x Real Madrid - 07/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Valencia CF x Real Madrid - 07/11 20:00 - DAZN 1",
+      "pubDate": "Sat, 07 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Moreirense - 07/11 20:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Moreirense - 07/11 20:30 - SportTV 1",
+      "pubDate": "Sat, 07 Nov 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Defensa y Justicia - 07/11 20:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Defensa y Justicia - 07/11 20:30 - SportTV 2",
+      "pubDate": "Sat, 07 Nov 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Clube K (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 07/11 21:00 - FPV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Clube K (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 07/11 21:00 - FPV",
+      "pubDate": "Sat, 07 Nov 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Basket) x Ovarense Basquetebol (Basket) - 07/11 21:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Basket) x Ovarense Basquetebol (Basket) - 07/11 21:00 - DAZN 4",
+      "pubDate": "Sat, 07 Nov 2026 21:00:00",
       "guid": ""
     }
   ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "Golden State Warriors (Basket) x Orlando Magic (Basket) - 08/11 01:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Golden State Warriors (Basket) x Orlando Magic (Basket) - 08/11 01:30 - SportTV 2",
-      "pubDate": "Sun, 08 Nov 2026 01:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 08/11 03:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 08/11 03:00 - SportTV 3",
-      "pubDate": "Sun, 08 Nov 2026 03:00:00",
-      "guid": ""
-    },
-    {
       "title": "Louletano x SC Covilhã - 08/11 11:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Louletano x SC Covilhã - 08/11 11:00 - C11 Stream",
@@ -190,16 +176,16 @@
       "guid": ""
     },
     {
-      "title": "Estoril Praia x Marítimo - 08/11 15:30 - SportTV 2",
+      "title": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 08/11 15:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Estoril Praia x Marítimo - 08/11 15:30 - SportTV 2",
+      "description": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 08/11 15:30 - FPP TV",
       "pubDate": "Sun, 08 Nov 2026 15:30:00",
       "guid": ""
     },
     {
-      "title": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 08/11 15:30 - FPP TV",
+      "title": "Nacional x Académico - 08/11 15:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 08/11 15:30 - FPP TV",
+      "description": "Nacional x Académico - 08/11 15:30 - SportTV 2",
       "pubDate": "Sun, 08 Nov 2026 15:30:00",
       "guid": ""
     },
@@ -292,6 +278,55 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Oldham Athletic x Sheffield Wed. - 08/11 17:15 - SportTV 5",
       "pubDate": "Sun, 08 Nov 2026 17:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Villarreal CF x Getafe CF - 08/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Villarreal CF x Getafe CF - 08/11 17:30 - DAZN 2",
+      "pubDate": "Sun, 08 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Celta de Vigo x Levante - 08/11 17:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Celta de Vigo x Levante - 08/11 17:30 - DAZN 3",
+      "pubDate": "Sun, 08 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (S23) x Farense (S23) - 08/11 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (S23) x Farense (S23) - 08/11 17:30 - Canal11",
+      "pubDate": "Sun, 08 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Vitória SC x FC Porto - 08/11 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC x FC Porto - 08/11 18:00 - SportTV 1",
+      "pubDate": "Sun, 08 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (B) x CD Tondela - 08/11 18:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (B) x CD Tondela - 08/11 18:00 - SportingTv",
+      "pubDate": "Sun, 08 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "TSG Hoffenheim x Schalke 04 - 08/11 18:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "TSG Hoffenheim x Schalke 04 - 08/11 18:30 - DAZN 4",
+      "pubDate": "Sun, 08 Nov 2026 18:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Fiorentina x Juventus - 08/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fiorentina x Juventus - 08/11 19:45 - SportTV 4",
+      "pubDate": "Sun, 08 Nov 2026 19:45:00",
       "guid": ""
     }
   ]

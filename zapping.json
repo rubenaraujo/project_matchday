@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Oldham Athletic x Sheffield Wed. - 08/11 17:15 - SportTV 5",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Oldham Athletic x Sheffield Wed. - 08/11 17:15 - SportTV 5",
-      "pubDate": "Sun, 08 Nov 2026 17:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Vitória SC x FC Porto - 08/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC x FC Porto - 08/11 18:00 - SportTV 1",
-      "pubDate": "Sun, 08 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (B) x CD Tondela - 08/11 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x CD Tondela - 08/11 18:00 - SportingTv",
-      "pubDate": "Sun, 08 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "TSG Hoffenheim x Schalke 04 - 08/11 18:30 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "TSG Hoffenheim x Schalke 04 - 08/11 18:30 - DAZN 4",
-      "pubDate": "Sun, 08 Nov 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Juventus - 08/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Juventus - 08/11 19:45 - SportTV 4",
-      "pubDate": "Sun, 08 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Lens x Marseille - 08/11 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Lens x Marseille - 08/11 19:45 - SportTV 7",
-      "pubDate": "Sun, 08 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Paços de Ferreira x Trofense - 08/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Paços de Ferreira x Trofense - 08/11 20:00 - Canal11",
-      "pubDate": "Sun, 08 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético de Madrid x Barcelona - 08/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético de Madrid x Barcelona - 08/11 20:00 - DAZN 1",
-      "pubDate": "Sun, 08 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Rio Ave x SC Braga - 08/11 20:30 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rio Ave x SC Braga - 08/11 20:30 - SportTV 3",
-      "pubDate": "Sun, 08 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Est. Amadora x Benfica - 08/11 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Benfica - 08/11 20:30 - SportTV 2",
-      "pubDate": "Sun, 08 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "New England Patriots (Fut. Americano) x Green Bay Packers (Fut. Americano) - 08/11 21:25 - DAZN 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "New England Patriots (Fut. Americano) x Green Bay Packers (Fut. Americano) - 08/11 21:25 - DAZN 2",
@@ -187,6 +117,181 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Asterix Avo (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 11/11 17:00 - PortoCanal",
       "pubDate": "Wed, 11 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S19) x Lituânia (S19) - 11/11 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S19) x Lituânia (S19) - 11/11 17:00 - Canal11",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Dinamarca (Basket Feminino) x Portugal (Basket Feminino) - 11/11 17:30 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dinamarca (Basket Feminino) x Portugal (Basket Feminino) - 11/11 17:30 - RTP2",
+      "pubDate": "Wed, 11 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Feminino) x Sparta Praha (Feminino) - 11/11 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Feminino) x Sparta Praha (Feminino) - 11/11 18:00 - SportTV 1",
+      "pubDate": "Wed, 11 Nov 2026 18:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x Xilasedici VK (Voleibol) - 11/11 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x Xilasedici VK (Voleibol) - 11/11 19:30 - SportingTv",
+      "pubDate": "Wed, 11 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Feminino) x Austria Wien (Feminino) - 11/11 20:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Feminino) x Austria Wien (Feminino) - 11/11 20:00 - RTP2",
+      "pubDate": "Wed, 11 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
+      "pubDate": "Wed, 11 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Toronto Raptors (Basket) x Boston Celtics (Basket) - 12/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Toronto Raptors (Basket) x Boston Celtics (Basket) - 12/11 00:00 - SportTV 1",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portland Trail Blazers (Basket) x Oklahoma City Thunder (Basket) - 12/11 03:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portland Trail Blazers (Basket) x Oklahoma City Thunder (Basket) - 12/11 03:00 - SportTV 1",
+      "pubDate": "Thu, 12 Nov 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Noruega (S17) - 12/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Noruega (S17) - 12/11 15:00 - Canal11",
+      "pubDate": "Thu, 12 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Madagáscar x Guiné-Bissau - 12/11 16:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Madagáscar x Guiné-Bissau - 12/11 16:00 - SportTV 4",
+      "pubDate": "Thu, 12 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turquia x Bélgica - 12/11 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turquia x Bélgica - 12/11 17:00 - SportTV 1",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Arménia x Chipre - 12/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Arménia x Chipre - 12/11 17:00 - SportTV 2",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Seattle Kraken (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 12/11 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Seattle Kraken (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 12/11 17:00 - SportTV 3",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Itália x França - 12/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Itália x França - 12/11 19:45 - SportTV 1",
+      "pubDate": "Thu, 12 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Inglaterra x Croácia - 12/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inglaterra x Croácia - 12/11 19:45 - SportTV 3",
+      "pubDate": "Thu, 12 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Chéquia x Espanha - 12/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chéquia x Espanha - 12/11 19:45 - SportTV 2",
+      "pubDate": "Thu, 12 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Albânia x Finlândia - 12/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Albânia x Finlândia - 12/11 19:45 - SportTV 4",
+      "pubDate": "Thu, 12 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid (Basket) x Crvena Zvezda (Basket) - 12/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid (Basket) x Crvena Zvezda (Basket) - 12/11 20:00 - SportTV 5",
+      "pubDate": "Thu, 12 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x Toronto Raptors (Basket) - 13/11 00:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x Toronto Raptors (Basket) - 13/11 00:00 - SportTV 1",
+      "pubDate": "Fri, 13 Nov 2026 00:00:00",
+      "guid": ""
+    },
+    {
+      "title": "New York Giants (Fut. Americano) x Washington Commanders (Fut. Americano) - 13/11 01:15 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "New York Giants (Fut. Americano) x Washington Commanders (Fut. Americano) - 13/11 01:15 - DAZN 1",
+      "pubDate": "Fri, 13 Nov 2026 01:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S16) x Rep. Irlanda (Feminino S16) - 13/11 11:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S16) x Rep. Irlanda (Feminino S16) - 13/11 11:30 - Canal11",
+      "pubDate": "Fri, 13 Nov 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Moçambique x Etiópia - 13/11 13:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moçambique x Etiópia - 13/11 13:00 - SportTV 1",
+      "pubDate": "Fri, 13 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cabo Verde x Libéria - 13/11 16:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cabo Verde x Libéria - 13/11 16:00 - SportTV 2",
+      "pubDate": "Fri, 13 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Moldávia x Cazaquistão - 13/11 17:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Moldávia x Cazaquistão - 13/11 17:00 - SportTV 1",
+      "pubDate": "Fri, 13 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sérvia x Alemanha - 13/11 19:45 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sérvia x Alemanha - 13/11 19:45 - SportTV 1",
+      "pubDate": "Fri, 13 Nov 2026 19:45:00",
       "guid": ""
     }
   ]

@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "title": "Sporting (Voleibol) x Castêlo da Maia (Voleibol) - 07/11 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Castêlo da Maia (Voleibol) - 07/11 18:00 - SportingTv",
-      "pubDate": "Sat, 07 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Feminino) x Racing Power FC (Feminino) - 07/11 19:00 - Online",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Feminino) x Racing Power FC (Feminino) - 07/11 19:00 - Online",
-      "pubDate": "Sat, 07 Nov 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Hertha BSC x Wolfsburg - 07/11 19:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hertha BSC x Wolfsburg - 07/11 19:30 - DAZN 3",
-      "pubDate": "Sat, 07 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Roma x Sassuolo - 07/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Roma x Sassuolo - 07/11 19:45 - SportTV 3",
-      "pubDate": "Sat, 07 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "PSG x Troyes - 07/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSG x Troyes - 07/11 19:45 - SportTV 4",
-      "pubDate": "Sat, 07 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "AD Marco 09 x USC Paredes - 07/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "AD Marco 09 x USC Paredes - 07/11 20:00 - Canal11",
-      "pubDate": "Sat, 07 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "St. Mirren x Rangers - 07/11 20:00 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "St. Mirren x Rangers - 07/11 20:00 - SportTV 7",
-      "pubDate": "Sat, 07 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Valencia CF x Real Madrid - 07/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Valencia CF x Real Madrid - 07/11 20:00 - DAZN 1",
-      "pubDate": "Sat, 07 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting x Moreirense - 07/11 20:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting x Moreirense - 07/11 20:30 - SportTV 1",
-      "pubDate": "Sat, 07 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x Defensa y Justicia - 07/11 20:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Defensa y Justicia - 07/11 20:30 - SportTV 2",
-      "pubDate": "Sat, 07 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Clube K (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 07/11 21:00 - FPV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Clube K (Voleibol Feminino) x Castêlo da Maia (Voleibol Feminino) - 07/11 21:00 - FPV",
-      "pubDate": "Sat, 07 Nov 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Oliveirense (Basket) x Ovarense Basquetebol (Basket) - 07/11 21:00 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Oliveirense (Basket) x Ovarense Basquetebol (Basket) - 07/11 21:00 - DAZN 4",
-      "pubDate": "Sat, 07 Nov 2026 21:00:00",
-      "guid": ""
-    },
-    {
       "title": "Golden State Warriors (Basket) x Orlando Magic (Basket) - 08/11 01:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Golden State Warriors (Basket) x Orlando Magic (Basket) - 08/11 01:30 - SportTV 2",
@@ -243,6 +159,139 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Basket) x SC Braga (Basket) - 08/11 15:00 - PortoCanal",
       "pubDate": "Sun, 08 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PV Colégio Efanor (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 08/11 15:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PV Colégio Efanor (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 08/11 15:00 - RTP2",
+      "pubDate": "Sun, 08 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/11 15:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol Feminino) x Leixões (Voleibol Feminino) - 08/11 15:00 - SportingTv",
+      "pubDate": "Sun, 08 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Sociedad x Rayo Vallecano - 08/11 15:15 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Sociedad x Rayo Vallecano - 08/11 15:15 - DAZN 3",
+      "pubDate": "Sun, 08 Nov 2026 15:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Santa Clara x Gil Vicente - 08/11 15:30 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara x Gil Vicente - 08/11 15:30 - SportTV 3",
+      "pubDate": "Sun, 08 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia x Marítimo - 08/11 15:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia x Marítimo - 08/11 15:30 - SportTV 2",
+      "pubDate": "Sun, 08 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 08/11 15:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Oliveirense (Hóquei) x AD Sanjoanense (Hóquei) - 08/11 15:30 - FPP TV",
+      "pubDate": "Sun, 08 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Lousada x Aparecida - 08/11 16:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Lousada x Aparecida - 08/11 16:00 - ABola TV",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "São Mamede (Voleibol Feminino) x CD Fiães (Voleibol Feminino) - 08/11 16:00 - FPV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "São Mamede (Voleibol Feminino) x CD Fiães (Voleibol Feminino) - 08/11 16:00 - FPV",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude Pacense (Hóquei) x Juventude de Viana (Hóquei) - 08/11 16:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude Pacense (Hóquei) x Juventude de Viana (Hóquei) - 08/11 16:00 - FPP TV",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Brest x Lyon - 08/11 16:15 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brest x Lyon - 08/11 16:15 - SportTV 7",
+      "pubDate": "Sun, 08 Nov 2026 16:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Manchester United x Aston Villa - 08/11 16:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Manchester United x Aston Villa - 08/11 16:30 - DAZN 1",
+      "pubDate": "Sun, 08 Nov 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Freiburg x 1. FC Union Berlin - 08/11 16:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Freiburg x 1. FC Union Berlin - 08/11 16:30 - DAZN 4",
+      "pubDate": "Sun, 08 Nov 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Como 1907 - 08/11 17:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Como 1907 - 08/11 17:00 - SportTV 6",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Espanha (Andebol) x Portugal (Andebol) - 08/11 17:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Espanha (Andebol) x Portugal (Andebol) - 08/11 17:00 - RTP2",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Voleibol Feminino) x GC Vilacondense (Voleibol Feminino) - 08/11 17:00 - FPV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Voleibol Feminino) x GC Vilacondense (Voleibol Feminino) - 08/11 17:00 - FPV",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "OC Barcelos (Hóquei) x SC Tomar (Hóquei) - 08/11 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "OC Barcelos (Hóquei) x SC Tomar (Hóquei) - 08/11 17:00 - FPP TV",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "HC Braga (Hóquei) x AD Oeiras (Hóquei) - 08/11 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "HC Braga (Hóquei) x AD Oeiras (Hóquei) - 08/11 17:00 - FPP TV",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Riba d´Ave (Hóquei) x AD Valongo (Hóquei) - 08/11 17:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Riba d´Ave (Hóquei) x AD Valongo (Hóquei) - 08/11 17:00 - FPP TV",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Oldham Athletic x Sheffield Wed. - 08/11 17:15 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oldham Athletic x Sheffield Wed. - 08/11 17:15 - SportTV 5",
+      "pubDate": "Sun, 08 Nov 2026 17:15:00",
       "guid": ""
     }
   ]

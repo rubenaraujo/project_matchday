@@ -1,72 +1,9 @@
 {
   "items": [
     {
-      "title": "Louletano x SC Covilhã - 08/11 11:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Louletano x SC Covilhã - 08/11 11:00 - C11 Stream",
-      "pubDate": "Sun, 08 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Feirense x Lusitânia de Lourosa - 08/11 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feirense x Lusitânia de Lourosa - 08/11 11:00 - SportTV 1",
-      "pubDate": "Sun, 08 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (B) x Portimonense - 08/11 11:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (B) x Portimonense - 08/11 11:00 - PortoCanal",
-      "pubDate": "Sun, 08 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (S23) x SC Braga (S23) - 08/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (S23) x SC Braga (S23) - 08/11 11:00 - Canal11",
-      "pubDate": "Sun, 08 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Heerenveen x Feyenoord - 08/11 11:15 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Heerenveen x Feyenoord - 08/11 11:15 - DAZN 1",
-      "pubDate": "Sun, 08 Nov 2026 11:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Napoli x Lazio - 08/11 11:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Napoli x Lazio - 08/11 11:30 - SportTV 2",
-      "pubDate": "Sun, 08 Nov 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Jun.A S19) x FC Vizela (Jun.A S19) - 08/11 11:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Jun.A S19) x FC Vizela (Jun.A S19) - 08/11 11:30 - PortoCanal",
-      "pubDate": "Sun, 08 Nov 2026 11:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Corum FK x Fenerbahçe - 08/11 13:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Corum FK x Fenerbahçe - 08/11 13:00 - SportTV 3",
-      "pubDate": "Sun, 08 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
       "title": "Team Esbjerg (Andebol Feminino) x Ferencváros (Andebol Feminino) - 08/11 13:00 - SportTV 5",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Team Esbjerg (Andebol Feminino) x Ferencváros (Andebol Feminino) - 08/11 13:00 - SportTV 5",
-      "pubDate": "Sun, 08 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Elche CF x Real Betis - 08/11 13:00 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Elche CF x Real Betis - 08/11 13:00 - DAZN 3",
       "pubDate": "Sun, 08 Nov 2026 13:00:00",
       "guid": ""
     },
@@ -218,6 +155,13 @@
       "guid": ""
     },
     {
+      "title": "Petro de Luanda x 1º Maio Benguela - 08/11 16:15 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Petro de Luanda x 1º Maio Benguela - 08/11 16:15 - ABola TV",
+      "pubDate": "Sun, 08 Nov 2026 16:15:00",
+      "guid": ""
+    },
+    {
       "title": "Manchester United x Aston Villa - 08/11 16:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester United x Aston Villa - 08/11 16:30 - DAZN 1",
@@ -320,13 +264,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "TSG Hoffenheim x Schalke 04 - 08/11 18:30 - DAZN 4",
       "pubDate": "Sun, 08 Nov 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Fiorentina x Juventus - 08/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fiorentina x Juventus - 08/11 19:45 - SportTV 4",
-      "pubDate": "Sun, 08 Nov 2026 19:45:00",
       "guid": ""
     }
   ]

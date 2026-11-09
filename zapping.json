@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "New England Patriots (Fut. Americano) x Green Bay Packers (Fut. Americano) - 08/11 21:25 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New England Patriots (Fut. Americano) x Green Bay Packers (Fut. Americano) - 08/11 21:25 - DAZN 2",
-      "pubDate": "Sun, 08 Nov 2026 21:25:00",
-      "guid": ""
-    },
-    {
-      "title": "Detroit Pistons (Basket) x LA Lakers (Basket) - 08/11 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Detroit Pistons (Basket) x LA Lakers (Basket) - 08/11 23:00 - SportTV 1",
-      "pubDate": "Sun, 08 Nov 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chicago Bears (Fut. Americano) x Tampa Bay Buccaneers (Fut. Americano) - 09/11 01:20 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chicago Bears (Fut. Americano) x Tampa Bay Buccaneers (Fut. Americano) - 09/11 01:20 - DAZN 2",
-      "pubDate": "Mon, 09 Nov 2026 01:20:00",
-      "guid": ""
-    },
-    {
       "title": "CE Sabadell x Real Sociedad - 09/11 19:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "CE Sabadell x Real Sociedad - 09/11 19:30 - DAZN 1",
@@ -71,9 +50,9 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - SportingTv",
+      "title": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - FPP TV",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - SportingTv",
+      "description": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - FPP TV",
       "pubDate": "Tue, 10 Nov 2026 20:30:00",
       "guid": ""
     },
@@ -155,9 +134,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
+      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - DAZN",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
+      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - DAZN",
       "pubDate": "Wed, 11 Nov 2026 20:00:00",
       "guid": ""
     },
@@ -292,6 +271,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sérvia x Alemanha - 13/11 19:45 - SportTV 1",
       "pubDate": "Fri, 13 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Países Baixos x Grécia - 13/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Países Baixos x Grécia - 13/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 13 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Bulgária x Islândia - 13/11 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bulgária x Islândia - 13/11 19:45 - SportTV 7",
+      "pubDate": "Fri, 13 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Eslovénia x Suíça - 13/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Eslovénia x Suíça - 13/11 19:45 - SportTV 4",
+      "pubDate": "Fri, 13 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Escócia x Macedónia do Norte - 13/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Escócia x Macedónia do Norte - 13/11 19:45 - SportTV 3",
+      "pubDate": "Fri, 13 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marrocos x Níger - 13/11 20:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marrocos x Níger - 13/11 20:00 - SportTV 6",
+      "pubDate": "Fri, 13 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense (Futsal) x Leões Porto Salvo (Futsal) - 13/11 21:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense (Futsal) x Leões Porto Salvo (Futsal) - 13/11 21:30 - Canal11",
+      "pubDate": "Fri, 13 Nov 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Farense (S23) x Sporting (S23) - 14/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Farense (S23) x Sporting (S23) - 14/11 11:00 - Canal11",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Kosovo x Israel - 14/11 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Kosovo x Israel - 14/11 14:00 - SportTV 1",
+      "pubDate": "Sat, 14 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (Futsal) x Portimonense (Futsal) - 14/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (Futsal) x Portimonense (Futsal) - 14/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/11 15:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/11 15:00 - RTP2",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00",
       "guid": ""
     }
   ]

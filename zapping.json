@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "CE Sabadell x Real Sociedad - 09/11 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CE Sabadell x Real Sociedad - 09/11 19:30 - DAZN 1",
-      "pubDate": "Mon, 09 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense x UD Leiria - 09/11 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x UD Leiria - 09/11 20:15 - SportTV 1",
-      "pubDate": "Mon, 09 Nov 2026 20:15:00",
-      "guid": ""
-    },
-    {
       "title": "Novasemente (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 09/11 20:30 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Novasemente (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 09/11 20:30 - Canal11",
@@ -264,6 +250,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Moldávia x Cazaquistão - 13/11 17:00 - SportTV 1",
       "pubDate": "Fri, 13 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Andebol Feminino) x Házená Kynzvart (Andebol Feminino) - 13/11 19:30 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Andebol Feminino) x Házená Kynzvart (Andebol Feminino) - 13/11 19:30 - BTv",
+      "pubDate": "Fri, 13 Nov 2026 19:30:00",
       "guid": ""
     },
     {

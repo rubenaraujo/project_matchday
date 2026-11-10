@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "title": "JL Bourg-en-Bresse (Basket) x KK Buducnost (Basket) - 10/11 18:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "JL Bourg-en-Bresse (Basket) x KK Buducnost (Basket) - 10/11 18:30 - SportTV 2",
-      "pubDate": "Tue, 10 Nov 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - SportingTv",
-      "pubDate": "Tue, 10 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
       "title": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Minnesota Wild (Hóquei no Gelo  Seniores) - 11/11 00:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Montreal Canadiens (Hóquei no Gelo  Seniores) x Minnesota Wild (Hóquei no Gelo  Seniores) - 11/11 00:00 - SportTV 2",
@@ -61,13 +47,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sporting (Voleibol) x Xilasedici VK (Voleibol) - 11/11 19:30 - SportingTv",
       "pubDate": "Wed, 11 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Feminino) x Austria Wien (Feminino) - 11/11 20:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x Austria Wien (Feminino) - 11/11 20:00 - RTP2",
-      "pubDate": "Wed, 11 Nov 2026 20:00:00",
       "guid": ""
     },
     {
@@ -295,6 +274,13 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Futsal) x Rio Ave (Futsal) - 14/11 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x Rio Ave (Futsal) - 14/11 11:00 - SportTV 1",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
       "title": "Kosovo x Israel - 14/11 14:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Kosovo x Israel - 14/11 14:00 - SportTV 1",
@@ -334,13 +320,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "GD Árvore (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/11 16:00 - C11 Stream",
       "pubDate": "Sat, 14 Nov 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Noruega x País de Gales - 14/11 17:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Noruega x País de Gales - 14/11 17:00 - SportTV 2",
-      "pubDate": "Sat, 14 Nov 2026 17:00:00",
       "guid": ""
     }
   ]

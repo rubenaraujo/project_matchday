@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "title": "Novasemente (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 09/11 20:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Novasemente (Futsal Feminino) x Nun´Álvares (Futsal Feminino) - 09/11 20:30 - Canal11",
-      "pubDate": "Mon, 09 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Edmonton Oilers (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 10/11 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Edmonton Oilers (Hóquei no Gelo  Seniores) x New York Rangers (Hóquei no Gelo  Seniores) - 10/11 01:00 - SportTV 2",
-      "pubDate": "Tue, 10 Nov 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Houston Rockets (Basket) x Denver Nuggets (Basket) - 10/11 01:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Houston Rockets (Basket) x Denver Nuggets (Basket) - 10/11 01:30 - SportTV 1",
-      "pubDate": "Tue, 10 Nov 2026 01:30:00",
-      "guid": ""
-    },
-    {
       "title": "Santa Clara (S23) x Torreense (S23) - 10/11 12:00 - C11 Stream",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Santa Clara (S23) x Torreense (S23) - 10/11 12:00 - C11 Stream",
@@ -334,6 +313,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x SC Braga (Voleibol Feminino) - 14/11 15:00 - RTP2",
       "pubDate": "Sat, 14 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Bulgária (S17) - 14/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Bulgária (S17) - 14/11 15:00 - Canal11",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Águas Santas (Andebol) x Benfica (Andebol) - 14/11 15:00 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águas Santas (Andebol) x Benfica (Andebol) - 14/11 15:00 - ABola TV",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Árvore (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/11 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Árvore (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/11 16:00 - C11 Stream",
+      "pubDate": "Sat, 14 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega x País de Gales - 14/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega x País de Gales - 14/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 14 Nov 2026 17:00:00",
       "guid": ""
     }
   ]

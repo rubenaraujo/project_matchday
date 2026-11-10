@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Santa Clara (S23) x Torreense (S23) - 10/11 12:00 - C11 Stream",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Santa Clara (S23) x Torreense (S23) - 10/11 12:00 - C11 Stream",
-      "pubDate": "Tue, 10 Nov 2026 12:00:00",
-      "guid": ""
-    },
-    {
       "title": "JL Bourg-en-Bresse (Basket) x KK Buducnost (Basket) - 10/11 18:30 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "JL Bourg-en-Bresse (Basket) x KK Buducnost (Basket) - 10/11 18:30 - SportTV 2",
@@ -15,9 +8,9 @@
       "guid": ""
     },
     {
-      "title": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - FPP TV",
+      "title": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - FPP TV",
+      "description": "Sporting (Hóquei) x Candelária (Hóquei) - 10/11 20:30 - SportingTv",
       "pubDate": "Tue, 10 Nov 2026 20:30:00",
       "guid": ""
     },
@@ -43,30 +36,9 @@
       "guid": ""
     },
     {
-      "title": "Portugal (Feminino S16) x Rep. Irlanda (Feminino S16) - 11/11 11:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Feminino S16) x Rep. Irlanda (Feminino S16) - 11/11 11:00 - Canal11",
-      "pubDate": "Wed, 11 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S17) x Andorra (S17) - 11/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S17) x Andorra (S17) - 11/11 15:00 - Canal11",
-      "pubDate": "Wed, 11 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
       "title": "Asterix Avo (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 11/11 17:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Asterix Avo (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 11/11 17:00 - PortoCanal",
-      "pubDate": "Wed, 11 Nov 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S19) x Lituânia (S19) - 11/11 17:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S19) x Lituânia (S19) - 11/11 17:00 - Canal11",
       "pubDate": "Wed, 11 Nov 2026 17:00:00",
       "guid": ""
     },
@@ -99,9 +71,9 @@
       "guid": ""
     },
     {
-      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - DAZN",
+      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - DAZN",
+      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
       "pubDate": "Wed, 11 Nov 2026 20:00:00",
       "guid": ""
     },
@@ -117,6 +89,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Portland Trail Blazers (Basket) x Oklahoma City Thunder (Basket) - 12/11 03:00 - SportTV 1",
       "pubDate": "Thu, 12 Nov 2026 03:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Feminino S16) x Rep. Irlanda (Feminino S16) - 12/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Feminino S16) x Rep. Irlanda (Feminino S16) - 12/11 11:00 - Canal11",
+      "pubDate": "Thu, 12 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S17) x Andorra (S17) - 12/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S17) x Andorra (S17) - 12/11 15:00 - Canal11",
+      "pubDate": "Thu, 12 Nov 2026 15:00:00",
       "guid": ""
     },
     {
@@ -151,6 +137,13 @@
       "title": "Seattle Kraken (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 12/11 17:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Seattle Kraken (Hóquei no Gelo  Seniores) x Carolina Hurricanes (Hóquei no Gelo  Seniores) - 12/11 17:00 - SportTV 3",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S19) x Lituânia (S19) - 12/11 17:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S19) x Lituânia (S19) - 12/11 17:00 - Canal11",
       "pubDate": "Thu, 12 Nov 2026 17:00:00",
       "guid": ""
     },
@@ -235,6 +228,13 @@
       "title": "Benfica (Andebol Feminino) x Házená Kynzvart (Andebol Feminino) - 13/11 19:30 - BTv",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Benfica (Andebol Feminino) x Házená Kynzvart (Andebol Feminino) - 13/11 19:30 - BTv",
+      "pubDate": "Fri, 13 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Inglaterra (S21) x Portugal (S21) - 13/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Inglaterra (S21) x Portugal (S21) - 13/11 19:30 - Canal11",
       "pubDate": "Fri, 13 Nov 2026 19:30:00",
       "guid": ""
     },

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "title": "Asterix Avo (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 11/11 17:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Asterix Avo (Voleibol Feminino) x FC Porto (Voleibol Feminino) - 11/11 17:00 - PortoCanal",
-      "pubDate": "Wed, 11 Nov 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca (Basket Feminino) x Portugal (Basket Feminino) - 11/11 17:30 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca (Basket Feminino) x Portugal (Basket Feminino) - 11/11 17:30 - RTP2",
-      "pubDate": "Wed, 11 Nov 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Voleibol) x Xilasedici VK (Voleibol) - 11/11 19:30 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Voleibol) x Xilasedici VK (Voleibol) - 11/11 19:30 - SportingTv",
-      "pubDate": "Wed, 11 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x Benfica (Hóquei) - 11/11 20:00 - PortoCanal",
-      "pubDate": "Wed, 11 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Basket) x Bakken Bears (Basket) - 11/11 20:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Basket) x Bakken Bears (Basket) - 11/11 20:00 - BTv",
-      "pubDate": "Wed, 11 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Toronto Raptors (Basket) x Boston Celtics (Basket) - 12/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Toronto Raptors (Basket) x Boston Celtics (Basket) - 12/11 00:00 - SportTV 1",
@@ -341,6 +306,41 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Rio Tinto (Feminino) x FC Porto (Feminino) - 14/11 15:00 - PortoCanal",
       "pubDate": "Sat, 14 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Árvore (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/11 16:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Árvore (Futsal Feminino) x Leões Porto Salvo (Futsal Feminino) - 14/11 16:00 - C11 Stream",
+      "pubDate": "Sat, 14 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "São Mamede (Voleibol) x Sporting (Voleibol) - 14/11 16:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "São Mamede (Voleibol) x Sporting (Voleibol) - 14/11 16:00 - SportTV 4",
+      "pubDate": "Sat, 14 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ovarense Basquetebol (Basket) x CA Queluz (Basket) - 14/11 16:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ovarense Basquetebol (Basket) x CA Queluz (Basket) - 14/11 16:00 - DAZN 1",
+      "pubDate": "Sat, 14 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Noruega x País de Gales - 14/11 17:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Noruega x País de Gales - 14/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 14 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Geórgia x Hungria - 14/11 17:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Geórgia x Hungria - 14/11 17:00 - SportTV 3",
+      "pubDate": "Sat, 14 Nov 2026 17:00:00",
       "guid": ""
     }
   ]

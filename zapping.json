@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "title": "Cabo Verde x Libéria - 13/11 16:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cabo Verde x Libéria - 13/11 16:00 - SportTV 2",
-      "pubDate": "Fri, 13 Nov 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Moldávia x Cazaquistão - 13/11 17:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Moldávia x Cazaquistão - 13/11 17:00 - SportTV 1",
-      "pubDate": "Fri, 13 Nov 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol Feminino) x Házená Kynzvart (Andebol Feminino) - 13/11 19:30 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol Feminino) x Házená Kynzvart (Andebol Feminino) - 13/11 19:30 - BTv",
-      "pubDate": "Fri, 13 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Inglaterra (S21) x Portugal (S21) - 13/11 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Inglaterra (S21) x Portugal (S21) - 13/11 19:30 - Canal11",
-      "pubDate": "Fri, 13 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sérvia x Alemanha - 13/11 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sérvia x Alemanha - 13/11 19:45 - SportTV 1",
-      "pubDate": "Fri, 13 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Países Baixos x Grécia - 13/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Países Baixos x Grécia - 13/11 19:45 - SportTV 2",
-      "pubDate": "Fri, 13 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bulgária x Islândia - 13/11 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bulgária x Islândia - 13/11 19:45 - SportTV 7",
-      "pubDate": "Fri, 13 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Eslovénia x Suíça - 13/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Eslovénia x Suíça - 13/11 19:45 - SportTV 4",
-      "pubDate": "Fri, 13 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Escócia x Macedónia do Norte - 13/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Escócia x Macedónia do Norte - 13/11 19:45 - SportTV 3",
-      "pubDate": "Fri, 13 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marrocos x Níger - 13/11 20:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marrocos x Níger - 13/11 20:00 - SportTV 6",
-      "pubDate": "Fri, 13 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
       "title": "Vitória SC (Basket) x FC Porto (Basket) - 13/11 20:30 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Vitória SC (Basket) x FC Porto (Basket) - 13/11 20:30 - DAZN 1",
@@ -340,6 +270,27 @@
       "title": "Áustria x Rep. Irlanda - 14/11 19:45 - SportTV 7",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Áustria x Rep. Irlanda - 14/11 19:45 - SportTV 7",
+      "pubDate": "Sat, 14 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Irl. Norte x Ucrânia - 14/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Irl. Norte x Ucrânia - 14/11 19:45 - SportTV 4",
+      "pubDate": "Sat, 14 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Roménia x Polónia - 14/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Roménia x Polónia - 14/11 19:45 - SportTV 3",
+      "pubDate": "Sat, 14 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Suécia x Bósnia - 14/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Suécia x Bósnia - 14/11 19:45 - SportTV 2",
       "pubDate": "Sat, 14 Nov 2026 19:45:00",
       "guid": ""
     }

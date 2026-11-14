@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import json
+from datetime import datetime, timezone
 
 
 def parse_items_from_xml(xml_content):
@@ -39,7 +40,7 @@ def main():
     items = parse_items_from_xml(xml_content)
 
     with open('zapping.json', 'w', encoding='utf-8') as f:
-        json.dump({'items': items}, f, ensure_ascii=False, indent=2)
+        json.dump({'generated': datetime.now(timezone.utc).isoformat(timespec='seconds'), 'items': items}, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == '__main__':

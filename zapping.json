@@ -1,19 +1,6 @@
 {
+  "generated": "2026-11-14T02:59:51+00:00",
   "items": [
-    {
-      "title": "Vitória SC (Basket) x FC Porto (Basket) - 13/11 20:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Vitória SC (Basket) x FC Porto (Basket) - 13/11 20:30 - DAZN 1",
-      "pubDate": "Fri, 13 Nov 2026 20:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense (Futsal) x Leões Porto Salvo (Futsal) - 13/11 21:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense (Futsal) x Leões Porto Salvo (Futsal) - 13/11 21:30 - Canal11",
-      "pubDate": "Fri, 13 Nov 2026 21:30:00",
-      "guid": ""
-    },
     {
       "title": "CP Fraga (Hóquei Feminino) x CP Voltregà (Hóquei Feminino) - 14/11 10:00 - WSE TV",
       "link": "http://www.zerozero.pt/zapping",
@@ -292,6 +279,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Suécia x Bósnia - 14/11 19:45 - SportTV 2",
       "pubDate": "Sat, 14 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei) x Riba d´Ave (Hóquei) - 14/11 20:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei) x Riba d´Ave (Hóquei) - 14/11 20:00 - FPP TV",
+      "pubDate": "Sat, 14 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Juventude de Viana (Hóquei) x HC Braga (Hóquei) - 14/11 21:30 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Juventude de Viana (Hóquei) x HC Braga (Hóquei) - 14/11 21:30 - FPP TV",
+      "pubDate": "Sat, 14 Nov 2026 21:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Banfield x Boca Juniors - 14/11 22:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Banfield x Boca Juniors - 14/11 22:00 - SportTV 2",
+      "pubDate": "Sat, 14 Nov 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Candelária (Hóquei) x UD Oliveirense (Hóquei) - 14/11 22:00 - FPP TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Candelária (Hóquei) x UD Oliveirense (Hóquei) - 14/11 22:00 - FPP TV",
+      "pubDate": "Sat, 14 Nov 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chapecoense x Vasco - 14/11 23:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chapecoense x Vasco - 14/11 23:30 - Canal11",
+      "pubDate": "Sat, 14 Nov 2026 23:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Miami Heat (Basket) x Detroit Pistons (Basket) - 15/11 01:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Miami Heat (Basket) x Detroit Pistons (Basket) - 15/11 01:00 - SportTV 2",
+      "pubDate": "Sun, 15 Nov 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Tondela x Farense - 15/11 11:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Tondela x Farense - 15/11 11:00 - SportTV 1",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Amarante FC x FC Felgueiras - 15/11 11:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Amarante FC x FC Felgueiras - 15/11 11:00 - SportTV 2",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Ferencváros (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 15/11 13:00 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Ferencváros (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 15/11 13:00 - SportTV 4",
+      "pubDate": "Sun, 15 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portimonense x Académica OAF - 15/11 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portimonense x Académica OAF - 15/11 14:00 - SportTV +",
+      "pubDate": "Sun, 15 Nov 2026 14:00:00",
       "guid": ""
     }
   ]

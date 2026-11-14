@@ -12,6 +12,15 @@ module.exports = [
         }
     },
     {
+        files: ["sw.js"],
+        languageOptions: {
+            ecmaVersion: 2021,
+            sourceType: "script",
+            globals: { self: "readonly", caches: "readonly", fetch: "readonly", URL: "readonly" }
+        },
+        rules: { "no-undef": "error" }
+    },
+    {
         files: ["**/*.test.js"],
         languageOptions: {
             ecmaVersion: 2021,
@@ -25,7 +34,7 @@ module.exports = [
     },
     {
         files: ["**/*.js"],
-        ignores: ["eslint.config.js", "lib/matchParser.js", "**/*.test.js", "channel-icons.json"],
+        ignores: ["eslint.config.js", "lib/matchParser.js", "sw.js", "**/*.test.js", "channel-icons.json"],
         languageOptions: {
             ecmaVersion: 2021,
             sourceType: "script",
@@ -35,10 +44,14 @@ module.exports = [
                 fetch: "readonly",
                 console: "readonly",
                 setTimeout: "readonly",
-                clearTimeout: "readonly",
+                setInterval: "readonly",
+                navigator: "readonly",
+                localStorage: "readonly",
                 // Declared in constants.js, used by script.js
                 rssUrl: "readonly",
                 channelIconsUrl: "readonly",
+                teamLogosUrl: "readonly",
+                nationalTeamFlagsUrl: "readonly",
                 // Declared in lib/matchParser.js, used by script.js
                 MatchParser: "readonly"
             }
@@ -48,5 +61,9 @@ module.exports = [
             "no-undef": "error",
             eqeqeq: "warn"
         }
+    },
+    {
+        files: ["constants.js"],
+        rules: { "no-unused-vars": "off" }
     }
 ];

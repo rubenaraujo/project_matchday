@@ -78,3 +78,15 @@ def test_output_is_json_serializable():
 
     # main() wraps items in {'items': items} before dumping to JSON
     json.dumps({'items': items}, ensure_ascii=False)
+
+
+def test_pick_badge_prefers_soccer_teams_with_a_badge():
+    from scripts.update_team_logos import pick_badge
+
+    response = {'teams': [
+        {'strSport': 'Handball', 'strBadge': 'https://x/handball.png'},
+        {'strSport': 'Soccer', 'strBadge': ''},
+        {'strSport': 'Soccer', 'strBadge': 'https://x/soccer.png'},
+    ]}
+    assert pick_badge(response) == 'https://x/soccer.png'
+    assert pick_badge({'teams': None}) is None

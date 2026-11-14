@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MatchDay</title>
     <meta name="description" content="Próximos jogos de futebol e em que canais portugueses podem ser vistos.">
+    <meta name="theme-color" content="#1a1a1a">
     <meta property="og:title" content="MatchDay">
     <meta property="og:description" content="Próximos jogos de futebol e em que canais portugueses podem ser vistos.">
     <meta property="og:type" content="website">
@@ -18,40 +19,48 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=15">
 </head>
 
 <body>
-    <div class="logo-container">
-        <img src="./website-icons/logo-with-text-no-bg.png" class="logo" alt="MatchDay" />
-    </div>
-    <div id="loader">
-        <div class="spinner"></div>
-    </div>
-    <div id="error-message" style="display: none;">
-        Não foi possível carregar os jogos. Por favor, tenta novamente mais tarde.
-    </div>
-    <div id="table" class="table-responsive">
-        <table>
-            <thead>
-                <tr>
-                    <th scope="col">Data</th>
-                    <th scope="col">Jogo</th>
-                    <th scope="col">Canais</th>
-                </tr>
-            </thead>
-            <tbody id="table-body">
-            </tbody>
-        </table>
-        <br>
-        <div class="footer">
-            <small>
-                developed by Ruben Araujo
-            </small>
+    <header class="header">
+        <div class="logo-container">
+            <img src="./website-icons/logo-with-text-no-bg.png" class="logo" alt="MatchDay" />
         </div>
-    </div>
-    <script src="constants.js"></script>
-    <script src="lib/matchParser.js"></script>
-    <script src="script.js"></script>
+    </header>
+
+    <main class="container">
+        <div id="filters" class="filters" role="search">
+            <label class="sr-only" for="search">Pesquisar equipa</label>
+            <input id="search" class="control" type="search" placeholder="Pesquisar equipa…" autocomplete="off">
+
+            <button id="fav-filter" class="control toggle" type="button" aria-pressed="false">★ Favoritas</button>
+        </div>
+
+        <p id="status" class="status" role="status" aria-live="polite"></p>
+
+        <div id="loader" aria-label="A carregar jogos" role="progressbar">
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+        </div>
+
+        <div id="error-message" role="alert" hidden>
+            <p>Não foi possível carregar os jogos. Por favor, tenta novamente mais tarde.</p>
+            <button id="retry" class="control" type="button">Tentar novamente</button>
+        </div>
+
+        <div id="matches" hidden></div>
+
+        <footer class="footer">
+            <small>developed by Ruben Araujo</small>
+        </footer>
+    </main>
+
+    <script src="constants.js?v=15"></script>
+    <script src="lib/matchParser.js?v=15"></script>
+    <script src="script.js?v=15"></script>
 </body>
+
 </html>

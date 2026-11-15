@@ -1,13 +1,6 @@
 {
-  "generated": "2026-11-15T01:42:34+00:00",
+  "generated": "2026-11-15T09:06:46+00:00",
   "items": [
-    {
-      "title": "Miami Heat (Basket) x Detroit Pistons (Basket) - 15/11 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Miami Heat (Basket) x Detroit Pistons (Basket) - 15/11 01:00 - SportTV 2",
-      "pubDate": "Sun, 15 Nov 2026 01:00:00",
-      "guid": ""
-    },
     {
       "title": "CD Tondela x Farense - 15/11 11:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
@@ -19,13 +12,6 @@
       "title": "Amarante FC x FC Felgueiras - 15/11 11:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Amarante FC x FC Felgueiras - 15/11 11:00 - SportTV 2",
-      "pubDate": "Sun, 15 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CP Fraga (Hóquei Feminino) x Benfica (Hóquei Feminino) - 15/11 11:00 - WSE TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CP Fraga (Hóquei Feminino) x Benfica (Hóquei Feminino) - 15/11 11:00 - WSE TV",
       "pubDate": "Sun, 15 Nov 2026 11:00:00",
       "guid": ""
     },
@@ -328,6 +314,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Guiné-Bissau x Madagáscar - 17/11 16:00 - SportTV 1",
       "pubDate": "Tue, 17 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Turk Telekom (Basket) x La Laguna Tenerife (Basket) - 17/11 16:30 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Turk Telekom (Basket) x La Laguna Tenerife (Basket) - 17/11 16:30 - SportTV 2",
+      "pubDate": "Tue, 17 Nov 2026 16:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S21) x Noruega (S21) - 17/11 17:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S21) x Noruega (S21) - 17/11 17:30 - Canal11",
+      "pubDate": "Tue, 17 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (Basket Feminino) x Alemanha (Basket Feminino) - 17/11 19:00 - RTP2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (Basket Feminino) x Alemanha (Basket Feminino) - 17/11 19:00 - RTP2",
+      "pubDate": "Tue, 17 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Libéria x Cabo Verde - 17/11 19:00 - SportTV 6",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Libéria x Cabo Verde - 17/11 19:00 - SportTV 6",
+      "pubDate": "Tue, 17 Nov 2026 19:00:00",
       "guid": ""
     }
   ]

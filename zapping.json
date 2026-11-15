@@ -1,73 +1,24 @@
 {
-  "generated": "2026-11-15T09:06:46+00:00",
+  "generated": "2026-11-15T16:55:30+00:00",
   "items": [
-    {
-      "title": "CD Tondela x Farense - 15/11 11:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CD Tondela x Farense - 15/11 11:00 - SportTV 1",
-      "pubDate": "Sun, 15 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Amarante FC x FC Felgueiras - 15/11 11:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Amarante FC x FC Felgueiras - 15/11 11:00 - SportTV 2",
-      "pubDate": "Sun, 15 Nov 2026 11:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Ferencváros (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 15/11 13:00 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ferencváros (Andebol Feminino) x Team Esbjerg (Andebol Feminino) - 15/11 13:00 - SportTV 4",
-      "pubDate": "Sun, 15 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portimonense x Académica OAF - 15/11 14:00 - SportTV +",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portimonense x Académica OAF - 15/11 14:00 - SportTV +",
-      "pubDate": "Sun, 15 Nov 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Chipre x Montenegro - 15/11 14:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chipre x Montenegro - 15/11 14:00 - SportTV 2",
-      "pubDate": "Sun, 15 Nov 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Letónia x Arménia - 15/11 14:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Letónia x Arménia - 15/11 14:00 - SportTV 6",
-      "pubDate": "Sun, 15 Nov 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "CALE (Andebol Feminino) x Juve Lis (Andebol Feminino) - 15/11 14:00 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "CALE (Andebol Feminino) x Juve Lis (Andebol Feminino) - 15/11 14:00 - ABola TV",
-      "pubDate": "Sun, 15 Nov 2026 14:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Hóquei) x CE Lleida (Hóquei) - 15/11 14:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Hóquei) x CE Lleida (Hóquei) - 15/11 14:30 - PortoCanal",
-      "pubDate": "Sun, 15 Nov 2026 14:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Házená Kynzvart (Andebol Feminino) x Benfica (Andebol Feminino) - 15/11 15:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Házená Kynzvart (Andebol Feminino) x Benfica (Andebol Feminino) - 15/11 15:00 - BTv",
-      "pubDate": "Sun, 15 Nov 2026 15:00:00",
-      "guid": ""
-    },
     {
       "title": "FC Penafiel x Lusitânia de Lourosa - 15/11 15:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Penafiel x Lusitânia de Lourosa - 15/11 15:30 - SportTV 1",
+      "pubDate": "Sun, 15 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Arcozelo x S. Félix da Marinha - 15/11 15:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Arcozelo x S. Félix da Marinha - 15/11 15:30 - Online",
+      "pubDate": "Sun, 15 Nov 2026 15:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Oliv. Douro x AD Grijó - 15/11 15:30 - Online",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Oliv. Douro x AD Grijó - 15/11 15:30 - Online",
       "pubDate": "Sun, 15 Nov 2026 15:30:00",
       "guid": ""
     },
@@ -342,6 +293,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Libéria x Cabo Verde - 17/11 19:00 - SportTV 6",
       "pubDate": "Tue, 17 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Fraikin BM Granollers (Andebol) x Águas Santas (Andebol) - 17/11 19:45 - ABola TV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Fraikin BM Granollers (Andebol) x Águas Santas (Andebol) - 17/11 19:45 - ABola TV",
+      "pubDate": "Tue, 17 Nov 2026 19:45:00",
       "guid": ""
     }
   ]

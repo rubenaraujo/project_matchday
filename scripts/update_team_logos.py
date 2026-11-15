@@ -24,7 +24,9 @@ SEED_NAMES = {
     'Moreirense', 'Estoril', 'Casa Pia', 'Rio Ave', 'Arouca', 'Santa Clara', 'Nacional',
     'Boavista', 'AVS', 'Estrela da Amadora', 'Farense', 'Alverca', 'Tondela',
 }
-EXCLUDED = re.compile(r'Jun.A|S15|S16|S17|S18|S19|S20|S21|S23|Basket|Hóquei|Voleibol|Andebol|Feminino|Futsal')
+# Feed names that TheSportsDB only finds under another spelling.
+ALIASES = {'Al-Ahli Jeddah': 'Al Ahli Saudi'}
+EXCLUDED = re.compile(r'Jun.A|S15|S16|S17|S18|S19|S20|S21|S23|Basket|Americano|Hóquei|Voleibol|Andebol|Feminino|Futsal')
 
 
 def pick_badge(api_response):
@@ -46,8 +48,15 @@ def team_names(items):
 
 
 def lookup(name):
-    with urllib.request.urlopen(API + urllib.parse.quote(name), timeout=20) as response:
-        return json.load(response)
+    """Searches the alias, then the name with hyphens as spaces ("Al-Nassr" is "Al Nassr")."""
+    badge = None
+    for query in dict.fromkeys([ALIASES.get(name, name), name.replace('-', ' ')]):
+        with urllib.request.urlopen(API + urllib.parse.quote(query), timeout=20) as response:
+            badge = pick_badge(json.load(response))
+        if badge:
+            break
+        time.sleep(DELAY_SECONDS)
+    return badge
 
 
 def main():
@@ -64,7 +73,7 @@ def main():
 
     for name in sorted(names - set(logos))[:MAX_LOOKUPS_PER_RUN]:
         try:
-            logos[name] = pick_badge(lookup(name))
+            logos[name] = lookup(name)
         except urllib.error.HTTPError as error:
             print(f'{name}: HTTP {error.code}, stopping', file=sys.stderr)
             break

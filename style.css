@@ -111,24 +111,26 @@ button.control:hover {
 }
 
 /* Loading / error */
-.skeleton {
-    height: 56px;
-    margin-bottom: 8px;
-    border-radius: 6px;
-    border: 1px solid var(--border);
-    background: linear-gradient(90deg, var(--surface) 25%, var(--surface-hover) 50%, var(--surface) 75%);
-    background-size: 200% 100%;
-    animation: shimmer 1.2s linear infinite;
-}
-
-.loading-text {
-    margin: 4px 2px 10px;
-    font-size: 0.9em;
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 60px 0;
     color: var(--muted);
 }
 
-@keyframes shimmer {
-    to { background-position: -200% 0; }
+.spinner {
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
 }
 
 #error-message {
@@ -348,7 +350,7 @@ button.control:hover {
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .logo, .skeleton, .status-live .badge {
+    .logo, .spinner, .status-live .badge {
         animation: none;
     }
 }

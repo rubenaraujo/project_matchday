@@ -19,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="style.css?v=19">
+    <link rel="stylesheet" href="style.css?v=20">
 </head>
 
 <body>
@@ -39,12 +39,8 @@
 
         <p id="status" class="status" role="status" aria-live="polite"></p>
 
-        <div id="loader" aria-label="A carregar jogos" role="progressbar">
-            <p class="loading-text">A carregar jogos…</p>
-            <div class="skeleton"></div>
-            <div class="skeleton"></div>
-            <div class="skeleton"></div>
-            <div class="skeleton"></div>
+        <div id="loader" class="loader" role="status">
+            <span class="spinner" aria-hidden="true"></span>A carregar jogos…
         </div>
 
         <div id="error-message" role="alert" hidden>
@@ -59,9 +55,9 @@
         </footer>
     </main>
 
-    <script src="constants.js?v=19"></script>
-    <script src="lib/matchParser.js?v=19"></script>
-    <script src="script.js?v=19"></script>
+    <script src="constants.js?v=20"></script>
+    <script src="lib/matchParser.js?v=20"></script>
+    <script src="script.js?v=20"></script>
 </body>
 
 </html>

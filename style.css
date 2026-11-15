@@ -115,9 +115,16 @@ button.control:hover {
     height: 56px;
     margin-bottom: 8px;
     border-radius: 6px;
+    border: 1px solid var(--border);
     background: linear-gradient(90deg, var(--surface) 25%, var(--surface-hover) 50%, var(--surface) 75%);
     background-size: 200% 100%;
     animation: shimmer 1.2s linear infinite;
+}
+
+.loading-text {
+    margin: 4px 2px 10px;
+    font-size: 0.9em;
+    color: var(--muted);
 }
 
 @keyframes shimmer {

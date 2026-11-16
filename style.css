@@ -42,10 +42,30 @@ body {
 }
 
 .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 14px;
     padding: 15px;
-    width: 300px;
-    max-width: 100%;
     animation: fadein 1.2s;
+}
+
+.logo img {
+    height: 72px;
+    width: auto;
+}
+
+.logo span {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 1;
+}
+
+.logo span b {
+    font-weight: 400;
+    font-size: 0.55em;
+    margin-left: 0.2em;
 }
 
 @keyframes fadein {
@@ -313,8 +333,12 @@ button.control:hover {
 
 /* Mobile: card layout */
 @media only screen and (max-width: 640px) {
-    .logo {
-        width: 170px;
+    .logo img {
+        height: 48px;
+    }
+
+    .logo span {
+        font-size: 2rem;
     }
 
     .match {

@@ -1,41 +1,6 @@
 {
-  "generated": "2026-11-15T21:37:45+00:00",
+  "generated": "2026-11-16T01:46:24+00:00",
   "items": [
-    {
-      "title": "França x Turquia - 15/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "França x Turquia - 15/11 19:45 - SportTV 2",
-      "pubDate": "Sun, 15 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Bélgica x Itália - 15/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Bélgica x Itália - 15/11 19:45 - SportTV 3",
-      "pubDate": "Sun, 15 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Espanha x Inglaterra - 15/11 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Espanha x Inglaterra - 15/11 19:45 - SportTV 1",
-      "pubDate": "Sun, 15 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Dallas Cowboys (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 15/11 21:25 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dallas Cowboys (Fut. Americano) x San Francisco 49ers (Fut. Americano) - 15/11 21:25 - DAZN 1",
-      "pubDate": "Sun, 15 Nov 2026 21:25:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Dallas Mavericks (Basket) - 15/11 23:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Dallas Mavericks (Basket) - 15/11 23:00 - SportTV 1",
-      "pubDate": "Sun, 15 Nov 2026 23:00:00",
-      "guid": ""
-    },
     {
       "title": "Cincinnati Bengals (Fut. Americano) x Pittsburgh Steelers (Fut. Americano) - 16/11 01:20 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
@@ -55,6 +20,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Ilhas Faroé x Moldávia - 16/11 15:00 - SportTV 4",
       "pubDate": "Mon, 16 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S20) x Inglaterra (S20) - 16/11 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S20) x Inglaterra (S20) - 16/11 16:00 - Canal11",
+      "pubDate": "Mon, 16 Nov 2026 16:00:00",
       "guid": ""
     },
     {
@@ -121,6 +93,13 @@
       "guid": ""
     },
     {
+      "title": "ACBF (Futsal) x Sporting (Futsal) - 16/11 20:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "ACBF (Futsal) x Sporting (Futsal) - 16/11 20:00 - Canal11",
+      "pubDate": "Mon, 16 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Boston Celtics (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Boston Celtics (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
@@ -145,6 +124,13 @@
       "title": "Etiópia x Moçambique - 17/11 13:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Etiópia x Moçambique - 17/11 13:00 - SportTV 2",
+      "pubDate": "Tue, 17 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S18) x Estados Unidos (S18) - 17/11 13:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S18) x Estados Unidos (S18) - 17/11 13:00 - Canal11",
       "pubDate": "Tue, 17 Nov 2026 13:00:00",
       "guid": ""
     },
@@ -254,10 +240,24 @@
       "guid": ""
     },
     {
+      "title": "Benfica (Futsal) x FC Famalicão (Futsal) - 18/11 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Futsal) x FC Famalicão (Futsal) - 18/11 20:15 - SportTV 1",
+      "pubDate": "Wed, 18 Nov 2026 20:15:00",
+      "guid": ""
+    },
+    {
       "title": "SC Tomar (Hóquei) x FC Porto (Hóquei) - 18/11 21:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "SC Tomar (Hóquei) x FC Porto (Hóquei) - 18/11 21:00 - PortoCanal",
       "pubDate": "Wed, 18 Nov 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Cruzeiro x Palmeiras - 18/11 23:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cruzeiro x Palmeiras - 18/11 23:30 - Canal11",
+      "pubDate": "Wed, 18 Nov 2026 23:30:00",
       "guid": ""
     },
     {
@@ -282,10 +282,31 @@
       "guid": ""
     },
     {
+      "title": "Vasco x Internacional - 19/11 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vasco x Internacional - 19/11 22:30 - Canal11",
+      "pubDate": "Thu, 19 Nov 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "São Paulo x Fluminense - 20/11 00:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "São Paulo x Fluminense - 20/11 00:30 - Canal11",
+      "pubDate": "Fri, 20 Nov 2026 00:30:00",
+      "guid": ""
+    },
+    {
       "title": "Minnesota Timberwolves (Basket) x New York Knicks (Basket) - 20/11 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Minnesota Timberwolves (Basket) x New York Knicks (Basket) - 20/11 01:00 - SportTV 1",
       "pubDate": "Fri, 20 Nov 2026 01:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Estoril Praia (S23) x Benfica (S23) - 20/11 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Estoril Praia (S23) x Benfica (S23) - 20/11 14:00 - Canal11",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00",
       "guid": ""
     },
     {
@@ -296,10 +317,31 @@
       "guid": ""
     },
     {
+      "title": "Darmstadt 98 x 1. FC Heidenheim 1846 - 20/11 17:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Darmstadt 98 x 1. FC Heidenheim 1846 - 20/11 17:30 - DAZN 1",
+      "pubDate": "Fri, 20 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
       "title": "Olympiacos (Basket) x Real Madrid (Basket) - 20/11 19:15 - SportTV 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Olympiacos (Basket) x Real Madrid (Basket) - 20/11 19:15 - SportTV 4",
       "pubDate": "Fri, 20 Nov 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x Vitória SC (Feminino) - 20/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x Vitória SC (Feminino) - 20/11 19:30 - Canal11",
+      "pubDate": "Fri, 20 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x FC Köln - 20/11 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x FC Köln - 20/11 19:30 - DAZN 1",
+      "pubDate": "Fri, 20 Nov 2026 19:30:00",
       "guid": ""
     }
   ]

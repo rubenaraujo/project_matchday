@@ -1,125 +1,6 @@
 {
-  "generated": "2026-11-17T13:00:51+00:00",
+  "generated": "2026-11-17T22:08:37+00:00",
   "items": [
-    {
-      "title": "Sudão do Sul x Angola - 17/11 13:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sudão do Sul x Angola - 17/11 13:00 - SportTV 1",
-      "pubDate": "Tue, 17 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Etiópia x Moçambique - 17/11 13:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Etiópia x Moçambique - 17/11 13:00 - SportTV 2",
-      "pubDate": "Tue, 17 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S18) x Estados Unidos (S18) - 17/11 13:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S18) x Estados Unidos (S18) - 17/11 13:00 - Canal11",
-      "pubDate": "Tue, 17 Nov 2026 13:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Suécia (S19) x Portugal (S19) - 17/11 15:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suécia (S19) x Portugal (S19) - 17/11 15:00 - Canal11",
-      "pubDate": "Tue, 17 Nov 2026 15:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Guiné-Bissau x Madagáscar - 17/11 16:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Guiné-Bissau x Madagáscar - 17/11 16:00 - SportTV 1",
-      "pubDate": "Tue, 17 Nov 2026 16:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Turk Telekom (Basket) x La Laguna Tenerife (Basket) - 17/11 16:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Turk Telekom (Basket) x La Laguna Tenerife (Basket) - 17/11 16:30 - SportTV 2",
-      "pubDate": "Tue, 17 Nov 2026 16:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Yukatel Denizli Basket (Basket) x Benfica (Basket) - 17/11 17:00 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Yukatel Denizli Basket (Basket) x Benfica (Basket) - 17/11 17:00 - BTv",
-      "pubDate": "Tue, 17 Nov 2026 17:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (S21) x Noruega (S21) - 17/11 17:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (S21) x Noruega (S21) - 17/11 17:30 - Canal11",
-      "pubDate": "Tue, 17 Nov 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Portugal (Basket Feminino) x Alemanha (Basket Feminino) - 17/11 19:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Portugal (Basket Feminino) x Alemanha (Basket Feminino) - 17/11 19:00 - RTP2",
-      "pubDate": "Tue, 17 Nov 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Libéria x Cabo Verde - 17/11 19:00 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Libéria x Cabo Verde - 17/11 19:00 - SportTV 6",
-      "pubDate": "Tue, 17 Nov 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Fraikin BM Granollers (Andebol) x Águas Santas (Andebol) - 17/11 19:45 - ABola TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Fraikin BM Granollers (Andebol) x Águas Santas (Andebol) - 17/11 19:45 - ABola TV",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "País de Gales x Portugal - 17/11 19:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "País de Gales x Portugal - 17/11 19:45 - RTP1",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Dinamarca x Noruega - 17/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Dinamarca x Noruega - 17/11 19:45 - SportTV 2",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Polónia x Suécia - 17/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Polónia x Suécia - 17/11 19:45 - SportTV 3",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Hungria x Irl. Norte - 17/11 19:45 - SportTV 7",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Hungria x Irl. Norte - 17/11 19:45 - SportTV 7",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Ucrânia x Geórgia - 17/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Ucrânia x Geórgia - 17/11 19:45 - SportTV 4",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Andebol) x Baník Karviná (Andebol) - 17/11 19:45 - BTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Andebol) x Baník Karviná (Andebol) - 17/11 19:45 - BTv",
-      "pubDate": "Tue, 17 Nov 2026 19:45:00",
-      "guid": ""
-    },
     {
       "title": "Florida Panthers (Hóquei no Gelo  Seniores) x Edmonton Oilers (Hóquei no Gelo  Seniores) - 18/11 00:00 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
@@ -335,6 +216,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Manchester City x Fulham - 21/11 12:30 - DAZN 1",
       "pubDate": "Sat, 21 Nov 2026 12:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Galatasaray x Samsunspor - 21/11 13:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Galatasaray x Samsunspor - 21/11 13:00 - SportTV 3",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Alavés x Deportivo - 21/11 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Alavés x Deportivo - 21/11 13:00 - DAZN 3",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "CD Mafra x FC Arouca - 21/11 14:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "CD Mafra x FC Arouca - 21/11 14:00 - Canal11",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Como 1907 x Cagliari - 21/11 14:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Como 1907 x Cagliari - 21/11 14:00 - SportTV 2",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lazio x Lecce - 21/11 14:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lazio x Lecce - 21/11 14:00 - SportTV 1",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Borussia M´gladbach x Borussia Dortmund - 21/11 14:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Borussia M´gladbach x Borussia Dortmund - 21/11 14:30 - DAZN 4",
+      "pubDate": "Sat, 21 Nov 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolverhampton x Charlton Athletic - 21/11 15:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolverhampton x Charlton Athletic - 21/11 15:00 - SportTV +",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto (Jun.B S17) x Beira-Mar (Jun.B S17) - 21/11 15:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Jun.B S17) x Beira-Mar (Jun.B S17) - 21/11 15:00 - PortoCanal",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Chelsea x Leeds United - 21/11 15:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chelsea x Leeds United - 21/11 15:00 - DAZN 1",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00",
       "guid": ""
     }
   ]

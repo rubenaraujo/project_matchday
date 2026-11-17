@@ -1,62 +1,6 @@
 {
-  "generated": "2026-11-16T20:13:43+00:00",
+  "generated": "2026-11-17T03:38:28+00:00",
   "items": [
-    {
-      "title": "Albacete x Celta de Vigo - 16/11 19:30 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Albacete x Celta de Vigo - 16/11 19:30 - DAZN 1",
-      "pubDate": "Mon, 16 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Gibraltar x Malta - 16/11 19:45 - SportTV 6",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Gibraltar x Malta - 16/11 19:45 - SportTV 6",
-      "pubDate": "Mon, 16 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Macedónia do Norte x Eslovénia - 16/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Macedónia do Norte x Eslovénia - 16/11 19:45 - SportTV 4",
-      "pubDate": "Mon, 16 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Suíça x Escócia - 16/11 19:45 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Suíça x Escócia - 16/11 19:45 - SportTV 3",
-      "pubDate": "Mon, 16 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Grécia x Sérvia - 16/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Grécia x Sérvia - 16/11 19:45 - SportTV 2",
-      "pubDate": "Mon, 16 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Alemanha x Países Baixos - 16/11 19:45 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Alemanha x Países Baixos - 16/11 19:45 - SportTV 1",
-      "pubDate": "Mon, 16 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "ACBF (Futsal) x Sporting (Futsal) - 16/11 20:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "ACBF (Futsal) x Sporting (Futsal) - 16/11 20:00 - Canal11",
-      "pubDate": "Mon, 16 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boston Celtics (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boston Celtics (Basket) x Orlando Magic (Basket) - 17/11 00:00 - SportTV 1",
-      "pubDate": "Tue, 17 Nov 2026 00:00:00",
-      "guid": ""
-    },
     {
       "title": "Sérvia (S17) x Portugal (S17) - 17/11 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
@@ -314,6 +258,83 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Darmstadt 98 x 1. FC Heidenheim 1846 - 20/11 17:30 - DAZN 1",
       "pubDate": "Fri, 20 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Olympiacos (Basket) x Real Madrid (Basket) - 20/11 19:15 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Olympiacos (Basket) x Real Madrid (Basket) - 20/11 19:15 - SportTV 4",
+      "pubDate": "Fri, 20 Nov 2026 19:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Rio Ave (Feminino) x Vitória SC (Feminino) - 20/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Rio Ave (Feminino) x Vitória SC (Feminino) - 20/11 19:30 - Canal11",
+      "pubDate": "Fri, 20 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Bayern München x FC Köln - 20/11 19:30 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Bayern München x FC Köln - 20/11 19:30 - DAZN 1",
+      "pubDate": "Fri, 20 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Voleibol) x Clube K (Voleibol) - 20/11 19:30 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Voleibol) x Clube K (Voleibol) - 20/11 19:30 - SportingTv",
+      "pubDate": "Fri, 20 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Troyes x Le Havre - 20/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Troyes x Le Havre - 20/11 19:45 - SportTV 2",
+      "pubDate": "Fri, 20 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Athletic Bilbao x Espanyol - 20/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Athletic Bilbao x Espanyol - 20/11 20:00 - DAZN 2",
+      "pubDate": "Fri, 20 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Porto x USC Paredes - 20/11 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto x USC Paredes - 20/11 20:45 - RTP1",
+      "pubDate": "Fri, 20 Nov 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Benfica (Hóquei Feminino) x CRIAR-T (Hóquei Feminino) - 20/11 21:00 - BTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Benfica (Hóquei Feminino) x CRIAR-T (Hóquei Feminino) - 20/11 21:00 - BTv",
+      "pubDate": "Fri, 20 Nov 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Atlético CP x Casa Pia AC - 21/11 11:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atlético CP x Casa Pia AC - 21/11 11:00 - Canal11",
+      "pubDate": "Sat, 21 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Jun.C S15) x Benfica (Jun.C S15) - 21/11 11:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Jun.C S15) x Benfica (Jun.C S15) - 21/11 11:00 - SportingTv",
+      "pubDate": "Sat, 21 Nov 2026 11:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Wolfsburg x Holstein Kiel - 21/11 12:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Wolfsburg x Holstein Kiel - 21/11 12:00 - DAZN 2",
+      "pubDate": "Sat, 21 Nov 2026 12:00:00",
       "guid": ""
     }
   ]

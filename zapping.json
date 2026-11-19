@@ -1,34 +1,6 @@
 {
-  "generated": "2026-11-18T21:46:26+00:00",
+  "generated": "2026-11-19T03:06:22+00:00",
   "items": [
-    {
-      "title": "Benfica (Futsal) x FC Famalicão (Futsal) - 18/11 20:15 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Futsal) x FC Famalicão (Futsal) - 18/11 20:15 - SportTV 1",
-      "pubDate": "Wed, 18 Nov 2026 20:15:00",
-      "guid": ""
-    },
-    {
-      "title": "SC Tomar (Hóquei) x FC Porto (Hóquei) - 18/11 21:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "SC Tomar (Hóquei) x FC Porto (Hóquei) - 18/11 21:00 - PortoCanal",
-      "pubDate": "Wed, 18 Nov 2026 21:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Futsal) x Pato Futsal (Futsal) - 18/11 23:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Futsal) x Pato Futsal (Futsal) - 18/11 23:00 - Canal11",
-      "pubDate": "Wed, 18 Nov 2026 23:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Orlando Magic (Basket) x Philadelphia 76ers (Basket) - 19/11 00:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Orlando Magic (Basket) x Philadelphia 76ers (Basket) - 19/11 00:00 - SportTV 1",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00",
-      "guid": ""
-    },
     {
       "title": "New Jersey Devils (Hóquei no Gelo  Seniores) x Montreal Canadiens (Hóquei no Gelo  Seniores) - 19/11 00:30 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
@@ -328,6 +300,34 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Newcastle x Arsenal - 21/11 17:30 - DAZN 1",
       "pubDate": "Sat, 21 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sevilla FC x Real Betis - 21/11 17:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sevilla FC x Real Betis - 21/11 17:30 - DAZN 2",
+      "pubDate": "Sat, 21 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Schalke 04 x Stuttgart - 21/11 17:30 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Schalke 04 x Stuttgart - 21/11 17:30 - DAZN 4",
+      "pubDate": "Sat, 21 Nov 2026 17:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Dundee FC x Hearts - 21/11 17:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Dundee FC x Hearts - 21/11 17:45 - SportTV 4",
+      "pubDate": "Sat, 21 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x União da Serra - 21/11 18:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x União da Serra - 21/11 18:00 - SportTV 1",
+      "pubDate": "Sat, 21 Nov 2026 18:00:00",
       "guid": ""
     }
   ]

@@ -25,8 +25,10 @@ SEED_NAMES = {
     'Boavista', 'AVS', 'Estrela da Amadora', 'Farense', 'Alverca', 'Tondela',
 }
 # Feed names that TheSportsDB only finds under another spelling.
-ALIASES = {'Al-Ahli Jeddah': 'Al Ahli Saudi'}
-EXCLUDED = re.compile(r'Jun.A|S15|S16|S17|S18|S19|S20|S21|S23|Basket|Americano|Hóquei|Voleibol|Andebol|Feminino|Futsal')
+ALIASES = {'Al-Ahli Jeddah': 'Al Ahli Saudi', 'FC Porto': 'Porto', 'Nacional': 'Nacional Madeira',
+           'Bayern München': 'Bayern Munich', 'PSG': 'Paris Saint Germain'}
+EXCLUDED = re.compile(r'Basket|Americano|Hóquei|Voleibol|Andebol|Futsal')
+QUALIFIER = re.compile(r'\s*\([^)]*\)\s*$')
 
 
 def pick_badge(api_response):
@@ -43,7 +45,7 @@ def team_names(items):
         columns = item.get('description', '').split(' - ')
         if len(columns) < 3 or any(EXCLUDED.search(c) for c in columns):
             continue
-        names.update(n.strip() for n in columns[0].split(' x '))
+        names.update(QUALIFIER.sub('', n).strip() for n in columns[0].split(' x '))
     return names
 
 

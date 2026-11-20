@@ -48,7 +48,9 @@ function isFavorite(name) {
     return state.favorites.has(normalize(name));
 }
 
-function getTeamLogo(name) {
+function getTeamLogo(fullName) {
+    // "Portugal (S19)" and "Benfica (Feminino)" use the logo of the base team.
+    const name = fullName.replace(/\s*\([^)]*\)\s*$/, '');
     const flag = state.nationalTeamFlags[name.toLowerCase()];
     if (flag) {
         return { url: `https://flagcdn.com/w40/${flag}.png`, isBadge: false };

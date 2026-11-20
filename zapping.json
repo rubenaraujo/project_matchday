@@ -1,34 +1,6 @@
 {
-  "generated": "2026-11-19T21:19:08+00:00",
+  "generated": "2026-11-20T02:56:38+00:00",
   "items": [
-    {
-      "title": "Sporting (Andebol) x CS Dinamo Bucuresti (Andebol) - 19/11 19:45 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Andebol) x CS Dinamo Bucuresti (Andebol) - 19/11 19:45 - SportingTv",
-      "pubDate": "Thu, 19 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Benfica (Feminino) x Roma (Feminino) - 19/11 20:00 - RTP2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Benfica (Feminino) x Roma (Feminino) - 19/11 20:00 - RTP2",
-      "pubDate": "Thu, 19 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Illes Balears Palma (Futsal) x Sporting (Futsal) - 19/11 22:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Illes Balears Palma (Futsal) x Sporting (Futsal) - 19/11 22:00 - Canal11",
-      "pubDate": "Thu, 19 Nov 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "São Paulo x Fluminense - 20/11 00:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "São Paulo x Fluminense - 20/11 00:30 - Canal11",
-      "pubDate": "Fri, 20 Nov 2026 00:30:00",
-      "guid": ""
-    },
     {
       "title": "Minnesota Timberwolves (Basket) x New York Knicks (Basket) - 20/11 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
@@ -342,6 +314,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Palmeiras x Flamengo - 21/11 19:30 - Canal11",
       "pubDate": "Sat, 21 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Napoli x Torino - 21/11 19:45 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Napoli x Torino - 21/11 19:45 - SportTV 3",
+      "pubDate": "Sat, 21 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Strasbourg x Brest - 21/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Strasbourg x Brest - 21/11 19:45 - SportTV 4",
+      "pubDate": "Sat, 21 Nov 2026 19:45:00",
       "guid": ""
     }
   ]

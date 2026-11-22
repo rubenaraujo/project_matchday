@@ -1,34 +1,6 @@
 {
-  "generated": "2026-11-21T22:59:25+00:00",
+  "generated": "2026-11-22T03:00:09+00:00",
   "items": [
-    {
-      "title": "Juventude de Viana (Hóquei) x AD Sanjoanense (Hóquei) - 21/11 21:30 - FPP TV",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Juventude de Viana (Hóquei) x AD Sanjoanense (Hóquei) - 21/11 21:30 - FPP TV",
-      "pubDate": "Sat, 21 Nov 2026 21:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atlético Mineiro x Boca Juniors - 21/11 22:30 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atlético Mineiro x Boca Juniors - 21/11 22:30 - SportTV 1",
-      "pubDate": "Sat, 21 Nov 2026 22:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Chapecoense x Cruzeiro - 22/11 00:00 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Chapecoense x Cruzeiro - 22/11 00:00 - Canal11",
-      "pubDate": "Sun, 22 Nov 2026 00:00:00",
-      "guid": ""
-    },
-    {
-      "title": "New York Knicks (Basket) x Portland Trail Blazers (Basket) - 22/11 00:30 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "New York Knicks (Basket) x Portland Trail Blazers (Basket) - 22/11 00:30 - SportTV 2",
-      "pubDate": "Sun, 22 Nov 2026 00:30:00",
-      "guid": ""
-    },
     {
       "title": "AD Sanjoanense x Académica OAF - 22/11 11:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
@@ -244,6 +216,90 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Rosario Central x Gimnasia Mendoza - 22/11 19:00 - SportTV 3",
       "pubDate": "Sun, 22 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "UD Leiria x Leça FC - 22/11 19:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "UD Leiria x Leça FC - 22/11 19:30 - Canal11",
+      "pubDate": "Sun, 22 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 22/11 19:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 22/11 19:30 - DAZN 2",
+      "pubDate": "Sun, 22 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Atalanta x Internazionale - 22/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Atalanta x Internazionale - 22/11 19:45 - SportTV 2",
+      "pubDate": "Sun, 22 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Marseille x Le Mans - 22/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marseille x Le Mans - 22/11 19:45 - SportTV 4",
+      "pubDate": "Sun, 22 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Getafe CF x Atlético de Madrid - 22/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Getafe CF x Atlético de Madrid - 22/11 20:00 - DAZN 1",
+      "pubDate": "Sun, 22 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Torreense x Benfica - 22/11 20:45 - RTP1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Torreense x Benfica - 22/11 20:45 - RTP1",
+      "pubDate": "Sun, 22 Nov 2026 20:45:00",
+      "guid": ""
+    },
+    {
+      "title": "River Plate x Lanús - 22/11 22:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "River Plate x Lanús - 22/11 22:00 - SportTV 3",
+      "pubDate": "Sun, 22 Nov 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Red Bull Bragantino x Vasco - 22/11 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Red Bull Bragantino x Vasco - 22/11 22:30 - Canal11",
+      "pubDate": "Sun, 22 Nov 2026 22:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Miami Heat (Basket) x Oklahoma City Thunder (Basket) - 22/11 23:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Miami Heat (Basket) x Oklahoma City Thunder (Basket) - 22/11 23:00 - SportTV 2",
+      "pubDate": "Sun, 22 Nov 2026 23:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Golden State Warriors (Basket) x Boston Celtics (Basket) - 23/11 01:30 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Golden State Warriors (Basket) x Boston Celtics (Basket) - 23/11 01:30 - SportTV 1",
+      "pubDate": "Mon, 23 Nov 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Feminino) x Benfica (Feminino) - 23/11 19:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Feminino) x Benfica (Feminino) - 23/11 19:00 - Canal11",
+      "pubDate": "Mon, 23 Nov 2026 19:00:00",
+      "guid": ""
+    },
+    {
+      "title": "AD Ceuta x Almería - 23/11 19:30 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "AD Ceuta x Almería - 23/11 19:30 - DAZN 3",
+      "pubDate": "Mon, 23 Nov 2026 19:30:00",
       "guid": ""
     }
   ]

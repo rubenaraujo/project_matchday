@@ -142,3 +142,15 @@ def test_missing_logos_separates_not_found_from_pending():
     logos = {'Benfica': 'badges/a.png', 'Racing Power FC': None}
     assert missing_logos(['Benfica', 'Racing Power FC', 'Torreense', 'portugal'], logos, {'portugal': 'pt'}) == (
         ['Racing Power FC'], ['Torreense'])
+
+
+def test_cache_name_changes_only_when_a_static_file_changes(tmp_path):
+    from scripts.stamp_cache_version import STATIC_FILES, cache_name
+
+    for name in STATIC_FILES:
+        (tmp_path / name).parent.mkdir(exist_ok=True)
+        (tmp_path / name).write_text('a', encoding='utf-8')
+    first = cache_name(str(tmp_path))
+    assert first == cache_name(str(tmp_path)) and first.startswith('matchday-')
+    (tmp_path / 'script.js').write_text('b', encoding='utf-8')
+    assert cache_name(str(tmp_path)) != first

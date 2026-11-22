@@ -29,10 +29,13 @@ jobs:
       - name: Update team logos
         run: python scripts/update_team_logos.py
 
+      - name: Stamp service worker cache version
+        run: python scripts/stamp_cache_version.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add zapping.json team-logos.json badges
+          git add zapping.json team-logos.json badges sw.js
           git diff --cached --quiet || git commit -m "Update zapping.json RSS feed"
           git push

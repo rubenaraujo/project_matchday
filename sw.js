@@ -1,6 +1,6 @@
 // Network-first so updates show immediately; cached copies keep the page
 // usable offline. The CACHE name is stamped by scripts/stamp_cache_version.py. Team logos/flags are cache-first (they rarely change).
-const CACHE = 'matchday-2cf66d09';
+const CACHE = 'matchday-ff8c4d69';
 const SHELL = ['./', 'index.html', 'style.css', 'script.js', 'constants.js', 'lib/matchParser.js', 'channel-icons.json', 'national-team-flags.json', 'team-logos.json'];
 
 self.addEventListener('install', event => {

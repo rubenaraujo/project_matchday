@@ -195,8 +195,13 @@ function fetchJson(url, fallback) {
     });
 }
 
-function load() {
-    setView('loading');
+// load({ silent: true }) refreshes in place: the current matches stay on screen and, if
+// the refresh fails, they are kept instead of replaced by the error message.
+function load({ silent = false } = {}) {
+    const keepView = silent && state.matches.length > 0;
+    if (!keepView) {
+        setView('loading');
+    }
     return Promise.all([
         fetchJson(rssUrl),
         fetchJson(channelIconsUrl),
@@ -214,8 +219,83 @@ function load() {
         })
         .catch(error => {
             console.error(error);
-            setView('error');
+            if (!keepView) {
+                setView('error');
+            }
         });
+}
+
+const PULL_THRESHOLD_PX = 70;
+const PULL_MAX_PX = 110;
+const PULL_MIN_SPINNER_MS = 600;
+
+// Pull down from the top of the page to refresh (installed PWAs have no browser gesture for it).
+function initPullToRefresh() {
+    const indicator = $('pull-indicator');
+    let startY = null;
+    let distance = 0;
+    let refreshing = false;
+
+    function show(px) {
+        indicator.style.transform = `translate(-50%, ${px - 44}px)`;
+        indicator.style.opacity = String(Math.min(px / PULL_THRESHOLD_PX, 1));
+        indicator.classList.toggle('ready', px >= PULL_THRESHOLD_PX);
+    }
+
+    function hide() {
+        indicator.classList.remove('pulling', 'ready', 'refreshing');
+        indicator.style.transform = '';
+        indicator.style.opacity = '';
+    }
+
+    document.addEventListener('touchstart', event => {
+        startY = !refreshing && window.scrollY === 0 && event.touches.length === 1 ? event.touches[0].clientY : null;
+        distance = 0;
+    }, { passive: true });
+
+    document.addEventListener('touchmove', event => {
+        if (startY === null) {
+            return;
+        }
+        const dy = event.touches[0].clientY - startY;
+        if (dy <= 0 || window.scrollY > 0) {
+            startY = null;
+            hide();
+            return;
+        }
+        event.preventDefault();
+        // Resistance: the further you pull, the less the indicator follows.
+        distance = Math.min(dy * 0.5, PULL_MAX_PX);
+        indicator.classList.add('pulling');
+        show(distance);
+    }, { passive: false });
+
+    function release() {
+        if (startY === null) {
+            return;
+        }
+        startY = null;
+        if (distance < PULL_THRESHOLD_PX) {
+            hide();
+            return;
+        }
+        refreshing = true;
+        indicator.classList.remove('pulling', 'ready');
+        indicator.classList.add('refreshing');
+        indicator.style.transform = 'translate(-50%, 16px)';
+        indicator.style.opacity = '1';
+        Promise.all([load({ silent: true }), new Promise(resolve => setTimeout(resolve, PULL_MIN_SPINNER_MS))])
+            .finally(() => {
+                refreshing = false;
+                hide();
+            });
+    }
+
+    document.addEventListener('touchend', release);
+    document.addEventListener('touchcancel', () => {
+        startY = null;
+        hide();
+    });
 }
 
 function toggleFavorite(team) {
@@ -261,6 +341,7 @@ function init() {
         navigator.serviceWorker.register('sw.js').catch(error => console.warn('Service worker not registered', error));
     }
 
+    initPullToRefresh();
     load();
 }
 

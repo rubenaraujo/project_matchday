@@ -20,6 +20,44 @@ body {
     background-color: var(--bg);
     color: var(--text);
     font-family: 'Barlow Condensed', sans-serif;
+    /* The page implements its own pull-to-refresh; stops the browser's from doubling it. */
+    overscroll-behavior-y: contain;
+}
+
+.pull-indicator {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #2b2b2b;
+    border: 1px solid var(--border);
+    transform: translate(-50%, -44px);
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.pull-indicator.pulling {
+    transition: none;
+}
+
+.pull-indicator .spinner {
+    animation: none;
+    transition: transform 0.2s ease;
+}
+
+.pull-indicator.ready .spinner {
+    transform: rotate(180deg);
+}
+
+.pull-indicator.refreshing .spinner {
+    animation: spin 0.8s linear infinite;
 }
 
 .sr-only {
@@ -374,7 +412,7 @@ button.control:hover {
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .logo, .spinner, .status-live .badge {
+    .logo, .spinner, .pull-indicator.refreshing .spinner, .status-live .badge {
         animation: none;
     }
 }

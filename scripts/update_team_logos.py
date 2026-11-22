@@ -3,7 +3,9 @@
 National teams are handled client-side with flags (see national-team-flags.json), so only
 other names from zapping.json are looked up. The free API is rate limited, so
 each run resolves a bounded number of new names and stops on HTTP 429; the
-rest is picked up by the next scheduled run.
+rest is picked up by the next scheduled run. Names in today's feed are resolved first
+(soonest kickoff first), then the clubs of seed-teams.json (every name seen in the feed so far),
+so the teams people are about to watch get a badge before the rest.
 """
 import json
 import re
@@ -16,8 +18,10 @@ import urllib.request
 API = 'https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t='
 LOGOS_FILE = 'team-logos.json'
 FLAGS_FILE = 'national-team-flags.json'
-MAX_LOOKUPS_PER_RUN = 20
-DELAY_SECONDS = 3
+MAX_LOOKUPS_PER_RUN = 40
+DELAY_SECONDS = 2.5
+RATE_LIMIT_WAIT_SECONDS = 65  # the free tier allows about 30 requests a minute
+SEED_FILE = 'seed-teams.json'
 # Clubs looked up even before they show up in the feed.
 SEED_NAMES = {
     'Benfica', 'Sporting', 'FC Porto', 'Braga', 'Vitória SC', 'Famalicão', 'Gil Vicente',
@@ -26,9 +30,10 @@ SEED_NAMES = {
 }
 # Feed names that TheSportsDB only finds under another spelling.
 ALIASES = {'Al-Ahli Jeddah': 'Al Ahli Saudi', 'FC Porto': 'Porto', 'Nacional': 'Nacional Madeira',
-           'Bayern München': 'Bayern Munich', 'PSG': 'Paris Saint Germain'}
+           'Bayern München': 'Bayern Munich', 'PSG': 'Paris Saint Germain', 'Petro de Luanda': 'Atlético Petróleos'}
 EXCLUDED = re.compile(r'Basket|Americano|Hóquei|Voleibol|Andebol|Futsal')
 QUALIFIER = re.compile(r'\s*\([^)]*\)\s*$')
+KICKOFF = re.compile(r'(\d{2})/(\d{2}) (\d{2}:\d{2})')
 
 
 def pick_badge(api_response):
@@ -49,12 +54,34 @@ def team_names(items):
     return names
 
 
+def ordered_names(items):
+    """Feed team names, the ones playing soonest first."""
+    first_seen = {}
+    for item in items:
+        kickoff = KICKOFF.search(item.get('description', ''))
+        key = (kickoff.group(2), kickoff.group(1), kickoff.group(3)) if kickoff else ('99', '99', '')
+        for name in team_names([item]):
+            first_seen[name] = min(key, first_seen.get(name, key))
+    return sorted(first_seen, key=lambda n: (first_seen[n], n))
+
+
+def fetch(query):
+    """One search; on a rate limit waits a minute and retries once."""
+    for attempt in (1, 2):
+        try:
+            with urllib.request.urlopen(API + urllib.parse.quote(query), timeout=20) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as error:
+            if error.code != 429 or attempt == 2:
+                raise
+            time.sleep(RATE_LIMIT_WAIT_SECONDS)
+
+
 def lookup(name):
     """Searches the alias, then the name with hyphens as spaces ("Al-Nassr" is "Al Nassr")."""
     badge = None
     for query in dict.fromkeys([ALIASES.get(name, name), name.replace('-', ' ')]):
-        with urllib.request.urlopen(API + urllib.parse.quote(query), timeout=20) as response:
-            badge = pick_badge(json.load(response))
+        badge = pick_badge(fetch(query))
         if badge:
             break
         time.sleep(DELAY_SECONDS)
@@ -62,18 +89,25 @@ def lookup(name):
 
 
 def main():
+    max_lookups = int(sys.argv[1]) if len(sys.argv) > 1 else MAX_LOOKUPS_PER_RUN
     with open('zapping.json', encoding='utf-8') as f:
-        names = team_names(json.load(f)['items'])
+        feed_names = ordered_names(json.load(f)['items'])
     with open(FLAGS_FILE, encoding='utf-8') as f:
         national = json.load(f)
-    names = {n for n in names | SEED_NAMES if n.lower() not in national}
+    try:
+        with open(SEED_FILE, encoding='utf-8') as f:
+            seeds = json.load(f)
+    except FileNotFoundError:
+        seeds = []
+    queue = list(dict.fromkeys(feed_names + sorted(SEED_NAMES) + seeds))
     try:
         with open(LOGOS_FILE, encoding='utf-8') as f:
             logos = json.load(f)
     except FileNotFoundError:
         logos = {}
 
-    for name in sorted(names - set(logos))[:MAX_LOOKUPS_PER_RUN]:
+    pending = [n for n in queue if n.lower() not in national and n not in logos]
+    for name in pending[:max_lookups]:
         try:
             logos[name] = lookup(name)
         except urllib.error.HTTPError as error:

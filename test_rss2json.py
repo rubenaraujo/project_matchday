@@ -90,3 +90,15 @@ def test_pick_badge_prefers_soccer_teams_with_a_badge():
     ]}
     assert pick_badge(response) == 'https://x/soccer.png'
     assert pick_badge({'teams': None}) is None
+
+
+def test_ordered_names_puts_the_soonest_kickoff_first_and_skips_other_sports():
+    from scripts.update_team_logos import ordered_names
+
+    items = [
+        {'description': 'Zebras x Yaks - 23/11 15:00 - Canal'},
+        {'description': 'Torreense x Benfica - 22/11 20:45 - RTP1'},
+        {'description': 'Benfica (Hóquei) x Alpha (Hóquei) - 22/11 10:00 - BTv'},
+        {'description': 'Gil Vicente (Feminino) x Olhanense - 22/11 14:00 - C11'},
+    ]
+    assert ordered_names(items) == ['Gil Vicente', 'Olhanense', 'Benfica', 'Torreense', 'Yaks', 'Zebras']

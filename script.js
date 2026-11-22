@@ -216,36 +216,47 @@ function load({ silent = false } = {}) {
             state.matches = buildMatches(data.items);
             setView('matches');
             render();
+            return true;
         })
         .catch(error => {
             console.error(error);
             if (!keepView) {
                 setView('error');
             }
+            return false;
         });
 }
 
 const PULL_THRESHOLD_PX = 70;
 const PULL_MAX_PX = 110;
-const PULL_MIN_SPINNER_MS = 600;
+const PULL_MIN_SPINNER_MS = 800;
+const PULL_RESULT_MS = 1400;
 
 // Pull down from the top of the page to refresh (installed PWAs have no browser gesture for it).
+// A pill shows the state ("Puxa…", "Larga…", "A atualizar…", then the result) and the page
+// slides down with the finger, so the gesture is visible even when nothing on the page changes.
 function initPullToRefresh() {
     const indicator = $('pull-indicator');
+    const label = indicator.querySelector('.pull-label');
+    const page = document.querySelector('.container');
     let startY = null;
     let distance = 0;
     let refreshing = false;
 
-    function show(px) {
-        indicator.style.transform = `translate(-50%, ${px - 44}px)`;
-        indicator.style.opacity = String(Math.min(px / PULL_THRESHOLD_PX, 1));
-        indicator.classList.toggle('ready', px >= PULL_THRESHOLD_PX);
+    function setOffset(px, animate) {
+        page.style.transition = animate ? 'transform 0.25s ease' : 'none';
+        page.style.transform = px ? `translateY(${px}px)` : '';
+    }
+
+    function show(text, offset, state) {
+        label.textContent = text;
+        indicator.className = `pull-indicator visible ${state}`;
+        indicator.style.top = `${Math.max(offset - 44, 8)}px`;
     }
 
     function hide() {
-        indicator.classList.remove('pulling', 'ready', 'refreshing');
-        indicator.style.transform = '';
-        indicator.style.opacity = '';
+        indicator.className = 'pull-indicator';
+        setOffset(0, true);
     }
 
     document.addEventListener('touchstart', event => {
@@ -264,10 +275,11 @@ function initPullToRefresh() {
             return;
         }
         event.preventDefault();
-        // Resistance: the further you pull, the less the indicator follows.
+        // Resistance: the further you pull, the less the page follows.
         distance = Math.min(dy * 0.5, PULL_MAX_PX);
-        indicator.classList.add('pulling');
-        show(distance);
+        setOffset(distance, false);
+        const ready = distance >= PULL_THRESHOLD_PX;
+        show(ready ? 'Larga para atualizar' : 'Puxa para atualizar', distance, ready ? 'pulling ready' : 'pulling');
     }, { passive: false });
 
     function release() {
@@ -280,11 +292,15 @@ function initPullToRefresh() {
             return;
         }
         refreshing = true;
-        indicator.classList.remove('pulling', 'ready');
-        indicator.classList.add('refreshing');
-        indicator.style.transform = 'translate(-50%, 16px)';
-        indicator.style.opacity = '1';
+        setOffset(PULL_THRESHOLD_PX * 0.7, true);
+        show('A atualizar…', PULL_THRESHOLD_PX * 0.7, 'refreshing');
         Promise.all([load({ silent: true }), new Promise(resolve => setTimeout(resolve, PULL_MIN_SPINNER_MS))])
+            .then(([ok]) => {
+                setOffset(0, true);
+                const time = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' });
+                show(ok ? `Atualizado às ${time}` : 'Sem ligação', 0, ok ? 'done' : 'failed');
+                return new Promise(resolve => setTimeout(resolve, PULL_RESULT_MS));
+            })
             .finally(() => {
                 refreshing = false;
                 hide();

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T03:00:09+00:00",
+  "generated": "2026-11-22T11:08:23+00:00",
   "items": [
     {
       "title": "AD Sanjoanense x Académica OAF - 22/11 11:00 - Canal11",
@@ -300,6 +300,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "AD Ceuta x Almería - 23/11 19:30 - DAZN 3",
       "pubDate": "Mon, 23 Nov 2026 19:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Monza x Fiorentina - 23/11 19:45 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Monza x Fiorentina - 23/11 19:45 - SportTV 2",
+      "pubDate": "Mon, 23 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Brentford x Everton - 23/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Brentford x Everton - 23/11 20:00 - DAZN 1",
+      "pubDate": "Mon, 23 Nov 2026 20:00:00",
       "guid": ""
     }
   ]

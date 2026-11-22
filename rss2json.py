@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import json
+import sys
 from datetime import datetime, timezone
 
 
@@ -38,6 +39,10 @@ def main():
         xml_content = f.read()
 
     items = parse_items_from_xml(xml_content)
+    if not items:
+        # Keep the previous zapping.json instead of publishing an empty schedule.
+        print('Feed vazio: zapping.json não foi alterado.', file=sys.stderr)
+        sys.exit(1)
 
     with open('zapping.json', 'w', encoding='utf-8') as f:
         json.dump({'generated': datetime.now(timezone.utc).isoformat(timespec='seconds'), 'items': items}, f, ensure_ascii=False, indent=2)

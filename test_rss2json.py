@@ -108,3 +108,17 @@ def test_local_badge_path_uses_the_image_id():
     from scripts.update_team_logos import local_badge_path
 
     assert local_badge_path('https://r2.thesportsdb.com/images/media/team/badge/iwio2w1626201723.png') == 'badges/iwio2w1626201723.png'
+
+
+def test_main_keeps_previous_json_when_feed_is_empty(tmp_path, monkeypatch):
+    import rss2json
+
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / 'zapping.xml').write_text(EMPTY_CHANNEL_RSS, encoding='utf-8')
+    (tmp_path / 'zapping.json').write_text('{"items": ["old"]}', encoding='utf-8')
+
+    with pytest.raises(SystemExit) as exit_info:
+        rss2json.main()
+
+    assert exit_info.value.code == 1
+    assert (tmp_path / 'zapping.json').read_text(encoding='utf-8') == '{"items": ["old"]}'

@@ -8,6 +8,7 @@ rest is picked up by the next scheduled run. Names in today's feed are resolved 
 so the teams people are about to watch get a badge before the rest.
 """
 import json
+import os
 import re
 import sys
 import time
@@ -22,6 +23,8 @@ MAX_LOOKUPS_PER_RUN = 40
 DELAY_SECONDS = 2.5
 RATE_LIMIT_WAIT_SECONDS = 65  # the free tier allows about 30 requests a minute
 SEED_FILE = 'seed-teams.json'
+BADGES_DIR = 'badges'
+MAX_DOWNLOADS_PER_RUN = 80
 # Clubs looked up even before they show up in the feed.
 SEED_NAMES = {
     'Benfica', 'Sporting', 'FC Porto', 'Braga', 'Vitória SC', 'Famalicão', 'Gil Vicente',
@@ -77,6 +80,37 @@ def fetch(query):
             time.sleep(RATE_LIMIT_WAIT_SECONDS)
 
 
+def local_badge_path(url):
+    """badges/<id>.png, named after the TheSportsDB image id so aliases share one file."""
+    return f'{BADGES_DIR}/{url.rstrip("/").rsplit("/", 1)[-1].rsplit(".", 1)[0]}.png'
+
+
+def download_badge(url):
+    """Saves the small (tiny) version of a remote badge and returns its repo path."""
+    path = local_badge_path(url)
+    if not os.path.exists(path):
+        os.makedirs(BADGES_DIR, exist_ok=True)
+        with urllib.request.urlopen(url + '/tiny', timeout=20) as response:
+            data = response.read()
+        with open(path, 'wb') as f:
+            f.write(data)
+    return path
+
+
+def localize(logos, limit):
+    """Replaces remote badge URLs by downloaded files so the site never depends on TheSportsDB."""
+    done = 0
+    for name, url in logos.items():
+        if done >= limit:
+            break
+        if isinstance(url, str) and url.startswith('http'):
+            try:
+                logos[name] = download_badge(url)
+            except (urllib.error.URLError, OSError) as error:
+                print(f'{name}: {error}', file=sys.stderr)
+            done += 1
+
+
 def lookup(name):
     """Searches the alias, then the name with hyphens as spaces ("Al-Nassr" is "Al Nassr")."""
     badge = None
@@ -118,6 +152,7 @@ def main():
             continue
         time.sleep(DELAY_SECONDS)
 
+    localize(logos, MAX_DOWNLOADS_PER_RUN)
     with open(LOGOS_FILE, 'w', encoding='utf-8') as f:
         json.dump(dict(sorted(logos.items())), f, ensure_ascii=False, indent=2)
 

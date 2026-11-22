@@ -1,6 +1,6 @@
 // Network-first so updates show immediately; cached copies keep the page
 // usable offline. Team logos/flags are cache-first (they rarely change).
-const CACHE = 'matchday-v1';
+const CACHE = 'matchday-v2';
 const SHELL = ['./', 'index.html', 'style.css', 'script.js', 'constants.js', 'lib/matchParser.js', 'channel-icons.json', 'national-team-flags.json', 'team-logos.json'];
 
 self.addEventListener('install', event => {
@@ -41,7 +41,8 @@ self.addEventListener('fetch', event => {
         return;
     }
     const url = new URL(request.url);
-    const isLogo = url.hostname === 'flagcdn.com' || url.hostname.endsWith('thesportsdb.com');
+    const isLogo = url.hostname === 'flagcdn.com' || url.hostname.endsWith('thesportsdb.com') ||
+        (url.origin === self.location.origin && url.pathname.includes('/badges/'));
     const isApp = url.origin === self.location.origin || url.hostname === 'raw.githubusercontent.com';
 
     if (isLogo) {

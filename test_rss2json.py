@@ -102,3 +102,9 @@ def test_ordered_names_puts_the_soonest_kickoff_first_and_skips_other_sports():
         {'description': 'Gil Vicente (Feminino) x Olhanense - 22/11 14:00 - C11'},
     ]
     assert ordered_names(items) == ['Gil Vicente', 'Olhanense', 'Benfica', 'Torreense', 'Yaks', 'Zebras']
+
+
+def test_local_badge_path_uses_the_image_id():
+    from scripts.update_team_logos import local_badge_path
+
+    assert local_badge_path('https://r2.thesportsdb.com/images/media/team/badge/iwio2w1626201723.png') == 'badges/iwio2w1626201723.png'

@@ -56,7 +56,8 @@ function getTeamLogo(fullName) {
         return { url: `https://flagcdn.com/w40/${flag}.png`, isBadge: false };
     }
     const badge = state.teamLogos[name];
-    return badge ? { url: badge + '/tiny', isBadge: true } : null;
+    // Badges are stored in the repo (badges/*.png); a remote URL is a not yet downloaded one.
+    return badge ? { url: /^https?:/.test(badge) ? badge + '/tiny' : badge, isBadge: true } : null;
 }
 
 function teamHtml(name, logoAfter) {

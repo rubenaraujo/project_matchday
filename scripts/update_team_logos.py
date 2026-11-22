@@ -34,7 +34,20 @@ SEED_NAMES = {
 # Feed names that TheSportsDB only finds under another spelling.
 ALIASES = {'Al-Ahli Jeddah': 'Al Ahli Saudi', 'FC Porto': 'Porto', 'Nacional': 'Nacional Madeira',
            'Bayern München': 'Bayern Munich', 'PSG': 'Paris Saint Germain', 'Petro de Luanda': 'Atlético Petróleos'}
-EXCLUDED = re.compile(r'Basket|Americano|Hóquei|Voleibol|Andebol|Futsal')
+PARSER_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'lib', 'matchParser.js')
+
+
+def load_excluded(path=PARSER_FILE):
+    """The site's own exclusion rule (EXCLUDED_CATEGORIES_REGEX in lib/matchParser.js), so
+    logos are only looked up for matches the page actually shows."""
+    with open(path, encoding='utf-8') as f:
+        match = re.search(r'EXCLUDED_CATEGORIES_REGEX\s*=\s*/(.+)/;', f.read())
+    if not match:
+        raise RuntimeError(f'EXCLUDED_CATEGORIES_REGEX not found in {path}')
+    return re.compile(match.group(1))
+
+
+EXCLUDED = load_excluded()
 QUALIFIER = re.compile(r'\s*\([^)]*\)\s*$')
 KICKOFF = re.compile(r'(\d{2})/(\d{2}) (\d{2}:\d{2})')
 
@@ -111,6 +124,27 @@ def localize(logos, limit):
             done += 1
 
 
+def missing_logos(names, logos, national):
+    """(not found on TheSportsDB, not looked up yet) among the clubs playing in the feed."""
+    clubs = [n for n in names if n.lower() not in national]
+    return [n for n in clubs if n in logos and not logos[n]], [n for n in clubs if n not in logos]
+
+
+def report_missing(names, logos, national):
+    not_found, pending = missing_logos(names, logos, national)
+    lines = []
+    if not_found:
+        lines.append('Sem emblema na TheSportsDB (precisam de alias ou emblema manual): ' + ', '.join(not_found))
+    if pending:
+        lines.append('Ainda por pesquisar: ' + ', '.join(pending))
+    for line in lines:
+        print(f'::warning::{line}' if os.environ.get('GITHUB_ACTIONS') else line)
+    summary = os.environ.get('GITHUB_STEP_SUMMARY')
+    if summary:
+        with open(summary, 'a', encoding='utf-8') as f:
+            f.write('### Equipas sem logo\n' + ('\n'.join(f'- {line}' for line in lines) or 'Todas as equipas do feed têm logo.') + '\n')
+
+
 def lookup(name):
     """Searches the alias, then the name with hyphens as spaces ("Al-Nassr" is "Al Nassr")."""
     badge = None
@@ -153,6 +187,7 @@ def main():
         time.sleep(DELAY_SECONDS)
 
     localize(logos, MAX_DOWNLOADS_PER_RUN)
+    report_missing(feed_names, logos, national)
     with open(LOGOS_FILE, 'w', encoding='utf-8') as f:
         json.dump(dict(sorted(logos.items())), f, ensure_ascii=False, indent=2)
 

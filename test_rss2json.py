@@ -99,7 +99,7 @@ def test_ordered_names_puts_the_soonest_kickoff_first_and_skips_other_sports():
         {'description': 'Zebras x Yaks - 23/11 15:00 - Canal'},
         {'description': 'Torreense x Benfica - 22/11 20:45 - RTP1'},
         {'description': 'Benfica (Hóquei) x Alpha (Hóquei) - 22/11 10:00 - BTv'},
-        {'description': 'Gil Vicente (Feminino) x Olhanense - 22/11 14:00 - C11'},
+        {'description': 'Gil Vicente x Olhanense - 22/11 14:00 - C11'},
     ]
     assert ordered_names(items) == ['Gil Vicente', 'Olhanense', 'Benfica', 'Torreense', 'Yaks', 'Zebras']
 
@@ -122,3 +122,23 @@ def test_main_keeps_previous_json_when_feed_is_empty(tmp_path, monkeypatch):
 
     assert exit_info.value.code == 1
     assert (tmp_path / 'zapping.json').read_text(encoding='utf-8') == '{"items": ["old"]}'
+
+
+def test_logo_script_uses_the_sites_exclusion_rule():
+    from scripts.update_team_logos import EXCLUDED, team_names
+
+    assert EXCLUDED.pattern == '''Jun.A|S15|S16|S17|S18|S19|S20|S21|S23|Basket|Americano|Hóquei|Voleibol|Andebol|Feminino|Futsal'''
+    items = [
+        {'description': 'Alpha (Feminino) x Beta (Feminino) - 22/11 15:00 - C11'},
+        {'description': 'Gama (Futsal) x Delta (Futsal) - 22/11 17:00 - C11'},
+        {'description': 'Torreense x Benfica - 22/11 20:45 - RTP1'},
+    ]
+    assert team_names(items) == {'Torreense', 'Benfica'}
+
+
+def test_missing_logos_separates_not_found_from_pending():
+    from scripts.update_team_logos import missing_logos
+
+    logos = {'Benfica': 'badges/a.png', 'Racing Power FC': None}
+    assert missing_logos(['Benfica', 'Racing Power FC', 'Torreense', 'portugal'], logos, {'portugal': 'pt'}) == (
+        ['Racing Power FC'], ['Torreense'])

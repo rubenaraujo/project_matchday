@@ -1,90 +1,6 @@
 {
-  "generated": "2026-11-22T19:24:52+00:00",
+  "generated": "2026-11-23T00:43:13+00:00",
   "items": [
-    {
-      "title": "Est. Amadora x Portimonense - 22/11 18:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Est. Amadora x Portimonense - 22/11 18:00 - SportTV 1",
-      "pubDate": "Sun, 22 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Artística de Avanca (Andebol) x Sporting (Andebol) - 22/11 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Artística de Avanca (Andebol) x Sporting (Andebol) - 22/11 18:00 - SportingTv",
-      "pubDate": "Sun, 22 Nov 2026 18:00:00",
-      "guid": ""
-    },
-    {
-      "title": "FC Porto (Basket) x CD Póvoa (Basket) - 22/11 18:30 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "FC Porto (Basket) x CD Póvoa (Basket) - 22/11 18:30 - PortoCanal",
-      "pubDate": "Sun, 22 Nov 2026 18:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Rosario Central x Gimnasia Mendoza - 22/11 19:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Rosario Central x Gimnasia Mendoza - 22/11 19:00 - SportTV 3",
-      "pubDate": "Sun, 22 Nov 2026 19:00:00",
-      "guid": ""
-    },
-    {
-      "title": "UD Leiria x Leça FC - 22/11 19:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "UD Leiria x Leça FC - 22/11 19:30 - Canal11",
-      "pubDate": "Sun, 22 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (Hóquei) x Benfica (Hóquei) - 22/11 19:30 - DAZN 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (Hóquei) x Benfica (Hóquei) - 22/11 19:30 - DAZN 2",
-      "pubDate": "Sun, 22 Nov 2026 19:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Atalanta x Internazionale - 22/11 19:45 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Atalanta x Internazionale - 22/11 19:45 - SportTV 2",
-      "pubDate": "Sun, 22 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Marseille x Le Mans - 22/11 19:45 - SportTV 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Marseille x Le Mans - 22/11 19:45 - SportTV 4",
-      "pubDate": "Sun, 22 Nov 2026 19:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Getafe CF x Atlético de Madrid - 22/11 20:00 - DAZN 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Getafe CF x Atlético de Madrid - 22/11 20:00 - DAZN 1",
-      "pubDate": "Sun, 22 Nov 2026 20:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Torreense x Benfica - 22/11 20:45 - RTP1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Torreense x Benfica - 22/11 20:45 - RTP1",
-      "pubDate": "Sun, 22 Nov 2026 20:45:00",
-      "guid": ""
-    },
-    {
-      "title": "River Plate x Lanús - 22/11 22:00 - SportTV 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "River Plate x Lanús - 22/11 22:00 - SportTV 3",
-      "pubDate": "Sun, 22 Nov 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Red Bull Bragantino x Vasco - 22/11 22:30 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Red Bull Bragantino x Vasco - 22/11 22:30 - Canal11",
-      "pubDate": "Sun, 22 Nov 2026 22:30:00",
-      "guid": ""
-    },
     {
       "title": "Miami Heat (Basket) x Oklahoma City Thunder (Basket) - 22/11 23:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
@@ -97,6 +13,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Golden State Warriors (Basket) x Boston Celtics (Basket) - 23/11 01:30 - SportTV 1",
       "pubDate": "Mon, 23 Nov 2026 01:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Neftchi x Al-Hilal - 23/11 13:45 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Neftchi x Al-Hilal - 23/11 13:45 - Canal11",
+      "pubDate": "Mon, 23 Nov 2026 13:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Shamal x Al-Ahli Jeddah - 23/11 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Shamal x Al-Ahli Jeddah - 23/11 16:00 - Canal11",
+      "pubDate": "Mon, 23 Nov 2026 16:00:00",
       "guid": ""
     },
     {
@@ -135,10 +65,31 @@
       "guid": ""
     },
     {
+      "title": "Santa Clara (S23) x Marítimo (S23) - 23/11 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Santa Clara (S23) x Marítimo (S23) - 23/11 21:00 - Canal11",
+      "pubDate": "Mon, 23 Nov 2026 21:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internacional x Vitória - 23/11 22:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internacional x Vitória - 23/11 22:30 - Canal11",
+      "pubDate": "Mon, 23 Nov 2026 22:30:00",
+      "guid": ""
+    },
+    {
       "title": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/11 00:30 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Indiana Pacers (Basket) x Oklahoma City Thunder (Basket) - 24/11 00:30 - SportTV 1",
       "pubDate": "Tue, 24 Nov 2026 00:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Cong An Ha Noi FC x Vissel Kobe - 24/11 12:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Cong An Ha Noi FC x Vissel Kobe - 24/11 12:15 - Canal11",
+      "pubDate": "Tue, 24 Nov 2026 12:15:00",
       "guid": ""
     },
     {
@@ -152,6 +103,13 @@
       "title": "FC Porto (Voleibol Feminino) x ZOK Ub (Voleibol Feminino) - 24/11 16:00 - PortoCanal",
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Porto (Voleibol Feminino) x ZOK Ub (Voleibol Feminino) - 24/11 16:00 - PortoCanal",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Portugal (S15) x Estados Unidos (S15) - 24/11 16:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Portugal (S15) x Estados Unidos (S15) - 24/11 16:00 - Canal11",
       "pubDate": "Tue, 24 Nov 2026 16:00:00",
       "guid": ""
     },
@@ -174,6 +132,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Bodo/Glimt x LASK Linz - 24/11 17:45 - DAZN 2",
       "pubDate": "Tue, 24 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Nassr x Al-Sadd - 24/11 18:15 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Nassr x Al-Sadd - 24/11 18:15 - Canal11",
+      "pubDate": "Tue, 24 Nov 2026 18:15:00",
       "guid": ""
     },
     {
@@ -240,6 +205,13 @@
       "guid": ""
     },
     {
+      "title": "Chapecoense x Palmeiras - 24/11 21:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Chapecoense x Palmeiras - 24/11 21:00 - Canal11",
+      "pubDate": "Tue, 24 Nov 2026 21:00:00",
+      "guid": ""
+    },
+    {
       "title": "Washington Wizards (Basket) x Boston Celtics (Basket) - 25/11 01:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Washington Wizards (Basket) x Boston Celtics (Basket) - 25/11 01:00 - SportTV 1",
@@ -254,6 +226,13 @@
       "guid": ""
     },
     {
+      "title": "FC Famalicão (S23) x Gil Vicente (S23) - 25/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (S23) x Gil Vicente (S23) - 25/11 15:00 - Canal11",
+      "pubDate": "Wed, 25 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Sabah x Barcelona - 25/11 17:45 - DAZN 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Sabah x Barcelona - 25/11 17:45 - DAZN 1",
@@ -265,6 +244,69 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Slavia Praha x Villarreal CF - 25/11 17:45 - DAZN 2",
       "pubDate": "Wed, 25 Nov 2026 17:45:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Magdeburg (Andebol) x Sporting (Andebol) - 25/11 19:45 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Magdeburg (Andebol) x Sporting (Andebol) - 25/11 19:45 - SportingTv",
+      "pubDate": "Wed, 25 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting x Manchester United - 25/11 20:00 - SportTV 5",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting x Manchester United - 25/11 20:00 - SportTV 5",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Stoke City x Millwall - 25/11 20:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Stoke City x Millwall - 25/11 20:00 - SportTV 1",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x Roma - 25/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x Roma - 25/11 20:00 - DAZN 1",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Club Brugge x Liverpool - 25/11 20:00 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Club Brugge x Liverpool - 25/11 20:00 - DAZN 2",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Lille x Bayern München - 25/11 20:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Lille x Bayern München - 25/11 20:00 - DAZN 3",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Stuttgart - 25/11 20:00 - DAZN 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Stuttgart - 25/11 20:00 - DAZN 4",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Philadelphia 76ers (Basket) x Miami Heat (Basket) - 25/11 22:00 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Philadelphia 76ers (Basket) x Miami Heat (Basket) - 25/11 22:00 - SportTV 1",
+      "pubDate": "Wed, 25 Nov 2026 22:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Boca Juniors x Independiente Rivadavia - 26/11 00:00 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Boca Juniors x Independiente Rivadavia - 26/11 00:00 - SportTV 2",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00",
       "guid": ""
     }
   ]

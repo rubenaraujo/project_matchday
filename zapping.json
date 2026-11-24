@@ -1,20 +1,6 @@
 {
-  "generated": "2026-11-24T05:51:21+00:00",
+  "generated": "2026-11-24T17:26:09+00:00",
   "items": [
-    {
-      "title": "Cong An Ha Noi FC x Vissel Kobe - 24/11 12:15 - Canal11",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Cong An Ha Noi FC x Vissel Kobe - 24/11 12:15 - Canal11",
-      "pubDate": "Tue, 24 Nov 2026 12:15:00",
-      "guid": ""
-    },
-    {
-      "title": "Feyenoord (Jun.A S19) x FC Porto (Jun.A S19) - 24/11 15:00 - PortoCanal",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Feyenoord (Jun.A S19) x FC Porto (Jun.A S19) - 24/11 15:00 - PortoCanal",
-      "pubDate": "Tue, 24 Nov 2026 15:00:00",
-      "guid": ""
-    },
     {
       "title": "Portugal (S15) x Estados Unidos (S15) - 24/11 16:00 - Canal11",
       "link": "http://www.zerozero.pt/zapping",
@@ -226,6 +212,13 @@
       "guid": ""
     },
     {
+      "title": "FC Porto (Voleibol Feminino) x ZOK Ub (Voleibol Feminino) - 25/11 20:00 - PortoCanal",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Porto (Voleibol Feminino) x ZOK Ub (Voleibol Feminino) - 25/11 20:00 - PortoCanal",
+      "pubDate": "Wed, 25 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
       "title": "Philadelphia 76ers (Basket) x Miami Heat (Basket) - 25/11 22:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Philadelphia 76ers (Basket) x Miami Heat (Basket) - 25/11 22:00 - SportTV 1",
@@ -341,6 +334,13 @@
       "title": "Crystal Palace x Real Sociedad - 26/11 20:00 - DAZN 4",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Crystal Palace x Real Sociedad - 26/11 20:00 - DAZN 4",
+      "pubDate": "Thu, 26 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Hóquei) x OC Barcelos (Hóquei) - 26/11 20:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Hóquei) x OC Barcelos (Hóquei) - 26/11 20:00 - SportingTv",
       "pubDate": "Thu, 26 Nov 2026 20:00:00",
       "guid": ""
     }

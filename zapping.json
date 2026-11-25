@@ -1,20 +1,6 @@
 {
-  "generated": "2026-11-25T02:11:04+00:00",
+  "generated": "2026-11-25T12:30:51+00:00",
   "items": [
-    {
-      "title": "Washington Wizards (Basket) x Boston Celtics (Basket) - 25/11 01:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Washington Wizards (Basket) x Boston Celtics (Basket) - 25/11 01:00 - SportTV 1",
-      "pubDate": "Wed, 25 Nov 2026 01:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 25/11 01:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Edmonton Oilers (Hóquei no Gelo  Seniores) x Vegas Golden Knights (Hóquei no Gelo  Seniores) - 25/11 01:00 - SportTV 2",
-      "pubDate": "Wed, 25 Nov 2026 01:00:00",
-      "guid": ""
-    },
     {
       "title": "Sporting (Jun.A S19) x Manchester United (Jun.A S19) - 25/11 13:00 - SportingTv",
       "link": "http://www.zerozero.pt/zapping",
@@ -314,6 +300,20 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Levante x Racing Santander - 27/11 20:00 - DAZN 2",
       "pubDate": "Fri, 27 Nov 2026 20:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Marítimo x Nacional - 27/11 20:15 - SportTV 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Marítimo x Nacional - 27/11 20:15 - SportTV 1",
+      "pubDate": "Fri, 27 Nov 2026 20:15:00",
+      "guid": ""
+    },
+    {
+      "title": "FC Famalicão (Futsal) x Leões Porto Salvo (Futsal) - 27/11 20:30 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "FC Famalicão (Futsal) x Leões Porto Salvo (Futsal) - 27/11 20:30 - Canal11",
+      "pubDate": "Fri, 27 Nov 2026 20:30:00",
       "guid": ""
     }
   ]

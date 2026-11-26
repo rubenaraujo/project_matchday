@@ -1,20 +1,6 @@
 {
-  "generated": "2026-11-25T22:20:02+00:00",
+  "generated": "2026-11-26T04:52:03+00:00",
   "items": [
-    {
-      "title": "Philadelphia 76ers (Basket) x Miami Heat (Basket) - 25/11 22:00 - SportTV 1",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Philadelphia 76ers (Basket) x Miami Heat (Basket) - 25/11 22:00 - SportTV 1",
-      "pubDate": "Wed, 25 Nov 2026 22:00:00",
-      "guid": ""
-    },
-    {
-      "title": "Boca Juniors x Independiente Rivadavia - 26/11 00:00 - SportTV 2",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Boca Juniors x Independiente Rivadavia - 26/11 00:00 - SportTV 2",
-      "pubDate": "Thu, 26 Nov 2026 00:00:00",
-      "guid": ""
-    },
     {
       "title": "Portland Trail Blazers (Basket) x San Antonio Spurs (Basket) - 26/11 03:00 - SportTV 1",
       "link": "http://www.zerozero.pt/zapping",
@@ -244,6 +230,76 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "CAB Madeira (Basket Feminino) x Sporting (Basket Feminino) - 28/11 11:30 - DAZN 4",
       "pubDate": "Sat, 28 Nov 2026 11:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Holstein Kiel x Kaiserslautern - 28/11 12:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Holstein Kiel x Kaiserslautern - 28/11 12:00 - DAZN 1",
+      "pubDate": "Sat, 28 Nov 2026 12:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Hazm x Al-Nassr - 28/11 12:15 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Hazm x Al-Nassr - 28/11 12:15 - SportTV 2",
+      "pubDate": "Sat, 28 Nov 2026 12:15:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Betis x Rayo Vallecano - 28/11 13:00 - DAZN 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Betis x Rayo Vallecano - 28/11 13:00 - DAZN 3",
+      "pubDate": "Sat, 28 Nov 2026 13:00:00",
+      "guid": ""
+    },
+    {
+      "title": "GD Chaves x CD Tondela - 28/11 14:00 - SportTV +",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GD Chaves x CD Tondela - 28/11 14:00 - SportTV +",
+      "pubDate": "Sat, 28 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Frosinone x Parma - 28/11 14:00 - SportTV 3",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Frosinone x Parma - 28/11 14:00 - SportTV 3",
+      "pubDate": "Sat, 28 Nov 2026 14:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Al-Ettifaq x Al-Hilal - 28/11 14:20 - SportTV 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Al-Ettifaq x Al-Hilal - 28/11 14:20 - SportTV 2",
+      "pubDate": "Sat, 28 Nov 2026 14:20:00",
+      "guid": ""
+    },
+    {
+      "title": "Hamburger SV x Bayern München - 28/11 14:30 - DAZN 2",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Hamburger SV x Bayern München - 28/11 14:30 - DAZN 2",
+      "pubDate": "Sat, 28 Nov 2026 14:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Varzim x Trofense - 28/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Varzim x Trofense - 28/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Nun´Álvares (Futsal Feminino) x Atlético CP (Futsal Feminino) - 28/11 15:00 - Canal11",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Nun´Álvares (Futsal Feminino) x Atlético CP (Futsal Feminino) - 28/11 15:00 - Canal11",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "SC Braga (Futsal) x Portimonense (Futsal) - 28/11 15:00 - C11 Stream",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "SC Braga (Futsal) x Portimonense (Futsal) - 28/11 15:00 - C11 Stream",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00",
       "guid": ""
     }
   ]

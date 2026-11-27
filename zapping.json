@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T07:57:33+00:00",
+  "generated": "2026-11-27T18:04:14+00:00",
   "items": [
     {
       "title": "Al-Ittihad Jeddah x Neom SC - 27/11 17:25 - SportTV 1",
@@ -83,6 +83,13 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "FC Famalicão (Futsal) x Leões Porto Salvo (Futsal) - 27/11 20:30 - Canal11",
       "pubDate": "Fri, 27 Nov 2026 20:30:00",
+      "guid": ""
+    },
+    {
+      "title": "Águas Santas (Andebol) x AD Carvalhos (Andebol) - 27/11 21:30 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Águas Santas (Andebol) x AD Carvalhos (Andebol) - 27/11 21:30 - AndebolTV",
+      "pubDate": "Fri, 27 Nov 2026 21:30:00",
       "guid": ""
     },
     {
@@ -226,6 +233,20 @@
       "guid": ""
     },
     {
+      "title": "GC Santo Tirso (Andebol) x Artística de Avanca (Andebol) - 28/11 15:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "GC Santo Tirso (Andebol) x Artística de Avanca (Andebol) - 28/11 15:00 - AndebolTV",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Berço SC x Santa Maria FC - 28/11 15:00 - Youtube",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Berço SC x Santa Maria FC - 28/11 15:00 - Youtube",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00",
+      "guid": ""
+    },
+    {
       "title": "Málaga CF x Athletic Bilbao - 28/11 15:15 - DAZN 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Málaga CF x Athletic Bilbao - 28/11 15:15 - DAZN 3",
@@ -261,6 +282,13 @@
       "guid": ""
     },
     {
+      "title": "Vitória SC (Andebol) x Marítimo (Andebol) - 28/11 16:00 - AndebolTV",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Vitória SC (Andebol) x Marítimo (Andebol) - 28/11 16:00 - AndebolTV",
+      "pubDate": "Sat, 28 Nov 2026 16:00:00",
+      "guid": ""
+    },
+    {
       "title": "Angers x Lens - 28/11 16:15 - SportTV 3",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Angers x Lens - 28/11 16:15 - SportTV 3",
@@ -271,6 +299,13 @@
       "title": "Torino x Lazio - 28/11 17:00 - SportTV 2",
       "link": "http://www.zerozero.pt/zapping",
       "description": "Torino x Lazio - 28/11 17:00 - SportTV 2",
+      "pubDate": "Sat, 28 Nov 2026 17:00:00",
+      "guid": ""
+    },
+    {
+      "title": "Sporting (Andebol) x ABC (Andebol) - 28/11 17:00 - SportingTv",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Sporting (Andebol) x ABC (Andebol) - 28/11 17:00 - SportingTv",
       "pubDate": "Sat, 28 Nov 2026 17:00:00",
       "guid": ""
     },
@@ -293,27 +328,6 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Elche CF x Atlético de Madrid - 28/11 17:30 - DAZN 2",
       "pubDate": "Sat, 28 Nov 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "Stuttgart x Eintracht Frankfurt - 28/11 17:30 - DAZN 3",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Stuttgart x Eintracht Frankfurt - 28/11 17:30 - DAZN 3",
-      "pubDate": "Sat, 28 Nov 2026 17:30:00",
-      "guid": ""
-    },
-    {
-      "title": "PSV x Go Ahead Eagles - 28/11 17:45 - DAZN 4",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "PSV x Go Ahead Eagles - 28/11 17:45 - DAZN 4",
-      "pubDate": "Sat, 28 Nov 2026 17:45:00",
-      "guid": ""
-    },
-    {
-      "title": "Sporting (B) x Amarante FC - 28/11 18:00 - SportingTv",
-      "link": "http://www.zerozero.pt/zapping",
-      "description": "Sporting (B) x Amarante FC - 28/11 18:00 - SportingTv",
-      "pubDate": "Sat, 28 Nov 2026 18:00:00",
       "guid": ""
     }
   ]

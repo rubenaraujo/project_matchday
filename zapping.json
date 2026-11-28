@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-28T01:50:55+00:00",
+  "generated": "2026-11-28T10:06:37+00:00",
   "items": [
     {
       "title": "AFS x Leixões - 28/11 11:00 - SportTV 1",
@@ -307,6 +307,27 @@
       "link": "http://www.zerozero.pt/zapping",
       "description": "Le Havre x Strasbourg - 28/11 19:45 - SportTV 5",
       "pubDate": "Sat, 28 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "PSG x FC Lorient - 28/11 19:45 - SportTV 4",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "PSG x FC Lorient - 28/11 19:45 - SportTV 4",
+      "pubDate": "Sat, 28 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Internazionale x Genoa - 28/11 19:45 - SportTV 7",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Internazionale x Genoa - 28/11 19:45 - SportTV 7",
+      "pubDate": "Sat, 28 Nov 2026 19:45:00",
+      "guid": ""
+    },
+    {
+      "title": "Real Madrid x Alavés - 28/11 20:00 - DAZN 1",
+      "link": "http://www.zerozero.pt/zapping",
+      "description": "Real Madrid x Alavés - 28/11 20:00 - DAZN 1",
+      "pubDate": "Sat, 28 Nov 2026 20:00:00",
       "guid": ""
     }
   ]
